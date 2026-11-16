@@ -1,0 +1,84 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/leaders/templates/
+204. Templates & Tools
+Templates & Tools
+Index of key TMxG leadership templates and tools, with guidance on when to use each.
+This page lists the core templates and tools available to TMxG leaders and explains when to
+use each one.
+Actual Google Doc/Sheet templates live in an internal Drive folder. For direct links and ownership,
+see the internal Templates Index in the TMxG Leaders Resource Hub.
+How to use these templates
+For each template:
+Open the link (view‑only).
+Go to File → Make a copy.
+Save your copy in your TMxG’s shared Drive folder.
+Share with your DIB partner and co‑leads as needed.
+Planning templates
+Quarterly Planning Template
+Use for: Documenting your plan for each fiscal quarter (monthly activities, quarterly
+initiative, budget needs, key dates and DRIs).
+When: At the start of each quarter, or when re‑planning mid‑quarter.
+Annual Overview Template
+Use for: Mapping cultural observance months, major initiatives, and partnership
+opportunities across the fiscal year.
+When: During annual planning (typically late Q4 for the next year).
+Budget Request Template
+Use for: Requesting budget for events or programs (speaker fees, partnerships, swag,
+accessibility adjustments).
+When: At least 4 weeks before you need funds.
+Budget Tracking Spreadsheet
+Use for: Tracking approved budget, spend, and remaining balance across the year.
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+When: Update when budget is approved and after each expense is processed.
+Event templates
+Event Planning Checklist
+Use for: Step‑by‑step planning for a quarterly‑type event from 4 weeks out through
+follow‑up.
+When: Anytime you’re planning a speaker session, panel, workshop, or large
+observance event.
+Event Announcement Template (Slack/Loop)
+Use for: Quickly drafting promotional messages for Slack and Loop.
+When: 2–3 weeks before your event, and again 1 week and 1 day before.
+Cross‑TMxG Collaboration Proposal
+Use for: Proposing a joint event or initiative with another TMxG, capturing shared goals
+and responsibilities.
+When: Before committing to cross‑group events that will require shared planning and
+budget.
+Meeting templates
+Executive Sponsor Meeting Agenda
+Use for: Structured conversations with your Executive Sponsor (initial engagement and
+quarterly check‑ins).
+When:
+At the start of a new sponsorship relationship.
+At least once per quarter.
+TMxG Leadership Team Meeting Agenda
+Use for: Regular syncs with co‑leads or an expanded leadership “board”.
+When: Monthly or as needed when coordinating larger initiatives.
+Tracking & reporting templates
+Shared Activity Tracker (Google Sheet)
+Use for: Logging all TMxG activities (monthly engagement, quarterly initiatives, allyship
+events) and attendance.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,111 @@
+DATE TOPIC SPEAKERS
+Jan 22 No session during the last two weeks of the quarter
+Jan 29 No session during the last two weeks of the quarter
+Past Sessions
+Click here to see links to past sessions
+Date Topic Public or
+Private
+2025-11-20 DAP Monetization Enablement: Putting Usage Pricing into Practice Private
+2025-11-18 DAP Monetization Enablement: Understanding Usage-Based Pricing Private
+2025-10-21 GitLab 18.5 Release Enablement Private
+2025-10-09 Gartner Application Security Magic Quadrant + Critical SFDC Updates Private
+2025-00-30 First Order Competitive Takeout + Gartner DevOps MQ Private
+2025-09-25 Gong AI Workflows & Best Practices Private
+2025-09-23 GitLab 18.4 Release + Gartner AI Code Assistants Magic Quadrant Private
+2025-09-11 Mastering the Art of Pipeline Generation Private
+2025-09-04 Duo Agent Platform: Dedicated Updates Private
+2025-08-28 Two New Game Changing Professional Services Offerings Private
+2025-08-21 GitLab 18.3 Release Private
+2025-08-14 First Order Master Class Private
+2025-08-07 Partner Velocity: The New Era of Ecosystem Deals Private
+2025-07-17 GitLab 18.2 Duo Enablement Private
+2025-07-10 Maximizing Professional Services Value Private
+2025-06-26 Pipeline Magic: Turning Data into Deals Private
+2025-06-16 GitLab 18.0 Launch Enablement Private
+2025-06-12 Master Working with GitLab Support Private
+2025-05-29 SFDC Product Data & Free GitLab Users Private
+2025-05-22 Embedded Systems in the Automotive, Aerospace, and Electronics
+Verticals
+Private
+2025-05-15 Business Value Platform Updates Private
+2025-05-07 GitLab Duo Special Private
+2025-04-10 GitLab Duo with Amazon Q Enablement Private
+2025-03-27 FY26 Field Services Positioning Guidance Private
+2025-03-20 The Customer Co-Create Initiative Private
+2025-03-11 The Future of Secure Agentic AI Private
+2025-03-06 Google Private Offer Updates Private
+
+Date Topic Public or
+Private
+2025-02-20 GitLab Duo Self-Hosted Models + Security & Compliance Updates Private
+2025-02-13 Tools for Field Efficiency: HG Insights & Highspot Private
+2025-01-23 Customer Success: New Paid Tiers Private
+2025-01-16 GitLab Dedicated for Gov: The FedRAMP Journey Private
+2025-01-09 Business Value Services Update Private
+2024-12-19 Winning with Analyst Relations Private
+2024-12-12 Global Ecosystem Team Quarterly Update Private
+2024-12-05 Beyond the Title: Developer Persona Private
+2024-12-4 GitLab Duo with Amazon Q Private
+2024-11-21 SFDC Case Revamp & New Quote Approval Process Private
+2024-11-14 New Forrester TEI Study Private
+2024-11-07 GitHub Universe Competitive Update Private
+2024-10-17 Maximizing Sales with Customer Advocacy & References Private
+2024-10-10 FY25-Q3 - Competitive Intelligence Update Private
+2024-09-26 Winning with Analyst Relations Private
+2024-09-25 Advanced SAST Launch Private
+2024-09-19 Professional Services: Accelerating Customer Time to Value Private
+2024-09-12 GitLab click-through Demos & Product Tours Private
+2024-09-05 Gartner MQ for DevOps Platforms & AI Code Assistants Overview Private
+2024-08-22 Data Driven Territory Planning Private
+2024-08-15 Duo Enterprise Revenue Play & Accreditation Private
+2024-08-08 Duo Enterprise Launch Updates & Key Dates Private
+2024-07-11 Spekit - RealTime Enablement - Tool Launch Private
+2024-07-03 Leveraging Partners Throughout the Customer Journey Private
+2024-06-27 GitLab 17 Launch - Marketing Enablement Private
+2024-06-13 Business Value Services & Ecosystems Private
+2024-05-30 Partner e-marketplace Private
+2024-05-23 Winning with Analyst Relations Private
+2024-05-16 GitLab Ultimate vs. GitHub Advanced Security Comparison Private
+2024-05-09 New CSE Workflow Overview Private
+2024-05-02 New GitLab x Google Cloud Integrations Private
+2024-04-18 GitLab Duo AI + Competitive Update Private
+2024-04-11 FY25-Q1 - GitLab Cloud Partnerships Update Private
+2024-03-27 Success Plan Services Private
+
+Date Topic Public or
+Private
+2024-03-28 FY25-Q1 Revenue Play: GitLab Dedicated Private
+2024-03-07 Discovering Agile Planning Opportunities Private
+2024-02-29 GitLab University Launch Private
+2024-02-15 FY25 Deal Approval Matrix Changes Private
+2024-02-08 Tools to Help You Win: SafeBase Private
+2024-02-01 Tools to Help You Win: ZoomInfo Overview Private
+2023-12-14 Code Suggestions GTM Launch Overview Private
+2023-11-30 Winning with Professional Services: Customer Stories Private
+2023-11-16 FY24-Q4 Competitive Update Private
+2023-11-09 Sales Ops Update: AE Clari Best Practices Private
+2023-11-02 How to Implement DORA Metrics in GitLab Private
+2023-10-19 Pitching GitLab and the Top 10 Reasons Why Private
+2023-10-12 Analyst Relations - New Gartner & Forrester Security Reports Private
+2023-09-28 Value Framework Refresh Overview Private
+2023-09-14 Propensity to Purchase (PTP) Score Launch Private
+2023-09-07 FY24-Q3 - Better Together: Winning with Cloud Partners Private
+2023-08-31 FY24-2H - Solution Play: AI Powered DevSecOps Private
+2023-08-24 New Compliance Deck & Demo Environment Private
+2023-08-10 Salesforce Data Quality & Governance Overview Private
+2023-08-03 FY24-Q3 - Deal Desk Update: Quote Approvals Private
+2023-07-13 GitLab Security Competitors Overview Private
+2023-06-15 New Gartner & Forrester Reports: GitLab Named DevOps Platform
+Leader
+Private
+2023-06-08 GitLab’s AI Vision & Strategy AMA & Course Launch Private
+2023-06-01 GitLab Dedicated - General Availability Launch Private
+2023-05-25 GitLab AI Competitors Overview Private
+2023-05-18 Global DevSecOps Trends - Survey Results Private
+2023-05-11 FY24-Q2 - Revenue Play - GitLab AI Private
+2023-05-03 Value Stream Assessment Showcase Private
+2023-04-13 FY24-Q1 - Channel Program Update Private
+2023-04-06 Positioning Professional Services Private
+2023-03-23 Winning with Value Stream Assesments Private
+2023-03-16 Alliances: Co-Selling with Oracle Cloud Infrastructure Private
+2023-03-09 FY24-Q1 Revenue Play Private

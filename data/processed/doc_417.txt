@@ -1,0 +1,89 @@
+Source: https://handbook.gitlab.com/handbook/sales/training/field-certification/
+162. Field Accreditation Program
+Field Accreditation Program
+To support and scale GitLab’s continued growth and success, the Field Enablement Team has
+developed a role-based accreditation program that includes functional, soft skills, and technical
+training for field team members
+Field Accreditation Program
+Field Accreditation Program Overview
+During Sales Quick Start, every GitLab field team member is trained on customer value drivers
+and GitLab’s value-based messaging framework (see the Command of the Message page). Once
+new team members complete SQS, they will begin their role-based certifiction program.
+To improve efficiency & predictability with a consistent and scalable customer engagement, the
+Field Enablement Team has developed a role based accreditation program that includes
+functional, soft skills, and product training for field team members.
+The Accreditations align to the customer’s journey and the field functional competencies that
+address the critical knowledge, skills, role-based behaviors, processes, and tools to successfully
+execute customer engagements.
+Note: This accreditation program is different from resources like other GitLab Certifications that
+focus on how to use GitLab or tied to GitLab competencies (though we encourage field team
+members to take these as well)!
+Purpose of the Field Accreditation Program
+These role-based accreditation programs allow us to validate GitLab skills and knowledge,
+recognize individual mastery, and motivate continuous learning and skills growth all aligned to
+expectation setting and performance discussions as part of the onboarding learner journey and
+beyond.
+The goal of the Field Accreditation Program is to validate that:
+Knowledge has been transferred (Do you know it?)
+The learner can apply that knowledge in simulated & live scenarios (Can you do it?)
+The learner has taken ownership of effective skill execution and can demonstrate
+proficiency over time (Can you do it independently and continue to execute over time?)
+Audience
+The Field Accreditation Program will include functional and soft skills training for:
+Strategic Account Leaders
+Account Executives
+• 
+• 
+• 
+• 
+•
+
+Solution Architects
+Customer Success Managers
+Partners
+Architecture and Approach
+With the customer in mind, learning will be focused on helping field team member create
+engagements with a customer that make a lasting emotional impression. The foundation of this
+approach is based on the concept explained in “Blueprints for a SAAS Sales Organization: How to
+Design, Build and Scale a Customer Centric Sales Orgnization” by Jacob Van Der Kooj and
+Fernando Pizarro.
+Please note: Processes continue to mature and evolve. To see that latest, please check out the slide
+below.
+Delivery
+Course content will be a combination of handbook pages, YouTube videos, and interactive
+content delivered through the new Learning Experience Platform (LXP). This new system is not
+intended to replace the Handbook as the single source of truth, and instead will serve to curate
+content from a variety of sources and provide a guided tour of curated content for the learner.
+Accreditation Assessments
+To achieve GitLab “certified” status, candidates must complete both the online written exam
+(knowledge) and practical assessment (skill) with a passing score on each exam.
+Anyone can sign up and take the written exam, but only learners who successfully pass
+the online written assessment will be granted access to the practical assessment
+The practical assessment will require team members to demonstrate the ability to
+deliver customer engagements to GitLab’s standards
+Upon completion of all courses within each accreditation, learners will receive a badge
+GitLab Use Cases Overview
+The GitLab use cases help define the categories of related features with a business value
+narrative. In other words, why are customers buying GitLab and what do they think that we offer.
+You can read more about each of our use cases by navigating to the Product navigation menu at
+the top of this page or from anywhere on about.gitlab.com.
+Source Code Management
+Continuous Integration and Deployment/Delivery (CI/CD)
+Auto DevOps
+Security and DevSecOps
+Agile Delivery
+Value Stream Management
+GitOps and Infrastructure-as-Code
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

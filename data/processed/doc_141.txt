@@ -1,0 +1,133 @@
+2. Champ d’application
+Cette Charte s’applique à tous les salariés, quels que soient leur poste, leur ancienneté et leur lieu
+de travail, conformément au droit français, et vise à renforcer les droits et obligations des salariés
+et de la Société conformément à la législation en vigueur. Pour toute information
+complémentaire en lien avec votre lieu de travail, veuillez-vous référer à la page de la politique
+globale propre à votre entité.
+Tous les salariés sont invités à prendre connaissance de la présente Charte.
+3. Déconnexion du travail
+La déconnexion du travail signifie:
+L’engagement de la Société de ne pas solliciter le salarié pendant les périodes de repos;
+L’absence d’obligation pour le salarié de répondre aux sollicitations professionnelles
+pendant les périodes de repos;
+L’absence de sanction ou de reproche en cas d’absence de réponse ou de refus de traiter
+des sujets professionnels en dehors de ces périodes et le respect du droit d’autrui à se
+déconnecter;
+L’assurance que les éventuels comportements contraires ne seront ni encouragés, ni
+valorisés, ni récompensés.
+Il existe une multitude de formes de communication, mais les moyens de communication utilisés
+dans notre Société comprennent les emails, les messages Slack, les mentions de problèmes et de
+MR (« issue and MR mentions »), ainsi que les visio-conférences. Cette liste n’est pas exhaustive et
+peut être complétée en fonction de l’évolution de la technologie et de nos activités.
+Nous nous attendons à ce que les salariés soient en mesure, sauf dans les circonstances décrites
+ci-dessous, de se déconnecter complètement du travail en dehors de leurs heures de travail
+normales et pendant leurs périodes de repos.
+À cet égard, l’entreprise précise que les périodes de repos, les congés et les périodes de
+suspension du contrat de travail doivent être respectés par tous les salariés de la Société.
+Sauf en cas de situation urgente avérée:
+Aucun gestionnaire/superviseur ne devrait contacter ses collaborateurs par téléphone
+en dehors de leur temps de travail tel que défini dans le contrat de travail ou
+conformément à l’horaire collectif de travail applicable au sein de l’entreprise;
+Les salariés ne sont pas tenus de lire ou de répondre aux e-mails qui leur sont adressés
+en dehors de leur temps de travail. Il en va de même pour les appels professionnels ou
+les messages reçus pendant les périodes de repos ou de vacances.
+Toute dérogation doit être justifiée par la gravité, l’urgence et/ou l’importance de la situation.
+4. Dérogations et flexibilités en cas d’urgence
+En tant que société internationale travaillant à distance et utilisant la communication asynchrone
+comme base de travail, tous les salariés ne seront pas déconnectés en même temps, ni aux
+mêmes heures tous les jours. Nous nous efforcerons de faire preuve de cohérence et, en retour,
+nous demanderons de la flexibilité si nécessaire.
+• 
+• 
+• 
+• 
+• 
+•
+
+Par conséquent, bien que les salariés aient le droit d’être déconnectés en dehors des périodes de
+travail habituelles, il peut y avoir des exceptions en cas d’urgence ou de situations exceptionnelles
+liées aux exigences du bon fonctionnement de l’activité de l’entreprise.
+Sur une base strictement exceptionnelle et dûment justifiée, les salariés peuvent être contactés
+en dehors de leurs heures de travail habituelles dans des circonstances très limitées telles que,
+par exemple:
+les situations d’urgence (dysfonctionnements technologiques ou mécaniques, failles de
+sécurité, blessures, etc;)
+Les demandes urgentes et imprévisibles des clients;
+a nécessité d’achever un projet dans l’urgence malgré une bonne planification;
+Les périodes de forte activité prévisibles au cours desquelles il peut vous être demandé
+de travailler plus d’heures;
+Les périodes d’astreinte programmées; et
+Les tests de systèmes et de communications d’urgence.
+5. Engagement et responsabilités
+La Société s’engage à contrôler et à faire respecter la présente Charte. Dans cette optique, la
+Société considère qu’il est important de définir les attentes tant pour les gestionnaires/
+superviseurs que pour les collaborateurs.
+(a) Gestionnaires/Superviseurs
+Il incom be à tous les gestionnaires/superviseurs de:
+(i) Connaître les horaires de travail et les périodes de repos de leurs collaborateurs directs et
+communiquer tout changement d’horaire aux membres de l’équipe le plus rapidement possible,
+dans les limites autorisées par la loi;
+(ii) Fixer des attentes claires et raisonnables en ce qui concerne la charge de travail et les résultats
+attendus;
+(iii) Définir des attentes claires et raisonnables en ce qui concerne le moment où le travail et
+l’engagement dans des communications liées au travail, en dehors des heures de travail
+normales, peuvent être exigés dans le cadre normal du travail du membre de l’équipe;
+(iv) Vérifier que les membres de l’équipe prennent les pauses réglementaires, les congés et les
+autres périodes de repos quotidiennes/hebdomadaires prévues par la loi;
+(v) S’assurer que les autres membres de l’équipe respectent la Charte lorsqu’ils communiquent
+avec leurs collègues;
+(vi) Ne pas pénaliser ou traiter différemment un membre de l’équipe pour avoir exercé ses droits
+en vertu de la présente Charte ou de la loi;
+(vii) Ne pas encourager, valoriser ou récompenser un comportement différent susceptible d’entrer
+en conflit avec la Charte; et
+(b) Collaborateurs
+Il incombe à tous les Salariés de:
+(i) Gérer leur temps et travailler efficacement afin de s’assurer que les résultats attendus sont
+atteints dans le cadre de leurs heures de travail normales, à moins qu’une circonstance
+• 
+• 
+• 
+• 
+• 
+•
+
+exceptionnelle ne survienne, auquel cas il convient d’en informer immédiatement le gestionnaire/
+superviseur du membre de l’équipe;
+(ii) Se conformer pleinement à tout dispositif utilisé par la Société pour mesurer le temps de
+travail et enregistrer avec précision leurs heures de travail;
+(iii) Être attentif aux horaires de travail des collègues et des clients (ne pas systématiquement
+utiliser slack, ne pas envoyer de courrier électronique ou ne pas téléphoner en dehors des heures
+de travail normales ou pendant les périodes de repos);
+(iv) Connaître les procédés permettant de retarder l’envoi des emails et les messages slack au jour
+ouvrable suivant et utiliser ces procédés chaque fois que cela est possible; et
+(v) S’adresser à son supérieur hiérarchique s’il estime que sa charge de travail l’empêche de se
+déconnecter du travail dans le cadre de la présente Charte, et en particulier s’il n’est pas en
+mesure de prendre ses périodes de repos quotidiennes et hebdomadaires comme l’exige la loi.
+6. Comportements recommandés favorisant l’exercice du droit à la déconnexion
+La Société n’a pas l’intention de dicter strictement quand et comment un salarié doit
+communiquer avec un autre ou lui répondre, car cela n’est tout simplement pas réalisable.
+Toutefois, nous attendons de chacun qu’il se conforme à la présente Charte et qu’il soit attentif à
+ses messages (y compris le ton et le timing) en dehors de ses heures de travail habituelles ou de
+celles du destinataire.
+Voici quelques suggestions aux collaborateurs pour promouvoir le droit à la déconnexion,
+prévenir la surcharge d’information et le stress liés à l’utilisation des outils numériques
+professionnels:
+(a) L’utilisation du mail professionnel est-elle appropriée par rapport aux autres outils de
+communication disponibles (slack)?
+(b) La communication doit-elle vraiment être transmise à ce moment précis ou peut-elle être
+reportée aux heures normales de travail?
+(c) Le délai de réponse est-il nécessaire ou justifié?
+(d) Le destinataire (client, consommateur, fournisseur) auquel la communication est envoyée a-t-il
+des exigences en ce qui concerne le moment où il souhaite être contacté?
+(e) Le destinataire est-il connu pour être en congé, en déplacement ou occupé à d’autres tâches
+urgentes et, dans ce cas, la communication peut-elle être retardée jusqu’à ce que le destinataire
+soit disponible ou peut-elle être redirigée vers quelqu’un d’autre?
+(f) L’objet du message indique-t-il de manière appropriée le contenu du message et s’il doit être
+traité immédiatement ou s’il peut attendre?
+(g) Les fonctions “cc” et “cci” sont-elles utilisées avec parcimonie?
+(h) Chaque pièce jointe est-elle pertinente?
+(i) Si vous communiquez ou collaborez régulièrement avec des membres de votre équipe qui
+travaillent dans un fuseau horaire différent du vôtre ou qui ont des horaires de travail différents
+des vôtres, vos communications comprennent-elles une note indiquant que le destinataire peut
+répondre pendant ses heures de travail habituelles et non pendant ses périodes de repos
+quotidiennes ou hebdomadaires (par exemple : « Je travaille actuellement de manière flexible et,

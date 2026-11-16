@@ -1,0 +1,167 @@
+Technical Interview Scheduling
+Certain positions require technical interviews (i.e. Ruby on Rails, Golang, Frontend, etc) where
+candidates are asked to demonstrate their knowledge and skills. Technical interview requests can
+be identified within the scorecard title in ModernLoop as recruiters will utilize the following
+format: “Technical interview, level & coding language pool - 90 mins”.
+Important to Note:
+These interviews are 90 minutes in duration
+Candidates must submit a GitLab username before CES can schedule their interview
+Interviewers and candidates need time to prepare prior to the interview, therefore
+interviews will be scheduled 3.5-4 business days out as the merge request will be sent by
+the interviewer 3 working days (or 72 hours) before the interview.
+Interviewers must be the same job level or above to the candidate. An interviewer can
+not interview a candidate for a higher job level than theirs.
+To schedule a technical interview, CES should follow the process outlined below:
+When a candidate successfully reaches the Team Interview stage the recruiter will send
+the availability request email to the candidate. This action will initiate a scheduling task
+for the CES in ModernLoop.
+If the candidate did not submit a GitLab username during the application or screening
+stage, the recruiter will also send the GitLab Username Form (this will be found in the
+Team Interview Stage or Evergreen stage). This generates an email to the candidate
+requesting they fill out the form with their GitLab Username.
+CES will receive a separate ticket to the CES service desk:
+The completed GitLab Username form. This will only come into the service desk once the
+candidate replies to the email, and the username will automatically be added to the
+Details tab of the candidate’s profile under Details > Other. CES should check that the GL
+username is valid and ensure that the GL username is in a URL format.
+CES will add the tag “GL Username received” to the candidate’s technical scheduling task
+in ModernLoop.
+Once CES has received and confirmed that the candidate’s GL username is valid, the CES
+team member can proceed with scheduling the interview in ModernLoop.
+Note: when you send the interview invite to the interviewer, select the template
+‘Technical Interview with MR’.
+CES will then send the candidate their confirmation through ModernLoop as well.
+When emailing the candidate their interview confirmation, CES will select the
+appropriate (Ruby, Golang) ModernLoop email template. This provides the candidate
+with additional information about what they can expect for their technical interview.
+No Work Submitted on the MR 24 hours Before Interview?
+If the candidate has not submitted any work on the MR 24 hours before the scheduled
+interview, the interviewer will notify the CES team.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+The CES team member will cancel the interview, and email the candidate the ‘Email to
+candidate - MR Not submitted’ template in Greenhouse. CES will also leave a note on the
+candidate’s Greenhouse profile notifying the recruiter.
+CES will not reschedule the interview until they have received direction from the
+recruiter.
+Executive Interview Scheduling
+The process below outlines the steps to be followed by the CES team in scheduling executive
+interviews while partnering with the Executive Business Administrator(EBA) team and executive
+recruiters. The Candidate Experience team and EBA team will adhere to a 24 hour working day
+SLA response time for scheduling interviews. Interview requests coming from Executive recruiters
+are to be scheduled in the executive calendar only.
+The recruiter will create a scheduling task in ModernLoop and which will populate into
+the CES “My Tasks” list in ModernLoop
+CES refers to the EBA cheat sheet doc for executive interviewer preferences and contacts
+the respective EBA with interview details in the #EBA-team-interview-requests channel.
+To request an interview in this channel, click “Workflow” and fill in the appropriate
+information in each field.
+CES adds the “Pending EBA” label and Slack link to the EBA scheduling task to the
+interview task in ModernLoop while awaiting response.
+Note: Follow up SLA is 24 hours to check for time conflicts delaying scheduling. If the times
+do not match, CES may contact the candidate
+requesting more availability or suggest some times that works for the interviewer.
+Once the EBA confirms the best time and date for the interview. CES sends the interview
+confirmation email through ModernLoop to the candidate.
+CES will schedule the interview through ModernLoop & send the calendar invite to the
+interviewer. Make sure the invite is always marked private.
+CES notifies EBA of scheduled interviews in the original slack message with a green
+check mark emoji and close the ticket.
+This process not only applies to executive requisitions, but any reqs or interviews that include
+executive team members supported by EBAs. Please note that not every executive team member
+has EBA support and they may be scheduled directly in ModernLoop following the usual CES
+scheduling process.
+Note:
+If the candidate needs to reschedule, notify the appropriate EBA in the slack channel
+and share the candidate’s updated availability and greenhouse profile.
+The EBA and CES team will communicate any interview changes or concerns in the slack
+channel. Other requests such as flagging an offer, completing an interview scorecard, or
+regarding the executive’s schedule may be communicated in this channel as well.
+• 
+• 
+1. 
+• 
+• 
+1. 
+1. 
+2. 
+3. 
+• 
+•
+
+Candidate accessibility and accommodation request process
+At GitLab, we are committed to fostering an inclusive environment where everyone has the
+opportunity to contribute. The following steps outline the workflow for the team to process any
+accessibility and accommodation requests submitted by candidates.
+Google Form Submission
+Candidate submits an accommodation request form from either:
+Candidate portal - Accommodation request form access is provided at phone screen
+stage through the portal and remains available throughout the interview process.
+Initial interview availability email.
+CES Notification & Initial Review
+CES will receive a notification as soon as the candidate submits the accommodation form. During
+initial review, CES will use the matrix below to determine if the accommodation is Level 1 or Level
+2.
+Category Level 1 - Standard (CES handles
+directly - acknowledgment
+within 24 hours)
+Level 2 - Complex (TMR + Legal -
+acknowledgment within 24 hours - Follow
+up with decision within 24-48 hours)
+Technology
+Accommodations
+✓ Closed captioning ✓ Custom software needs
+Interview
+Accommodations
+✓ Multi-day interviews ✓
+Extended time for interviews
+✓ Resource allocation beyond standard
+offerings
+Other Not applicable ✓ Unique or complex accommodation needs
+✓ Requests requiring policy interpretation ✓
+Resource allocation beyond standard
+offerings
+Send candidate acknowledgement email
+Within 24 hours and regardless of level, CES will send the candidate the ‘Accommodation
+Request Acknowledgment Email’ (select the template from GH based on the level of the
+request.)
+Greenhouse Coordination Transfer
+In the Candidates GH profile, Set the “Application Coordinator” to the designated
+accommodation-handling CES. This will ensure Modernloop auto-routes all future
+scheduling tasks, maintaining consistent support and zero missed accommodations.
+Tagging & Documentation
+CES will then add an accommodation tag in Greenhouse as well as an internal note in
+ModernLoop (ML) for tracking. Note will be kept generic to maintain candidate privacy.
+Standard Accommodation Implementation
+For Level 1 accommodations, during scheduling, CES will include the accommodation
+next to “accommodation requested:” in the interviewer’s invite using TE snippets,
+‘zoomclose’ for closed captioning and ‘adtime’ for extended time.
+If the candidate has requested a multi-day interview, CES will schedule the interviews
+accordingly.
+1. 
+• 
+• 
+• 
+1. 
+1. 
+• 
+1. 
+• 
+1. 
+• 
+1. 
+• 
+•

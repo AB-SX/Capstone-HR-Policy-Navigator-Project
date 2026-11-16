@@ -1,0 +1,75 @@
+Supporting Resources
+Your manager and the SA Enablement team will share onboarding guides, playbooks, and buddy
+resources at the start of your onboarding. Reach out in #sa-onboarding-hub if you need access to
+any of these materials.
+Role Expectations
+SA Manager
+During onboarding, the SA manager is responsible for setting context, making introductions, and
+ensuring the new SA has what they need to progress through the program. This includes
+assigning an SA buddy, checking in regularly during the first 60 days, and being the primary
+escalation point for any blockers.
+SA Buddy
+The SA buddy is a peer resource for the new SA during their first 30-60 days. The buddy helps the
+new SA navigate day-to-day questions, understand how the team operates, and feel connected to
+the broader SA organization. This is a coaching and support role, not a training role.
+For detailed guidance on both roles, refer to the SA Onboarding Guide shared by the SA
+Enablement team.
+Getting Started
+Your onboarding issue will walk you through the sequencing of all required activities. Your
+manager and SA buddy are your primary points of contact for questions during your onboarding
+period.
+Resources and Links
+SA - New Hire - Onboarding Guide
+SA Onboarding Learning Path (Navigate to SA Onboarding Learning Path)
+#sa-onboarding-hub Slack Channel
+SA HighSpot Page
+Last modified April 15, 2026: Update SA Onboarding Handbook Page (a2e49040)
+View page source
+ 
+ .
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/onboarding/graduating-sqs/
+136. Graduating from Sales Onboarding
+Graduating from Sales Onboarding
+Graduation requirements, assessment criteria, and manager guidance for the GitLab Revenue
+Academy.
+The GitLab Revenue Academy graduation is designed to signal that a new hire is field-ready for
+their role:
+Able to pitch GitLab
+Run value-based conversations
+Connect our platform to measurable outcomes, not just complete passive learning.
+Graduation is based on successful completion of all four Academy components plus a role-
+specific stand-and-deliver assessment, with final decisions made at hiring manager discretion
+within a consistent framework.
+1. Core Graduation Requirements
+New hires are expected to complete all four Academy components and meet the checkpoints
+below. These requirements apply to all Academy cohorts unless otherwise noted.
+Component 1: GitLab Foundations and Role-Based eLearning
+New hires must:
+Complete GitLab Foundations plus their role-based LevelUp/University learning
+path (AE, SA, CSM, RM, xDR, etc.), including AI/Duo, DevOps, Security modernization
+tracks, and Revenue Org intros.
+Pass all associated knowledge checks in the assigned paths.
+Reach the first checkpoint by approximately the end of Week 3 of onboarding.
+Completion and scores are tracked in LevelUp/University and Academy progress reports and are
+shared with hiring managers as a key input into graduation decisions.
+Component 2: Value Sales Methodology (Command of the Message)
+New hires must:
+Attend the full Command of the Message (CoM) / value sales methodology class,
+typically delivered as four 2-hour live virtual sessions covering GitLab’s sales
+methodology, sales process, and value messaging.
+Where live attendance is not possible (e.g., those in the APJ region), complete the full
+set of recordings and any required practice sessions within the timelines
+communicated for their cohort.
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,157 @@
+How to Void a Contract when the candidate declines the offer and not marked
+as hired in the system
+In cases where the candidate has declined the offer verbally or via email to the talent acquisition
+team or CES, follow these steps once the recruiter confirms it is okay to void the contract:
+Go to the docusign portal, under the " waiting for others” tab, click on the candidate’s
+name whose contract needs to be voided.
+Under “More” tab, click “Void”. Enter the reason for voiding the contract e.g “Candidate
+declined offer” then click on Void.
+Go to the candidate’s Greenhouse profile, make a note saying the contract is voided by
+copying the recruiter. This will prompt the recruiter to reject the candidate in GH if it
+hasn’t been done.
+How to Resend a Contract After Being Marked as Hired
+There are certain times when a contract needs to get resent to the candidate after they have
+been hired into the system, should that happen. Follow the steps below:
+If the req is already closed, tag the Enablement team in the greenhouse profile
+explaining the situation and that the req needs to be reopened to resend a contract.
+Unhire the candidate in Greenhouse. (If the position is Closed, Enablement will need to
+assist with this step).
+Resend the correct contract and follow standard steps for doing this.
+Once you receive the contract back, before marking the candidate as hired in
+Greenhouse - ping the People Connect team in the #peopleop-alerts-private slack
+channel and explain exactly what the change was. The updated details will not update
+Workday and will need to be manually corrected by the People Connect Team.
+Upload the new contract to their Workday profile.
+Ping the People Connect Team and let them know the contract has been updated and
+the details in Workday can be corrected.
+For Talent Acquisition Enablement:
+Once notified by the CES team, copy the Job Approval Chain and add it to the Approval
+Details Notes section. Include the names of the approvers, the dates approved, and the
+reason as to why the requisition is being re-opened. Tag the Finance Business Partner,
+CES, and Recruiter in this note.
+From the Approvals page, select ‘Edit Job & Openings’
+Duplicate the Opening that needs to be re-opened.
+Bypass approvals in the Job Approval section to change the Job Status from Draft to
+Open.
+Inform CES once the req is open.
+When the revised contract is uploaded by the CES, verify if the core fields on the offer
+remain the same. If it remains the same, bypass offer approvals and inform the CES
+once completed.
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+Once the CES team marks the candidate as hired in Greenhouse, close the duplicated
+opening and save changes.
+How to Keep Candidates Informed of Any Delays in the PEO Contract Process
+Occasionally, there can be delays between the candidate receiving the PEO New Hire Document
+issued by the CES team and the official contract from a PEO. This delay can result in a nervous
+wait for the candidate. We must keep anyone who has not received their full contract from our
+PEO informed of any delays outside of the PEO SLAs.
+The Candidate Experience Specialist who initiated the contract process is expected to follow up
+with the PEO every 24-48 hours until the contract is sent and will note of follow-up dates in the 
+PEO Tracker. This communication should be sent in Greenhouse, so that the communication is
+captured in the activity feed. If there are any extreme circumstances that will result in a contract
+getting to the candidate outside of the PEO SLA’s, the CES will also note those in the PEO Tracker.
+Recruiter is expected to keep the candidate updated on the progress of their contract every 24-48
+hours until the candidate receives their contract. A simple message that explains the delay is all
+that is necessary. As a Candidate Experience Specialist or Recruiter, you’re encouraged to utilize
+the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.
+Amended Contracts
+Contract amendments or modifications are processed by the Candidate Experience Specialist if
+the team member has not started or by the People Connect Team member if they have.
+Amendments prior to starting with GitLab
+If an amendment needs to be made and the previous contract was never active, the Candidate
+Experience Specialist should:
+Ask People Connect in the people-exp_ces Slack channel to delete the previous contract
+from Workday.
+Upload the updated contract in the Documents section of the team member Workday
+profile, using the ‘Contracts and Changes’ document category.
+Note: It is essential that People Connect Team members are informed of all changes, as various fields
+must be updated in Workday.
+Amendments to contracts for new hires with planned relocations
+Candidate Experience Specialist will ensure that there is verbiage clearly stating the
+terms of the compensation changes for relocation after the new hire’s start date and
+ensure that the Total Rewards team has approved both compensations.
+If you are unsure about the Total Rewards approval, CES will ping the Total Rewards
+team in the Approval Notes.
+* Navigate to the bottom of the candidate’s GH profile
+* See “Approval Notes”
+* Click “Leave a Note”
+* Tag the Total Rewards team member who approved in a note to confirm that both
+7. 
+• 
+• 
+1. 
+2.
+
+compensation values have been approved
+* Tag the Recruiter as CC
+Once Total Rewards has confirmed both have been reviewed and approved, generate
+the appropriate contract
+Download the Word version of the contract and upload into Google Drive for editing.
+Don’t click to open the doc, just transfer it into Drive so it doesn’t impact formatting.
+* Navigate to Google Drive
+* Click “New” in the upper corner of the left toolbar
+* Select “File Upload”
+* Select the contract
+Add lines at the top of the document for categories to include Compensation for the
+relocation
+* Example for relocation from ID to CA:
+CA Compensation: $ USD
+ID Compensation: $ USD
+Update Section 10 Location verbiage:
+* Original
+Location. Your employment with GitLab is conditioned upon your
+permanent legal residence being near Boise, ID. If your permanent
+legal residence changes from that location you must notify the
+Company prior to any such changes. Changes to your permanent
+legal residence could result in a change to your compensation,
+benefits, and in some circumstances, termination of your
+employment.
+Updated
+Location. Your employment with GitLab is conditioned upon your
+permanent legal residence being near Boise, ID and you’ve disclosed a
+planned move to San Francisco, CA on or around January 1st, 2021. If
+your permanent legal residence changes from those locations you
+must notify the Company prior to any such changes. Changes to your
+permanent legal residence could result in a change to your
+compensation, benefits, and in some circumstances, termination of
+your employment.
+Delete out all signature tokens from the document, because they will otherwise show up
+as text in DocuSign.
+Save and download the contract as a PDF
+Upload in GH by selecting “Upload Replacement”
+Stage contract as normal
+Add tokens back in after changing signing order
+Send
+When the contract is completed, message People Connect to make sure they note the
+relocation.
+3. 
+4. 
+5. 
+◦ 
+◦ 
+6. 
+◦ 1. 
+◦ 
+◦ 1. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13.

@@ -1,0 +1,134 @@
+Employee Stock Purchase Plan (“ESPP”)
+What is an ESPP?
+An ESPP is a benefit GitLab offers that allows team members to optionally purchase shares of
+their company’s stock at a discount through regular payroll deductions over specified Offering
+Periods.
+In September 2021, the Company’s board of directors and its stockholders approved the 2021
+Employee Stock Purchase Plan (“ESPP”) to enable eligible team members to purchase shares of
+the Company’s Class A common stock with accumulated payroll deductions and provides a 15%
+purchase price discount of the fair market value of the Company’s Class A common stock on the
+IPO date or purchase date, whichever is lower. The 2021 ESPP also provides up to a 24-month
+look-back period with four purchase dates in May and November of each year, and the first
+purchase occurred in May 2022.
+E*TRADE ESPP Training Events from May 2026
+Educational Session for US Team Members
+US Presentation Slides
+Educational Session for Non-US Team Members
+Non-US Presentation Slides
+Eligibility Requirements
+Team member is employed via a GitLab entity with 50+ headcount
+Team members work more than 20 hours per week.
+Must be actively employed at the beginning of the Offering Period to enroll
+Must be actively employed on the last date of the Purchase Period to be able to
+purchase
+Eligible ESPP GitLab Entities
+* GITLAB CANADA CORP. (Canada)
+* GitLab GmbH (Germany)
+* GitLab B.V. (Netherlands/Belgium/Finland)
+* GitLab Inc. (US)
+* GitLab Federal, LLC (US)
+* GitLab UK Limited (United Kingdom)
+* GITLAB PTY LTD (Australia/New Zealand)
+* GITLAB IRELAND LIMITED (Ireland)
+* GitLab France S.A.S. (France) - as of 2025-06-01
+* GitLab GK (Japan) - as of 2025-12-01
+* GitLab India Private Limited (India) - as of 2025-12-01
+Changing Contribution Amounts
+Contribution increases and decreases are limited during Offering and Purchase Periods
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+•
+
+Increases: Team members may not increase their contributions after the Offering Period
+begins.
+Decreases: Team Members may decrease their contribution rates once during any
+Offering Period.
+Stop Contributions
+Team members may reduce their contribution to 0% during an offering period.
+Any prior contributions will be used to purchase shares on the scheduled purchase date.
+At the end of the offering period, the team member will be automatically withdrawn
+from the offering period effective as of the day after the purchase date following the
+date of the request.
+Team members would need to re-enroll as a new participant in the next open enrollment
+window and begin a new Offering Period if they wish to participate in the future.
+Withdrawals
+Team members may withdraw from the ESPP at any time and receive a refund of their
+withheld contributions. The refunds are processed through Payroll.
+Team members who withdraw would need to re-enroll in order to participate in future
+Offering Periods.
+Details on eligibility, enrollment, calculations, pricing and dollar value can be found at ESPP
+Training Deck
+Alternate ESPP Non-US
+The Alternative ESPP program was sunset in June 2026, with participants’ E*Trade accounts
+reflecting the final RSU awards at that time.
+What is an Offering Period?
+The Offering Period consists of a 24-month period beginning on the applicable
+Enrollment Date and includes four six-month Purchase Periods.*
+Team members can only be enrolled in one Offering Period at a time.
+Your Offering Period might be different from the one your coworker is enrolled in.
+ESPP Calendar for Offering periods can be found at ESPP Training Deck
+When do Purchases Occur?
+On the respective Purchase Dates at the end of each Purchase Period. Only whole shares can be
+purchased. Purchase dates are normally May 31 and November 30 of each year.
+Other ESPP references
+ESPP FAQs
+ESPP/RSU Vesting AMA
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+ESPP 101
+Grant Levels
+RSUs and at times Option Grants (Option Grants are rare since September 2021) are determined
+by Grade Level. If you have any questions on what grant should be offered to a new hire, please
+reach out to the Compensation and Benefits team by email to total-rewards@gitlab.com.
+References and information for Grant Levels is held within the compensation overview.
+Note: All stock options and RSU grants are subject to approval by the Board of Directors and no
+grants are final until such approval has been made. The Company reserves the right in its own
+determination to make any adjustments to stock option grants at its sole discretion including the
+decision not to make a grant at all.
+Promotions
+Promotion grants are based on the differential between the new hire equity dollar value at the
+new grade minus the new hire equity dollar value at the current grade using the median of the
+compensation range. The vesting schedule for the new equity grant will align to the terms and
+conditions of the equity plan for RSUs.
+Formula for number of Promotion Equity Grant: (New Hire Equity Grant Dollar Value Median at
+Promoted Level - New Hire Equity Grant Dollar Value Median at Previous Level)
+For example, if my current role is Backend Engineer and the median new hire equity grant dollar
+value grant for my role, level, and location is 20,000 USD, and I am promoted to Senior Backend
+Engineer and the median new hire equity grant dollar value for that role, level, and location is
+40,000 USD, the calculation would be: 40,000 USD - 20,000 USD = 20,000 USD.
+The output of this calculation will also be compared to 0.5x of the Refresh Equity Grant Dollar
+Value Median at the Promoted Level. If this calculation yields a higher dollar value than the
+standard Promotion Equity Grant Formula then this value will be used for the promotional grant
+value.
+Refresh Grants
+As part of the updated Annual Compensation Review process, eligible GitLab team members will
+be reviewed for a refresh grant once per year. Refresh grants use the formula above to determine
+the range of equity dollar value a team member may be eligible for in that cycle based on their
+current role/grade. Refresh grants will vest in accordance with the equity plan agreement
+between GitLab and the team members.
+Note: All equity grants are subject to approval by the Board of Directors and no grants are final
+until such approval has been obtained. The company reserves the right in its sole discretion to
+make any adjustments to equity grants including the decision not to make a grant at all.
+Annual Refresh Grant Program Eligibility
+Team members may be eligible to participate in the annual refresh grant cycle review if they have
+completed six months of service with the company. However, participation will be based upon
+•

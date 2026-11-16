@@ -1,0 +1,83 @@
+If Chrome asks What would you like to do with your existing profile data?, select 
+Create a new profile for work without my existing data and click Confirm.
+Access GitLab Email and GitLab.com
+Access your GitLab email by clicking Google Workspace Mail from the Okta dashboard,
+or go to https://mail.google.com.
+Check your GitLab email for an email titled “Welcome to GitLab Onboarding, 
+yourname!”.
+Follow the instructions in the email to set up your GitLab.com account and access your
+Onboarding Issue.
+Congratulations
+You have completed the initial setup process for your GitLab accounts and computer. If you
+encounter any issues, please contact IT via the Compass app in Slack (type “Compass” in the top
+search bar to find it) or it-help@gitlab.com.
+Need Help?
+If you need help setting up your Mac, email it-help@gitlab.com. If you can’t access your GitLab
+email yet, send it from your personal email address.
+7. 
+1. 
+2. 
+3.
+
+GitLab IT - Mobile Device Onboarding
+To be able to access applications behind Okta (e.g. Slack, GMail, Calendar, etc) on a mobile device;
+…
+GitLab Linux Onboarding 101
+Welcome to the GitLab Linux Community Linux is available as an alternative to macOS, but is not
+…
+Last modified October 23, 2026: Document macOS on Fleet and retire the Jamf pages (6fbd0c97)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/unconscious-bias/
+108. Recognizing Bias in Decision-Making
+Recognizing Bias in Decision-Making
+guide to understanding how bias can show up in performance, promotion, and feedback at
+GitLab—and how to navigate it fairly.
+Recognizing Bias at GitLab
+Unconscious biases are automatic assumptions—formed outside our awareness—that influence
+how we perceive, interact with, and evaluate others. Everyone has them. They are not a sign of
+personal failure; they’re a byproduct of how our brains filter vast amounts of information quickly.
+While bias can help us make rapid decisions, it can also lead to unintended inequity—especially in
+moments like hiring, performance reviews, or promotion discussions.
+🌍 Why It Matters at GitLab
+GitLab is a global, remote-first company with team members across geographies, cultures, time
+zones, and identities. In this environment:
+Visibility varies widely
+Communication styles differ
+Cultural norms are not universal
+We must actively recognize and navigate bias to uphold our values of transparency, inclusion, and
+collaboration—especially when assessing performance, assigning stretch opportunities, or
+recommending promotions.
+🔍 Biases to Watch For in Performance & Promotion
+Bias What It Is Example
+Recency
+Bias
+Overemphasizing recent
+performance or incidents
+During a promotion review, most praise for Alina centers on a
+successful product launch two weeks ago. Jordan, who
+contributed consistently all year, is overlooked because their
+work wasn’t recent or high-profile.
+Horns
+Effect
+A single early misstep
+colors the entire
+evaluation
+Taylor missed a deliverable in their second month. Since then,
+they’ve improved documentation and delivered reliably—but
+are still labeled “not dependable.” Others with similar early
+errors aren’t held to the same standard.
+Proximity
+Bias
+Favoring those more
+visible or geographically
+close
+Sasha attends real-time syncs with their manager and receives
+frequent praise. Deji, who works async in a different region,
+contributes just as much—but gets fewer shout-outs and less
+visibility during reviews.
+• 
+• 
+•

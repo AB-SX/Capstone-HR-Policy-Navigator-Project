@@ -1,0 +1,141 @@
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com/
+082. Remote.com
+Remote.com
+Discover the benefits for Remote team members
+Clear benefits, real support
+Our Remote.com partnership ensures comprehensive coverage and transparent information for
+team members worldwide, so you can focus on your work and life with confidence.
+Contact: help@remote.com
+Platform: Remote.com Benefits Portal
+All benefits listed below are administered and managed by Remote.com, providing support
+designed to meet your health, financial, and family needs across multiple countries.
+Brazil 🇧🇷
+Contact: help@remote.com
+Platform: Remote.com Benefits Portal
+All benefits listed below are administered and managed by Remote, ensuring you have
+comprehensive support and coverage that meets your needs while working in Brazil.
+Brazil Medical Coverage
+Comprehensive healthcare coverage through Remote’s Standard Plan, designed to support your
+health and wellness needs.
+Key Features
+GitLab covers 100% of team member and dependent premiums
+Review the complete Benefits Guide for detailed coverage information
+Direct administration through Remote
+Legacy Policy Note: Team Members hired prior to April 2022 maintain access to the medical
+allowance policy. This policy is not available for team members hired after April 2022.
+How to Access: Coverage details and dependent enrollment managed through Remote’s
+platform. Contact help@remote.com for enrollment assistance.
+Brazil Annual Bonuses
+13th Salary (Christmas Bonus)
+Amount: Equal to one month’s salary (8.33% of base annual salary)
+Payment: Two parts - November (by 20th) and December
+Pro-ration: Available upon termination based on time worked
+Vacation Bonus
+Amount: 1/3 of monthly salary (2.77% of base annual salary)
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Eligibility: Paid with 30 calendar days of annual vacation
+Pro-ration: Available upon termination based on time worked
+Brazil Life Insurance
+Company-paid life insurance through Prudential providing financial security for you and your
+loved ones.
+Key Features
+Coverage amount: 24x your monthly salary
+GitLab covers 100% of premiums
+Beneficiary assignment through Remote portal
+Brazil Meal & Grocery Benefits
+Meal Vouchers
+Monthly meal voucher payment delivered to your VR Card
+Payment by 30th of each month
+Amount updated annually per union renewal
+Available only for days worked (not during absences, leaves, or vacation)
+Grocery Card
+Eligibility: Team members earning 6,189.94 BRL monthly gross salary or less
+Sick Leave: Continues for 30 days during sick leave
+Other Leave: Payment continues during PTO, maternity leave, and other legally allowed
+absences
+Brazil Statutory Leave policies
+Below is the information related to Brazil’s statutory leave policies. Please note that team
+members hired in Brazil are hired via Remote (PEO) and you should always check with Remote
+first for the most up to date information.
+Annual leave
+Brazil has specific requirements that govern statutory leave to remain compliant. For reference,
+after 12 months of service, you are entitled to 30 calendar days of paid time off. Team members
+are also eligible for GitLab’s paid time off policy. If the time off taken falls under the requirements
+for statutory time then the time off will automatically be deducted from the statutory allowance
+first (you may see this reflected as “dummy days” on your pay slip).
+If the time off does not fall under the requirements it will be used as Flex Time Off, then once you
+have exhausted the full statutory leave allowance all ongoing time off will be Flex Time Off per
+GitLab policy.
+Please keep the below in mind before submitting your time off request via Workday or the
+Workday Slack App.
+Vacations can only be divided in up to 3 periods. One of the vacation periods must be at
+least 14 days long, while the other two vacation periods need to be at least five days
+long each.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Team members cannot start their vacation two days before a holiday or a weekend as
+per the leave rules in Brazil. This means the team member cannot start their vacation on
+Thursday or Friday under the Statutory Leave allowance.
+Vacations earned must be taken during the concession period and cannot be
+accumulated or carried over to the following year.
+Team members are required to submit their time off request with at least 30 days’
+notice. Although, we recommend team members submit their time off request 45 days
+in advance (this is to ensure accuracy and reporting for statutory compliance).
+Our GitLab Payroll Team sends a time off report (past and current month) to the PEO
+vendor on a monthly basis to ensure their processing of your vacation bonus two days
+before you go on vacation.
+Conversion into cash: 1/3 of vacations (10 days) can be converted into cash upon
+request to the PEO vendor. The funds will be paid on the last period of vacation days
+taken.
+Team members will be provided the “Aviso de Férias” document from the PEO vendor
+which will need to be returned with signature (this document will be provided via the
+PEO portal).
+If you need further information on the laws that govern vacation days in Brazil, please visit the 
+Remote Help Center or reach out to help@remote.com
+Brazil Statutory Pregnancy & Maternity leave
+Team members in Brazil, including contractors, are entitled to 120 days of statutory maternity
+leave. This leave will run concurrently with GitLab’s 16-week Parental Leave policy. Team
+members are eligible to receive up to 100% of their regular salary, paid by the employer who is
+later refunded by the government. This leave applies to adoption as well.
+To apply for leave, please enter the dates into Workday and select the Parental Leave option. The
+Absence Management team will reach out to you with more information.
+Brazil Statutory Partner/Paternity leave
+Team Members in Brazil are entitled to up to five days of paid statutory paternity leave. Team
+members are also eligible for GitLab’s 16-week paid Parental Leave; run concurrently.
+Team members will receive up to 100% of their regular salary during their statutory Paternity
+Leave. If eligible, team members will receive up to 100% of their regular salary for the full 16
+weeks of leave.
+Same-sex couples in Brazil may apply to receive full maternity leave benefits beginning on the
+day the caregiver takes leave from work.
+To apply for leave, please enter the dates into Workday and select the Parental Leave option. The
+Absence Management team will reach out to you with more information.
+Bereavement leave
+Team members are entitled to two consecutive days of paid leave following the death of an
+immediate family member such as a spouse, parent, or child.
+Please enter the dates in Workday and select the Bereavement option.
+Marriage Leave
+• 
+• 
+• 
+• 
+• 
+•

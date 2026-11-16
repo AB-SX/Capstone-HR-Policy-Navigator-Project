@@ -1,0 +1,197 @@
+Recipient
+Category
+Categories of Personal Data
+Shared
+Purpose of Sharing
+data • Payroll and benefits data
+• Regulatory and compliance
+data • Workplace safety data
+assistance, and disaster planning • Diversity
+programs and equal opportunity monitoring •
+Requests from public authorities
+Auditors • Contact information •
+Personal identifiers •
+Employment qualifications •
+Payroll and benefits data •
+Regulatory and compliance
+data • Workplace safety data
+• Occupational health and workplace
+accommodation • Business analytics and
+workforce planning • Sales management and
+strategy • Paid time off, sick leave and other
+absence calculations • Enterprise application
+security and access • Tax reporting and
+withholding obligations • Compensation
+benchmarking • Company handbook and policy
+updates • Social security and retirement
+contributions • Diversity programs and equal
+opportunity monitoring • IT management,
+network monitoring, device backups, and
+application testing • Requests from public
+authorities
+Financial
+Institutions,
+Accountants, and
+Investors
+• Contact information •
+Personal identifiers •
+Employment qualifications •
+Payroll and benefits data
+• Business analytics and workforce planning •
+Sales management and strategy • Tax reporting
+and withholding obligations • Compensation
+benchmarking • Social security and retirement
+contributions • Team Member safety, travel
+assistance, and disaster planning • Requests from
+public authorities
+Law Firms and
+Professional
+Advisors
+• Contact information •
+Personal identifiers •
+Employment qualifications •
+Performance and Team
+Member relations data • Payroll
+and benefits data • Regulatory
+and compliance data •
+Workplace safety data
+• Occupational health and workplace
+accommodation • Business analytics and
+workforce planning • Sales management and
+strategy • Paid time off, sick leave and other
+absence calculations • Tax reporting and
+withholding obligations • Performance
+management, internal investigations, and
+disciplinary procedures • Promotions and growth
+plans • Team Member safety, travel assistance,
+and disaster planning • Diversity programs and
+equal opportunity monitoring • Requests from
+public authorities • Protection of intellectual
+property and work product • Litigation and legal
+claims
+Event
+Coordinators and
+Hosts
+• Contact information •
+Personal identifiers •
+Employment qualifications
+• Occupational health and workplace
+accommodation • Training and learning
+opportunities • Events coordination • Team
+Member safety, travel assistance, and disaster
+planning
+Lodging and
+Travel Providers
+• Contact information •
+Personal identifiers •
+Employment qualifications
+• Occupational health and workplace
+accommodation • Training and learning
+opportunities • Events coordination • Team
+
+Recipient
+Category
+Categories of Personal Data
+Shared
+Purpose of Sharing
+Member safety, travel assistance, and disaster
+planning
+Entities in a
+Potential Merger
+or Acquisition
+• Contact information •
+Personal identifiers •
+Employment qualifications •
+Payroll and benefits data
+• Business analytics and workforce planning •
+Sales management and strategy • Paid time off,
+sick leave and other absence calculations • Tax
+reporting and withholding obligations •
+Compensation benchmarking • Social security
+and retirement contributions • Requests from
+public authorities
+GitLab Affiliate
+Entities
+• Contact information •
+Personal identifiers •
+Household data • Systems
+administration data •
+Communications data •
+Operational data • Employment
+qualifications • Performance
+and Team Member relations
+data • Payroll and benefits data
+• Regulatory and compliance
+data • Workplace safety data
+• Occupational health and workplace
+accommodation • Business analytics and
+workforce planning • Sales management and
+strategy • Paid time off, sick leave and other
+absence calculations • Personnel file
+management • Tax reporting and withholding
+obligations • Compensation benchmarking •
+Performance management, internal
+investigations, and disciplinary procedures •
+Social security and retirement contributions •
+Promotions and growth plans • Diversity
+programs and equal opportunity monitoring •
+Requests from public authorities
+For California based Team Members
+The California Privacy Rights Act broadly defines the sale of personal data to include disclosing
+Team Member personal data to a third-party business without entering into a service provider
+agreement with that business. If this occurs, the right to opt-out of a data sale must be provided
+to the Team Member.
+GitLab does transmit specific Team Member personal details and compensation data to certain
+vendors in order to receive information back regarding industry benchmarking of both
+compensation and workforce metrics. These vendors include Radford, Comptryx, Compass, and
+other possible benchmarking surveys vendors, each of which retain this data for their own
+purposes, including to keep their benchmarking data up to date. While this data is often shared
+in an aggregated format, it may be deemed a data sale under California law. If you are in
+California and you do not want us to share your compensation data with these benchmarking
+vendors, please email both the People Operations team at people_operations@gitlab.com and
+the Total Rewards team at total-rewards@gitlab.com. You may also contact the Privacy Team at 
+dpo@gitlab.com to learn more about your right to opt-out of this data sharing.
+Storage of Personal Data
+GitLab stores Team Member records in the following locations: Workday, Greenhouse, with our 
+payroll providers (HR Savvy, SD Worx, iiPay, ADP, CloudPay, and Papaya Global), and other
+systems as necessary (Google Workspace, Docusign, etc.). Team Members have self service
+access to Workday, their appropriate payroll provider, and other Team Member facing software
+
+provisioned through Okta. GitLab also contracts with First Advantage and LawLogix to conduct
+and store information related to pre-employment screenings, such as background checks and
+employment eligibility verification. Where available, documents and information stored with
+those companies may be shared with you.
+Lastly, where GitLab utilizes PEOs, such as GX, Remote, and CXC, to hire a Team Member, the
+applicable PEO, as the agent of record or employer of record (as applicable), will retain the
+personnel files of its respective hires. Access to personal data is only authorized when there is a
+legitimate and lawful basis, and access is only granted to appropriate personnel. Requests for
+confidential Team Member data from anyone outside our company under any circumstances
+must be approved in accordance with applicable local laws.
+Retention of Collected Personal Data
+As defined in our Record Retention Policy, a “record” is a document created or received by a
+GitLab entity or individual in the transaction of business that contains significant business value.
+Oftentimes, Team Member medical and personnel records must be retained by GitLab for
+prescribed durations.
+Except as otherwise permitted or required by applicable law or regulatory requirements, we may
+retain your personal data only for as long as we believe it is necessary to fulfill the purposes for
+which the personal data was collected.
+To find out more about GitLab’s retention standards for personnel files only, please see our Team
+Member Personnel File Retention Policy.
+Security of Collected Personal Data
+We are committed to protecting the security of the personal data collected, and we take
+reasonable physical, electronic, and administrative safeguards to help protect personal data from
+unauthorized or inappropriate access or use. For example, the People Operations Group strictly
+adheres to the Access Request process before provisioning access to any enterprise systems.
+Furthermore, core IT and People Group systems are evaluated under GitLab’s Third Party Risk
+Management Program for appropriate controls, such as those security measures found in 
+Workday’s Security Exhibit.
+Team Member Data Subject Rights
+Access to Personal Data We Collect
+To the extent access is allowed by applicable law, you can request access to the personal data that
+we hold about you. There are two separate processes to obtain access to your personal data. If
+you are an active GitLab Team Member you can access your personnel documents via self-service
+in Workday (and the various payroll systems as applicable). For additional assistance on obtaining
+your personnel file GitLab team members should reach out through Compass. Former team
+members can email people_operations@gitlab.com to request their personnel file. You can review
+the types of personal data contained in a Personnel File here. If you want to review personal data
+beyond what is included in a Personnel File, please submit a Data Access Request form.

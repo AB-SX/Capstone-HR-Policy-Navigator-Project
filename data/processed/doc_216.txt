@@ -1,0 +1,112 @@
+Key Features
+Leave increases with tenure. Unused leave carries over up to two years.
+How to Access
+Track: Monitor through Workday
+Request: Submit as “Paid Time Off” in Workday
+Important Information
+No payment for unused leave upon termination
+Sick Leave
+Overview
+Multiple support layers including job protection and income replacement through Japan’s Health
+Insurance Scheme.
+Key Features
+First 25 working days administered under GitLab’s Sick Time policy
+Additional paid time can be administered under:
+Accrued vacation (optional)
+60% salary from Japan’s government Health Insurance Scheme
+Per GitLab’s work rules, team members with less than 5 years of service are entitled to 3
+months of job protected leave
+How to Access
+Report: Mark “Out Sick” in Workday
+Extended Leave: For 5+ days, follow Communicating Illness-Related Leave process
+* Sick Leaves beyond 25 working days: Team members to apply here
+Other Protected Leave
+Menstrual Leave: Unpaid leave when menstruation significantly impacts work ability.
+Civil Rights Leave: Unpaid time for voting, jury service, and other civil duties.
+Getting Started & Support
+Questions & Support
+Benefits Questions: Contact Compass
+Leave Coordination: Work with your manager and People Operations. Use Workday for
+requests.
+Government Applications: Most benefits require direct government application. Total Rewards
+provides guidance.
+Important Reminders
+Many benefits managed through Japan’s statutory systems
+Keep records for reimbursement
+Coordinate extended leave with your manager
+Benefits may change with government policy updates
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+• 
+• 
+• 
+•
+
+We’ve Got You Covered
+Your GitLab Japan benefits provide comprehensive support from day one through retirement.
+From health coverage to family leave and retirement planning, we’re here with clear information
+and meaningful benefits.
+Complete terms are in official government policies and GitLab documentation. Contact Total Rewards
+for detailed statutory benefit information.
+GitLab retains the right to replace the provider or policy at any time and is not required to offer this
+benefit to those that may be ineligible. Any benefits provided under the plan do not impact the Team
+Member’s or GitLab’s rights to end the employment relationship.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-
+ltd/
+078. GitLab Ireland Ltd
+GitLab Ireland Ltd
+Discover GitLab’s benefits for team members in Ireland
+We’ve Got You Covered
+Clear benefits, real support
+At GitLab, we believe team member benefits should be simple to understand and there when you
+need them. From life’s big moments to everyday questions, our comprehensive coverage gives
+you clarity and confidence so you can focus on your work and life.
+In addition to the local benefits listed below, all Ireland team members have access to the 
+company-wide benefits available to all team members globally.
+Health & Wellbeing
+Private Medical Insurance
+GitLab provides comprehensive private medical coverage through VHI, giving you access to
+quality medical treatments, health screenings, and protection against high medical costs. We
+cover 100% of the premiums for you and your eligible dependents.
+Eligibility Requirements
+All full-time team members
+Coverage includes:
+Team member’s spouse
+Domestic partner
+Children up to age 21 (if enrolled in school). Please make sure to certify that your
+dependent is still enrolled in school when enrolling them. To do so, members need to
+sign up using the Online Enrolment portal and there will be a prompt to confirm Yes or
+No if they are a Student, there is no further details provided at this point as VHI will
+accept the members answer upon application.
+Coverage & Key Features
+Access to private medical care and treatments
+Comprehensive health screenings
+100% premium coverage by GitLab
+Plan details (PMI 4316)
+Benefits brochure
+2025 Renewal Webinar Recording
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

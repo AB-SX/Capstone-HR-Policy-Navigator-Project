@@ -1,0 +1,171 @@
+“Thank you for taking some time today to discuss your Performance and Growth Potential. I
+wanted to discuss your achievements and strengths, improvement areas, future development,
+and the final result of the talent assessment.”
+“I assessed your performance factor as *[Insert Performance factor]:”
+Exceeding (consistently surpassing the demands of their current position)
+Performing (“on track” and meeting all expectations of current position)
+Developing (room to learn and grow, not currently meeting all expectations of current
+position)
+Too New To Rate (hired or transferred <90 days from the start of the Talent Assessment
+program)
+“I assessed your performance as [Insert Performance Factor] because:”
+I assessed your performance against your job responsibilities as [Insert Performance
+Factor].
+Your strengths in your job responsibilities are [Insert strengths with supporting
+examples]
+Your opportunities in your job responsibilities are [Insert opportunities with supporting
+examples]
+I assessed your performance against values competencies as [Insert Performance
+Factor].
+Your strengths in aligned competencies are [Insert strengths with supporting examples]
+Your opportunities in aligned competencies are [Insert opportunities with supporting
+examples]
+“I assessed your growth potential factor as *[Insert Growth potential factor]:”
+Exceeding (ready to take on more responsibilities within the next year (or when an
+opportunity arises))
+Growing (growing in current role, demonstrating interest in advancing (up or laterally)
+and they exhibit knowledge, skills, and abilities that indicate this.)
+Developing (not working at full growth potential against the roles and responsibilities)
+“I assessed your growth potential as [Insert Growth Potential Factor] because:”
+I assessed your growth potential against the four pillars of growth potential as [Insert
+Growth Potential Factor].
+You have shown X, Y, Z [Insert strengths with supporting examples]
+Your opportunities to further grow in your role are X, Y, Z are [Insert opportunities with
+supporting examples]
+If a team member was identified as key talent, please ensure to communicate to the team
+member during the talent assessment conversation.
+I’d like to thank you for your hard work as, and I look forward to continuing to work together! Do
+you have any questions? [Allow team member to ask questions and respond]
+As a next step, let’s schedule some time to talk more about what you want to do in the future and
+create a career development plan together OR let’s talk about how this feedback should be
+incorporated into your Individual Growth Plan.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Sample Next Steps
+The most important part of the talent assessment discussion is to determine next steps in
+partnership with your team member. The team member should be the DRI for the next steps with
+support from you as their manager. Our Career Development handbook page includes a lot of
+great information and resources on career development including an Individual Growth Plan
+guide which should help provide structure and a plan for next steps.
+If you have any questions or concerns about next steps, please contact your manager and/or
+your People Business Partner.
+Information Guide
+Performance/Growth Potential Review General Information
+Why does this matter to me?
+The Talent Assessment involves all team members and managers.
+Team Members are assessed according to performance and growth potential. Team
+Members should be prepared to have a conversation with their manager about their
+performance and growth potential in Q1 each year.
+Managers assess their team members’ performance and growth potential. Managers
+attend calibration meetings in which team members’ ratings are discussed and
+evaluated to ensure consistency and minimize bias. Once the program closes, managers
+are responsible for communicating Performance/Growth Potential Factor to team
+members.
+Can I use Claude to help me with my self evaluation?
+Yes. You may use Claude to assist in the preparation of your self evaluation. Claude can
+be super helpful to assist you in gathering information about your accomplishments, or
+helping you brainstorm how you might refine your self evaluation. However, meaningful
+human input and review is always required, and you should not rely solely on Claude to
+write your self-evaluation.
+Can I utilize Claude or other AI tools to help with manager evaluations?
+Claude is the only AI tool you are permitted to use for this purpose, and it may only be
+used to assist in the writing of manager evaluations. Use of Insights, GitLab Wrapped, or
+any other AI tool for the assessment of team members or the writing of manager
+evaluations is not permitted. Claude can be super helpful to assist you in brainstorming
+how you might refine the feedback in your manager evaluation. However, meaningful
+human input is required in assessing performance and growth potential of your team
+members, and you should not rely solely on Claude to write manager evaluations. We
+also have a robust calibration process in our talent assessment program to ensure we
+are consistently and fairly assessing performance and growth potential across GitLab.
+How does this impact the way I work at GitLab?
+The Performance Assessment is an evaluation of your performance against job family
+responsibilities and GitLab competencies and Growth is evaluated against the 4 pillars of
+Growth Potential. Both can help you determine strengths and improvement areas that
+you can apply in your day-to-day work/way you work.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+How does this impact the teams I lead?
+As a manager, you assess your team members’ performance and growth potential.
+Managers attend calibration meetings in which team members’ assessments are
+discussed and evaluated to ensure consistency and minimise bias. Once the program
+closes, managers are responsible for communicating Performance/Growth Potential
+Factor to team members.
+Who can I reach out to in supporting me during Talent Assessments for my team?
+You can reach out to your manager or your aligned People Business Partner.
+As a manager, when reviewing my team members, what is the difference between
+Developing and Underperformance?
+The “Developing” rating means that the team member is not (yet) meeting all of the
+responsibilities and competencies for the role. This can be for many reasons, including a
+recent start date. By contrast, Underperformance involves consistently not meeting the
+goals and requirements of the job; GitLab follows specific processes to attempt to
+remediate.
+While everyone within the Developing category isn’t automatically Underperforming, a
+team member who is Underperforming would also be grouped into the Developing
+category, because Performing is not an accurate assessment.
+Team members who are on a formal Underperformance remediation plan, such as a 
+Performance Improvement Plan, are not eligible for a compensation increase as a result
+of the Annual Compensation Review.
+Will my Growth Potential assessment impact my compensation?
+Yes both Performance, Growth Potential, and Key Talent Assessment can impact your
+Total Rewards.
+Can my performance factor be changed?
+After the Talent Assessment closes, the performance factor cannot be changed. You
+should work with your manager to develop a plan to develop your performance for
+future assessments.
+Does this mean I am automatically getting an X% increase in the upcoming Annual
+Compensation Review?
+The Performance/Growth Potential Factor is one of the factors considered in the Annual
+Compensation review. The recommended increases displayed in the handbook are there
+to ensure company wide consistency. The factors taken into account for the Annual
+Compensation Review are:
+Your hire date (new hires hired on/before October 13, 2025 are ineligible for
+compensation review)
+Other compensation increases received over the last year
+Timing of promotion and/or role changes
+Your current placement within the compensation band
+Location factor
+Role benchmark updates
+Company budget for compensation increases
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

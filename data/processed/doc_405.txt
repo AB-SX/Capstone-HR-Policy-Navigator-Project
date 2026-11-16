@@ -1,0 +1,54 @@
+Sales Kickoff 2021
+GitLab Sales Kickoff 2021
+Sales Kickoff 2022
+GitLab Sales Kickoff 2022
+Sales Kickoff 2023
+GitLab Sales Kickoff 2023
+Sales Kickoff Planning
+This page outlines the GitLab Sales Kickoff core team structure and planning process
+Last modified March 7, 2025: Fix broken links (b1d67d8e)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/sales/training/additional-resources/
+161. Additional Resources for Sales Training
+Additional Resources for Sales Training
+Customer Success (CST) Courses
+Explainer Videos
+CST201 GitHub.com vs. GitLab
+CST202 Hosting GitLab in the Cloud
+CST203 Integrating Atlassian and GitLab
+CST204 GitLab Maintenance and Support
+CST205 We already use JIRA, so shouldn’t we go with Bitbucket?
+CST206 Traditional DevOps Dasiy Chain
+Best Practices on Customer/Prospect Framework
+Basic Principles to follow in any meeting
+Preparing for your meeting
+Types of External Meetings at GitLab
+* Discovery Meeting
+* Technical Meeting
+* Close Plan Meeting
+After the meeting: Personal Development Plan and Next Steps
+Basic Principles to follow in any meeting
+See External Communication guidelines.
+Preparing for your meeting
+In order to have the best meeting, preparation prior to the meeting is key. The following action
+items are ways to prep for a customer meeting:
+Look over notes of previous engagement and keep handy for customer meeting. Write key items
+to remember during the meeting - make sure to cover these items throughout the meeting.
+Look over your agenda and notes for call.
+Do research on the company and person(s) and get an understanding of the current state of
+affairs at their company.
+Look over the basic principles of customer meetings and resources in GitLab handbook and make
+sure you’re ready for the meeting.
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.

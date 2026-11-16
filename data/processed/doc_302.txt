@@ -1,0 +1,152 @@
+Compliance Training
+Understanding Compliance Requirements
+Compliance training is mandatory training that all team members (or specific groups) must
+complete to meet legal, regulatory, or company policy requirements.
+Common compliance topics include:
+Code of Conduct
+Security awareness
+Anti-harassment and discrimination
+Data privacy
+Export controls and trade compliance
+You can review an up to date list of compliance trainings being assigned from LevelUp here.
+Compliance Notifications
+When compliance training is assigned to you, you’ll receive:
+Email notification with the course name and due date
+In-app notifications when you log into LevelUp
+Reminder emails as the due date approaches
+Overdue notices if training is not completed by the deadline
+Standard notification cadence:
+Initial assignment notification
+Reminders at 7 days before due date
+Reminder at 3 days before due date
+Due date reminder
+Overdue reminders at 2, 5, and 10 days after due date
+Manager notification at 14 days overdue
+These notifications may be customized for individual training courses and assignments,
+depending on the nature of the course, and reasons for the assignment.
+Completing Compliance Training
+Log into LevelUp via Okta
+Navigate to Assigned Learning on your dashboard
+Click on the compliance course to begin
+Complete all required modules
+Check your System Transcript to verify completion
+Important notes:
+Compliance training is mandatory and must be completed by the due date
+Your completion is tracked and reported
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+•
+
+Failure to complete may result in follow-up from your manager or People team
+If you have questions or need an extension due to extenuating circumstances, contact
+your manager or the Talent Development team
+Channels and Groups
+Channels
+Channels are topic-based collections of content that help you discover learning materials on
+specific subjects. Think of them like YouTube channels - curated collections focused on particular
+themes.
+How to use Channels:
+Browse available channels to find topics that interest you
+Follow channels to get notifications when new content is added
+Channels might include topics like “Leadership Development”, “Technical Skills”, “Product
+Knowledge”, etc.
+Content in channels is curated by experts or the Talent Development team
+Groups
+Groups are communities of learners organized around teams, departments, or shared interests.
+Groups allow content to be shared with specific audiences and enable collaborative learning.
+Benefits of Groups:
+Connect with colleagues learning similar topics
+Share resources and recommendations
+Access content specifically created for your team or department
+Participate in group discussions and learning activities
+Joining Groups:
+You may be automatically added to groups based on your role or department
+You can search for and request to join other groups that align with your interests
+Some groups are private and require approval to join
+If you’d like to create a specific group to share learning with, reach out to the
+#learninganddevelopment team.
+Mobile Learning
+Cornerstone Mobile App
+LevelUp runs on the Cornerstone platform, and you can access it on your mobile device using the
+Cornerstone mobile app (Cornerstone Galaxy). This allows you to learn anytime, anywhere.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Features available on mobile:
+Complete assigned learning
+Browse and search the content catalog
+Save content to your favorites
+View your learning transcript
+Receive notifications about new assignments
+Continue learning from where you left off
+How to download and set up:
+Download the app:
+iOS: Search “Cornerstone Galaxy” in the App Store
+Android: Search “Cornerstone Galaxy” in Google Play
+2. Prerequisites: You must have Okta Verify set up on your mobile device
+3. Follow the setup guide: LevelUp Mobile Access Guide
+Mobile learning tips:
+Enable Touch ID or Face ID for quick access
+Download content for offline viewing when possible
+Use commute time or downtime for bite-sized learning
+Set up notifications to stay on top of assigned training
+FAQs
+Getting Started
+Q: How do I log into LevelUp?
+A: Access LevelUp through Okta by searching for the “LevelUp” tile. If you can’t find it, contact IT
+Support.
+Q: Can I access LevelUp on my phone?
+A: Yes! Download the Cornerstone mobile app (search “Cornerstone Galaxy” in your app store)
+and log in with your Okta credentials. You can check out the full access guide here.
+Q: I’m new to GitLab. Where should I start in LevelUp?
+A: Start with any assigned learning that appears on your dashboard. You can also browse the
+onboarding Pathways or ask your manager for recommendations.
+Learning History and Progress
+Q: I completed courses in the legacy system. What happened to my learning data?
+A: Your learning history is preserved and will be migrated to the new LevelUp system over the
+coming weeks and months. You don’t need to take any action or retake courses you’ve already
+completed. The migration happens automatically in the background.
+Q: I started a course, but my progress bar shows 0% completion. Is my progress lost?
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+•

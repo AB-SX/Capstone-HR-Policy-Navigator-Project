@@ -1,0 +1,87 @@
+To manage subscription: Go to Time Off by Deel app in Slack → Home tab → Notifications
+dropdown → Subscribe/Unsubscribe.
+Note: Time Off by Deel syncs with Workday, Slack, and Google Calendar but it does not
+sync with GitLab.com. For absences over 48 hours, update your GitLab.com status with
+your out of office dates by clicking on your profile picture and selecting “Edit
+Status” (e.g., ‘OOO Back on 2025-04-28’). This status is publicly accessible and helps you
+get skipped by reviewer roulette.
+Checking Team Availability
+Checking Team Availability
+To see who is out of office:
+Open Time Off by Deel in Slack
+Select “Who’s Out?” from the Home section dropdown
+Click “new search” to view absences by #channel, @usergroup, or @username
+Additional Manager Requirements
+Additional Manager Requirements
+As a people manager, you may receive tasks through Workday. If you are going to be away from
+work for a prolonged period of time, you should set up a delegate in Workday to approve
+transactions during your absence. Please follow the instructions here, and remember to remove
+the delegate after returning to work!
+Editing Time Off Entries
+Editing Time Off Entries
+Team members can edit future and past-dated entries up to 30 days in the past.
+Entries that are more than 30 days ago will require a submission to the People Connect
+team via Compass.
+Note: Not all requests will be approved; team members are responsible for maintaining
+accurate time away records.
+Submitting Feedback about Workday
+Submitting Feedback about Workday
+If you have constructive feedback or recommendations related to Workday and Time Off by Deel,
+please submit it here.
+Last modified November 6, 2026: Remove /content/teamops/ and related handbook TeamOps
+page (704ed710)
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+•
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-
+us/
+122. GitLab Inc (US) Benefits
+GitLab Inc (US) Benefits
+GitLab Inc (US) benefits specific to US based team members.
+We’ve Got You Covered
+Clear benefits, real support
+At GitLab, we believe team member Benefits should be simple to understand and there when you
+need them. From life’s big moments to everyday questions, our comprehensive coverage gives
+you clarity and confidence so you can focus on your work and life.
+Whether you’re planning for the future, starting a family, caring for aging parents, or dealing with
+unexpected challenges, GitLab’s Benefit offerings are designed to support you at every stage of
+life—with comprehensive coverage and transparent information when you need it most.
+In addition to the benefits below, all team members have access to the company-wide
+benefits.
+2027 Plan Year Information
+Quick Start Resources
+Need help selecting a plan? Use the Flimp PlanSelect tool to help you find the plan that
+best fits you and your family’s needs.
+See the US Benefits LOOP page
+Review the 2027 Benefits Memo for highlights and updates
+See the 2027 US Benefits Guide for a full review of the GitLab Benefit Plans
+Review the 2027 Benefits At A Glance for benefits overview
+See our 2027 Annual Rights Notices
+GitLab offers Mental Wellness Services through Modern Health. In addition to these
+services, team members who enroll in the Cigna and Kaiser plans have access to their
+network of Mental Health Programs and Resources
+Health Insurance Marketplace Coverage Options Notice
+See the Transparency in Coverage. These machine readable files are made available in
+response to the federal Transparency in Coverage Rule and include negotiated service
+rates and out-of-network allowed amounts between health plans and healthcare
+providers. The machine-readable files are formatted to allow researchers, regulators,
+and application developers to more easily access and analyze data
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,129 @@
+What are you hoping to achieve at GitLab this coming year?
+Follow Up.
+Did you discuss pathways to career progress, or specific points of attention for
+improving performance? Make sure you add them to the top of the 1:1 doc so
+as to remind yourselves to follow up every so often.
+Managers are encouraged to share their key learnings with their teams.
+Making yourself open and vulnerable can help the rest of the team understand
+that it is ok to get hard feedback and we can grow from it. It also enlists the
+team is helping you grow.
+Consider asking each team member to share the top 2-3 Themes from their
+feedback, what they plan to do now, and how the team can help.
+If there are areas that were indicated over the 360s that need immediate improvement, are not
+aligned with our values or go against our Code of Business Conduct and Ethics for Directors,
+Officers, Employees and Contractors, please reach out to our Team Member Relations Specialist
+via teammemberrelations@gitlab.com.
+Action Plans
+Once feedback has been delivered, we recommend the manager and team member
+agree on a resulting action plan which can be captured in the Individual Growth Plan for
+ongoing reference and accountability.
+Last modified October 14, 2025: Remove trailing spaces (3643eb9e)
+View page source
+ 
+ .
+• ◦ 
+• 
+• ◦ 
+• ◦ 
+• ◦ 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/competencies/
+030. Competencies
+Competencies
+GitLab has competencies as a common framework to learn things. This page is a Single Source of
+Truth (SSoT) resource for our competencies.
+GitLab has competencies as a common framework to learn things. This page is a Single Source of
+Truth (SSoT) resource for our competencies.
+A competency is defined as a set of skills, knowledge, and behaviors that allow an individual to
+effectively and efficiently carry out their role. There are three key categories of competencies at
+GitLab:
+Values Competencies - a common set of behaviors and skills that reflect the
+organizational values needed across the workforce
+Remote Competencies - the skills and knowledge required to perform in an all-remote
+environment
+Functional Competencies - the skills, knowledge, and behaviors required to perform at
+the functional level
+Principles
+We will re-use the same materials for different audiences by having them on a Single
+Source of Truth (SSoT) competency page
+We will make competencies accessible to everyone in the world, including knowledge
+assessments, to validate understanding a competency (via Google forms and Zapier)
+We will work handbook first so everyone can contribute
+Where we use competencies
+The following initiatives should use the same competencies as their SSoT.
+Instead of maintaining separate materials they should link back to the most relevant place where
+the competency is defined. For general competencies, this is likely our values page. For role
+specific competencies, this is likely the job-description-library page.
+For example, we should have one SSoT for how to articulate the value of GitLab.
+Job description requirements
+Interview scoring
+Promotion criteria
+9 box assessments
+Performance/Potential criteria
+Succession planning
+Learning and development
+• 
+• 
+• 
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+PDPs/PIPs
+Career development
+360 reviews
+Sales training
+Sales enablement sessions
+Field enablement
+GitLab University
+Customer Success Skills Exchange Sessions
+Professional services offerings
+Onboarding both general and department specific
+Customer Success GitLab Demos platform & catalog
+Customer Services Guided Explorations (How Guided Explorations are engineered for
+compounded reuse for competency development)
+Udemy course
+Education service offering
+Content
+Content is in the relevant section of our handbook (with embedded videos and pictures)
+Knowledge assessments are created in Google Forms (via Zapier)
+Structure
+Some competencies are based on job-level and others are based on your role.
+Values competencies are defined by job-level. For example, the definition of competency in the
+GitLab value of iteration and how you demonstrate that competency are different whether you
+are a Product Manager or a Chief Product Officer.
+In general, the scope of impact and expected behaviors expands as job level increases.
+Level Scope of Impact Expected Behaviors
+Intern Contribute Learns/Supports
+Associate Own work Learns/Develops
+Intermediate Work within team Grows/Acts
+Senior Cross functional work Models
+Staff/Manager Across Teams Implements
+Senior Manager Across Sub-Departments Fosters
+Director Across Departments Drives the framework, strategy and plans
+Senior Director Across Divisions Develops the framework and strategy
+VP Across Company + External Stakeholders Leads Changes
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+1. 
+2.

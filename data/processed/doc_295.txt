@@ -1,0 +1,180 @@
+Source: https://handbook.gitlab.com/handbook/people-group/employment-branding/people-communications/
+111. People communications & team member
+engagement
+Content last updated 2025-09-05
+People communications & team member
+engagement
+Our approach to communications and team member engagement at GitLab
+Introduction
+“Internal communication” is the connective tissue that keeps everything and everyone in the
+company moving forward in the same direction. It’s a broad term and is an aspect of our culture
+that every team contributes to in some form.
+The People Communications & Engagement team aims to keep team members informed and
+engaged through compelling internal storytelling and timely information sharing to empower
+team members to become GitLab ambassadors.
+This page defines how our People Communications & Engagement team operates to support
+GitLab team members and various cross-functional teams within GitLab.
+Guiding principles
+👁 Be credible, transparent, open, and honest
+🤝 Provide context, reason, and a call to action.
+📈 Be consistent on delivery, cadence, and tone.
+⏱ Respect people’s time and attention.
+People Communications & Engagement Objectives
+Increase team member engagement and company advocacy through compelling
+storytelling and timely information sharing
+Empower team members to become advocates for our talent brand by connecting
+business updates with our values, mission, and purpose
+Drive team member engagement by creating a variety of touchpoints to meet team
+members where they look for information
+Instill operational rigor into our cross-functional change management processes
+Increase trust and connection between leaders and team members
+GitLab team members can better understand how communication and engagement work
+together by reviewing our Engagement Strategy presentation.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Working with People Communications & Engagement
+Given the amount of information we need to communicate with GitLab team members around
+the world it’s important that we have a structured approach to communication & engagement so
+team members are provided a full view of things happening across GitLab.
+There are several different ways our People Communications & Engagement team can support
+cross-functional projects depending on the need. These include:
+Type of
+involvement
+What this type of involvement entails How People Comms & Engagement
+can support
+Review of
+communications
+The most basic level of support provided
+is a review of planned communications,
+typical lead time is 48 hours
+This means reviewing a single message
+or series of messages for tone and
+format, alignment with communication
+principles, cascade of information, and
+appropriate channel use
+Collaborative
+communications
+planning
+This is a partnered approach on the
+creation of a message or a
+communications plan anticipated to
+impact a significant amount of team
+members or have a high impact to a
+select amount of team members, typical
+lead time is 1-2 weeks depending on
+bandwidth
+For projects with a defined DRI outside
+of the People Communications &
+Engagement team, we will often work
+together on a collaborative comms plan
+by reviewing and editing copy,
+reccomending channels, cascade of
+information, and communications best
+practices
+Accountable for
+communications
+For project with change management
+complexity or a large communications
+component, we look to establish a
+comms DRI to be accountable for
+communications, typical lead time is 3+
+weeks to understand the project and
+advise
+This means writing communications,
+getting neccesary stakeholder input,
+aligning to our typical template for
+leadership review, plus everything we
+would typically do for a review of
+communications
+DRI for
+communication-
+based projects
+Often times an entire project may sit
+with People Comms & Engagement (i.e.
+a large cultural shift like a Value change,
+changes to a major policy)
+In these cases someone from the People
+Communications & Engagement team
+leads a cross-functional project team to
+deliver a defined piece of work
+Depending on the level of support needed for a given project, the person assigned to that work
+from the People Communications & Engagement team can advise on process, standard
+templates and practices used, and suggest best practices for communicating at GitLab.
+If asking for communications to lead communications when preparing key messages to be
+shared with all team members, we ask all departments to follow the process below:
+Share the need for communications support by completing a request for internal
+communications support template as completely as possible and share the need with a
+member of our People Communications & Engagement team.
+* These requests can be shared on Slack using the #internal-communications-
+requests channel, or if confidentiality is a concern, please connect directly with:
+* Devin Rogozinski, Senior Director, People Strategy & Engagement
+Upon receiving the project brief, our People Communications & Engagement team will
+socialize the need with the #comms-asks channel to determine who will be a DRI or
+1. 
+2.
+
+partner from the People Communications & Engagement team or the broader talent &
+engagement team assigned to the project.
+A communications plan including release timing, cadence, and appropriate channels will
+be developed.
+At least ~48 hours advance notice is needed to plan a single message being shared
+For more complex internal communications requests, we request at least ~7-10 business
+days advance notice to effectively collaborate together on a communications plan. We
+will opt to move more methodically depending on the scope and timeliness of the
+communication.
+To expedite this process, you can create an initial communications plan using this
+template.
+Once you have created the initial communications plan, share it with the People
+Communications & Engagement team on Slack using the #internal-communications-
+requests channel, or if confidentiality is a concern, please connect directly with:
+Devin Rogozinski, Senior Director, People Strategy & Engagement
+People Communications & Engagement channels
+We use a variety of channels to communicate with various audiences within GitLab. The top
+channels we use, the purpose of each of these channels, and how everyone can contribute to
+each is as follows.
+“While You Were Iterating” Newsletter… Communicating new updates that are
+important for all team members to be aware of on a twice a month basis.
+* 🤝 To contribute: Write a comment in the 
+most current newsletter GitLab issue and tag 
+@cmotes. Things to note when sending over content:
+Is it globally relevant to more than 75% of GitLab team members?
+Is this something all team members should know about and/or action?
+Does it align with our GitLab values?
+Make sure there is a team member action included
+Send over a 1-2 sentence draft description of your content. If necessary, include
+additional context for internal comms team’s background and knowledge - this
+is helpful when reviewing and finalizing the messaging.
+Manager README Monthly Newsletter: Monthly proactive communication to people
+managers containing: what’s coming up, reminders of what’s important, guidance on
+team member talking points and what actions to take
+* 🤝 To contribute: Write a comment in the most current manager comms GitLab issue
+and tag @cmotes. Things to note when sending over content:
+Is it globally relevant to more than 75% of GitLab People Managers?
+Is this something all people managers should know about and/or action?
+Does it align with our GitLab values?
+Make sure there is a people manager action included
+3. 
+4. 
+5. 
+6. 
+7. 
+◦ 
+1. 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+2. 
+◦ 
+◦ 
+◦ 
+◦

@@ -1,0 +1,111 @@
+ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre
+Work)
+Talk with 3 tenured GitLab sales professionals (individual contributors or people
+managers) and ask them for their tips and tricks on successfully beating the
+competition. Please take notes from your calls and briefly summarize one or two things
+you learned from each conversation in the Google Form to submit the assignment.
+QUIZ: Competitors (Assignment - 5 Points - Pre Work)
+Please take a moment to answer the questions in this short quiz. The information in this
+quiz is covered in the handbook pages on Competitive Intelligence and DevOps Tools
+Landscape.
+Tools to Get Your Job Done
+8. Tools to Get Your Job Done
+Using GitLab: The Basics (Material - Handbook - 45 minutes)
+-This module includes information to help you learn GitLab, and walks you through
+Projects, Issues, Merge Requests, Pipelines, Settings, User & Admin Area. It includes the
+Git Basics Training commonly delivered to customers by Professional Services and
+documentation to help you feel more comfortable with using GitLab.
+-Learning GitLab with Git Basics
+-GitLab Basics Guides
+-Introduction to GitLab Workflow
+-Description Templates
+GitLab Tech Stack Details (Material - Handbook - 10 Minutes)
+Take a look to understand all the tools that GitLab uses to keep the business running
+smoothly.
+ACTIVITY: You’ve Got Issues! (Assignment - 20 Minutes - 10 Points - Pre Work)
+Please find the Sales Enablement Sandbox Project, and read the handbook page “No
+Tissues with Issues”. Create an issue with a label, due date, weight, and assign it to
+yourself. Submit the link to your issue to complete this assignment. Also take a look at
+the Markdown syntax guide to learn more about how to code using Markdown. This will
+be very helpful as you create issues and merge requests.
+ACTIVITY: Practice Searching Issues and Filtering Labels (Assignment - 10 minutes -
+10 points)
+Practice searching issues and filtering using labels
+Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)
+Check out the slide deck on creating a great profile that will look good to your prospects
+and clients!
+Salesforce - Booking Orders (Material - Handbook - 10 Minutes)
+Learn how to create Accounts, Contacts, Opportunities, and Quotes in Salesforce.
+Reference Edge (Material - Video - 10 Minutes)
+• 
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Reference Edge Software will help reps to easily see what available references are the
+best fit for their current opportunity. Check out the video, and Powerpoint on this new
+tool.
+Sales and Customer Success Support
+9. Sales and Customer Success Support
+The Product Teams (Material - Handbook - 60 minutes)
+-Review the Product Stages Handbook page to see who you should reach out if you have
+questions or need assistance with a particular product.
+The GitLab Legal Team (Material - Handbook - 10 Minutes)
+Familiarize yourself with submitting Contract Requests for Legal/Contract assistance. 
+Presentation, Video and Handbook Page
+You can reach out to the Legal Team on the #legal Slack chat channel. The legal Slack
+chat channel is reserved for everyday legal questions. If you are making a request that
+requires some sort of deliverable, please do not use the legal Slack chat channel. Slack is
+reserved for immediate, informal communications. Also, please do not share
+confidential information on Slack that is not meant for the entire company to see, and
+do not use it to seek legal advice. You can email the legal team at legal@gitlab.com.
+GitLab Alliances (Material - Handbook - 10 Minutes)
+Watch the video, check out the handbook page, and slides to understand how we parter
+with other companies to accelerate GitLab’s trajectory by connecting the great work
+every team is doing with the outside world.
+GitLab Terms & Conditions (Material - Handbook - 10 Minutes)
+The following terms and conditions govern all use of the GitLab.com website, or any
+other website owned and operated by GitLab which incorporate these terms and
+conditions) (the “Website”), including all content, services and support packages
+provided on via the Website. The Website is offered subject to your acceptance without
+modification of all of the terms and conditions contained herein and all other operating
+rules, policies (including, without limitation, procedures that may be published from
+time to time on this Website by GitLab (collectively, the “Agreement”).
+Where to Find Sponsored Marketing Events (Material - Handbook - 10 Minutes)
+Take a look at the marketing issue board to see when and where we will be hosting
+marketing events.
+GitLab's Customer Support Team
+10. GitLab’s Customer Support Team
+Review the GitLab Customer Support Documentation (Material - Handbook - 5
+minutes)
+The GitLab Support Team provides technical support to GitLab.com and Self-Managed
+GitLab customers. The Support Team Handbook is the central repository that explains
+our work processes and the reasons behind them. To learn more, check out the 
+Handbook.
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+• 
+•

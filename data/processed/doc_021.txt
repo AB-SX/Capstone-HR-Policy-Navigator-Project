@@ -1,0 +1,154 @@
+Expense Type / Navan Policy Category: Cell phone
+Postage/Shipping/Customs Fees
+Postage/shipping/custom charges related to the sending and or receiving of work
+documentation or special packages can be reimbursed.
+Limit is set at $100.00 per transaction before being flagged for approval.
+Coding
+Expense Type / Navan Policy Category: Shipping & postage
+Professional dues, membership fees
+For bar license dues / fees, Team Members who are employed by GitLab as an attorney
+will supply evidence of payment for such fees and expensed via Navan.
+Other costs associated with professional dues and membership fees are reimbursable
+and an approved G&D request in Compass (for requests opened before June 23, 2026,
+the approved G&D GitLab issue) will need to be noted in the expense report upon
+submission.
+Select classification or tag “Growth and Development” in Navan when you create
+expenses.
+AP Admin needs to review expenses for approved issue.
+Coding
+Expense Type / Navan Policy Category: G&D (Growth & Development)
+Software
+No software subscriptions are reimbursable.
+Team Members that would like to purchase software will need to go through the
+Procurement process.
+Please follow the Guidance from the Individual Use Software Handbook Page.
+Swag
+All Swag related to customers, your team, events, giveaways, TMRG’s, etc., are not to be
+expensed.
+For conferences, any gifts or swag related items to be given out are not to be expensed.
+Please refer to the Merchandise Workflow Guidance in the Handbook before asking for
+an exception.
+Team Building
+To be used for team activities and food/beverages associated with special team events.
+Amount allowed is dependent on their department budget for the year.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Team members to please use T&E accounts for their own individual expenses relating to
+any team building events (ie meals, travel, transportation) and tagging the classification
+to “FY26 Team Building Budget”
+In FY26, each e-group member has been allocated a budget per quarter for FY26-Q2 to
+FY26-Q4 for team building events.
+Each e-group member can use their discretion when using the budget.
+The budget should be used within the quarter the funds are allocated and unused funds
+cannot be moved to a different quarter.
+This budget should cover leadership offsites, Team Members get togethers, the holiday
+party and other virtual fun events.
+In Navan, the Team Member must code any related expense to GL code “Team events &
+meals” and Classification (under optional details) “FY26 Team Building Budget”.
+The expense needs to be submitted in the same month as the event or if not possible
+due to the timing of the event, the latest acceptable submission will be before the end of
+the fiscal quarter that the event took place.
+Coding
+Expense Type / Navan Policy Category: Team members to please use T&E accounts for
+their own individual expenses relating to any team building events (ie meals, travel,
+transportation)
+Classification: FY26 Team Building Budget
+Training/Tuition
+All costs associated with training or tuition are reimbursable.
+An approved G&D request in Compass (for requests opened before June 23, 2026, the
+approved G&D GitLab issue) will need to be noted in the expense report upon
+submission.
+The Growth and Development benefit is managed in partnership by the Total Rewards
+and Learning and Development team.
+Select classification or tag “Growth and Development” in Navan when you create
+expenses.
+AP Admin needs to review expense for approved issue.
+Coding
+Expense Type / Navan Policy Category: Other
+GL Code NON-COGS: 6065 - Training & Development
+GL Code COGS: 5065 - Training & Development COGS
+VPN Subscription
+Starting July 15, 2026, GitLab no longer reimburses personal VPN subscriptions (such as
+ExpressVPN, Proton, Mullvad, and similar services) through expense claims.
+Team members who need VPN access should use NordLayer, GitLab’s company-
+provisioned VPN solution; the linked setup guide covers installation instructions. Moving
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2.
+
+to one centrally managed VPN gives us the same protection you expect from a personal
+VPN while improving security oversight and access management, replacing a patchwork
+of individual subscriptions with one consistent experience.
+See the Loop announcement (internal only) for more details on why we’re making this
+change.
+Questions? Drop a note in the #it_help Slack channel.
+Visas/Permits/Covid Tests
+Travel Visas, Travel Permits, Covid Tests pertaining to travel to/from GitLab events,
+clients, or conferences is acceptable.
+Please provide a detailed description of expenses in the description box.
+Will flag approval required by AP Admin.
+Coding
+Expense Type / Navan Policy Category: Other
+GL Code NON-COGS: 6080 - Other Travel- Visas, Permits, Covid Tests
+GL Code COGS: 5080 - Other Travel- Visas, Permits, Covid Tests COGS
+4.3 Missing Receipt Affidavit
+If a Team Member is missing a receipt, a Missing Receipt Affidavit will need to be completed and
+attached to the expense when submitted. Missing Receipt Affidavit located here (please ensure to
+make a copy). When attaching the receipt affidavit, the Team Member should attach the
+document as a PDF.
+4.4 Reimbursement Payout Timelines
+The procedure by which reimbursable expenses are processed varies and is dependent on
+contributor legal status (e.g. independent contractor, Team Member) and subsidiary assignment.
+Legal entities
+Team Members must submit their expenses through Navan.
+Expenses for GitLab Inc, GitLab Federal, GitLab Ltd (UK), GitLab BV (Belgium and
+Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand),
+GitLab GK (Japan) GitLab LTD (Ireland), GitLab Israel Ltd., GitLab Korea Limited, GitLab
+Canada Corp and GitLab Singapore PTE. LTD. are reimbursed via Navan within 7
+business days for the expenses within policy or after approval by the Accounts Payable
+team (for out of policy expenses).
+The Team Member’s bank account must be set up in Navan in order for payment to
+complete.
+Expenses for GitLab France S.A.S and GitLab BV Finland must be submitted and
+approved by the Accounts Payable team (for out of policy expenses) on or before the 6th
+of each month to ensure it is included in the current month’s payroll.
+3. 
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,90 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/leaders/quarterly-
+planning/
+202. Quarterly Planning Guide
+Quarterly Planning Guide
+How TMxG leaders can plan sustainable quarterly programming aligned to the three pillars.
+Quarterly planning helps TMxG leaders meet expectations without burning out. This guide
+breaks the process into small steps that can be done in 15–30 minute blocks.
+Approximate time: 2–3 hours per quarter, spread over several weeks.
+For detailed internal templates and “how‑to” flows (including example plans), see the TMxG
+Leaders Resource Hub in Google Drive.
+Why plan quarterly?
+Quarterly planning helps you:
+Align with GitLab’s fiscal quarters and business rhythms.
+Be intentional about cultural observance months and DIB partnerships.
+Request budget at least 4 weeks before you need it.
+Avoid last‑minute stress.
+GitLab fiscal year:
+Q1: Feb 1 – Apr 30
+Q2: May 1 – Jul 31
+Q3: Aug 1 – Oct 31
+Q4: Nov 1 – Jan 31
+Step 0 – Map your year (15 minutes)
+Identify relevant cultural observance months for your TMxG.
+Note partnership opportunities (other TMxGs, divisions, ESG/Foundation).
+Check your own bandwidth – busy work periods or PTO where you should plan lighter
+activities.
+Many TMxGs anchor their quarterly initiative to a cultural month in that quarter.
+Step 1 – Choose your quarterly focus (15 minutes)
+For each quarter, choose one pillar to emphasise:
+Career Development
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+•
+
+Community Engagement
+Allyship
+This defines the theme for your quarterly initiative. Your monthly activities can remain simple
+and flexible.
+Step 2 – Map monthly community engagement (15 minutes)
+For each month in the quarter, choose one simple activity:
+Existing social call or coffee chat.
+Async Slack discussion or Q&A thread.
+Cultural celebration post or spotlight.
+You can reuse formats that already work well for your group.
+Step 3 – Design your quarterly initiative (30 minutes)
+Answer:
+What format?
+* Speaker, panel, workshop, storytelling, listening session, async campaign.
+When?
+* Month/week; avoid large conflict dates and ensure time‑zone coverage where
+possible.
+Who’s involved?
+* Co‑leads, DIB partner, potential speakers, other TMxGs or pods, Executive Sponsor.
+What support or budget do you need?
+* Speaker fees, swag, accessibility adjustments, partnership fees, etc.
+If you need budget, you’ll use this information when submitting your budget request. TMxG
+funding is primarily allocated via the DIB TMxG budget, with some initiatives also supported by
+Executive Sponsors or divisional budgets. Your DIB partner can help you decide which route is
+appropriate.
+Step 4 – Submit your budget request (15–30 minutes)
+Deadline: Submit requests at least 4 weeks before funds are needed.
+Include:
+Event title and date range.
+Estimated costs and what they cover.
+Which pillar this supports and how it ties to TMxG goals.
+Expected audience and participation.
+Submit through the DIB team’s agreed channel (for example, help request + tag to your DIB
+partner). See the internal finance how‑to for system‑specific steps.
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+•

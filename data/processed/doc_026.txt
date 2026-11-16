@@ -1,0 +1,109 @@
+If you have any questions about team member benefits coverage, please contact our total
+rewards team at Compass.
+Actions to take as a Manager
+As a manager, when you receive a notification of a team member on your team that is possibly
+affected by a disaster or weather event, we recommend the following steps:
+Talk to your team member(s) after receiving the email. Take the time to listen: What are
+their concerns and their needs?
+Make them aware of our flexible work policy and PTO policy
+Point them to our Employee Assistance Program, Modern Health
+GitLab has established a Team Member Relief Program to assist with financial hardship
+from disasters or other emergencies. Please ask them to visit the GitLab Cares Portal to
+easily determine if they’re eligible for program assistance and to apply for assistance.
+If the team member wants to consider a permanent relocation as a result of being in an
+unsafe environment direct them to our process for Dutch Work Permits. We have a 
+special consideration for team members in unsafe environments.
+Reference this Incident Response Page
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+Source: https://handbook.gitlab.com/handbook/people-group/anti-harassment/
+009. Anti-Harassment Policy
+Anti-Harassment Policy
+Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our
+Anti-harassment policy.
+This is a Secure Document
+Per the stated Roles & Responsibilities, changes to this page must be approved or merged by a
+code owner. All contributions are welcome and encouraged.
+Introduction
+Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means
+that the majority of our interactions are by video call or written communication, such as email or
+shared documents. The exceptions to this are team summits, attending conferences together,
+and local team meetups. No matter the method of communication, it is expected that everyone
+will contribute to an inclusive and collaborative working environment and respect each other at
+all times. Team member behavior is not limited to internal interactions with each other. Our Anti-
+harassment policy applies to GitLab team members interaction with customers, vendors and
+community members. Should you become aware of or witness any form of harassment or
+behavior that violates this policy or our company values, please report the incident directly to the
+Chief People Officer, Team Member Relations, or a People Business Partner immediately for
+thorough investigation.
+Perspective
+GitLab is a global organization and our team is distributed all over the world, so we strive to
+ensure our team is fully aligned with GitLab’s no tolerance harassment policy despite their
+location. We want everyone to feel confident and comfortable communicating concerns. GitLab
+respects, appreciates, understands and supports every aspect of diversity. We aim to
+continuously foster a globally aware team.
+Scope
+This policy applies to all team members of GitLab, whether contractor or employee, in all
+locations. There are local labor laws in every country and in the case of the United States, state
+laws, that must be followed when handling, reporting and investigating incidents of harassment.
+The People Business Partner team and legal counsel, if required, in each of those countries will
+be called upon to ensure compliance and the appropriate legal processes and procedures are
+followed. Specific country requirements for employees (subject to changes in employment law)
+are listed in the Country & US State-Specific Requirements section and will be updated regularly.
+All individual contributors, managers, and leaders will be subject to disciplinary action, up to and
+including termination, for any act of harassment they commit.
+
+Roles and Responsibilities
+Role Responsibility
+GitLab Team Members Responsible for following the requirements in these policies
+People Ops Responsible for implementing and executing these policies
+Legal & People Ops Management (Code
+Owners)
+Responsible for approving significant changes and exceptions
+to these policies
+Ethics & Compliance, Legal Ops Responsible for administrating related training
+Types of Harassment
+The following are considered forms of harassment and will not be tolerated by GitLab:
+Sexual Harassment
+Sexual harassment is considered unwelcome conduct of a sexual nature that is sufficiently
+persistent or offensive enough to interfere with the receiver’s job performance or create an
+intimidating, hostile or offensive working environment.
+Sexual harassment encompasses a wide range of conduct. Examples of misconduct include, but
+may not be limited to, the following actions:
+Physical assaults or the attempt to commit an assault of a sexual nature. This physical
+conduct can include touching, pinching, patting, grabbing, brushing against or poking
+another team member’s body.
+Unwelcome sexual advances, propositions or other sexual comments, such as sexually
+oriented gestures, noises, remarks, jokes, or comments about a person’s sexuality or
+sexual experience.
+Preferential treatment or promises of preferential treatment to a team member for
+submitting to sexual conduct, including soliciting or attempting to solicit any team
+member to engage in sexual activity for compensation or reward.
+Subjecting, or threats of subjecting a team member to unwelcome sexual attention or
+conduct or intentionally making performance of the team member’s role more difficult
+because of that team member’s sex.
+Creating displays, communications, or publications that include content of a sexually
+offensive nature.
+Purposely misgendering people, such as consistently referring to someone as ‘he’ after
+repeated requests to use ‘she’ or vice versa.
+Sexual harassment is unlawful and is considered a form of team member misconduct. Sanctions
+will be enforced against individuals engaging in sexual harassment and against supervisory and
+managerial personnel who knowingly allow such behavior to continue. Any retaliation against an
+individual who complains of sexual harassment or who testifies or assists in any proceeding
+under the law is unlawful.
+1. 
+2. 
+3. 
+4. 
+5. 
+6.

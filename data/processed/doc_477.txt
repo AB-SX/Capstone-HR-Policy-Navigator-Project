@@ -1,0 +1,85 @@
+Session Name Presentation Video
+Customer Success Plan Workshop slides (public) N/A (not recorded)
+Gaining Access and Pitching to the Economic Buyer slides (public) N/A (not recorded)
+Command Plan Excellence slides (public) video (GitLab
+internal)
+Technically Competing Against MSFT in CI Use Case slides (GitLab
+internal)
+N/A (not recorded)
+Next Level Engagements: Consulting Acumen slides (public) N/A (not recorded)
+Proactively Competing Against Jenkins slides (GitLab
+internal)
+N/A (not recorded)
+Account Planning slides (public) video (GitLab
+internal)
+From SCM and CI to Security: Paths to Ultimate slides (public) N/A (not recorded)
+Next Level Engagements: Consulting Methodology slides (public) N/A (not recorded)
+SKO 2020 Wrap Up
+SKO 2020 Wrap Up presentation (public)
+GitLab FY21 Sales Kickoff Wrap Up and Survey Results video (public)
+GitLab Infomercial
+Public version on YouTube featuring David Astor
+Long version (GitLab internal)
+SKO 2020 Pictures
+Sales Kickoff photo album
+LinkedIn headshots
+Last modified August 16, 2024: Replace aliases with redirects (af33af46)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/training/sko/sko-planning/
+196. Sales Kickoff Planning
+Sales Kickoff Planning
+This page outlines the GitLab Sales Kickoff core team structure and planning process
+Sales Kickoff Core Team
+Sales Kickoff is too big to have a single DRI for everything. The Field Enablement leader is
+ultimately accountable for delivery of a successful, on-budget SKO and will be responsible for the
+following:
+Overall story arc
+SKO agenda
+CRO leader interlocks & communication
+SKO Ambassador program
+See the SKO 2023 parent epic. Additional SKO responsibilities will be split into 3 sub-teams with
+category DRIs responsible for specific aspects of SKO as outlined below. The SKO core team will
+include the following sub-teams, all of which have supporting team members underneath them:
+Event Support & Logistics DRI
+* See the SKO 2023 Event Support & Logistics epic for additional details
+Content DRI
+* See the SKO 2023 Content epic for additional details
+Communications DRI
+* See the SKO 2023 Communications epic for additional details
+The SKO core team also includes an executive sponsor (VP, Field Ops) with responsibilities that
+include:
+Champion and socialize CRO Leaders’ POV in SKO planning conversations
+Ensure regular CRO leader check-ins with executives
+Help drive alignment across CRO leadership team
+Secure exec reviews (if/as needed)
+Help prioritize where exec review and approval is needed vs. when and where the team
+has autonomy to make decisions
+SKO Sub-Team Responsibilities
+Sub-Team Responsibilities Key Collaborators
+Event Support &
+Logistics
+- Brand / Design - Budget management - Venue details
+- Partner Summit logistics - F&B (onsite & offsite) -
+- Brand - Field Enablement
+- Channel Programs
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+•

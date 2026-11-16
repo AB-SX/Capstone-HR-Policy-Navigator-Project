@@ -1,0 +1,149 @@
+Expense claims over 90 days from purchase date will not be reimbursed unless
+approved by the Manager.
+Navan Description box: Expense items must have a description filled out. This box is
+showing as optional but we require this to be filled in. This helps to correctly record the
+transaction and assist any reporting purposes downstream.
+When filling in the description box , we ask for you to enter details of the expense so
+anyone looking at the line on a report can tell immediately (without the need of looking
+at the receipt) what the expense relates to and why it is claimed.
+Please fill in the description box with details like : Items Purchased/Claimed, Period
+service relates to, Trip Details this claim relates to, Reason for trip, Clients Name, etc. If
+left blank, the expense will be bounced back to the team member to complete this
+portion.
+The maximum monthly limit to be reimbursed is $10K USD (or local currency
+equivalent). Once this limit has been reached, all expense items will need to be approved
+by the A/P team in Navan. This limit may be increased for Team Members whose
+positions require more spend (eg. Field Marketing), but the increase request needs to be
+submitted via an issue for approval by the VP or higher in the Accounting Organization.
+Due to the nature of their roles, E-Group members have a maximum monthly limit to be
+reimbursed of $20K USD before additional approvals are required.
+Expenditures related to client entertainment or marketing must be necessary, prudent,
+and job-related.
+Expenses that span longer than a month must be submitted on a monthly basis (eg.
+Although you paid for a year upfront for the internet, you must divide the total by 12
+months and submit the cost monthly).
+Personal credits and gift cards: GitLab will reimburse only the actual out-of-pocket
+amount paid by the employee. If personal credits, gift cards, rewards points, or other
+discounts are applied to a business purchase, reimbursement will be limited to the net
+amount charged to the employee’s personal payment method.
+Example: An employee purchases a $100 monitor and applies a $50 gift card. GitLab will
+reimburse $50 (the amount actually paid), not the pre-discount price of $100.
+Expense items must clearly state if the spend includes amounts for clients / non-Team
+Members. Tax requirements in certain countries require us to account for client
+spending differently.
+Anything submitted outside of these guidelines will be flagged as Out of Policy.
+All work-related expenses (internet, co-working space, other monthly subscription, etc.)
+are not reimbursable while on Leave of any kind.
+For PEO’s, as you are aware with Navan, the system will automatically reimburse in the
+currency of the GitLab organization you are employed. To ensure you are reimbursed in
+the currency in which your PEO needs to be invoiced please submit your expenses in the
+payment currency you will be invoicing the PEO in. i.e. if you invoice your PEO in USD,
+then convert the expense into USD prior to submitting the expense report in Navan. This
+will then allow you to know the exact amount to invoice the PEO every month. If this is
+not doable then we will convert the currency using the FX rates from Netsuite on the day
+this expense is transferred to payroll for payment to the PEO. To find out the actual
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+amount submitted in Navan, we can provide you a list of the expenses submitted for
+each month. Please request this monthly by submitting a Compass ticket so we can
+provide you the needed information.
+As with any third-party, it is best practice to limit the amount of personal data shared.
+The inclusion of personal data on your receipts is not required to submit an expense, so
+feel free to redact personal data for increased privacy. However, this is not a required
+step. For those that choose not to redact personal data from your expense receipts, the
+privacy and security controls in place at Navan were evaluated and they are designed to
+adequately protect your information.
+3.1 Out of Policy Transactions
+Expenses flagged as “Out of Policy” in Navan may mean that the expense requires
+additional review due to requiring certain attachments (e.g., an approved issue) and
+approvals. Upon review, if more clarification is needed for a certain expense, the AP
+team will contact the team member via Navan to ask for justification of the transaction
+before approving or rejecting the expense.
+Any exception to the policy is granted or denied at the discretion of the AP Admins. If the
+Admins determine that additional input is required, they will escalate the request to the
+team member’s manager to make a final decision. Exception approvals can be granted
+within the Navan tool or via a Compass ticket.
+There will be occasions where if you have claimed an item and it needs to be reimbursed
+back to GitLab, you will need to follow the repayment process in Navan for submission
+of the funds.
+If you have any questions regarding a rejected expense due to being out of policy,
+submit a request under the Expenses -> General Expenses tile Compass, ensuring that
+you tag your Manager , and adding any other additional documentation so this can be
+reviewed.
+3.2 Trip Purpose Guidance
+When booking travel in Navan, it’s important to select the proper trip purpose type from
+the “Trip Purpose” dropdown menu. Selecting the correct trip type is essential for
+accurate data reporting.
+The options for trip purpose include:
+Company meeting - any travel for internal meetings or events (that are not listed
+separately) with no customers present
+Customer visit - any travel for meetings or events where GitLab customers and
+prospects are in attendance including conferences, roadshows, field events, and
+customer meetings
+Partner visit - any travel for meetings or events where GitLab partners are in attendance
+Specific events - these will be visible in the trip purpose dropdown, ex: FY25 GTM Onsite
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+3.3 Other
+Out of Policy Transactions for all E-Group Members needs to be approved by the Senior
+Director, Assistant Controller or higher in the Accounting Organization.
+Any exceptions to the policy must be documented via an issue or an email with proper
+approvals from their manager and Finance team.
+4. PROCEDURES
+Payment method
+GitLab’s default payment method in Navan is a central company card.
+Payment varies based on travel transaction type - air, hotel, car or rail (where applicable).
+Airfare: All airfare is charged immediately at the time of booking to the card on file.
+GitLab’s central card is the default payment method in the system and will always be
+available.
+Following expenses are categorized for reimbursement purposes with specific policy
+definition attached to it. The limits below are in USD, please use local currency equivalents
+when considering other currencies.
+4.1 TRAVEL RELATED EXPENSES
+Airfare
+All business related flights need to be booked through Navan, and will be paid by GitLab travel
+card. For each flight search, Navan determines the price in real time. Also to note that while it is
+sometimes possible to find a cheaper flight outside of Navan, we get overall better rates in the
+aggregate with the buying power of the whole company. Even if a flight is cheaper outside of
+Navan, please book in Navan. Also submit a request under the Expenses -> Travel Related
+Expenses page of Compass with screenshots of Navan’s rate and the other airlines rate so the
+Expense team can address with Navan.
+Advance Purchase
+Team Members should make air reservations as early as possible, in order to take
+advantage of discounted fares. Travelers will ideally book:
+Domestic: At least 14 days in advance
+International: At least 21 days in advance
+The airfare policy in Navan is set up as a “Dynamic Policy” which calculates a fair market price for
+every search based on travel dates and destinations. Any purchases that are over 20% of the
+Dynamic Policy will be flagged for further review by your manager. Also note that anything
+booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your
+manager and the AP team.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

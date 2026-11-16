@@ -1,0 +1,87 @@
+What are the differences around merge request approvals between the EE tiers?
+Short answer: GitLab Core does not have merge request (MR) approvals. In GitLab Free,
+there is one approval rule with any number of eligible approvers allowed to approve
+with the option to set eligible approvers in a codeowners file. In GitLab Premium, there
+are multiple approval rules with specific approvers (optional required approvers from
+codeowners file). And in GitLab Ultimate, security approvals are introduced as merge
+request (MR) approvals can be configured to require approval from a member of your
+security team when a merge request would introduce a security vulnerability or a
+software license compliance violation.
+Context video:
+Learn more: Check out the GitLab Create Features page
+Create Quiz
+Please take a moment to answer the questions in this short quiz based on the above
+videos and handbook resources for the top technical questions on the Create stage.
+Verify
+How does GitLab CI work?
+Short answer: Coming soon
+Context video (9 minutes, May 2020):
+Learn more: Continuous Integration works by pushing small code chunks to your
+application’s code base hosted in a Git repository, and, to every push, run a pipeline of
+scripts to build, test, and validate the code changes before merging them into the main
+branch. Check out the GitLab CI/CD documentation.
+How can we do test management with GitLab?
+Short answer: Coming soon
+Context video (10 minutes, May 2020):
+Learn more: The GitLab Product Team is exploring enhancements in this area. Check
+out the Quality Management Direction page.
+What are runners and how do they actually work?
+Short answer: Coming soon
+Context video (18 minutes, May 2020):
+Learn more: GitLab Runner is the open source project that is used to run your jobs and
+send the results back to GitLab. It is used in conjunction with GitLab CI/CD, the open-
+source continuous integration service included with GitLab that coordinates the jobs.
+Find out more by reading the GitLab Runner documentation.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+What are best practices for a runner infrastructure?
+Short answer: Group runners are best for large projects (projects which use multiple
+repos) and multiple teams (top level groups provide isolation)
+Context video (9.5 minutes, May 2020):
+Learn more: Review the best practices documentation for using and administering
+GitLab Runner
+Secure
+What are the GitLab security capabilities?
+Short answer: Shift left! Run application security scans in the Merge Requests so
+developers can address vulnerabilities quickly - that’s what we mean by “DevSecOps”
+and the result is increased speed, efficiency, and security.
+Context video (9 minutes, May 2020):
+Learn more: GitLab can check your application for security vulnerabilities that may lead
+to unauthorized access, data leaks, denial of services, and more. Check out the GitLab
+Secure documentation.
+When will we no longer rely on using Docker-in-Docker (DinD) for security scanners?
+Short answer: As of 13.0, we no longer use DinD by default for security scanners. All 5
+scanners (SAST, DAST, Container, License and Dependancy) are able to be run off-line as
+of GitLab 12.10.
+Context video (6 minutes, May 2020):
+Learn more: This is an ongoing effort. See the Use non-DinD mode by default for
+Security Products issue for more information.
+Release
+No questions at this time.
+Configure
+No questions at this time.
+Monitor
+No questions at this time.
+Govern
+No questions at this time.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

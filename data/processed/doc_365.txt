@@ -1,0 +1,59 @@
+Identify the differences between GitLab and Cloudbees/Jenkins and practice articulating
+them with your peers/prospects/customers.
+Observe from other sellers at GitLab how they would approach a sales conversation
+involving a competitor.
+Tools to Get Your Job Done
+Practice using GitLab - specifically, practice using Projects, Issues, MRs, Pipelines,
+Settings, User & Admin Areas.
+Discover all the tools you use on a daily basis and identify the tools your counterparts in
+related departments will be using as well.
+Practice creating an issue.
+Practice searching for an issue and filter to find the issue you’re looking for.
+Modify your LinkedIn profile to encourage social selling.
+Discover how GitLab has set up its instance of SFDC and practice how you’ll use it in your
+role.
+Determine how to gather current references (case studies) and discover how to
+contribute to the bank of case studies in the future.
+Sales & CS Support
+Identify which teams/team members are responsible for which products so you know
+which teams to contact with questions in the future.
+Observe how our GitLab Support team works with customers and with us internally to
+keep our product functioning seamlessly.
+Summarize how the Alliances team can help you advance a sale that involves our
+partners.
+Review the process of submitting contract requests for Legal/Contract assistance.
+Review the following terms and conditions which govern all use of the GitLab.com
+website, or any other website owned and operated by GitLab which incorporate these
+terms and conditions (the “Website”), including all content, services and support
+packages provided on via the Website.
+Review our various marketing events and how to sign up and participate.
+GitLab Customer Support Team
+Review the GitLab Support Team Handbook, which is the central repository for why and
+how we work the way we do.
+Sign up for Zendesk Light Agent.
+Visualize the process a customer might experience if they submit a support ticket to our
+support team. Review the different issues a customer might experience to understand
+some of their pain points.
+Last modified June 27, 2024: Fix various vale errors (46417d02)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+View page source
+ 
+ .

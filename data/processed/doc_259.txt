@@ -1,0 +1,81 @@
+Source: https://handbook.gitlab.com/handbook/people-group/general-onboarding/mr-buddies/
+096. Merge Request Buddies
+Merge Request Buddies
+Merge request buddies at GitLab
+Merge Request buddies are available to help other team members who need help with merge
+requests that will update the GitLab handbook or website. Whether you are learning how to use
+the GitLab Web IDE, make updates to the handbook and website locally, or need answers to other
+Git and GitLab questions, Merge Request buddies are here to help.
+For more serious problems, especially ones that are time sensitive or prohibiting access to
+important information, there is an escalation process to reach out to team members who are able
+to help resolve the problem.
+Note: This role should not be confused with Merge Request Coach. The main goal of a Merge
+Request Coach is to help
+merge requests from the community
+get merged into GitLab.
+Find a Merge Request Buddy
+Visit the GitLab Team page and search for ‘Merge Request Buddy’, or ask on Slack in #mr-buddies.
+Become a Merge Request Buddy
+If you’re comfortable using Git and GitLab and want to help team members troubleshoot
+problems and accelerate their learning, please follow these steps to indicate your availability as a 
+Merge Request Buddy:
+Find your .yml file.
+Add Merge Request Buddy to the departments section in your entry (keeping your existing
+departments):
+departments: - ... - Merge Request Buddy
+3. Add the following code above the story section in your entry:
+expertise: | <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge
+Request Buddy</a></li>
+4. If you already have an expertise section, add the list item portion of the above code:
+```
+Merge Request Buddy
+```
+5. Optionally request maintainer access to https://gitlab.com/gitlab-com/www-gitlab-com to be
+able to merge team members merge requests for this project as an MR Buddy
+Last modified March 4, 2026: Rename job-families to job-description-library (6f520606)
+1. 
+2. 
+•
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/sales/onboarding/
+097. GitLab Academy
+GitLab Academy
+GitLab Academy is the onboarding program for all new hires in the CRO org. It is our most
+ambitious onboarding experience yet — a blended learning journey designed to get new field
+team members customer-ready within their first 30 days.
+About GitLab Academy
+GitLab Academy is a blended learning journey combining self-paced eLearning, buddy programs,
+live virtual workshops, and an in-person graduation event, designed to get new field team
+members customer-ready within their first 30 days.
+GitLab Academy is a multi-layered experience. In addition to the four program components, new
+hires are supported throughout by three simultaneous layers of engagement:
+Hiring manager — sets expectations, coaches role readiness, and debriefs throughout
+the sprint journey
+Onboarding buddy — a peer resource for day-to-day questions and cultural orientation
+during the first weeks
+Shadow program — structured customer-facing shadowing to contextualize and apply
+learning in real situations
+The program is built on three principles:
+Curated, focused content — new hires learn what matters most for their role, not
+everything at once
+Role readiness — by the end of Academy, reps are certified and expected to perform
+immediately in customer-facing situations
+Accountability — completion is mandatory, with clear certification gates throughout
+New hires are enrolled on a rolling, weekly basis.
+GitLab Learner Journey
+Program Structure
+GitLab Academy is organized into four components that run across the first 6-8 weeks of
+onboarding, with simultaneous engagement from hiring managers and buddies throughout.
+Component 1: GitLab Foundations
+Self-paced, role-based eLearning covering foundational product knowledge, GitLab’s positioning
+and differentiation, and an overview of the revenue organization.
+• 
+• 
+• 
+• 
+• 
+•

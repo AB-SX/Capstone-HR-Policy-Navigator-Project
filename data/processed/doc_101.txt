@@ -1,0 +1,87 @@
+Source: https://handbook.gitlab.com/handbook/people-group/people-group-program-management/
+037. People Group Program Management
+People Group Program Management
+This page provides an overview of Program Management within the People Group today.
+Overview
+Program Managers in the People Group drive alignment, measurement, and execution of our
+most impactful business objectives and deliverables. They keep our division organized, on track
+and connected through effective project management while maintaining agility and cross-
+functional collaboration.
+Key Competencies
+Regardless of the team, our Program Management key competencies are consistent to ensure
+the function at its core remains aligned. While the job families remain the SSOT for roles across
+GitLab, a few key competencies and behaviors to expect from all Program Managers within the
+People Group are:
+Key Competency Behavior
+Subject matter expertise Guides programs within their functional area
+Effective communication Provide regular project status updates and project visibility to stakeholders
+Growth mindset Drive continuous improvement through retrospectives and optimization
+Change management Facilitate pivots and timeline adjustments effectively
+Stakeholder management Keep teams aligned and accountable for executing deliverables
+Strategic planning Ensures work aligns with the division’s and organization’s overall goals
+Program methodologies Document processes, manage project plans and mitigate risks
+Note: Company-wide competencies can be referenced here and company-wide job frameworks can be
+referenced here. The competencies outlined above are intended to complement these existing artifacts,
+not replace them.
+Collaboration Framework
+When multiple Program Managers work on the same project:
+The Program Manager from the DRI team leads end-to-end management
+Other Program Managers partner from their team’s prospective
+Close Collaboration ensures unified execution
+• 
+• 
+•
+
+Resources
+Repository for Program Management planning resources and best practices
+Slack channel for Program Management Individual Contributors #ppl_program_managers
+Monthly Program Manager sync
+Last modified November 6, 2026: Remove /content/teamops/ and related handbook TeamOps
+page (704ed710)
+View page source
+ 
+ .
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/people-ops-tech-analytics/
+038. People Operations Team
+People Operations Team
+GitLab People Operations Department Handbook
+Welcome to the People Operations Team Handbook
+Our Mission is to provide extraordinary People support by developing and implementing
+policies, programs, and services that contribute to our team members’ healthy, safe, and
+productive work environment.
+People Operations Teams at GitLab
+Here are how the team members divide their work to ensure the best results:
+The People Operations Team is responsible for onboarding, career mobility,
+offboarding, bonus processing, People Operations, personal information oversight, new
+hire/anniversary swag, and more. This team is also responsible for job changes
+(promotions and transfers), relocations, basic People data reporting, and process
+liaisons during new policy and program implementations.
+The Employment Solutions Team is responsible for our country and location roadmap
+as we consider which countries to hire in, and which employment solution is best. The
+team participates in the ‘Business Expansion Committee’ to develop a plan of country
+conversions, new country creations and changes in employment solutions to reduce risk
+and improve the team member experience. This team also supports relocations and
+visa/sponsorship inquiries and needs.
+The People Compliance Team works collaboratively to partner, manage and protect our
+Team Members personal and professional information, ensuring documentation
+confidentiality, and implements global compliance requirements to help meet internal
+stakeholder expectations.
+The People Tools & Technology Team
+The People Analytics Team is responsible for working with stakeholders to develop and
+report various People Metrics and KPIs for the business. Additional insight is also
+providing using statistical analysis or experimental design to help understand effects of
+different People related initiatives.
+The People Engineering Team
+Connect With Us
+Compass
+• 
+• 
+• 
+• 
+• 
+• 
+•

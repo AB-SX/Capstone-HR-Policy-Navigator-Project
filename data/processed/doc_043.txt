@@ -1,0 +1,109 @@
+program of your choice.
+An example can be found in this sample e-card template.
+Once you have your card created:
+Upload the document to DocuSign
+Once uploaded, assign signatures to those individuals that you would like to sign and
+then send the request to those individuals
+When an individual has signed you will get an email notification
+After you have all of your signatures then download the document from DocuSign
+Slack or email the card to the recipient
+Recommended sites:
+Ella Cards
+Kudoboard Cards
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/contracts-probation-periods/
+017. Contracts, Background Screenings, Probation
+Periods & PIAA
+Contracts, Background Screenings, Probation Periods
+& PIAA
+GitLab contract information and associated procedures.
+Contract Templates
+GitLab’s Team Member contract templates are accessible (for reference) within GitLab only (here).
+The DRI for all contract templates is the Legal, Employment team. Contracts are audited and
+updated on a regular basis. Any suggestions or requests for changes to employment templates
+should be made to the Legal, Employment team and will require approval from the VP of Legal,
+Employment. You can read how to connect with Legal, Employment in the Handbook.
+Team Member’s Individual Contracts
+The DRI for individual team member contracts (once a team member is hired) is the People
+Operations Team. Any queries about a team member’s contract should go to the People
+Operations Team by Compass ticket, and the query will be directed or escalated as appropriate.
+Approved changes or edits to the contract templates will be flagged to the CES team
+The Director, Talent Brand & Talent Acquisition Enablement will support a review to ensure all
+Greenhouse tokens are correct before an updated version of the template can be added to
+Greenhouse for use.
+Correcting an error in an issued employment contract
+If an error is noticed, please make the Associate Manager, Candidate Experience aware.
+The Associate Manager, Candidate Experience will assign the contract correction to a
+Candidate Experience Specialist, ideally to the same person, that created the already
+issued contract.
+If the change is payroll relevant The Candidate Experience Specialist makes total-
+rewards@ gitlab.com and uspayroll@ gitlab.com or nonuspayroll@ gitlab.com aware.
+The Candidate Experience Specialist creates a new corrected contract using above
+templates and adds the following sentence in: “This agreement is effective {Hire date}
+and supersedes the employment agreement dated {date of erroneous agreement}.”
+* Make a copy of the template and save it to the working documents folder on Google
+Drive to edit
+1. 
+2. 
+3. 
+4.
+
+The Candidate Experience Specialist creates a Cover Letter explaining the reason for the
+correction.
+* Make a copy of the template and save it to the working documents folder on Google
+Drive to edit
+Once the new contract and cover letter have been created, ping a Candidate Experience
+Specialist for auditing.
+Send the audited created documents and any additional details on the correction to
+Legal for review.
+Once approved by Legal stage the cover letter and new contract in DocuSign and send it
+for signature first to the Company signatory and subsequently to the team member.
+Upload the signed documents to the team member’s documents folder in Workday.
+If applicable, make any necessary updates to the team member’s Workday profile and
+email Total Rewards total-rewards@ gitlab.com and Payroll uspayroll@ gitlab.com or
+nonuspayroll@ gitlab.com to notify them of the changes.
+Job Change Letter
+If a team member changes roles at GitLab and the approval goes through Greenhouse, the
+process for a Job Change Letter is laid out in the Job Change Letter section on the CES Contract
+Processes handbook page.
+If a team member changes roles at GitLab and the approval goes through Workday, the process
+for a Job Change Letter is laid out in the Job Change Letter section on the Promotions & Transfers
+handbook page.
+For other instances such as a Relocation, the People Operations Team member will create a 
+Relocation letter according to the parameters as listed in the Relocation within the Same Country
+section on the Relocation handbook page.
+Job Change Letter Inc to Fed Entity Change
+For US team members who are changing from the Federal entity to Inc, or Inc to Federal, a job
+change letter will need to be created. Add the below verbiage to the appropriate letter template:
+GitLab is pleased to inform you that you are receiving a [transfer OR promotion] to
+[GitLab Inc OR GitLab Federal, LLC] as {{JOB_TITLE}} effective as of {{START_DATE}}.
+Background Screenings
+GitLab uses appropriate controls to ensure that its team members, assets, customer
+relationships, and information are protected. To reduce these risks, GitLab will obtain and review
+background information of covered prospective, and, as applicable, current team members as
+allowed by local law.
+GitLab currently contracts with Sterling Talent Solutions (currently migrating to First Advantage)
+to provide background screenings. For all candidates being considered for a position at GitLab,
+an employment history for the last 5 years and/or the three most recent employers will be
+verified in accordance with applicable local law (if applicable local law limits the review of
+employment history to fewer years and/or employers, then GitLab follows local law) and
+screening will be performed against various denied party lists including but not limited to the
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+•

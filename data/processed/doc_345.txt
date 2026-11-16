@@ -1,0 +1,81 @@
+For onboarding buddies
+Review this Program Intro Video to get an understanding of the Onboarding Program
+structure.
+Ensure the new hire has correctly created their onboarding project and assist them if
+needed.
+Use the weekly issue structure to guide your check-in conversations — each week has a
+natural theme to discuss.
+The assignments are designed as conversation starters, not homework to review. Use
+them to surface what’s clicking and where more context would help.
+Make sure you share your own insights and experiences as you go through the
+program; discuss your current customers and invite the new hire to your calls to shadow
+so they can see how the work you’re doing together is applied in real-time.
+The 4-Week Curriculum
+Week 1: Foundations
+Day Topic
+Day 1 CSMA Program Overview and Role
+Day 2 Google Drive Overview
+Day 3 Transitioning onto a New Account
+Day 4 Cadence Call Fundamentals
+Day 5 Cadence Call Follow-Up
+Week 2: Customer Systems & Tools
+Day Topic
+Day 1 Gainsight Fundamentals
+Day 2 Collaboration Projects
+Day 3 Success Planning
+Day 4 Account Escalation and At-Risk Management
+Day 5 Engaging With Product Teams
+Week 3: Technical Processes & Support
+Day Topic
+Day 1 Feature Request Management
+Day 2 Searching in GitLab Fundamentals
+Day 3 Working With the Support Team
+1. 
+2. 
+3. 
+4. 
+5.
+
+Day Topic
+Day 4 Customer Usage Data Fundamentals
+Day 5 GitLab + Claude (AI) Fundamentals
+Week 4: Advanced Engagement
+Day Topic
+Day 1 EBR Prep
+Day 2 Highspot
+Day 3 Workshop Planning
+Day 4 Cross-Team Engagement
+Day 5 Deprecations & Breaking Changes
+Program Completion
+After finishing Week 4, you’ll receive a final issue with reflection prompts to help you and your
+mentor identify areas for continued development. You’ll also be invited to complete a short
+feedback survey and schedule a debrief conversation.
+After completing your onboarding, work with your onboarding buddy to get connected with the 
+12-week CSMA Mentorship Program, a structured peer development initiative to pair CSMAs
+who want to accelerate skill growth and share best practices with an experienced CSMA.
+Onboarding Buddy — Reach out to @jgleason1 to discuss transition plan to Mentorship Program.
+Expectations for Manager support during onboarding
+As a new CSMA, your manager will be there to support you during your onboarding journey.
+Beyond the expectations laid out for your manager in your onboarding issue, you can anticipate
+they will also provide you support on the following:
+Month 1
+Schedule recurring 1:1s and check-in calls
+Provide guidance on who the new team member should schedule coffee chats with
+during their onboarding journey
+Review and discuss company policies
+PTO policy
+Family and Friends first culture
+GitLab Values
+Discuss any team-specific expectations
+Review organizational structure
+Ensure new team member has access to role-specific tools and appropriate Slack
+channels
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

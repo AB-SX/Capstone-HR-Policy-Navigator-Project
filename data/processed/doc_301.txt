@@ -1,0 +1,153 @@
+How to Create a Journey
+Click More > Tools > Manage Content > Journey
+Fill in the Journey details (title, description, thumbnail, skills, tags, level, Journey type,
+optional badge)
+Click Continue
+Organize content into sections:
+* Enter a Section Title for each phase (e.g., “Week 1: Foundations”)
+* Search for SmartCards, create new ones, or add existing Pathways
+* Use Dynamic Pathway to auto-generate content
+* Choose display: Tile View or List View
+* Mark content as optional (at least one must be required per section)
+Save as Draft or Publish
+Best Practices: Design sections to build progressively, group similar content types together, use
+clear section titles that indicate what learners will accomplish, and add milestone markers at key
+points.
+Creating content with Articulate Rise
+For
+more sophisticated e-learning courses, the Talent Development team can work with you using 
+Articulate Rise, a professional authoring tool for creating interactive, mobile-responsive courses.
+When to use Articulate Rise:
+You need robust completion tracking and reporting
+The course will be assigned to a large group of users
+You want interactive elements like branching scenarios, knowledge checks, and
+assessments
+The content is complex and requires professional instructional design
+You need SCORM compliance for compliance or certification training
+How it works:
+Request collaboration - Contact the Talent Development team in 
+#learninganddevelopment
+Initial consultation - A team member will meet with you to:
+* Learn about your content and learning objectives
+* Demo the Rise authoring tool
+* Understand your full requirements and timeline
+* Determine the best approach (you build it, we build it, or collaborative)
+Development - Depending on license availability and project complexity:
+* You may receive a temporary Rise license to build the content yourself with support
+* Or a Talent Development team member will build the content with your input through
+iterative feedback cycles
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.
+
+Finalization - Once complete, the course is exported as a SCORM file and uploaded to
+LevelUp as a SCORM SmartCard
+Publishing - The course is published in LevelUp with full completion tracking and
+reporting
+What you’ll need to provide:
+Clear learning objectives
+Subject matter expertise and/or source materials
+Feedback at review milestones
+Availability for collaboration meetings
+Courses built in Rise offer enhanced interactivity, professional design, and reliable completion
+tracking that’s essential for compliance and certification programs.
+Third-Party Content in LevelUp
+If you’re working with a content partner or vendor that offers integration capabilities with
+learning management systems, we may be able to integrate their content directly into LevelUp.
+Current content partners include:
+O’Reilly
+Hone
+Masterclass
+Google Cloud Skills Boost
+How to request an integration:
+Cornerstone is one of the largest LMS platforms in the world and has partnerships with many
+content providers. If you’re working with a vendor who offers training content and you’d like to
+explore integration:
+Contact the Talent Development team in #learninganddevelopment
+Provide information about the vendor and their integration capabilities
+The team will evaluate the opportunity and work with the vendor if integration is
+feasible
+Direct integrations provide seamless access for team members and better tracking of learning
+activities.
+Understanding Your Learning
+System Transcript
+Your System Transcript is your complete learning record in LevelUp. It shows:
+All courses and content you’ve completed
+Completion dates and status
+Earned badges and certifications
+4. 
+5. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+•
+
+Hours of learning completed
+To access your transcript:
+From any page in LevelUp, click More in the top navigation
+Select System Transcript
+Use filters to view specific types of content or date ranges
+This is especially useful when you receive compliance training notifications and want to verify
+what you’ve already completed.
+Progress Tracking
+LevelUp tracks your progress through learning content. However, note that:
+Some courses only report completion, not ongoing progress
+Your progress bar may show 0% until you complete the entire course
+This is normal behavior for certain content types - your progress isn’t lost
+Once you finish the course, your transcript will reflect completion
+For Managers
+Manager Dashboard
+Managers have access to additional tools in LevelUp for supporting their team’s development:
+Access the Manager Dashboard:
+Click More > Manager Dashboard
+View your team’s learning activity, assigned content, and progress
+What you can do:
+Assign content - Recommend or require specific learning for your team members
+Track progress - See who has completed assigned learning and who might need a
+nudge
+View team skills - Understand the skills your team has developed through their
+learning
+Discover content - Find learning resources relevant to your team’s goals
+Best practices for managers:
+Have career development conversations and recommend relevant Pathways or Journeys
+Assign learning with context - explain why you’re recommending specific content
+Follow up on assigned learning and discuss applications on the job
+Celebrate completion of major learning programs or certifications
+• 
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

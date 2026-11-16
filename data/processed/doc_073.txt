@@ -1,0 +1,115 @@
+Highlight the recognition of the team members during a group conversation with the
+broader organization
+Showcase the recognition during an e-group meeting to executives
+Consider a discretionary bonus per team member as a form of superior recognition
+Managers can also recognize team members during 1-1 meetings
+Quarterly Skip Level Meetings.
+Managers should consider their team member’s preference for how to receive recognition when
+choosing what forum seems the most appropriate.
+Beware Of Saying “Thank You” Too Much
+Take a moment to identify situations in which you or your team are saying “Thank You” to the
+same person or team too often. Recognition is essential, but if it becomes very frequent, it can
+start to be perceived as less sincere. If the same team member or team is going above and
+beyond their job responsibility on a regular basis, the best way to say thank you is to
+recognize this pattern of overachievement.
+Additional Resources
+Your Employees Want the Negative Feedback you hate to Give
+Principles of Charity
+Difficult Conversations: How to Discuss What Matters Most
+The Culture Map
+On 2018-02-15, we recorded a training on Peer to Peer Feedback
+Hofstede Country Comparison Tool
+Kim Malone Scott speaking about Radical Candor - The Surprising Secret to being a good
+Boss
+Radical Candor and giving constructive feedback
+Coaching Feedback Model
+COIN & COILED feedback models - World of Work Project Article
+CEDAR Feedback model - introduction and overview from join.com, and a more
+comprehensive article and sample conversation at World of Work Project
+Modeling a Culture of Feedback Manager Competency
+In an all-remote organization, people managers model a culture of feedback that promotes
+ongoing feedback that happens throughout the year. Feedback should not wait until
+performance evaluations, it should happen throughout the year - anytime and in real-time.
+People managers can develop their team members through positive and constructive forms of
+feedback.
+Skills and behavior of the modeling a culture of feedback manager competency:
+Solicits and is open to feedback
+3. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Promotes a culture of ongoing feedback that occurs any time of year and is done in real-
+time
+Creates a welcoming environment for feedback and enables team members to value
+open discussions and debates where they continually learn from one another
+Turns challenges into learning opportunities
+Champions a team environment where feedback occurs all the time and is not done
+once or twice a year during performance review cycles
+Last modified October 21, 2025: Update file guidance-on-feedback.md (717f2d02)
+View page source
+ 
+ .
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/orientation-identity/
+026. Gender and Sexual Orientation Identity
+Definitions and FAQ
+Gender and Sexual Orientation Identity Definitions
+and FAQ
+Gender and sexual identity definitions, frequently asked questions, and resources
+The content on this page is inspired by other sites with glossaries and FAQs. It should be noted
+that many LGBTQ+ terms don’t have complete alignment and can have different meanings and
+nuance in different communities. This is a glossary of terms with some broadly accepted
+definitions.
+The reasons for creating a Gender and Sexual Orientation Identity page in the GitLab handbook:
+Many organizations, including the HRC, have put careful thought and effort into how
+these delicate concepts can be explained with clarity, fairness, and respect. At GitLab we
+should leverage this work.
+Adding it as readable content rather than directing to a new website means this
+information is searchable within the handbook for folks who are looking for answers as
+well as making sections directly linkable from elsewhere in the handbook, in issues,
+slack, etc.
+GitLab has employees from around the globe, where the language used may be
+different. This gives all employees the opportunity to establish a common language
+framework to help create a healthy, supportive, and inclusive environment.
+Additional resources
+GitLab Ally Resources
+Diversity, Inclusion and Belonging at GitLab
+Human Rights Campaign website
+HRC Sexual Orientation and Gender Identity Definitions
+HRC Transgender FAQ
+The Genderbread Person
+A comprehensive list of LGBTQ+ term definitions
+We Are Family Lesbian, Gay and Bisexual Glossary of Terms
+UC Davis LGBTQIA Resource Center Glossary
+Things not to say to a trans person
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

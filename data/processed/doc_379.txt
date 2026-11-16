@@ -1,0 +1,73 @@
+Expectations and success criteria
+A Training Module Maintainer is succeeding when:
+Freshness: The module is reasonably up to date (no obviously broken links, obsolete
+workflows, or deprecated features in core tasks).
+Responsiveness: MRs and review requests receive an initial response within a
+reasonable timeframe.
+Clarity: New learners and their managers report that:
+Instructions are clear.
+The required work is achievable.
+It’s obvious how to start, progress, and mark the module as complete.
+Out of scope
+Maintainers are not solely responsible for:
+Personally delivering all training sessions tied to the module.
+Coaching every learner 1:1 through the entire module.
+Owning all content creation for the topic.
+Instead, they:
+Provide a clear, up-to-date structure for others to contribute to.
+Review and guide contributions from Support Engineers, SSCs, product teams, and other
+stakeholders.
+Last modified March 10, 2026: Added training module maintainer page (5f54b6dc)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/support/training/specialised_domain_tracks/
+146. Support Training Specialised Domain Tracks
+Support Training Specialised Domain Tracks
+Structured learning pathways grouping related training modules into domain tracks for building
+deep expertise
+Overview
+Note
+This page is a work in progress as part of the Create role-based learning paths & curriculum
+initiative within Support. Module statuses marked as “To be created” are planned but not yet
+available. This page will be updated as new modules are developed.
+Specialised domain track areas group related training modules into structured learning
+pathways. Each domain track provides a logical progression of modules, from foundational
+concepts to advanced troubleshooting, enabling engineers to build deep expertise in a specific
+area. Tracks leverage existing modules where possible and identify gaps where new modules are
+needed.
+Note
+The ordering of modules within each track indicates the recommended pathway, but in no way
+dictates an explicit order in which these modules must be taken. Engineers are encouraged to
+follow the suggested progression where possible, but may adapt the order to suit their
+experience and learning needs.
+Domain Tracks
+Database
+A pathway covering PostgreSQL internals, performance and troubleshooting as they relate to
+GitLab.
+Order Module Status
+1 Database Fundamentals (PG settings, PgBouncer, connection pooling) To be
+created
+2 PostgreSQL Locks Exists
+3 Database Performance & Troubleshooting (vacuum, analyze, index bloat, slow
+queries)
+To be
+created
+4 Database Migrations & Upgrades (PG major version upgrades, migration
+debugging)
+To be
+created
+5 Partitioned Tables & Advanced Schema Topics To be
+created

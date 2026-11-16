@@ -1,0 +1,85 @@
+Skill development
+Identifying and Leveraging Opportunities
+Handling Conflict
+Being authentic
+It is recommended that participants meet with their mentee or mentor at least once a fortnight.
+Being a Mentor
+As a mentor, you benefit from:
+Fast feedback loop between team members and leadership
+Opportunity to form relationships with team members in other departments
+Opportunity to support members of the GitLab Pride TMRG and live our values
+Mentor requirements
+You have been with GitLab for at least 3 months at the time of application
+You have availability in your schedule to meet with your mentee on a bi-weekly basis for
+at least 30 minute meetings for the entire length of the program
+You are not on a Formal Coaching plan or PIP (Performance Improvement Plan)
+Note: Anyone at GitLab can apply to be a mentor in the Pride GitLab mentorship program,
+though priority will be given to members of the TMRG.
+Apply
+Please complete the Mentor Application form.
+Applying as a mentor does not guarantee you a spot in the program and eligibility will be evaluated
+based on criteria above.
+Being a Mentee
+As a mentee, you benefit from:
+Increased visibility with leadership
+Increased professional development opportunities
+Career coaching and guidance
+Opportunity to form relationships with team members on other teams
+Mentee requirements
+You have been with GitLab for at least 3 months at the time of application
+You have availability in your schedule to meet with your mentor on a bi-weekly basis for
+at least 30 minute meetings for the entire length of the program
+You are not on a Formal Coaching plan or PIP (Performance Improvement Plan)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Note: Anyone at GitLab can apply to be a mentee in the Pride GitLab mentorship program,
+though priority will be given to members of the TMRG.
+Apply
+Please complete the Mentee Application form.
+Applying as a mentee does not guarantee you a spot in the program, and eligibility will be evaluated
+based on criteria above.
+FAQ
+Can I participate as both a mentor and a mentee?
+Yes, this is a possibility. It’s important that team members talk with their managers to discuss
+their capacity to participate in both roles in this program. Participation in both roles will require a
+2hr commitment per month (two 30 minute sessions as a mentor and two 30 minute sessions as
+a mentee).
+It’s possible that we will have a shortage of mentors and be unable to complete all mentor/
+mentee pairs. If there is a shortage of mentors and you’ve applied as both a mentor and a
+mentee, you will be assigned only as a mentor in this program.
+I participated in a past mentorship program at GitLab. Can I still participate in the current
+iteration?
+Yes! Past participants in any mentor program and as either mentees, mentors, or both, are
+encouraged to apply to participate again.
+I’d like to participate but I can’t commit the entire length of the program. Can I still apply?
+If you cannot commit to the 8 month program, please consider applying for a future mentorship
+program at GitLab. It’s important that both mentors and mentees are available for the full 8
+month program to achieve the best results.
+I identify as an Ally, am I still eligible to participate?
+Yes, everyone is welcome to participate in the program. However, priority will be given to
+members of the Pride TMRG.
+Results
+Results will be measured through feedback gained via a pre-program survey, and post-program
+survey.
+Resources
+Other GitLab Mentorship programs
+Womens TMRG
+Mentoring at GitLab
+• 
+•

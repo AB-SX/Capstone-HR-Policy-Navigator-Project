@@ -1,0 +1,47 @@
+Advisory Group Members
+This page lists the members of the Diversity, Inclusion & Belonging Advisory Group.
+Being Inclusive
+We are all responsible for creating and maintaining an inclusive environment at GitLab.
+DIB Working Group
+A strategic group of impactful team members whose purpose is to drive action and results in
+support of DIB and the DIB Leadership Council
+Diversity Inclusion & Belonging Communications Strategy
+PRoviding details on how the DIB Team communicates with GitLab to achieve engagement,
+contributions and collaborations from team members
+Engineering Initiatives
+Learn more about GitLab Diversity, Inclusion & Belonging Engineering Initiatives.
+Identity data
+GitLab country specific data in regard to team members location, gender, ethnicity, race, age etc.
+View data here!
+Leadership Diversity Inclusion & Belonging Council
+A strategic group of Senior leaders URG Leaders who assist the DIB team to implement the
+strategy and align the strategy to the Division's strategic imperatives
+Neurodivergence and NeuroInclusion at GitLab
+Learn about GitLab's approach to neuroinclusion — supporting cognitive diversity through
+inclusive design, learning, and community.
+Speaker Series
+This page provides the videos and resources of past DIB Speaker Series events and an active list
+of upcoming DIB Speaker Series talks
+
+Sponsorship Program Guide
+The process for Sponsorship Programs at GitLab
+The Ally Lab
+Learn what is an ally, how to be an ally and what it means to be an ally.
+TMxG – Team Member Resource and Advocacy Group Guide
+What Team Member Resource Groups (TMRGs) and Team Member Advocacy Groups (TMAGs) are
+at GitLab, how they work, and how to get involved.
+Last modified November 9, 2026: Replace GitLab Values with Operating Principles in culture
+pages (93a69b24)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/
+102. Career Development and Mobility
+Career Development and Mobility
+Resources and direction for career development and mobility for all GitLab team members
+What is Career Development
+Career development is the non-linear, lifelong growth process integrating learning, work, leisure,
+and change. It happens in all directions, including subject matter expertise, lateral growth to new
+teams, and linear growth through a job family. Use the resources on this page to navigate your
+career growth at GitLab.

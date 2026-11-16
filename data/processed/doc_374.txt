@@ -1,0 +1,69 @@
+Part 3: Soft skills and leadership (Hone)
+Hone offers live, cohort-based classes focused on professional development. While not technical,
+these skills are valuable for Support Engineers who collaborate across teams, mentor colleagues
+and communicate with customers.
+Relevant class categories include:
+Communication skills: giving and receiving feedback, difficult conversations, written
+communication
+Collaboration: working across teams, influencing without authority
+Time management and productivity: prioritisation, managing workload
+Career development: goal setting, self-advocacy
+Last modified November 12, 2026: Support Handbookathon: remove retired Linux Foundation Git
+course from external training (e31ce660)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4.
+
+Source: https://handbook.gitlab.com/handbook/support/training/support_team_skill_areas/
+144. Support Team Skill Areas
+Support Team Skill Areas
+Single source of truth (SSoT) for GitLab Support’s skill areas based on the product categories.
+Advanced Search
+Global Search
+Authentication
+System Access
+Backup/Restore
+Backup/Restore of GitLab instances
+CI/CD
+Continuous Delivery
+Deployment Management
+Environment Management
+Auto DevOps
+Workspaces
+Pipeline Composition
+Review Apps
+Mobile DevOps
+Job Artifacts
+Continuous Integration (CI)
+Component Catalog
+Code Management & Development
+Build
+Code Review Workflow
+GitLab CLI
+GitLab Documentation Site
+Merge Trains
+Source Code Management
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,151 @@
+PPACA: “You may also be eligible under the Patient Protection and Affordable Care Act
+(“PPACA”) for subsidized health care options via the marketplace.
+If you are interested it is important that you sign up with the market place well before
+the 15th of the month to have coverage for the following month”.
+HIPAA: " Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA),
+if you need a certificate of credible coverage please download it from your current
+carrier’s online portal or request it from People Ops".
+Unemployment Insurance: “It is up to your state’s labor agency (in CA: EDD) to decide if
+you are eligible for unemployment insurance”.
+Keep GitLab Informed: “If you move I want to be sure your W-2 gets to you at the end
+of the year.
+You may also contact X at GitLab (provide phone number and email address) with any
+other questions that you may have” (consider inviting them to contact you at anytime
+for any reason).
+Initiating an Involuntary Termination in Workday
+TMR: Terminate the team member in the system by following the steps documented in
+the following job aid (Workday Profile by selecting Actions followed by Job Change and
+finally Terminate Employee).
+TMR: You will be prompted to indicate whether the termination is regrettable or non-
+regrettable and whether the team member would be eligible for re-hire in future or not
+i.e. with review unless specifically relating to conduct or job abandonment in which case
+they would not be eligible.
+TMR: Once you have submitted the termination details, you will be prompted to
+complete a Questionnaire confirming that the Manager or PBP have communicated
+termination to the business AND confirming that access has been shut off with IT.
+People Business Partner: You will receive the termination transaction to review,
+approve, and then enter a comment to confirm termination is ready for the offboarding
+process to begin. If PBP does not want the offboarding process to initiate they
+should NOT approve the termination until they’re ready.
+People Ops: will review all comment(s) and questionnaire to confirm the offboarding
+process is ready to begin. If needed, the Peopel Operations team member should reach
+out to the PBP to confirm the process can be initiated. This will complete the process of
+the involuntary termination.
+Last Working Day
+After the involuntary offboarding call has taken place and the last working day has been
+determined, team members will have no access to GitLab systems and may not be required to do
+any work on GitLab’s behalf.
+If they are on “Garden Leave” they will still be active on payroll through the termination date.
+When determining the timing of the involuntary offboarding call and termination date it is
+important to consider any effect this might have on ongoing tasks and responsibilities of the
+team member. No expenses may be incurred while on garden leave unless necessary to the
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3. 
+4. 
+5.
+
+performance of GitLab duties and approved by the team member’s manager or as subject to local
+law.
+As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the
+People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding
+call while a team member is scheduled for any sensitive customer meetings or is on-call. If this is
+unavoidable, the manager is responsible for ensuring a transition/remediation plan.
+People Engineering automations will generate the offboarding issue at the end of the team
+member’s last working day, as per notification from the Team Member Relations Specialist (TMR)
+and the People Business Partner (PBP). Once the Last Working Day or Garden leave expires the
+team member will be officially offboarded from GitLab. Prior to the offboarding issue and the
+overall process for the term listed below.
+Last Working Day for US Team Members
+TMR: TMR will have a legal/CPO review of the planned offboarding.
+TMR: TMR will inform payroll, compensation and benefits, security and the stock
+administration of the date the team member will have access suspended and the official
+offboarding date prior to the opening of the offboarding issue.
+TMR: TMR will work with People Operations team to ensure the offboarding issue has
+the correct dates and that all stakeholders in Payroll, Compensation and Benefits (Total
+Rewards), Security and Stock Administration have been communicated to and
+understand the offboarding details.
+Sample Offboarding Memo
+If appropriate (to be determined by conversation with the manager, the Group Executive, and
+People Ops), use the following offboarding memo, which is provided here as an openly viewable
+Google Doc, but of course needs to be personalized and tailored to each individual’s situation.
+As written, it is applicable to US-based employees only.
+Separation and Release of Claims Agreements
+Separation and Release of Claims Agreements do not apply for all offboardings. To review in
+which cases they do/do not apply, please reference the Severance Eligibility document
+accessible by Team Member Relations team and PBPs. In the case that a severance agreement is
+applicable, the steps below should be followed:
+Severance Process for US-based Team Members
+TMR: The TMR Partner/Specialist assigned to the particular offboarding case at hand
+should select the appropriate severance template. Options include: Non-California over
+40, California over 40, Non-California under 40, California under 40.
+TMR: The TMR Partner/Specialist should make a copy of the template and save it in the 
+Copies of Individual Severance Agreements folder.
+TMR: The TMR Partner/Specialist should fill out the document.
+1. 
+2. 
+3. 
+1. 
+2. 
+3.
+
+TMR: The TMR Partner/Specialist will ping the stock team in the stock option section of
+the document.
+TMR: The TMR Partner/Specialist will share with the PBP and Legal for final review/
+approval.
+TMR: The TMR Partner/Specialist will stage the document in DocuSign for signatures.
+Please note that depending on the template used, team members have a limited
+amount of time to sign the Separation and Release of Claims Agreement.
+* When staging the document for signatures, please note:
+Remember to send the document to the team member’s personal email
+address
+Select the assign signature order option in DocuSign to ensure the team
+member signs the document first
+All US (Inc.) severance agreements should be signed by Karen Iacobucci, VP,
+People Operations & Technology. If Karen is unavailable then Robert Allen, CPO
+will be responsible for signing.
+US (Federal LLC.) severance agreements need to be signed by an appropriate
+team member within the Federal Entity.
+TMR: When the signed document is received, the TMR should upload it to the team
+member’s Workday Profile in the documents tab.
+TMR: As a final step, the TMR specialist will email the appropriate uspayroll@gitlab or 
+nonuspayroll@gitlab and total rewards that the final severance agreement has been
+uploaded to the team members Workday Profile in the documents tab.
+Important Notes:
+Separation pay is not paid until the ex-team member signs the document and the
+revocation period has passed.
+We treat team members equally and therefore do not take tenure into consideration
+when determining separation pay unless legally required. We know that other
+companies sometimes gives higher separation pay to longer tenure. We think that a
+short tenure can be harder to explain to a next employer and with a shorter tenure you
+might have less stock option upside, maybe you have not even reached your vesting
+cliff.
+Make sure you understand the rules for over 40.
+You must use language in your exit meeting that is in no way forceful of the ex-team
+member to sign the agreement. Use phrasing such as “if you choose to sign”; “you have
+a right to have legal council review this document before you sign”, etc.
+Team Member Leave during an Investigation
+For team members who will be placed on leave during an investigation please follow the process
+below:
+TMR: Communicates with Legal, Aligned PBP regarding the decision to place a team
+member on leave and disable accounts during an investigation.
+TMR: TMR will request IT support for disabling a team members accounts.
+4. 
+5. 
+6. 
+◦ 
+◦ 
+◦ 
+◦ 
+7. 
+8. 
+• 
+• 
+• 
+• 
+1. 
+2.

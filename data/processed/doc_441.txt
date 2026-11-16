@@ -1,0 +1,44 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/tmrg-gitlab-black/
+175. TMRG - Black@GitLab
+TMRG - Black@GitLab
+An overview of our TMRG Black@GitLab
+
+How to Join
+Join the Black@GitLab Google Group to ensure you’re added to upcoming TMRG events.
+Note: It might take up to 24 hours before the calendar events appear on your
+calendar. If there is an event happening within 24 hours of you joining the Google
+Group, please post in the #black-at-gitlab Slack channel to be added manually.
+Join the #black-at-gitlab Slack channel for conversation, announcements, and
+connecting with other TMRG members. Please introduce yourself in the channel when
+you join!
+Join the #donut-black-at-gitlab Slack channel for recurring coffee chat invites with other
+TMRG members.
+Follow or become a member of the Black@GitLab site on The Loop.
+Mission
+Promote personal and professional development. The overall goal is to position our current and
+prospective employees in positions such as managers, vice president, directors, etc.
+Drive inclusion and engagement
+Evaluate current retention and hiring procedures
+Provide resources and foster a community
+This group is open to all members of the GitLab community.
+Leads
+Darren Eastman
+Erran Carey
+Madou Coulibaly
+Executive Sponsors
+Amie Bright
+Member Involvement
+This section is meant to outline how team members in the Black@GitLab TMRG can contribute to
+key initiatives each quarter. We encourage team members to contribute in any way they feel
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

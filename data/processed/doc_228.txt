@@ -1,0 +1,137 @@
+Statutory Leave Policies
+Below is the information related to Italy’s statutory leave policies. Please note that team members
+hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the
+most up to date information.
+Holiday leave
+All full-time workers are legally entitled to a minimum of four week’s paid holiday leave a year. In
+addition, full-time workers have 12 public holidays a year. Individual contracts can provide for a
+longer period of holiday entitlement and holidays cannot be replaced by a payment in lieu.
+Amount of holiday leave also depends on the national collective agreement that the employment
+contract is under.
+Based on the NCLA applied by Remote ROL every employee has right to: 32 hours per year of Ex
+Festività 0 hours per year of ROL, with seniority < 2 years 36 hours per year of ROL, with seniority
+> 2 years, but < 4 years 72 hours per year of ROL, with seniority > 4 years
+When submitting holiday leave via Workday team members must add a comment on which type
+of leave they are taking, EG: “Ex Festiva” this will then be submitted to & processed by Remote
+accordingly.
+To ensure all holiday leave is tracked accurately, please enter all holiday leave requests in
+Workday by selecting the Paid Time Off option.
+Pregnancy & Maternity leave
+Below is the information related to Italy’s statutory leave policies. Please note that team members
+hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the
+most up to date information.
+In Italy, maternity leave is compulsory and women must take up to two months off from work
+before her due date and three months off after the baby’s birth. In certain scenarios, women may
+ask their employers for more time off before the baby’s due date if her pregnancy is considered
+at risk and if her workplace puts her health or her baby’s in danger. In some instances, women
+can request to work up to one month before her due date with the approval of her doctor and
+employer. However, this means that she will have to take a total of four months off after the birth
+of her child
+Maternity Leave Payments
+These pensions are funded by the INPS (National Institute for Social Security) which are financed
+by the employers and employees through the rate established by the employment sector.
+Workers can either be paid from INPS or through the employer who is compensated by the INPS.
+During the five-month leave, women are paid up to 80% of their wage.
+If eligible, a team member’s first 16 weeks of leave will be supplemented the remaining 20% per
+GitLab’s Parental Leave policy. GitLab’s Parental leave will run concurrently with any statutory
+leave and/or pay entitlements the team member is eligible for.
+Applying for Maternity Leave in Italy
+To initiate your parental leave, submit your time off by selecting the Parental Leave category in
+Workday at least 30 days before your leave starts. Please familiarize yourself with GitLab’s
+Parental Leave policy.
+Paternity Leave
+
+Below is the information related to Italy’s statutory leave policies. Please note that team members
+hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the
+most up to date information.
+Fathers are also obligated to take a seven-day paid leave of absence from work during the five
+months of maternity leave. The mother has the option to extend the father’s paternal leave if she
+transfers one of her maternity days to him.
+If eligible, team members can take up to 16 weeks of time away (in total) per GitLab’s Parental
+Leave policy. GitLab’s Parental leave will run concurrently with any statutory leave and/or pay
+entitlements the team member is eligible for.
+Applying for Paternity Leave in Italy To initiate your parental leave, submit your time off by
+selecting the Parental Leave category in Workday at least 30 days before your leave starts. Please
+familiarize yourself with GitLab’s Parental Leave policy.
+Parental Leave In addition to maternity and paternity leave, parents can take extended unpaid
+parental leave for up to 10 months. For a mother this can be up to 6 months in addition to the
+maternity leave. Parental leave allowance is significantly less than maternity leave allowance; only
+30% of one’s wages, and is paid through the INPS.
+Other leave policies
+Below is the information related to Italy’s statutory leave policies. Please note that team members
+hired in Italy are hired via Remote (PEO) and you should always check with Remote first for the
+most up to date information.
+Adoption leave: upon adoption of a child, employees are entitled to 3 months of
+maternity or paternity leave and employees are entitled to the same financial benefits of
+natural children. Parents can also take parental leave in the first three years the child is
+in the family for same periods and financial benefits. Applies to both parents
+Work-related Injust leave: collective bargaining agreements or individual contracts
+generally provide for a period paid time off in the case of work injury. The period is
+generally between 6 and 12 months and applies for both a single period of sick leave
+and multiple periods. The employee is entitled to keep their job and receive their salary
+in proportion to the period set out in the collective bargaining agreement or individual
+employment contract.
+Switzerland 🇨🇭
+Contact: help@remote.com
+Platform: Remote.com Switzerland Portal
+All benefits listed below are administered and managed by Remote, providing comprehensive
+social security coverage and pension planning.
+Switzerland Social Security & Pension
+Comprehensive social security system with shared contributions between employer and
+employee.
+Social Security Contributions
+Unemployment Insurance: 50% employer / 50% employee
+Non-Occupational Accident: 100% employee paid
+• 
+• 
+• 
+•
+
+Occupational Accident: 100% employer paid
+Supplementary Unemployment Insurance: If over a certain value 50% employer / 50%
+employee
+Old Age/Survivors/Disability: 50% employer / 50% employee
+Family Compensation: 100% employer paid
+Administrative Fees: 100% employer paid
+Pension Plan
+Provider: AXA Basisvorsorge AG J25
+Calculation: Based on pensionable salary (includes base salary and commissions)
+Reconciliation: Remote will use the estimated commissions on your monthly payslip. At
+the end of the year, Remote Payroll will conduct a reconciliation and re-declare
+pensionable salary based on actual earnings.
+Statutory Leave Policies
+Below is the information related to Switzerland’s statutory leave policies. Please note that team
+members hired in Switzerland are hired via Remote (PEO) and you should always check with
+Remote first for the most up to date information.
+Paid Time Off
+Team members 20 years old and above receive at least four weeks of paid time off per year. Team
+Members younger than 20 years old are entitled to five weeks. Team members are also entitled
+to paid time off for public holidays in the canton in which they live.
+Team members are eligible for additional time off to get married. Team members are eligible for
+1 day + 1/2 day on the preceding day and 1/2 day on the following day or can log up to 2 full days.
+Please enter the time off into Workday using the label Paid Time Off and then add a comment
+noting the time away is for Marriage leave.
+For this type of time off request, you will also need to enter it into Remote’s platform. Please
+select the “Other” category and enter the details “wedding leave”.
+Pregnancy and maternity leave
+Birthing parents in Switzerland are eligible for 14 weeks (98 days) of maternity leave that begins
+when the child is born. Team members are prohibited from working for the first 8 weeks after
+birth.
+Maternity Leave Pay
+Team members are eligible for up to 80% of their wages during leave; capped at CHF 196 per day.
+Employees in the Geneva canton receive 16 weeks.
+Employees must contribute to AHV (social security) for the nine months preceding childbirth and
+must be actively employed for five months preceding childbirth to be eligible.
+If eligible, a team member’s leave pay will be supplemented the remaining 20% per GitLab’s 
+Parental Leave policy. GitLab’s Parental leave will run concurrently with any statutory leave and/or
+pay entitlements the team member is eligible for.
+Applying for Maternity Leave in Switzerland
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,114 @@
+Align on a general plan to get customer ready including who to schedule your
+onboarding role plays with and shadow at least 4 calls per week
+Ensure new team member is meeting expected milestones from week to week
+Identify skills to be mastered and resources available to accomplish learning objectives
+Month 2
+Regular check-ins on your progress adapting to the role and to GitLab
+Ask them if they are experiencing any challenges with GitLab’s asynchronous culture
+Discuss any general concerns
+Constructive feedback on role plays that were completed during the onboarding
+learning path
+Ensure onboarding milestones are met and that all required courses and certifications
+are completed
+Align on whether your new team member is on track to be customer-ready and support
+to be ramped
+Prep for taking over assigned customers
+Discuss best practices and rules of engagement for CSMAs
+Month 3
+Shadowing customer calls and feedback provided as needed
+90-day check-in to assess onboarding and begin planning for additional development
+Discuss how performance will be formally evaluated
+Beyond 3 months
+Regular feedback on performance
+Partnership on an individual growth plan for goals the team member wants to achieve in
+the coming year
+Ongoing discussion on the following topics:
+Cadence Calls
+Success Plans
+EBRs
+Customer Escalations
+Customer Enablement
+Adoption Paths
+Gainsight Hygiene
+Expectations for Buddy support during onboarding
+Month 1
+Nurture a welcoming environment for the new team member
+Establish a recurring 1:1 meeting to check in on the new team member’s progress on
+onboarding activities
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Provide assistance with any barriers or difficulty understanding concepts covered in the
+onboarding learning path and GitLab Academy
+Connect the new team member with members of the broad team to build a network
+Share helpful tips and resources that are beneficial during their onboarding and beyond
+Work through buddy-led onboarding program
+Month 2
+Provide opportunities for new team member to shadow you on calls and assist with note
+taking
+Debrief on calls and discuss feedback
+Align with new team member’s manager on ways you can provide support
+Month 3
+Co-lead calls with the new team member until they are ready to take over customer
+interactions independently
+Share constructive feedback
+Inform new team member on how you can support them beyond their onboarding
+journey
+The buddy should join the first 5-10 customer meetings led by the new CSMA. If the buddy is not
+available, the manager should join instead.
+It is not only for technical guidance but much more for general feedback and building
+confidence in the CSMA role.
+The close feedback loop will enable new CSMAs to learn faster by helping them
+understand if their approach was the best one, where they can improve, and what went
+well.
+Generally, increased interaction between the onboarding buddy and new CSMA will
+reduce the onboarding time.
+Asking questions and feeling comfortable doing so, improved new hire satisfaction to
+start working with clients.
+Additional Resources
+Continuous Enablement
+For high level information on enablement initiatives for the Customer Success Manager/Engineer
+teams, please refer to the CS Enablement Corner. Additionally, please be sure to check out the CS
+Development Handbook page.
+You will be receiving calendar invitations for Customer Success Skills Exchange and Field
+Enablement Spotlight sessions. Customer Success Skills Exchange is a biweekly series while Field
+Enablement Spotlight is a weekly session. Both cover various topics related to and pertinent to
+the field. Please be sure to join and participate in these sessions!
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

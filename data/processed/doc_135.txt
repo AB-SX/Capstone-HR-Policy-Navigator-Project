@@ -1,0 +1,134 @@
+This is a company-wide position and is not specific to any single region. GitLab remains
+committed to offering competitive, locally relevant benefits and will continue to explore options
+that better align with the company’s structure.
+Growth and Development Fund
+Your professional growth matters to us and strengthens our entire team. That’s why we provide
+up to $10,000 each year specifically for your career development.
+Whether you want to upskill with new certifications, attend industry conferences, or explore
+courses to enhance your expertise, this fund is designed to help you shape your career at GitLab
+while contributing to High Performing Teams across the company.
+Growth and Development Fund details
+Eligibility: All team members, subject to tenure, performance, and available budget
+Coverage Period: January 1st - December 31st (with grace period until end of January for
+December courses)
+How to Apply: Visit the Growth and Development handbook page for application process and
+eligible expenses.
+Financial Wellness Resources
+Resources and guidance to support your financial wellbeing and help you work toward your
+financial goals.
+How to Access: Review available resources on the Financial Wellness handbook page
+Time Off & Flexibility
+Flexible Paid Time Off
+Flexible time off designed to support your overall well-being, with the option to take up to 25
+consecutive calendar days for vacation. We understand that everyone needs different amounts of
+time to truly disconnect and recharge - whether for travel, family moments, personal growth, or
+simply rest. Review the full policy details here.
+All-Remote Work Environment
+GitLab’s all-remote work environment provides the flexibility and support you need to thrive
+professionally while maintaining work-life balance. Our comprehensive remote work resources
+help you succeed from any location, backed by a global community of team members who share
+the remote lifestyle.
+Want to share your remote work experience? Add a remote_story: element to your team.yml
+entry.
+Leave of Absence Support with Tilt - 🇺🇸 & 🇨🇦 only
+GitLab recognizes that navigating a leave of absence–whether expected or unexpected–can often
+be confusing and complex. We’re committed to support our team members during life’s most
+
+challenging or cherished moments, which is why we have partnered with Tilt to provide
+comprehensive leave management support for team members in the US and Canada.
+Effective 2026-02-02, Tilt will serve as the Third Party Administrator for leaves of absence in the
+US and Canada, streamlining processes, answering questions, and facilitating communication
+throughout your leave journey.
+Benefit Features
+For US & Canada Team Members:
+Resources: Access to comprehensive guides on navigating various types of leaves
+(FMLA, state disability, parental leave, etc.).
+🇨🇦:
+ Tilt will administer parental leaves only. The Absence Management team will
+continue to be your administrator for medical or caregiving leaves.
+Practical Checklists: Step-by-step guides.
+24/7 Access: Platform available whenever you need support.
+Direct Support: Leave specialists available to answer your questions.
+Getting Started: A Tour of the Tilt Platform
+For People Managers:
+People Manager Resources: People Managers will be able to easily see status on their
+team members leave of absence and reminders of return to work details.
+Tilt Walkthrough Video
+More Questions? Please read this FAQ article on the Loop!
+How to Access
+Access Tilt in your Okta account
+Explore the Quick Start Guide upon login
+Contact Details
+For support, team members can contact Tilt directly at LeaveSupport@ourtilt.com, through the
+contact form, or text via (970) 449-0178. Team members can also reach out to the Tilt team to
+schedule a call and a Leave Specialist will send a scheduling link to set up time to chat live.
+Travel, Community & Support
+Business Travel Emergency Assistance & Accident Policy
+We’ve got you covered from departure to return. Our 24/7 medical, safety, and security assistance
+through International SOS keeps you safe during business travel, while our comprehensive travel
+insurance provides emergency medical coverage, baggage protection, and accident coverage for
+domestic and international trips. Focus on your work while we handle your safety and security.
+Business Travel Emergency Assistance Details
+Coverage: Automatic year-round coverage for all team members
+How to Access:
+Download the ISOS emergency app using your GitLab email
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+•
+
+Note that this is not a GitLab application and is managed by ISOS. You can read more
+about the app here.
+Press “Need Assistance” for immediate support
+Alternative: Use membership card with emergency contact details
+Business Travel Accident Policy Details - (Business Travel Insurance)
+Team Members can review the Chubb Business Travel Accident Policy.
+Coverage Includes:
+Accidental Death: 5x annual salary up to $500,000
+Out of Country medical expense benefit: Up to $250,000 per occurrence
+Emergency medical benefit: up to $10,000
+Security evacuation: Maximum $100,000. Natural disaster coverage must be within 7
+days of the event.
+Limited Personal deviation coverage: up to 14 days
+Baggage protection: baggage delay up to $2,500 per trip; lost baggage up to $2,500 per
+trip, subject to $1,250 per item/set and max 2 bags.
+Trip Duration: Coverage for trips up to 365 days
+Additional Resource: Chubb Travel Assistance App for emergency travel support
+How to Submit a claim:
+Within the U.S.: (+1) 800-336-0627
+Outside the U.S.: (+1) 302-476-6194
+Email: ChubbAandHClaims@Chubb.com
+Mail claims to: Chubb NA Accident & Health, PO Box 816, Portland, ME 04104
+Meal Train
+Life’s unexpected moments are easier to navigate when you know your community has your
+back. Our Meal Train program allows team members to support colleagues going through
+difficult times or major life transitions by organizing meal deliveries - a simple but meaningful
+way to show care and provide practical help when someone needs it most.
+Meal Train Details and Instructions
+Examples of when someone may request a meal train (this list isn’t exhaustive):
+Arrival of a new baby
+Injuries/Surgeries
+Military deployment
+Extended illnesses
+Condolences
+See the GitLab Meal Train Guide for details on how to Start a Meal Train and Participation
+Instructions
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

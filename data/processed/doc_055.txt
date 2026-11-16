@@ -1,0 +1,133 @@
+GitLab only allows relocations to countries in which we already have a formed entity that
+carries no hiring restrictions. Review our Country hiring guidelines to see if the country
+is eligible for a relocation.
+GitLab cannot accept relocation requests to a location where there might be the
+possibility of the formation of a new entity until it is formally established, open for
+hiring, and the business objectives are fully understood.
+GitLab cannot accept relocation requests to a US-embargoed location, including but not
+limited to Cuba, Iran, North Korea, Syria, Russia, Belarus, and the Crimea, Donetsk, and
+Luhansk regions of Ukraine.
+In addition to the U.S. embargoed countries identified above, GitLab cannot accept
+requests from GitLab Federal team members to the following countries without
+approval from GitLab’s Trade Compliance Counsel: Afghanistan, Belarus, Burma
+(Myanmar), Central African Republic, China (PRC), Democratic Republic of Congo (DRC),
+Eritrea, Ethiopia, Haiti, Iraq, Lebanon, Libya, Nicaragu,Somalia, South Sudan, Sudan,
+Venezuela, Yemen, and Zimbabwe.
+You can only work in countries where you can establish eligibility to work in the country
+without visa sponsorship provided by GitLab.
+Relocations can also result in an adjustment to compensation, including equity eligibility,
+based on the location and the location factor. Depending on the location factor and the
+benefits offered in the particular country, the adjustment will result in an increase or a
+decrease to the compensation package. The Company retains discretion to determine
+whether it can support the relocation due to the required adjustment.
+At the onset, this practice may seem harsh when moving to a lower-paid location. One might
+argue that people should be paid the same regardless of where they live. However, if you look at
+it from another angle and compare this practice to what most companies do, it should make
+more sense. For example, if you work for a company with physical locations and they require you
+to work out of an office or close to an office, you’d have to live in that area. If you wanted to move
+to a location where they did not have a physical site, you would have no alternative but to resign
+and seek new employment in your new location. You would find that companies in the area pay at
+a locally competitive rate.
+Now, let’s say the company did have a site in your new location and they offered the flexibility to
+transfer. If they did not have a similar position open, you would have to either apply for a
+different open position in the same company or resign and apply externally (back to the
+realization that other companies will pay at a locally competitive rate). If you were lucky enough
+that they did have a similar role in the new location, a transfer would come with a pay rate based
+on the local market to ensure equity across all incumbents (people in the job) by location.
+Adjusting pay according to the local market in all cases is fair to everyone. We can’t remain
+consistent if we make exceptions to the policy and allow someone to earn more than locally
+competitive rates for the same work others in that region are performing (or will be hired to do).
+Being fair to all team members is not negotiable. It is a value we stand behind and take very
+seriously.
+• 
+• 
+• 
+• 
+• 
+•
+
+Considerations and Eligibility
+GitLab retains discretion at all times whether it can accommodate you to continue your
+role in the new location based on the requirements of your role and the potential impact on
+the business. In some instances a move will not align to your proposed location, (e.g. a
+recruiter hired in EMEA to support EMEA would not be approved to move to the US), and in
+other instances the company may not be able to support a relocation in the proposed
+location. Second, in almost all situations the compensation, including equity eligibility, can
+change. During the relocation process, you will learn how your compensation may be
+impacted and be able to make an informed decision. Any increases in compensation will
+need to go through an approval process. This allows the business to validate budget
+availability early in the process. The People Group will review the compensation impact (if
+applicable) only after the move has received pre-approval. Generally, they will not calculate
+or provide a hypothetical salary estimate before that point.
+If you are considering applying for a long-term relocation to a new country, the first
+consideration is to ensure that GitLab has an entity in the country to which you would
+like to move. We currently only support relocations to GitLab Entities that are open for
+hiring and do not have hiring restrictions or headcount caps. This is in alignment with
+our Country hiring guidelines.
+Consider any changes to benefits as benefits can vary by country.
+You must have the appropriate right to work documentation/visa requirements in the
+country that you are considering relocating to.
+Please note, at this moment GitLab only sponsors relocations to the Netherlands and
+doesn’t cover relocation costs for the team member’s family members also looking to
+relocate.
+You must have satisfied the required one year tenure to be eligible for relocation.
+Eligibility to Work
+If you are interested in a long-term relocation (defined above), you need to confirm that you
+would be eligible to work in that location. Except for the Netherlands, GitLab does not provide
+any form of sponsorship or immigration aid for team members who choose to move to new
+countries. For more information, please refer to our Visa page. GitLab cannot assist or facilitate a
+process to help you become eligible to work in a location if you do not already have that
+eligibility. You are of course free to apply and gain that eligibility if there are steps you can take
+that do not involve GitLab. Once you are certain that you are eligible to work in your requested
+location country, you will need to provide proof of eligibility by uploading the proof in the
+Documents tab of your Workday profile. If you move before establishing eligibility to work, but
+then cannot establish eligibility to work in the new location within the first six months of
+residency, it may affect your ability to continue your role with GitLab.
+1. 
+2. 
+3. 
+• 
+1.
+
+How To Apply for a Long-Term Relocation
+Team Member
+Review the Country hiring guidelines to see if we can support your relocation.
+If you are moving to a different country, please start this process no later than 3 months prior
+to your ideal relocation date. If your relocation is within the same country, please start the
+process no later than 30 days before your ideal relocation date.
+If you are moving to a different country, upload eligibility documentation to Workday -
+Per the Eligibility to Work section above.
+If the request has been pre-approved, submit the Relocation Request Form via Compass,
+attaching the written pre-approval, to start the process. Upon completion, the form is
+sent automatically to People Operations who will review the details of your move and
+will work with the proper leaders and approvers to determine if the relocation can be
+approved (based on any budgetary and job duty impacts). Your manager will review if
+your role can be performed adequately in the new location without negatively impacting
+stakeholders or customers. Some positions require GitLab team members to be located
+in particular countries, locations, regions, or time zones and will not be eligible for
+relocation. People Operations will work with your manager on the final decision. Your
+manager will communicate the decision and the impact on your compensation so that
+you can make an informed final decision as to your move. Your assigned People
+Business Partner will also be informed of your request to relocate.
+Start preparing and avoid a delay in your pay or change to your relocation effective date
+by ensuring you have all required work documentation prior to your relocation. The
+onus is on the team member to research these requirements in advance as GitLab
+doesn’t provide immigration support, except for the Netherlands. Please take into
+account processing times for visa and other required appointments in the relocating
+country needed in order to receive a tax number, bank account, etc.
+Note: Assuming your relocation is approved, any applicable changes in compensation will not be
+effective until your move date (or the date you start working in the new location), which will be
+listed as the effective date on your new contract. We will not be able to process retroactive
+dated relocations. Please only use future dates when applying for your relocation.
+Approvals Phase
+Below are the steps to approve a long term relocation.
+Relocation Within Same Country and Same Location Factor
+No approval is needed. Team Members can update their address in the Contact tab in their
+Workday profile. A People Operations Team member will approve the address in Workday and
+reach out if there are any additional steps necessary to complete the relocation process.
+If the country and the location factor don’t change, no change in compensation is allowed as part
+of the relocation action.
+1. 
+2. 
+3. 
+4.

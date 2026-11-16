@@ -1,0 +1,57 @@
+Source: https://handbook.gitlab.com/handbook/sales/training/sko/2022/
+193. Sales Kickoff 2022
+Sales Kickoff 2022
+GitLab Sales Kickoff 2022
+Overview
+GitLab SKO 2022 took place virtually from March 15-17, 2022. The virtual event consisted of three
+half-days offered in two time zone options to accommodate our team members around the
+world. To learn more about the event, see the Field Team FAQ document.
+SKO 2022 Event Promo Video
+Watch Again
+All recordings from SKO 2022 can be found in Highspot. If you do not have Highspot access,
+you can also find the recordings in the Sales Kickoff 2022 channel in EdCast (GitLab internal-only).
+SKO 2022 Day 1 Sessions
+Session Name Video
+Welcome Keynote video link
+Product Keynote video link
+Field Spotlight #1 video link
+Customer Speaker video link
+Field Spotlight #2 video link
+SKO 2022 Day 2 Sessions
+Session Name Video
+Motivational Speaker video link
+Channel & Alliances Keynote video link
+Field Spotlight #3 video link
+Marketing Keynote video link
+Field Spotlight #4 video link
+Closing Keynote video link
+
+SKO Awards Ceremony
+Session Name Video
+Awards Ceremony video link
+SKO 2022 Role-Based Breakout Sessions
+Enterprise Sales Strategic Account Leaders
+Session Name Presentation Video
+Delivering Strategic Customer Outcomes by Partnering with Your SAs N/A video link
+Using Effective Proposals to Advance and Win Deals N/A video link
+Supersonic pipeline: Best practices for prospecting to 4x N/A video link
+Commercial Sales Account Executives
+Session Name Presentation Video
+The Big Pitch slides video link
+Capturing the “Why Now” slides video link
+The Journey to Ultimate, Part Two slides video link
+Channel Sales Account Managers
+Session Name Presentation Video
+Developing your Select Partners to their Maximum Potential and Value
+Opportunity
+slides video
+link
+Building Pipeline with your Partners MDF and Marketing Campaigns N/A video
+link
+Partnering with Alliances to Increase Revenue and Value slides video
+link
+Solution Architects
+Session Name Presentation Video
+Positioning the GitLab Agent for Kubernetes in your sales deal slides video link
+Value Stream Mapping - Origins, Assessments and Iterations N/A video link
+GET Workshop slides video link

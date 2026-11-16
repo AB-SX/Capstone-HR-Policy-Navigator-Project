@@ -1,0 +1,93 @@
+Employee Assistance Program (EAP): Review your location’s benefits for additional
+support services and resources that might be offered
+Bereave Support Benefits: Bereave
+Life Insurance Support: Review your location’s resources for support that might be
+offered
+Peer Support: Optional connection with other team members who have experienced
+similar losses
+Volunteer
+Overview
+GitLab encourages team members to volunteer within their community to take care of others.
+Volunteer time-off at GitLab falls under our Flexible PTO framework, allowing team members to
+take time off to support causes that matter to you and your personal commitment to diversity,
+inclusion and belonging, part of GitLab’s Culture of Excellence.
+Request Process
+Request Process
+Notify Your Manager: Discuss and coordinate time-off with your manager in alignment
+with our Flexible PTO policy, providing as much notice as possible, but at least twice as
+many days as your planned time off (e.g., 6 business days notice for 3 days off).
+Document in Workday: You can enter Volunteer time directly into the Workday app, or
+through the Workday Slack integration.
+* Select the day(s) you need to take > Click “Time-Off” > Click “Volunteer” > Optional: add
+a comment > Click “Submit”
+Create a Coverage Plan: Arrange appropriate coverage for your responsibilities, set
+expectations around communication during your absence, plan for your return to work.
+Discover GitLab’s Volunteering Opportunities with GiveLab
+GiveLab is GitLab’s Team Member Volunteer Program! Read more about how to get involved here.
+GitLab Legal Civic Obligations Policy
+This policy outlines GitLab’s approach to legal civic obligations. In locations where statutory laws
+mandate specific provisions, those legal requirements will supersede this policy.
+Overview
+GitLab will provide leave for any active team member who receives an official summons or court
+order to participate in judicial, administrative, or quasi-judicial proceedings, including, but not
+limited to, serving as a juror or a witness and who must take time off of work because of it,
+provided the team member gives reasonable notice to the company of the requirement to appear
+in the proceeding and as required by applicable law.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.
+
+Eligibility & Entitlement
+Eligibility & Entitlement
+This benefit is available to all team members on their first day of work.
+Team members on an authorized Leave for Legal Civic Obligations are eligible to pay for up to the
+equivalent of 25 full working days of such leave, unless otherwise provided by applicable law. Pay
+for this leave is not available for days when the team member otherwise would not be required to
+work, regardless of whether the applicable judicial body is in session. Pay for this leave is paid at
+the eligible team members usual rate of pay based on a regularly scheduled workday.
+Request Process
+Request Process
+Notify Your Manager: Inform your manager as soon as you receive a summons.
+Discuss the potential duration and impact on your work responsibilities.
+Document in Workday: You can enter Jury Duty directly into the Workday app, or
+through the Workday Slack integration.
+* Select the day(s) you need to take > Click “Time-Off” > Click “Jury Duty” > Optional: add
+a comment > Click “Submit”
+Documentation: Attach a copy of the summons to your entry, or email it to 
+leaves@gitlab.com.
+Create a Coverage Plan: Arrange appropriate coverage for your responsibilities, set
+expectations around communication during your absence, plan for your return to work
+We realize in some cases a 30-day notice period may not be possible. In these situations, you
+should notify your manager as soon as possible and enter the dates in Workday when you can.
+Please note that for audit and compliance purposes, all team members are required to use
+Workday as the single source of truth to accurately track and communicate all time off.
+Required Documentation
+Required Documentation
+A team member who has been summoned for a judicial proceeding is required to advise their
+supervisor of the summons or subpoena as soon as is practical after receiving it and to provide
+the supervisor with a copy of the summons or subpoena. No Legal Civic Proceeding Leave of
+Absence will be authorized until a copy of the summons is submitted.
+Pay while on Jury Duty
+Pay while on Jury Duty
+Eligible team members will receive 100% of their weekly wages through paid leave unless the
+absence for civil legal proceedings exceeds 25 working days. If the absence exceeds 25 working
+days, the Absence Management will review the case and follow-up with team members on an
+individual basis.
+Coordination with other Leaves
+1. 
+2. 
+3. 
+4.
+
+Coordination with other Leaves
+This paid leave will run concurrently with or be supplemented by other forms of job-protected or
+income-replacement leave, depending on eligibility as required by law where applicable.
+Last modified November 9, 2026: Replace CREDIT values with Operating Principles on People
+pages (f8f45918)
+View page source
+ 
+ .

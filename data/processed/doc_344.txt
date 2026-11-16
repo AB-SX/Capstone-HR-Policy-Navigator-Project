@@ -1,0 +1,104 @@
+Scenario practice — preparing for and running an EBR conversation with a sample at-
+risk account
+Session 3 — Systems and Operating Rhythm
+Format: Live demo and hands-on walkthrough
+What this covers:
+Systems overview — what lives where across Salesforce, Gainsight, GitLab.com, and
+Highspot
+Gainsight deep dive — health scores, CTAs, cadence calls, and success plan tracking
+Salesforce for CSM/CSA — what you need to know and own
+GitLab Operating Model — how Issues and Epics are used to manage the business and
+how CSM/CSA contributes
+Hands-on practice navigating a sample Gainsight account, finding a CTA, and updating a
+health score
+Graduation from GitLab Academy
+In order to be considered as having graduated from your CSMA onboarding journey, you need to
+have completed the following:
+Completed GitLab Academy eLearning prework on GitLab University
+Attended all GitLab Academy sessions, including the Command of the Message class
+(attendance is mandatory)
+Attended all four role-based live skills sessions
+Attended the in-person regional Academy Graduation Bootcamp and passed the stand-
+and-deliver capstone assessment
+Completed your role-based learning path on GitLab University
+Completed the Pulse+ CSM Certificate I and Advanced CSM Certificate II
+Attained the following certificates:
+GitLab Certified Git Associate
+GitLab Certified CI/CD Associate
+GitLab Certified Project Management Associate
+GitLab Certified Security Specialist
+Completed role play activities and discussed feedback with your manager / onboarding
+buddy
+Shadowed at least 4 calls per week throughout your onboarding and discussed with
+your manager
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Buddy-led CSMA Onboarding Program
+This program is an optional, self-paced supplement to the official GitLab onboarding experience
+described above. It is not a requirement for graduation, but is designed to run alongside your
+role-based learning path and GitLab Academy sessions — giving you and your onboarding buddy
+a structured daily touchpoint while you are ramping into the role.
+Overview
+The CSMA Onboarding Program is a 4-week initiative built around daily focused learning
+modules, practical assignments, and weekly mentor check-ins. Each module pairs a short video
+with a hands-on assignment so that concepts are immediately applied to real CSMA workflows.
+→ Start Here: Program Intro Video
+The program lives in GitLab as a set of issues that you and your onboarding buddy work through
+together. Each issue contains the learning content, relevant handbook links, and a practical
+assignment for that day.
+Program Details
+Duration: 4 weeks, one module per business day
+Participants: New hire CSMA + assigned onboarding buddy
+Format: Daily video review → practical assignment → weekly mentor check-in
+Effort: ~30 minutes per day alongside your main onboarding activities
+How to Get Started
+For new CSMAs
+To get started, create your onboarding project (reach out to your buddy if you run into
+problems!):
+Go to the CS Training Programs subgroup (if you do not have access, ask your buddy or
+manager for help)
+Click Create Project
+Click Create from template
+Click Group
+Next to CS Onboarding, click Use Template
+Title the project [Your Name] Onboarding
+Click Create project
+Read the README.md and follow along!
+Once you’ve set up your project, do the following each day until you have completed the
+program:
+Open the issue for today’s module and work through the content at your own pace.
+Complete the assignment at the bottom of each issue — these are optional.
+Bring your questions and assignment reflections to your weekly mentor check-in.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+1. 
+2. 
+3.

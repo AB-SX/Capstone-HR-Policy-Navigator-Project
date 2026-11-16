@@ -1,0 +1,177 @@
+The start dates for Israel team members can be a Sunday, given that their work week is
+Sunday through Thursday. Please let the People Connect Team know that the start date
+would be a Sunday.
+Send a message to the Legal Team the in ces_legal_contracts slack channel requesting
+assistance with the offer. When making the request in the channel, please indicate the
+candidate’s name, include the link to the GH profile & request them to give the
+compensation breakdown as well as let you know what contract template to use.
+One of the Legal Team members will respond with the following information:
+* The GreenHouse Offer Template that you should use
+* The compensation breakdown & CES to add the ID number in Exhibit A
+* The language that should be added to the template (including where on the contract
+the wording should be placed).
+Once this information has been received, please go into GH and follow the steps below:
+Click on the settings icon
+Select ‘Offer Templates’ on the left-hand side
+Search for the Template as advised by Legal
+Click on the three dots on the right-hand side of the template you will be using and
+select the ‘download’ option
+Open the document in Google Docs
+Make all the changes as advised by the Legal Team and save the document
+Go back to the offer templates page on GH
+Click on ‘Upload New’ on the right-hand side
+Upload the amended document using a title with the candidates initials (this is so you
+can identify the template when you go to generate the contract)
+Then follow the normal offer creation process in GH and select your uploaded document
+as the offer template for this offer.
+Please remember to delete this template once you have completed the process and the
+offer has been signed by the signatory & the candidate
+Once after the candidate has signed the offer, please send the “New Hire Welcome Email” where
+there is a laptop request form. GitLab can ship laptops to Israel and there is no need for the team
+member to self procure laptops anymore for Israel.
+CXC (NOTE: HIRING IS CURRENTLY PAUSED HERE: Please speak with
+Enablement before sending offer letters)
+GitLab is working in partnership with CXC Global to employ GitLab team-members located in 
+Poland, Ukraine, Romania, Russia, Serbia, & Slovenia. The actual employment contracts will be
+sent and issued by CXC and are in accordance with local labor law. CXC also handles the
+processing and payment of payroll and associated taxes and compliance in each of the countries
+on behalf of GitLab. The contracts themselves are between the individual and CXC.
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11.
+
+CXC provides a 12 month contract in these locations, and this can be extended. They are only able
+to support contractors that have an established entity/company in these countries (listed above).
+The offer details will be provided to CXC by GitLab’s hiring team.
+To create the contract:
+Offer is made by the recruiter per the hiring process.
+The Candidate Experience Specialist emails the new team member the Contract Info
+Request - CXC from GreenHouse.
+* Click “Email CANDIDATE NAME”
+* Select “Contract Info Request-CXC” from dropdown.
+* CC Recruiter
+* Click “Send Email”
+Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday
+date is legally required.
+The Candidate Experience Specialist will check if there is a probationary period.
+* Go to Probationary Periods for Team Members Employed by a PEO and check the
+candidate’s country.
+* Select the duration of the probationary period (if any) in the “Offer Details” dropdown.
+If there isn’t one, select “N/A” in that field.
+The Candidate Experience Specialist will check if the contract is indefinite or fixed.
+* If the contract is indefinite, select “Indefinite” from the dropdown in “Offer Details”.
+* If the contract is fixed, select “Fixed Contract” from the dropdown in “Offer Details” and
+enter the end date under “End Date”.
+Once the additional information is received, The Candidate Experience Specialist will
+generate the PEO form out of GreenHouse.
+* Click “Generate”
+* Select “PEO New Hire Template” from the dropdown
+* Click “Generate”
+The Candidate Experience Specialist will stage the form for their own signature via
+DocuSign, the new team member and the appropriate CXC contact. Contact details can
+be found in 1password => People Operations Vault => Entity & Co-employer HR
+Contacts.
+The Candidate Experience Specialist should add the candidate to the PEO Tracking Sheet
+and keep track of communication between GitLab.
+CXC will then prepare the SOW and contract.
+CXC will then reach out to the candidates directly to coordinate the contract signing and
+onboarding to CXC’s payroll.
+Kindly allow a duration of one week for CXC to complete their process. This might mean
+that a two week notice period to start at GitLab, could increase to three weeks, its
+important to communicate this duration to new hires in this location.
+CXC will inform the Candidate Experience Specialist when the contract is signed.
+The Candidate Experience Specialist will mark the candidate as hired.
+The CES will adjust the ‘Accepted’ date to match the ‘Sent’ date.
+The Candidate Experience Specialist will now mark the candidate as hired.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15.
+
+Preparing Employment Agreements for GitLab team members
+employed via Global Expansion (GX)
+GitLab is working in partnership with Global Expansion to employ GitLab team-members located
+in:
+Mexico
+Costa Rica
+Kenya
+South Africa
+UAE
+Latvia
+Philippines
+Austria
+Chile
+The Offer is made by the recruiter per the hiring process
+If the Nationality field is not filled out and cannot be found in the Reference Check form,
+CES sends “Contract Info Request-Global Upside” email to the new hire to collect
+additional details
+Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday
+date is legally required
+The Candidate Experience Specialist will check if there is a probationary period.
+Go to Probationary Periods for Team Members Employed by a PEO and check the
+candidate’s country.
+Select the duration of the probationary period (if any) in the “Offer Details” dropdown. If
+there isn’t one, select “N/A” in that field
+The Candidate Experience Specialist will check if the contract is indefinite or fixed
+If the contract is indefinite, select “Indefinite” from the dropdown in “Offer Details”
+If the contract is fixed, select “Fixed Contract” from the dropdown in “Offer Details” and
+enter the end date under “End Date”
+Once additional details are obtained, update the offer details to reflect all information.
+The CES should be the signatory
+Generate “PEO Template!” in Offer Documents to Send through DocuSign
+Choose template Offer through DocuSign -GX - Global Expansion -To User, Self (CES) -
+Sign and complete
+Log in to the GX 1 Platform using the CES Team log in credentials (you can find this
+information in the CES desk repository)
+Click + New Employee (pink button) on the landing page
+Click the “+” icon on the left hand side of the gray bar
+Add personal information of new hire to required fields
+Legal Last Name
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+◦

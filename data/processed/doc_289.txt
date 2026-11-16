@@ -1,0 +1,17 @@
+Google Account Setup
+Open Google Chrome. On the Sign in to Chrome window, click Sign In.1.
+
+Enter your GitLab email address and click Next.
+Chrome opens the GitLab Okta sign-in. On the Verify it’s you with a security method
+screen, select Use Okta FastPass. On Linux, select Security Key or Biometric
+2. 
+3.
+
+Authenticator instead.
+The first time you sign in, Google shows the Google Workspace terms. Click Agree.
+On the Google Verify it’s you screen, check that your GitLab email address is shown and
+click Continue.
+On the This profile will be managed screen, click Continue.
+4. 
+5. 
+6.

@@ -1,0 +1,148 @@
+Cigna High Deductible Health Plan
+HDHP: 2026 SBC | 2026 Summary
+GitLab HSA Contributions:
+Team Member Only Coverage: $100 a month
+Team Member + Spouse/Child/Family Coverage: $125
+RX Plan: 2026 Standard 3-Tier
+Cigna PPO
+PPO: 2026 Summary | 2026 Summary Utah | 2026 SBC | 2026 SBC Utah
+RX Plan: 2026 Standard 3-Tier
+*See Important Coverage Notes for details on Utah Network
+Additional Cigna Resources
+Cigna Virtual Care: Access through myCigna
+Provider Search: Use myCigna or Cigna Public Directory (select OPEN ACCESS PLUS for
+all GitLab members, PPO for Utah)
+Specialty Pharmacy: Accredo Customer Information
+Emotional Well-Being: Virtual Support Services
+Fertility Coverage: Included Coverage, See SBC for details
+IdentityForce Coverage: Identity Protection Resources
+Transgender Coverage: WPATH-compliant coverage policy
+Employee Assistance Program: Additional EAP services available to Cigna members
+Cigna Additional Resources: In addition to your core medical coverage, Cigna offers a number
+of supplemental programs and resources to Cigna Medical plan members. These programs are
+provided and administered by Cigna directly.
+View all available resources here.
+Important Coverage Notes
+EPO Plan: Configured as PPO with limited out-of-network benefits ($10k/$20k deductible, $20k/
+$40k out-of-pocket max, 50% coinsurance). Consider PPO 500 or HSA plans if you need out-of-
+network coverage
+Utah Members: Extended network PPO includes Intermountain Healthcare System
+California, Alabama, New Jersey: HSA contributions are taxable at state level
+Kaiser Medical Plans
+Available to team members in Hawaii, California. Each state has its own Kaiser plan options. See
+coverage details and monthly costs in the US Benefits Guide.
+Plan Summaries
+Kaiser NorCal: 2026 Summary | 2026 SBC
+Kaiser SoCal: 2026 Summary | 2026 SBC
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Kaiser Hawaii: 2026 SBC | 2026 Summary
+Additional Kaiser Resources
+Kaiser Telehealth: Access through Kaiser online portal
+Chiropractic & Acupuncture: Northern CA Benefits | Southern CA Benefits
+Infertility Coverage: California plans cover diagnosis/treatment at 50% coinsurance;
+Hawaii includes IVF consultation and procedures
+Claims: 365 days to submit out-of-network claims
+Dental Coverage
+Comprehensive dental care through Cigna offers two coverage levels. See the US Benefits Guide
+for plan details and costs.
+Plan Summaries:
+DPPO 2026 Base Plan
+DPPO 2026 Buy Up Plan
+Vision Coverage
+Vision care through Cigna in partnership with EyeMed. See the US Benefits Guide for plan details
+and costs.
+Plan Summaries:
+Vision 2026 Base
+Vision 2026 Buy Up
+Voluntary Accident, Hospital, and Critical Illness Insurance
+GitLab offers three voluntary insurance plans with our benefit carrier, Cigna: Critical Illness,
+Accident Insurance, and Hospital Indemnity Insurance. These are all voluntary benefits, meaning
+enrollment is optional and there is an after-tax premium if you choose to enroll.
+Team Members have the opportunity to enroll during New Hire Enrollment, Open Enrollment, or
+if they experience a Qualifying Life Event.
+See the US Benefits Guide for plan details and costs.
+Resources
+Please see the folder links below for resources on the benefit summary, how the benefits work,
+the claims filing checklist, and access to the claim form
+Critical Illness
+Accident Insurance
+Hospital Indemnity Insurance
+Employee Assistance Program (EAP)
+Through New York Life Group Benefits, comprehensive support services available at no cost:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Services Included
+Behavioral Health: 3 face-to-face sessions with counselors
+Legal Services: Free 30-minute consultations and 25% fee discounts
+Financial Consultations: Free 30-minute consultation and 25% tax services discount
+Health Advocacy: Healthcare navigation support
+Travel Protection: Additional coverage beyond business travel policy
+Resources
+EAP Services Information
+Financial Security: Security You Can Count On
+Basic Life Insurance & AD&D
+GitLab provides company-paid basic life insurance valued at two times your annual base salary
+with a maximum benefit of $500,000, including equal AD&D coverage through Cigna/New York
+Life. See the US Benefits Guide for plan details and costs.
+Key Features
+Automatic coverage from day one
+Survivor assurance and support services included
+No cost to team members
+Additional Resources
+Summary of Benefits
+Life Insurance Flyer
+AD&D Insurance Flyer
+Filing A Claim Guide
+Supplemental Life Insurance
+Additional voluntary life insurance is available through Cigna. See the US Benefits Guide for plan
+details and costs.
+Resources
+Voluntary Life Insurance Details
+2026 Cost Sheet
+Evidence of Insurability & Leavers
+If you choose supplemental life insurance above the guaranteed amount, you or your dependent
+may need to complete an Evidence of Insurability Form (EOI). You’ll be prompted during
+enrollment if this applies to you
+If you leave GitLab: Supplemental life insurance isn’t included in COBRA and ends on your last
+day. You can continue coverage directly with Cigna, contact them for premium information and
+setup.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

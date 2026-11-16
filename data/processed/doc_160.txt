@@ -1,0 +1,83 @@
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/total-rewards/stock-options/
+058. Equity Compensation
+Equity Compensation
+Learn more about Equity Compensation at GitLab
+About Your Ownership in GitLab
+At GitLab, we strongly believe in team member ownership in our Company. We are in business to
+create value for our shareholders and we want our team members to benefit from that shared
+success.
+This guide is meant to help you understand the piece of GitLab that you’re going to own! Its goal
+is to be more straightforward than the full GitLab 2015 & GitLab 2021 Equity Incentive Plans (the
+“2015 Equity Plan”) and (the “2021 Equity Plan”) and your stock option agreement or RSU
+agreement which you are advised to read, which both go into the full legal details. Please note,
+however, that while we hope that this guide is helpful to understanding the stock options and/or
+stock issued to you or RSU grants under the both Equity Plans, the governing terms and
+conditions are contained in the 2015 and 2021 Equity Plans and the related stock option
+agreement. You should consult an employment attorney and/or a tax advisor if you have any
+questions about navigating your stock options or RSU grants before you make important
+decisions.
+If a team member leaves GitLab, they have 90 days post termination to exercise their vested
+options. Unvested RSUs and options are forfeited upon the date of the team member’s exit from
+the company.
+Equity Incentive Plans
+2015 Equity Incentive Plan and related form agreements would cover information related to
+GitLab options.
+2021 Equity Incentive Plan and related form agreements would cover information related to
+GitLab RSUs.
+2021 Employee Stock Purchase Plan would cover information related to GitLab ESPP purchases.
+Stock Options
+In the past at GitLab, we have given equity grants in the form of Incentive Stock Options (ISOs)
+and Non-Qualified Stock Options (NQs). It’s called an option because you have the option to buy
+GitLab stock, subject to vesting terms, at the exercise price provided at the time of grant.
+The difference in these two types of grants are, generally, as follows:
+ISOs are issued to US employees and carry a special form of tax treatment recognized by
+the US Internal Revenue Service (IRS).
+NQs are granted to contractors and non-US employees.
+• 
+•
+
+GitLab is not giving equity grants in the form of options at this time.
+Restricted Stock Units (RSUs)
+In September 2021, in connection with our IPO that occurred on October 14, 2021, our board of
+directors and stockholders approved the 2021 Equity Incentive Plan (the “2021 Plan”) as a
+successor to our 2015 Plan (together the “Plans”). The 2021 Plan authorizes the award of both
+stock options, which are intended to qualify for tax treatment under Section 422 of the Internal
+Revenue Code, and nonqualified stock options, as well for the award of restricted stock awards
+(“RSAs”), stock appreciation rights (“SARs”), restricted stock units (RSUs), and performance and
+stock bonus awards. Pursuant to the 2021 Plan, NQ stock options may be granted only to our
+team members. Since September 2021, we have issued RSUs for grants of shares of the
+Company’s common stock, the vesting of which is based on the requisite service requirement.
+Generally, the Company’s RSUs are subject to forfeiture and are expected to vest over two to four
+years ratably on a combination of bi-annual and quarterly basis.
+Restricted Stock Units (RSUs) Grant Cadence and Vesting
+For RSU Grant Cadence and Vesting please see the following slide deck.
+Sell-to-cover - RSUs
+Shares are sold to pay the taxes due on the RSU vesting. This is an automatic sale and the shares
+sold are based on the tax rate for your country. For example, if 100 shares vest, and your tax rate
+is 30%, then 30 shares will be sold to cover the tax and the remaining shares will be placed in
+your E*TRADE account. Taxation for selling of options or GitLab stock owned:
+Taxation of Ordinary Income - RSU - More Detail
+Compensation - At the time of vest for RSUs, you will recognize ordinary income equal to
+the cash value of the shares that vest.
+Tax Liability - Your tax obligation will be based on current tax rates due at the time of
+vest. A portion of the shares are sold to pay your tax liability. For each country, your local
+tax rates are used.
+For example, for U.S. team members tax withholding at the time of vest is computed
+using your federal supplemental tax rate (a fixed percentage), plus state and local and
+other applicable taxes- such as disability, FICA and Social Security.
+Remaining Shares - The remaining shares from your RSU grants are fully owned by you
+and deposited in your E*Trade Securities stock plan account.
+(You should always consult with your own tax advisor concerning how holding periods, capital
+gains and losses, and your personal circumstances may affect your taxes, and before taking any
+action that may have tax consequences. Your actual taxes paid will vary depending on your
+personal circumstances. )
+Please note that all tax withholding is based on tax rates provided by Baker McKenzie - You can
+find our current Tax Matrix here
+• 
+• 
+• 
+•

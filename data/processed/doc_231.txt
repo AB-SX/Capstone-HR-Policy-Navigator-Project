@@ -1,0 +1,162 @@
+Early Termination: If you resign before the end of the leasing period, options include
+paying remaining balance, purchasing bike, or transferring to new employer
+How to Access: Contact Global Expansion team for enrollment details
+Statutory Pension & Life Insurance
+Pension: You’re covered by Austria’s unified pension system under The Act on the Harmonisation
+of Austrian Pension Systems. This comprehensive national program calculates your pension
+based on your contribution duration and amounts. With at least 180 months (15 years) of
+contributions, you’ll qualify for pension benefits that support your retirement security.
+Life Insurance: Your protection is already built into Austria’s social security framework, which
+provides coverage for illness, injury, and disability - ensuring you have comprehensive support
+through the national system.
+Austria Leave Policies
+Annual Leave
+Entitlement: 25 days per year
+First Year: Prorated for first 6 months, full entitlement from 7th month
+Ongoing: Full entitlement from beginning of each work year
+Parental Leave
+Maternity: 16 weeks (8 weeks before delivery, 8 weeks after; extendable to 12 weeks for
+high-risk births)
+Parental: Up to 24 months for both parents, minimum 2 months. The parent should live
+in the same household as the child.
+Dismissal Protection: Up to 4 weeks after the end of the parental leave.
+Childcare Allowance: Available through social security during parental leave
+(Kinderbetreuungsgeld)
+How to Apply Submit parental leave requests via Workday - Time Off at least 30 days before
+starting leave. Review GitLab’s Parental Leave policy for complete details.
+Sick Leave
+Reporting Requirements: Team members must notify their employer immediately if
+they are unable to work due to illness or injury. If the absence lasts longer than three
+consecutive calendar days, a medical certificate (Krankenstandsbestätigung) from a
+doctor must be provided.
+Pay: Team members continue to receive full salary for a specified period, which is based
+on tenure. After the employer-paid period, team members can receive statutory sick pay
+benefits the Austrian Health Insurance Fund (ÖGK).
+Time Tracking
+Eligibility
+Required for team members Grade Level 7 and below
+Managers (Grade 8+) are exempt
+Process
+Complete monthly timesheet using provided template
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1.
+
+Submit by 8th of each month for prior month
+Email to: andreas.vilits@coneo.eu, and cc irene.schinagl@coneo.eu and 
+gx_employeeexperience@globalexpansion.com
+Denmark 🇩🇰
+Contact: gx_employeeexperience@globalexpansion.com
+Platform: Global Expansion Instruction Guide
+Denmark Medical Coverage
+In addition to your comprehensive coverage through Denmark’s public healthcare system, GX
+offers Global health insurance through AXA for you and your family, ensuring access to quality
+healthcare when you need it most.
+AXA Private Insurance
+Review the AXA Medical guide & AXA Benefits Webinar Recording
+GitLab covers 100% of team member premiums
+Team Members can add dependents at their own costs
+Direct administration through Global Expansion
+How to Access: Global Expansion will collect your census information during onboarding via the
+GX1 platform. If adding dependents, you’ll need to sign an authorization form for payroll
+deduction. Contact the gx_employeeexperience@globalexpansion.com for any changes or
+modifications to your coverage.
+Eye Care Benefit
+Up to $250 USD reimbursement for eye examination and corrective eyewear.
+Please submit an expense reimbursement request through Navan.
+Denmark Pension
+Comprehensive retirement planning through TopDanmark.
+Key Features
+Team member contribution: 4% of monthly base salary
+Employer contribution: 8% of monthly base salary
+The pension contribution includes retirement savings, insurance, and administration
+fees
+Contributions paid directly to pension plan with monthly salary
+Team members will be contacted by TopDanmark when joining GitLab to discuss their
+options
+Denmark Life & Disability Insurance
+Team Members in Denmark have access to Life, Disability and Critical Illness insurance
+through their pension administered by TopDanmark. Team members have the option to
+adjust their coverage within the following limits:
+Life Insurance: Up to 300% salary
+Loss of earning capacity/disability coverage: up to 60% salary
+Critical Illness insurance: up to DKK 800,000
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+TopDanmark will reach out to each team member to discuss their options and confirm
+their elected benefit limits.
+Denmark Statutory Leave Policies
+Below is the information related to Denmark’s statutory leave policies. Please note that team
+members hired in Denmark are hired via GX (PEO) and you should always check with GX first for
+the most up to date information.
+Denmark Holiday Leave
+All full-time workers are entitled to 5 weeks (25 days) paid holiday leave a year under the
+Holiday Act (Lov om ferie).
+The holiday year runs from 1 September to 31 August, and any accrued holidays can be
+taken until 31 December of the following year, allowing a total period of 16 months to
+utilise the leave.
+Denmark Pregnancy, Maternity and Paternity Leave
+In total, parents in Denmark get 52 weeks of paid parental leave. The leave entitlement is
+structured as follows:
+Maternity Leave: For Mothers
+4 weeks of pregnancy leave: Can be taken up to 4 weeks before the due date, with
+maternity/paternity benefits.
+2 weeks after birth: Must be taken immediately after birth and cannot be transferred to
+the other parent.
+8 weeks at birth: Must be taken within the first 10 weeks after the child is born; can be
+extended if returning to part-time work. This leave can be transferred to the other
+parent if they meet the conditions for receiving maternity/paternity benefits.
+9 weeks of leave: Cannot be transferred; must be taken within 1 year of the child’s birth
+unless prevented by special circumstances.
+5 weeks of leave: Must be taken within 1 year, but can be extended or postponed until
+the child reaches age 9 if conditions are met. This leave can be transferred to the other
+parent if they meet the conditions for receiving maternity/paternity benefits.
+Total for mothers: 4 weeks pregnancy + 24 weeks maternity leave (with 13 weeks transferable
+under certain conditions)
+Paternity Leave: For Fathers or Co-Mothers
+2 weeks at birth: Must be taken within the first 2 weeks after birth, and can be taken
+flexibly over the first 10 weeks with employer agreement. The 2 weeks of leave at birth
+can be taken as individual days or split over the 10-week period. The leave corresponds
+to the employee’s weekly working hours (e.g., full-time 37 hours/week = 74 hours total
+for the 2 weeks).
+9 weeks of leave: Cannot be transferred; must be taken within 1 year unless special
+circumstances prevent it.
+13 weeks of leave: Must be taken within 1 year, but can be extended or postponed until
+the child reaches age 9 if conditions are met. This leave can be transferred to the other
+parent if conditions for maternity/paternity benefits are met at the time of the leave.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

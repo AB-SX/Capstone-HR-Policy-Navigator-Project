@@ -1,0 +1,106 @@
+Suggest who to schedule coffee chats with.
+Review company policies with you, including PTO and the Family and Friends First
+culture.
+Walk through GitLab’s operating principles, starting with
+Speed with Quality: move fast, learn faster, with the
+discipline that lets customers rely on our work. The CREDIT values that shaped GitLab’s
+first decade
+live on in these principles.
+Discuss team expectations and the organisation structure.
+Agree a plan to get customer-ready, including who you will run role-plays with.
+Check weekly that you are meeting your milestones, and identify the skills and resources
+for each learning
+objective.
+Month 2
+Check in regularly, including on how you are finding GitLab’s async culture.
+Give feedback on your role-plays.
+Make sure your courses and certifications are on track, and whether you need more
+support to become customer-ready.
+Discuss best practices and rules of engagement for CSEs.
+Month 3
+Agree a regular cadence for one-to-ones.
+Prepare you to take on your own customers and accounts.
+Join some of your customer calls and give structured feedback.
+Confirm all mandatory onboarding is complete, including Revenue Academy and the
+learning path.
+Explain how performance will be formally evaluated.
+Beyond 3 months
+Give regular feedback on performance and build a growth plan with you for the coming
+year.
+Over the following months, go deeper on what good looks like, common pitfalls and
+how success is measured for:
+Health assessments and working with the Renewals Manager.
+Customer escalations.
+Webinar and lab delivery.
+Customer enablement and follow-up.
+Documentation of engagements.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+What your buddy does
+Month 1
+Make you feel welcome, and set up a recurring check-in on your progress.
+Help with anything in the learning path or Revenue Academy that is unclear.
+Introduce you to the wider team and share tips and resources.
+Month 2
+Bring you onto their customer calls to shadow and take notes.
+Debrief the calls and give constructive feedback.
+Align with your manager on how to support you further.
+Month 3
+Co-lead calls with you until you are ready to lead on your own.
+Give feedback on your approach and facilitation style.
+Explain how they can keep supporting you after the formal onboarding period.
+Graduation
+You have graduated from CSE onboarding when you have:
+Completed the GitLab Academy eLearning prework and passed all knowledge checks.
+Attended all GitLab Academy sessions, including the Value Selling workshops.
+Attended all four role-based live skills sessions.
+Attended the in-person regional graduation summit and passed the stand-and-deliver
+capstone.
+Completed your role-based learning path.
+Earned the four certifications: Git Associate, CI/CD Associate, Project Management
+Associate and Security
+Specialist.
+Completed all role-play activities and discussed the feedback with your manager and
+buddy.
+Continuous enablement
+You will be invited to the ongoing enablement sessions for the field:
+Field Enablement Spotlight,
+SA/CX Training, and the CX Lunch and Learn. Please join and take part. See also the
+CS Development handbook.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,165 @@
+2-4 weeks before the start of a new quarter
+Alignment call to finalize topics & tentative schedule with:
+Sr. Program Manager, Onboarding & Continuous Education (John Blevins)
+Director, Sales & Customer Enablement
+After alignment call, John Blevins to open issues for each enablement session with
+Documentation of preliminary learning objectives, title, expected outcomes, etc.
+Tentative dates listed as “TENTATIVE - ZZZ”
+Intended SME/speaker(s) assigned to the issue
+Ping the SME in the issue to ask if they can commit to it, get their commitment before
+you schedule.
+1-2 weeks before the start of a new quarter
+John Blevins to schedule meeting with all SMEs/speakers
+Goal: Ensure SMEs/speakers are aware of the upcoming sessions and can own the
+sessions
+Review schedule, outcomes, objectives
+Answer questions
+Adjust as needed
+Manage ongoing collaboration via issue, Google Docs, and public Slack
+channels (e.g. #product-marketing or #field-enablement-team)
+The Sales and Customer Enablement team discusses upcoming trainings in
+regular meetings with sales leadership and the GitLab Product Marketing
+Management (PMM) team.
+Sessions picked to execute on should be chosen from the backlog, or a new
+issue created, and moved to the status:plan column.
+Assign the issue to the speaker and add Moderator: <name> to the issue
+description.
+The speaker will then research and generate the conent for the training.
+Once the speaker is ready, a moderator and date should be chosen for the
+training.
+Assign the moderator (in addition to the speaker) to the issue and add 
+Moderator: <name> to the issue description.
+Add a due date to the issue.
+Add the date in ISO format to the issue title.
+Move the issue to the status:scheduled column.
+Manually drag the issue to order issues in the column by date.
+2 weeks before the start of a session
+Confirm speaker avaliability & session learning objectives
+1 week before the start of a session
+Confirm speaker content readiness, calls to action, and communications plans.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+•
+
+Send a report via Slack on the current week’s session attendance and a preview of the
+following week’s session to regional leaders via the #field-enablement-team channel.
+Week of the start of a session
+Communications will be sent out on Slack via #sales, #customer-success & the current
+#sales-quick-start cohort.
+Change the recurring meeting title from the placeholder “Field Enablement Spotlight”
+to show the topic of the week.
+For example, to drive attendance a calendar email update is sent to the entire field sales
+organization each week indicating the new topic, i.e “Field Enablement: Competitive
+Intelligence Update.”
+Update the Spotlight Notes & Agenda document with details for the weekly topic
+including presenter(s), learning objectives, resources, calls to action & notes.
+Field Enablement Calendar
+Field Enablement Spotlight sessions are scheduled on the Sales Enablement calendar so that
+everyone on the Sales and Customer Enablement and PMM team has the ability to edit the
+calendar event.
+The Field Enablement Spotlight takes place each week on Thursday, with two session options to
+accomidate GitLab’s global field sales audience.
+(Option 1) 11:00 AM (US Eastern Time)(UTC -5) = (8 AM Pacific Time) = (5 PM Central
+European Time)
+(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11) = (5 PM US Pacific Time)
+How to conduct a Field Enablement Spotlight Session
+Each training session has a speaker and a moderator
+Sessions are typically 30 minutes long
+The presentation portion should be 15 minutes, leaving 15 minutes for Q&A
+Recording
+Public vs Private
+Some enablement sessions, typically those that focus on industry or technical product
+knowledge, are made public, including the Q&A
+Other sessions that focus on topics like competitive analysis or openly discussing
+customers are kept private
+At the start of every session, and before moving into Q&A, the facilitator will announce
+to the audience if the call is public or private
+Here is a how-to video on accessing private videos on GitLab Unfiltered.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Speaker
+Create your content as a handbook page (don’t use a slide deck)
+Create a new directory under /handbook/sales/training/sales-enablement-sessions/
+enablement/ with the title of your talk
+For example: /handbook/sales/training/sales-enablement-sessions/
+enablement/cloud-native-ecosystem/.
+Add an index.html.md file to that directory.
+Use this template:
+```
+title: "Title goes here"
+## Title goes here
+```
++ Add your content to this page.
++ Add links to any other pages you need to reference on this page so you can present
+from training page.
+Moderator
+The moderator should serve as the host of the call and overall wingperson for the presenter. The
+moderator monitors chat to raise questions to the presenter and searches for links that are
+mentioned on the call to make sure they get linked in the handbook page for the training.
+Moderator tasks prior to the session
+Confirm presenter availability & learning objectives.
+Solicit input from #field-enablement-chatter on any important announcements that
+should be made at the beginning or end of the session.
+Update the session agenda document embedded in calendar invite.
+Change the title of the calendar invite to match the weekly topic and session length.
+Promote the upcoming session in the #sales & #customer-success slack channels.
+Moderator tasks during the session
+Log in to zoom 5 minutes ahead of time
+The video should not be recording, but pause if this is the case
+At 11 AM ET / 8 AM PT welcome everyone to the call and remind them that the
+presentation will be public/private. Specifically mention how to talk about sensitive info
+on every intro.
+Hello and welcome to today’s sales enablement session. As a reminder we’ll be posting this
+session to YouTube. Please remember to not share any private info such as the names of non-
+referenceable customers.
+Record the call to your local computer.
+• 
+• 
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

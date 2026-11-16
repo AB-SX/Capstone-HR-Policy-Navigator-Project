@@ -1,0 +1,107 @@
+How to Access
+Log In: Workday through Okta dashboard
+Navigate: Direct report profile → Documents tab → expand “Annual Compensation
+Review Total Rewards Statements” folder
+View/Download: Select document for quick view or download button
+Access Issues: Contact total-rewards@gitlab.com if Documents tab unavailable
+Summary Contents
+Example Summary
+Cash Compensation: Current FY22 compensation as of November 1st (base salary
+shows “Not Applicable” for Target Bonus if salary-only)
+Equity Compensation: Vested/unvested shares as of October 14, 2021 with conversion
+pricing
+Sharing: Team members have equity access; sharing optional. Use gear button → “Share
+with Employee” → “Share”
+Manager Talking Points
+Conversation Structure & Key Topics
+Key Discussion Areas:
+Total Rewards Value: All components matter—equity program (Options, RSUs, ESPP) is
+core to total rewards
+Equity Alignment: Long-term incentive tied to company performance and results
+Future Eligibility: Equity Compensation through new hire packages or annual refresh
+Program Updates: Industry-leading six-month cliff for new hire RSUs; no cliff for
+promotion/refresh grants
+Wellbeing Check: Use “red, yellow, green” scale for future satisfaction feedback
+Annual Review Prep: Total Rewards discussed in February Annual Compensation
+Review. No forward-looking increase statements
+Holistic Focus: Career opportunity and meaningful contributions ranked highest in
+Engagement Survey. Connect financial and career growth. Remember: Mile 3 of the
+marathon
+Questions?
+Contact Compass for access issues.
+Additional Resources
+Contact Information
+General Benefits: Compass
+Modern Health: Through platform
+SageView: Use scheduling system
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+•
+
+Equity Questions: Stock Admin team
+GitLab provides financial wellness resources and education but cannot offer direct financial advice.
+Consult qualified professionals for personalized guidance. Our comprehensive financial wellness
+support is designed for every stage of your journey—from day one through retirement.
+GitLab retains the right to replace the provider or policy at any time and is not required to offer this
+benefit to those that may be ineligible. Any benefits provided under the plan do not impact the Team
+Member’s or GitLab’s rights to end the employment relationship.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+•
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/
+126. TMxG – Team Member Resource and Advocacy
+Group Guide
+TMxG – Team Member Resource and Advocacy Group
+Guide
+What Team Member Resource Groups (TMRGs) and Team Member Advocacy Groups (TMAGs) are
+at GitLab, how they work, and how to get involved.
+This page explains what Team Member Resource Groups (TMRGs) and Team Member
+Advocacy Groups (TMAGs) are at GitLab, how they work, and how you can get involved.
+We use TMxG to refer to both TMRGs and TMAGs.
+If you’re new to TMxGs, start here
+You don’t need to be an expert in Diversity, Inclusion & Belonging or already a Team Member at
+GitLab to understand this section.
+What are TMxGs?
+Team Member Resource Groups (TMRGs) are identity‑based communities organised
+around shared characteristics or life experiences (for example, race, ethnicity, gender,
+LGBTQ+, disability, caregiving, or global location).
+Team Member Advocacy Groups (TMAGs) are cause‑based communities organised
+around inclusion topics that benefit everyone (for example, mental health, generational
+understanding).
+Both are:
+Voluntary, team member‑led communities.
+Supported by GitLab’s Diversity, Inclusion & Belonging (DIB) team and Executive
+Sponsors.
+Part of how we live our DIB value.
+Who can join?
+Members: People who personally identify with the community or topic.
+Allies: Anyone who wants to learn, show up, and support the group’s mission.
+Unless an event is clearly marked as “members‑only”, TMxG activities are open to both
+members and allies.
+You can belong to more than one TMxG; many GitLab team members do.
+• 
+• 
+• 
+• 
+• 
+• 
+•

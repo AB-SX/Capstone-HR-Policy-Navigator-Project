@@ -1,0 +1,142 @@
+When is the next opportunity for my performance to be reviewed?
+Talent Assessments are formally conducted at the beginning of the fiscal year (Q1) to
+assess the prior year, and we encourage a mid-year check-in at the half-year.
+What can I do to change my performance factor in the future?
+There are many things that you can do to change your performance factor in the future.
+Please work with your manager on a career development plan and discuss actions that
+can be taken to improve.
+Can my Growth Potential rating be changed?
+After the Talent Assessment closes, your growth potential factor cannot be changed.
+Your manager assessed your growth potential factor and this would be an opportunity
+for you and your manager to align on your growth opportunities. This discussion can
+also be an input into your career development discussion.
+What can I do to change my Growth Potential rating in the future?
+There are many things that a team member can do to change their growth potential
+factor in the future. Talk with your manager about how you might be able to develop a
+plan to increase your expandability, adaptability, consistency and self-awareness. Do you
+currently possess all the skills needed for your current role? Have you identified what
+skills you would like to learn? Have you determined what your career goals are, and are
+you actively working towards those goals? Are there additional projects to take on, to
+stretch your current responsibilities and/or skills? These are some discussion questions
+that might help you and your manager align on a future plan for growth.
+My team member is currently on a performance remediation plan; how should I
+handle this?
+You should continue to move forward with communicating their performance factor to
+them and use the meeting as an opportunity to reinforce the expectations of meeting
+the goals highlighted in the plan.
+Talent Assessment - Manager Scenarios
+My team member is on a leave (protected leave or PTO) during the Talent Assessment
+period. How should I handle communication of their assessment?
+If they will be returning from leave before the due date to communicate Talent Assessment
+results, please wait until their return from leave to communicate their assessment. If they are
+returning from leave after the due date to communicate Talent Assessment results, you may
+email them to offer to discuss their assessment. If they do not reply or prefer to wait until their
+return, please respect that choice.
+My team member was on protected leave for a large portion of the Talent Assessment
+period. How should I factor this in when assessing them?
+It’s important to ensure you are assessing the team member’s performance for their
+contributions while working during the assessment time period. There should be no adverse
+impact on their overall assessment due to being on leave for a portion of the period. During
+calibration, please remain vigilant to ensure no private details related to their time away are
+disclosed. Please reach out to your PBP to discuss the specific details related to your team
+member.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+My team member is on leave of absence during the Talent Assessment communication
+window. What happens to their Talent Assessment?
+Please do not action the To-Do task “Meet with your Employee” if your team member is on leave
+of absence (LOA). We will exclude team members on LOA from the auto advancement setting on
+TBD and you can communicate their talent assessment when they return to work.
+My team member was assessed as key talent last year, and is not for this assessment
+period. How should I handle communication with them?
+There is no guarantee that team members will retain their key talent assessment each
+assessment period. Make sure to explain the reasons why their key talent assessment has
+changed, including how we assess Key Talent and the definition outlined in the Handbook.
+Remember to end the conversation by discussing what your expectations are of key talent going
+forward. It’s important not to make promises about future assessments, but to focus on what
+makes a team member critical to the business, and how you, their manager, will support them.
+My team member was exceeding performance last assessment, and is not for this period.
+How should I communicate this change?
+It’s important to take a look at what may have changed since last year. Is your team member in a
+new role? On a new team? Did they take on bigger stretch assignments?
+Any of these factors can influence a team member’s performance. Be prepared with specific
+examples to share which support your performance assessment. The feedback conversation
+should also focus on what success looks like for the team member in the year to come and how
+you, as the manager, can support them with their goals.
+I have just adopted a new team, and the previous manager is no longer at GitLab. How can I
+assess the performance of my team fairly?
+You may be able to gather insights from your manager or cross functional stakeholders who have
+worked closely with the team member in the performance period. You may have access to the
+recent 360 feedback for each of your team members, as well as their talent assessment from last
+year to help inform your thinking. If you haven’t already, it’s important to ask the team member
+to share their own perspective on their accomplishments prior to you taking the role, so you are
+well prepared for the discussion of your assessment.
+A team member recently moved to be my direct report, however for the majority of the
+performance year, they reported to another manager. Are there options to delegate or re-
+assign the manager evaluation to their previous manager?
+As a manager, you can delegate the manager evaluation to another manager in your direct
+management chain. If your team member moved from another manager in another
+organization, you should collaborate with the previous manager to write the review with their
+input. The previous manager can leverage the Talent Assessment google template to capture
+their feedback and provide it back to you so that you can enter it into Workday. As the new
+manager, you will be responsible for the calibration of team members in your management chain
+at the time of calibration. You should also ensure your communication of the final talent
+assessment is done in a joint conversation with the previous manager, you as the new manager
+and your team member.
+This would be a great opportunity to ensure a formal transition and knowledge of performance
+and feedback takes place between previous manager and new manager. Please enter a Compass
+request if you have any questions about your specific scenario.
+
+My team member does not agree with their placement in performance and growth
+potential. How should I approach this?
+Remember that this conversation will be most effective if you are well prepared. If you haven’t
+yet, take an opportunity before the performance and growth potential conversation to
+understand their own assessment of their results.
+During the performance and growth potential conversation, provide the opportunity for a
+dialogue with your team member. Remain open and curious about their perspective. Engage in
+active listening, ensuring that you aren’t planning your counterpoints while they are sharing. The
+expectation is not that the results will necessarily change but the insights they provide may shape
+how you both think about their growth and development path.
+If you feel a conversation might be particularly challenging, you may reach out to the TMR team
+or your PBP to role play the discussion and ensure you are prepared.
+My team member is exceeding growth potential expectations, how should I be thinking
+about their ongoing development?
+Great! At GitLab team members have the opportunity to own their own development, and
+deserve a great manager (you) to facilitate it. Ask your team member to articulate where they
+would like to see their skills and career develop. You may have insights that help them refine
+those goals based on where you see the business going, as they will be most successful in
+gaining the experience they’re looking for if there are opportunities to align those goals with
+business goals.
+The Career Development handbook page has more ideas to help your team member craft a
+growth plan, including information on GitLab’s Growth and Development benefit.
+How should we be communicating Growth Potential to team members?
+First, ensure the team member understands what we mean when we say we are assessing
+Growth Potential, including the 4 pillars that you considered when making the assessment. Be
+prepared with specifics that led to your evaluation.
+Remember, Growth Potential can change over time as team members are promoted, develop new
+interests, as new opportunities for growth arise, and as team members continue to broaden their
+knowledge, skills, and abilities. Avoid making promises, but if your team member sees
+themselves in a higher position, help them understand behaviors you expect to be able to assess
+them differently next time.
+I received unexpected feedback about my team member from a cross-functional
+stakeholder in my calibration session. What should I do?
+If you receive unexpected feedback during the calibration, ensure you really understand what
+happened, and what has been discussed with your team member so far. If someone has tried to
+help this team member in the past, how did it go? Can your peer provide specifics to help you
+understand the impact of the behaviors? Talk to your peer about the importance of using this
+feedback to help your team member grow, and make sure you have agreement on how you plan
+to deliver this message.
+During the discussion with your team member, be prepared to gain their perspective on the
+situation first. Listen actively and consider their point of view. When delivering the message,
+consider the root cause, focus on impact and alignment with our values, and end with a
+discussion on future actions that would be more successful.
+If and when appropriate, check in with your peer on how improvements are going. Be sure to

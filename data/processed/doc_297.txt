@@ -1,0 +1,142 @@
+Your role in keeping GitLab team members engaged & informed
+Everyone plays a role in keeping GitLab team members engaged and informed. If you’re
+partnering with the People Communications & Engagement team, please keep these best
+practices in mind:
+📈 
+Take ownership of your subject matter expertise: If you’re requesting something
+be communicated to team members, it’s likely that your expertise on the change will be
+key, sharing as much as possible about a given change will be helpful.
+🤝 
+Give feedback effectively and assume positive intent: Collaborating
+asynchrounously can require a few back and forths before there’s alignment, that’s
+expected.
+👣 
+Set a due date and embrace iteration: Understanding when something is needed
+or if there’s a different priority for a given piece of work helps us to prioritize.
+👁 Say why, not just what: Whether giving feedback or briefing in a need, add as much
+“why” as possible.
+Cascading information to various groups within GitLab
+It’s important that we consider how information will be received by various sub-groups within
+GitLab before sharing a piece of information with all team members. A typical cascade of
+information may end up crossing through various channels in cases where a significant change is
+being introduced.
+For example, if we were announcing a big, exciting new program we might cascade information
+as follows:
+E-group provides input and feedback
+People Group provided visibility to plan for team members questions
+Managers receive information to ensure there is time to digest (#people-managers-and-
+above and Manager README)
+All Team members receive the information with their managers and leaders already
+well-versed on the change (#company-fyi or #company-fyi-private and “While You Were
+Iterating…” newsletter)
+It’s important to note that information cascading could be seen as lacking transparency. That’s
+not the case, rather it allows for managers and leaders to keep people more informed as they will
+have a chance to understand key changes with enough time to then answer questions to their
+teams.
+Runbook for contentious internal announcements
+We have a runbook for internal announcements that could lead to heated conversation or
+disagreement among team members. It includes these steps:
+A DRI will inform @devinrogo that there is a need for a company-wide communication.
+The DRI will be resonsbile for drafting the communications using this internal
+communications announcement template. This will include, at a minimum:
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+1.
+
+Who is responsible for posting
+Where the message will be shared
+When the message will be optimally be shared
+Main messages to be communicated and message content
+An activity and communications timeline that includes key participants and their
+responsibilities. It will specify any planned follow up in the minutes, hours, and weeks
+after the initial communications. This should include:
+Who will be on call to respond in Slack or other channels immediately after an
+announcement, including coordinated leadership participation. Key leaders,
+including members of E-Group and often members of VP-Directs Group, should
+be aware of when an announcement will happen and the response
+expectations for them. For example, if there is a contentious Slack
+announcement, a designated group of people should be monitoring the thread
+and responding immediately after the announcement.
+Any AMAs or other designated plans for discussion or follow up
+communications
+Who is required to sign-off on the message and plan
+The desired timeline for sign-off
+The DRI will share the draft communication with the Executive Sponsor and any other
+key senior stakeholders. If there are any questions around what can SAFEly be shared,
+the CLO or another legal representative should be included in the review.
+Both legal and corporate comms should review planned communications of this nature
+as well with the appropriate stakeholders from each team identified in the comms plan.
+Once the Executive Sponsors and Key Stakeholders are in agreement on the comms and
+plan, it should be shared with all of E-Group in #e-group-confidential or in the E-Group
+Weekly as a discussion item. Plan feedback should be incorporated.
+If applicable, once the plan has gone through E-Group review, it should be shared with
+the B.V. Netherlands Works Council and any other councils that have review rights.
+When possible, this should be done at least two weeks before a planned announcement
+to allow adequate time for review and feedback.
+When possible, share with managers in advance (1-2 days before a broader
+announcement) and ask for their support in following up with their teams. We should be
+clear on how we expect them to support (answer questions, cascade info, etc.)
+When sharing announcements with the manager community, MR’s may be staged in
+document form to allow for changes and clarification prior to sharing the MR with the
+broader team member community.
+If the post includes a merge request (MR), we should ensure that we are following MR
+best practice before we post.
+MRs should not already be merged. Team members should be invited to share feedback
+on a change and be clear on the intended merge timeline.
+We shouldn’t use separate MRs for removing and adding content. This makes it harder
+for team members to track changes.
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17.
+
+After a communication is shared, there should be a placeholder for the Executive
+Sponsor and designated team to connect synchronously to review feedback and (if
+agreed upon) respond. A calendar hold should be placed on the calendar for 25 to 50
+minutes after the communication.
+A similar Executive Sponsor and designated team check in should be scheduled for the
+following day. This meeting can be canceled if it is agreed that it is not needed.
+If there will be an AMA or other synchronous touchpoint with team members, the
+Executive Sponsor or designated team member can choose to schedule a meeting
+shortly before the session (optimally 1-2 hours before), so participants can align on their
+roles and their plan for communication.
+This runbook outlines key steps to be followed. Additional steps may be added based on the
+communication and level of coordination required.
+Resources and helpful links
+Request for Internal Communications Support Template
+Internal Comms Tiered System
+Communication at GitLab
+More to come
+As we continue to grow our People Communications & Engagement function, we’ll continue to
+add more detailed information to this page. Please offer feedback by suggesting edits to this
+page or reaching out in the #talent-brand-engagement channel on slack.
+Last modified June 4, 2026: Update file _index.md to clean up out of date info (b6a095d6)
+View page source
+ 
+ .
+18. 
+19. 
+20. 
+• 
+• 
+•

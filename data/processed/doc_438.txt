@@ -1,0 +1,102 @@
+Templates & Tools
+Measuring Impact
+Quick start for new leads
+If you are a new TMxG lead or co‑lead, we recommend:
+Review the main TMxG guide
+Understand what TMxGs are, who can join, and how groups are formed.
+2. Read these leadership pages in order
+Definitions: What Counts?
+Quarterly Planning Guide
+Event Planning Guide
+Executive Sponsorship
+Measuring Impact
+Connect with your DIB partner
+Confirm your group’s status, budget, any existing or proposed pods, and upcoming
+cultural observance months.
+4. Access internal resources
+Open the internal TMxG Leaders Resource Hub (Google Drive) for detailed how‑tos,
+finance guidance, Loop/Workday instructions, and pod operating guidance.
+5. Start small, iterate often
+Aim to meet the minimum expectations first, then build from there.
+Minimum expectations (TMRG Reimagined)
+All GitLab‑supported TMxGs are expected to:
+Host 1 community engagement activity per month (for example, social call, async
+discussion, coffee chat, cultural celebration post).
+Deliver 1 quarterly initiative aligned to one of the three pillars (for example, speaker
+session, cultural observance event, workshop).
+Deliver at least 1 allyship‑focused activity per year (this can also be your quarterly
+initiative).
+Track all activities in the shared activity tracker and submit a short quarterly report.
+Maintain an Executive Sponsor engagement plan and meet regularly (sync or async).
+Cultural observance month events can count for both your monthly activity and your quarterly
+initiative.
+The rest of this section explains how to meet these expectations in a sustainable way.
+• 
+• 
+1. 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Becoming a TMxG lead
+Selection criteria
+To be considered for a TMxG lead or co‑lead role, you must:
+Be performing in your role and not part of any active performance management process
+(confirmed by the People Group).
+Be a full‑time GitLab team member (including PEO and full‑time contractors).
+Have at least 6 months’ tenure at GitLab.
+Ideally already be an active member of the TMxG.
+Have manager approval to commit the time and use the role as a professional
+development opportunity.
+Be able to commit to a minimum of one year in the role.
+Selection process
+The DIB team announces vacancies in the relevant TMxG Slack channel.
+The nomination window stays open for two weeks from the original Slack message.
+Interested team members self‑nominate by completing the TMRG Lead Nomination
+work item template in the DIB Diversity & Inclusion project (gitlab-com/people-group/
+dib-diversity-inclusion-and-belonging/diversity-and-inclusion).
+The DIB team consults with existing TMxG members, leads, the People Team, Executive
+Sponsors, and managers before making a decision — to ensure the best fit and that
+diversity of department, geography, and URG representation is considered.
+Lead training
+All new TMxG leads should complete the lead training before their first quarter:
+Training video
+Training slides
+Roles within a TMxG
+Lead and co‑lead
+The lead (or co‑leads) are responsible for the strategic direction and day‑to‑day operations of the
+TMxG. Core responsibilities include:
+Operational leadership of the TMxG.
+Meeting with the DIB team at least once per quarter.
+Submitting quarterly and annual plans using the templates provided.
+Managing and tracking the TMxG budget.
+Facilitating meetings (sync and async) with inclusivity across time zones.
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+•

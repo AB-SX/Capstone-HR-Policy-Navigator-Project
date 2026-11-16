@@ -1,0 +1,157 @@
+Internet - Travelling
+Internet while traveling is reimbursable for up to $50 USD (or local equivalent currency)
+per day.
+Please provide trip details on the description box.
+Coding
+Expense Type / Navan Policy Category: Traveling: internet access
+CRO Organization Guidelines
+Field FAQs
+Field CRO T&E Changes.
+Field Manager FAQs
+Field Manager CRO T&E Changes.
+Supporting nursing mothers
+If you are nursing while traveling on GitLab approved business, you can reimburse costs
+in order to travel with breast milk or ship your breast milk back home.
+You can expense:
+Fees associated with a milk shipment service, such as MilkStork.
+If a milk shipment service is unavailable, you may expense the cost of checking a bag
+while flying
+Coolers or containers to store breast milk while traveling
+Shipment costs and materials, including dry ice, packaging, styrofoam coolers, and
+labels.
+Check with your health plan to see if you are eligible for reimbursement for the cost of a
+breast pump or any other supplies.
+Coding
+Expense Type / Navan Policy Category: Other
+GL Code NON-COGS: 6080 - Other Travel- Visas, Permits, Covid Tests
+GL Code COGS: 5080 - Other Travel- Visas, Permits, Covid Tests COGS
+Personal Bookings
+In Navan, you have the ability to book Personal trips.
+Note that when selecting this option, a personal credit card will be required at time of
+booking.
+Personal trips will not have the option to be added to the GitLab invoice.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+4.1 NON-TRAVEL RELATED EXPENSES
+Books (Audio/E-Books included)
+Books are reimbursable if used to optimize your job position.
+Limit is set to $60/year.
+Coding
+Expense Type / Navan Policy Category: Books, dues & subscriptions
+Business Cards
+Business cards are ordered from Moo as per the instructions provided by the People
+Operations team.
+To be ordered via Moo, attach a receipt from Moo. Refer to the Ordering Business Cards
+handbook page.
+Limit is set at $150 per quarter.
+Expenses higher than this limit require manager’s approval via email. The email should
+be attached to the expense transaction as an additional receipt.
+Coding
+Expense Type / Navan Policy Category: Office Supplies
+Co-Working Space - Monthly
+Coworking space is reimbursable for monthly space and one-off days during business
+travel. Pre-Approval is needed prior to submitting claims.
+$700.00 Limit per month.
+The space should be located within a commutable distance (+-50km) of the Team
+Member’s primary residence in their country of employment, with exception to One-off
+days (day passes) if the Team Member is traveling for business. This is for tax reasons.
+Co-working spaces must be professionally managed facilities whose primary business
+purpose is providing shared workspace services. Leasing of apartments, private
+properties, or facilities where co-working is offered as a secondary or ancillary service
+(such as gyms, country clubs, golf clubs, hotels, cafes, or recreational venues) is
+prohibited. Only dedicated co-working providers whose core business model centers on
+workspace rental are acceptable.
+Coworking space is not reimbursable while on personal travel.
+If more than 5 days are booked in the month, then Manager and Finance approval (via
+submitting a request under the Expenses -> General Expenses page of Compass) is
+required and needs to be obtained prior to submission of expenses.
+Copy of approved email must be submitted with first month submission.
+No contracts are allowed to be under the GitLab name and it must be under the Team
+Members name.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+The co-working space must be submitted monthly in the month it pertains to with full
+receipts to be provided.
+GitLab will not cover security deposits or advance payments for co-working space.
+Travel to and from the co-working space, parking, meals, beverages, access cards,
+insurance and other additional expenses in a co-working facility are not reimbursable.
+Only the rent for the space is reimbursable.
+If co-working space is used together with a combination of working from home, we will
+allow the reimbursement of the internet cost for where you spend most of your time. i.e.
+if you expense a co-working space for a full month then internet for home cannot be
+expensed. If you expense co-work for a few days in a month then home internet can be
+expensed in full.
+Coding
+Expense Type / Navan Policy Category: Co-working Space - Monthly
+GL Code NON-COGS: 6076 - Coworking Space
+GL Code COGS: 5076 - Coworking Space COGS
+Co-Working Space - Daily Office Pass
+Up to 5 One-off Days in a calendar month related to co-working space do not require
+Manager or Finance approval.
+$100.00 Limit per day
+All other Applicable Rules are the same as monthly above.
+Coding
+Expense Type / Navan Policy Category: Co-working Space - Daily Office Pass
+GL Code NON-COGS: 6076 - Coworking Space
+GL Code COGS: 5076 - Coworking Space COGS
+Conferences
+All costs associated with attending a conference to represent GitLab are reimbursable
+and an approved G&D request in Compass (for requests opened before June 23, 2026,
+the approved G&D GitLab issue) will need to be noted in the expense report upon
+submission. Please refer to the Growth and Development handbook page for further
+details and requirements. The reimbursement limits currently denoted in the Growth
+and Development handbook page do not include the cost of travel to and from the
+conference, so please ensure you have Manager approval for the cost of the travel.
+Select classification or tag “Growth and Development” in Navan when you create
+expenses.
+Needs to have an approved G&D request in Compass (for requests opened before June
+23, 2026, the approved G&D GitLab issue), which will be reviewed by AP Admin.
+No conference expense, with the exception of travel, should be allowed outside of G&D,
+unless the Team Member is a speaker for an event or required to attend an event for job
+related responsibilities (i.e. staffing or sales).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

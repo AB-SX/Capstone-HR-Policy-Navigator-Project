@@ -1,0 +1,120 @@
+Extracted public handbook pages covering People Group, Total Rewards, Hiring, Policies,
+Onboarding, Benefits, and related topics.
+001. People Group
+002. People Policies
+003. GitLab's Guide to Total Rewards
+004. Hiring & Talent Acquisition Handbook
+005. Global Travel and Expense Policy
+006. Interviewer Prep Requirements
+007. GitLab People Operations Team
+008. Incident Response
+009. Anti-Harassment Policy
+010. Team Member Relations at GitLab
+011. People Business Partner Team
+012. Leave of Absence
+013. People Analytics
+014. GitLab Offboarding Standards
+015. Promotions and Transfers
+016. New Hires, Celebrations and Significant Life Events
+017. Contracts, Background Screenings, Probation Periods & PIAA
+018. GitLab Offboarding
+019. Relocation
+020. Employment Solutions - Overview
+021. Benefits
+022. Compensation at Gitlab
+023. GitLab Onboarding
+024. Incentives at GitLab
+025. Guidance on Feedback
+026. Gender and Sexual Orientation Identity Definitions and FAQ
+027. Visas
+028. Quarterly Talent Review (QTR)
+029. 360 Feedback
+030. Competencies
+031. Directly Responsible Individuals (DRI)
+032. Engagement Surveys and Employer Awards
+033. GitLab Internal Acceptable Use Policy
+034. GiveLab Volunteer Initiatives
+035. Global People Compliance at GitLab
+036. Organizational Change Management
+
+037. People Group Program Management
+038. People Operations Team
+039. Promotion Document Style Guide
+040. Pronoun Guidance and Information
+041. Talent Assessment
+042. Talent brand
+043. Talent Development
+044. Talent Development Program
+045. Time Off and Absence at GitLab
+046. People Policies - GitLab Inc (USA)
+047. Time Off Types
+048. Modern Health
+049. General & Entity Specific Benefits & Information
+050. GitLab France S.A.S. Remote Work Charter
+051. GitLab France S.A.S. Right to Disconnect Charter
+052. GitLab Ireland Ltd Right to Disconnect Policy
+053. PTY LTD Benefits
+054. Team Member Privacy Policy
+055. GitLab India Private Limited Policy Against Sexual Harassment
+056. GitLab India Private Limited EOP Policy
+057. Annual Compensation Review Cycle
+058. Equity Compensation
+059. Candidate Handbook Page
+060. Recruitment Privacy Policy
+061. Referral Operations
+062. Referral Program and Process
+063. Candidate Experience Specialist Responsibilities
+064. Conducting a GitLab Interview
+065. Internal Hiring Process
+066. Growth and Development Fund
+067. Interviewing at GitLab - Customer Support
+068. Interviewing at GitLab - Infrastructure
+069. Panel Interviews
+070. Technical Interviews
+071. Ethics and Compliance Courses
+072. GitLab BV (Netherlands) Benefits
+073. GitLab BV (Belgium) Benefits
+074. United States Leave of Absence Policies
+075. GitLab LTD (UK) Benefits
+076. GitLab Canada Corp
+
+077. GitLab GK (Japan) Benefits
+078. GitLab Ireland Ltd
+079. GitLab Korea Limited Benefits
+080. GitLab France S.A.S.
+081. GitLab Singapore Pte Ltd
+082. Remote.com
+083. Global Expansion
+084. Leave Types
+085. Data Guide to People Data Analysis
+086. People Analytics Data Governance
+087. People Analytics Tableau Dashboard Overview
+088. People Analytics Survey Support
+089. People Analytics Office Hours
+090. GitLab Offboarding FAQ
+091. Internship for Learning
+092. Laptop Offboarding and Returns
+093. Leave of Absence Toolkit for Team Members and Managers
+094. The complete guide to remote onboarding for new-hires
+095. GitLab Onboarding Buddies
+096. Merge Request Buddies
+097. GitLab Academy
+098. Support Learning & Training
+099. TaNewKi Tips
+100. Identity data
+101. Diversity, Inclusion & Belonging
+102. Career Development and Mobility
+103. Sales Training
+104. Field Enablement Spotlight: Continuous Education at GitLab
+105. Technical Skills Exchange
+106. Field Functional Competencies
+107. GitLab IT Onboarding 101
+108. Recognizing Bias in Decision-Making
+109. Your Individual Growth Plan (IGP) Journey
+110. Content library - life at GitLab
+111. People communications & team member engagement
+112. Transitioning to a manager role
+113. Self-Paced External Trainings
+114. LevelUp
+115. Elevate Programs
+116. Mentoring at GitLab

@@ -1,0 +1,144 @@
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-
+netherlands/
+072. GitLab BV (Netherlands) Benefits
+GitLab BV (Netherlands) Benefits
+GitLab BV (Netherlands) benefits specific to Netherlands based team members.
+We’ve Got You Covered
+Clear benefits, real support
+At GitLab, we believe team member benefits should be simple to understand and there when you
+need them. From life’s big moments to everyday questions, our comprehensive coverage gives
+you clarity and confidence so you can focus on your work and life.
+In addition to the local benefits listed below, all Netherlands team members have access to the 
+company-wide benefits available to all team members globally.
+Getting Support When You Need It
+Can’t find what you’re looking for? Visit the main People Operations page.
+Resources Available to You
+Team Contact For
+People Connect Compass General Benefits Questions
+Absence Management leaves@gitlab.com Leave and Sick Time
+HR Savvy payroll@savvy-group.eu Payroll and tax questions
+Non-US Payroll Compass All general payroll-related inquiries
+Health & Wellbeing
+Medical Allowance
+Full-time Netherlands team members receive a EUR 150 gross monthly allowance to help cover
+healthcare costs.
+Eligibility Requirements
+Full-time employment status
+Based in the Netherlands
+Coverage & Key Features
+EUR 150 gross monthly payment via payroll
+No documentation required
+• 
+• 
+• 
+•
+
+Continues during sick pay or unpaid parental leave
+Prorated for mid-month starts/terminations
+Subject to standard tax withholding
+Important Details
+You must still purchase your own basisverzekering (basic health insurance) as required
+by Dutch law
+Not having health insurance can result in fines from the Sociale Verzekeringsbank
+CZ Collective Healthcare Policy
+GitLab partners with CZ to offer discounted supplementary insurance rates through our collective
+policy.
+Eligibility Requirements
+All GitLab Netherlands team members
+Can include dependents
+Coverage & Key Features
+Discounted rates on supplementary insurance
+Direct payment to CZ via bank account
+Annual enrollment period (end of year)
+Not obligatory - you can choose any approved provider
+How to Enroll/Access
+Review enrollment instructions in the Netherlands CZ Collective Policy document
+Visit the GitLab CZ page
+Contact CZ directly at 088 555 7777 for questions
+Important Dates
+Team members can enroll in the plans during the enrollment period at the end of each
+year
+Team members must cancel their old insurance before January 1 and enroll in new
+insurance before February 1. The coverage will be retroactive to January 1
+For more details, review the Changing Health Insurance page on the Netherlands
+Government Website
+Vision Reimbursement
+Team members experiencing eye problems from display screen work can receive up to EUR 250
+reimbursement for corrective eyewear and an eye test required in connection with screen use.
+The EUR 250 benefit amount is a combined cap covering both the eye test and computer glasses
+together.
+Eligibility Requirements
+Must have optician documentation showing lenses are specifically for display screen
+work
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Not for general daily use prescriptions
+How to Access
+Get examined by an optician
+Send prescription and a copy of the eye test invoice to total-rewards@gitlab.com for
+approval
+Once approved, submit reimbursement through Navan
+Select “Other” under Expense Type and “Benefits Medical & Other” under GL
+Occupational Health Support
+As required by the Working Conditions Act, GitLab provides occupational safety and health
+services to support team members unable to work due to illness.
+Contact Information
+Leuk Personeel
+Dorresteinweg 72-08, 3763 LL, Soest, the Netherlands
+Tel: +0355436137
+Financial Security
+Vacation Money (Vakantiegeld)
+Netherlands team members receive the customary vacation money payment each May, as
+defined by the government.
+Key Features
+Paid annually in May
+Amount determined by government regulations
+Statutory Sick Leave
+Team members who are unable to work due to illness are entitled to 70% of their salary
+for up to 104 weeks. This leave runs concurrently with GitLab’s Sick Time Policy. Team
+members will receive 100% of their salary for the first 25 days of illness.
+GitLab complies with Dutch local Laws regarding sick leave. Local laws override any
+leave policy we have in the benefit of the team members.
+Team members must select Out Sick in Workday to ensure that all sick time is properly
+tracked. For complete reporting procedures, please review the sick time procedure for
+The Netherlands here.
+Statutory Vacation Leave
+Team members are entitled to at least 20 vacation days per year which run concurrently
+with GitLab PTO. The days will accrue at 1.67 days/month from the team member’s start
+date. Any unused days will be carried into the next calendar year, but expire on July 1st.
+Should the team member leave GitLab within the calendar year, an entitlement to a pro
+rata part vacation days exists. Team members must designate all vacation days taken as 
+Paid Time OFF in Workday to ensure that vacation entitlement is properly tracked.
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

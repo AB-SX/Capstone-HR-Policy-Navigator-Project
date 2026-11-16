@@ -1,0 +1,123 @@
+Who’s Eligible
+This program applies to team members who are not already on the:
+The Director+ bonus plan
+A Sales Incentive plan
+To qualify, team members must also:
+Be active during the bonus period
+Be included in the performance rating cycle and receive a rating
+Be active on the payment date to receive payout
+Bonus amounts are prorated based on time worked. Team members on a leave of absence will
+not be prorated solely due to that leave, provided they remain active. Team members whose
+termination date has been extended due to a transition period remain eligible, provided they are
+still active on the payment date.
+In France, Germany, and the Netherlands, implementation is subject to works council processes
+required by local law, and no final decisions will be made in those countries until those processes
+are complete. We are actively engaging with each works council and are committed to
+incorporating their input — and, where legally required, obtaining their consent — before any
+changes take effect in their respective countries.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+1. 
+2. 
+1. 
+2. 
+3.
+
+Source: https://handbook.gitlab.com/handbook/people-group/guidance-on-feedback/
+025. Guidance on Feedback
+Guidance on Feedback
+GitLab’s views and directions on how to give and receive feedback.
+Giving and receiving feedback is an important part of building strong relationships and high
+performing teams. Feedback aligns to GitLab values in the following ways:
+Collaboration: Forms strong and trusting relationships
+Results: Enables leaders to set the standard
+Efficiency: Addresses small challenges early to avoid major mistakes later
+DIB: Creates a safe work environment
+Iteration: Motivates people and establishes a growth mindset
+Transparency: Keeps teams aware of team strengths and challenges
+Feedback can come in the form of “praise” for things team members do well, and “tips”
+pertaining to improvement areas. We encourage sharing and documenting both types of
+feedback on a regular basis via:
+360 Feedback via Culture Amp
+Regularly during 1-1’s
+“365 feedback”: Giving verbal, direct feedback 365 days a year in the #thanks Slack
+channel, direct message, or other personal communication
+Documenting Feedback
+Why it’s important to document:
+Ensures both giver and receiver are on the same page; No Surprises!
+Provides focus and helps track progress
+Lays the ground for self reflections and performance discussions
+Supports decision making
+Impact
+Feedback conversations are core to personal and professional growth. According to research
+conducted by TruQu:
+Constructive and timely feedback can improve performance up to 39%
+When people receive appreciative feedback or recognition, they are 69% more
+motivated to deliver high performance
+4/10 employees are actively disengaged when they get little or no feedback
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3.
+
+When we engage in and document feedback more frequently, we reduce the anxiety of
+feedback and reduce the potential for “surprises”
+Guidance on Giving and Receiving Feedback
+Embracing Feedback
+“In teamwork, silence isn’t golden, it’s deadly.” ~Mark Sanborn
+The habit of seeking feedback may not be easy to develop, but failing to seek honest input from
+your team can have a significant impact on GitLab’s culture. Patrick Lencioni, author of The Five
+Dysfunctions of a Team (2002), cites these consequences of ignoring feedback:
+Inattention to Results
+Avoidance of Accountability
+Lack of Commitment
+Fear of Conflict
+Absence of Trust
+Watch as Dr. Jeb Hurley, Co-founder of Xmetryx, analyzes why leaders choose to avoid feedback,
+even when they have ample evidence that shows its benefits.
+Hard Conversations
+Difficult and constructive feedback is valuable when delivered with compassion. It’s important to
+consider the individual recieving the feedback and anticipate how they might react. As explained
+in Crucial Conversations, if the person feels threatened, they might shift into Silence or Verbal
+Violence.
+To optimize for a open, honest, and effective conversation, reflection on the following before
+sharing difficult feedback:
+What do I really want for myself?
+What do I really want for the other(s)?
+What do I really want for the relationship?
+How would I behave if I really wanted these results?
+Preparing for hard conversations is important, tips in this article about using mediation
+techniques can help you prepare to have these conversations in an authentic and honest manner.
+Radical candor
+Radical Candor is a framework about HOW to deliver feedback. It’s a powerful, assertive, and
+caring place that demonstrates to an individual that you both care about them personally and
+that you’re willing to challenge them directly. When you’re not caring personally or challenging
+directly, it can lead to Ruinous Empathy, Manipulative Insincerity, or Obnoxious Aggression.
+Radical Candor — The Surprising Secret to Being a Good Boss First Round Review
+How To Use Radical Candor To Drive Great Results
+4. 
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3. 
+4. 
+• 
+•

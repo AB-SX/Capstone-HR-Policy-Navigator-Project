@@ -1,0 +1,182 @@
+Topic Resource(s)
+What is GitLab? - GitLab Explainer Video (Oct 2020, 1.5 minutes) - GitLab infomercial featuring David
+Astor (Feb 2020, 5.5 minutes)
+GitLab is THE
+DevOps
+Platform
+- The DevOps Platform customer deck (Enterprise) (internal only) - The DevOps
+Platform Customer Deck e-learning course (30 minutes) - DevOps Platform Message
+House
+Key value
+drivers and
+differentiators
+- Review the Command of the Message page - Operational Efficiencies (May 2020, 32
+minutes) - End to End Visibility & Insights (Apr 2020, 31 minutes) - Understand the 3
+types of differentiators: Unique, Comparative, and Holistic
+Positioning
+GitLab
+- FY24-Q2 Revenue Play: GitLab AI (May 2023, 30 minutes) - Winning with Value Stream
+Assesments (Mar 2023, 30 minutes) - FY24-Q1 Revenue Play - Achieving Efficiencies via
+Toolchain Consolidation (Mar 2023, 25 minutes) - FY23-Q4 Product Spotlight: Winning
+with Ultimate (Dec 2022, 30 minutes) - Strategic Selling & ROI (Nov 2022, 30 minutes) - 
+Solution Selling (Mar 2022, 25 minutes) - GitLab customer deck (presentation) - GitLab
+customer deck video (Dec 2019, 28 minutes) - GitLab Sales Kickoff 2020: Articulating
+and Selling the GitLab Vision & Customer Journey (slides) (video) (Feb 2020, 37.5
+minutes) - GitLab value prop messaging - Pitch deck - Delivering the GitLab pitch deck
+(Apr 2019, 14 minutes) - Removing Software Bottlenecks (Mar 2019, 30 minutes) - 
+Forrester Total Economic Impact Report (July 2020, 60 minutes) - Demystifying the
+Metrics Conversation (Aug 2020, 30 minutes)
+What customer
+ROI models are
+available?
+- Forrester TEI Enablement (Study + Estimator) (Dec 2022, 30 minutes) - The New
+Simple ROI Calculator (July 2022, 24 minutes) - Check out the resources on this page
+GitLab culture - GitLab Culture - GitLab Values - This is GitLab video (Feb 2018, 3.5 minutes) - 
+Everyone Can Contribute video (May 2019, 3.5 minutes)
+GitLab
+subscription
+model
+- How GitLab.com Subscriptions Work (Jun 2019, 29 minutes)
+GitLab vision - Review GitLab’s Direction
+Follow GitLab - Review and subscribe to the GitLab blog
+Competition
+To maximize opportunities, GitLab field team members must demonstrate the knowledge and
+ability to beat out various competitors.
+Topic Resource(s)
+Who are GitLab’s
+competitors?
+- GitLab Comparison Page
+What is Competitive
+Intelligence?
+- Check out the Handbook page
+Microsoft Azure
+DevOps
+- Competing against Microsoft for Plan - Azure Boards (Jun 2021, 30 minutes) - Q2
+FY22 Microsoft Competitive Update (Jun 2021, 30 minutes) - Q3 FY21 Microsoft
+Competitive Update (Sep 2020, 27 minutes) - Proactively Competing Against
+Microsoft presentation (SKO 2020, internal only) - Proactively Competing Against
+Microsoft private video (Feb 2020, 58 minutes)
+
+Topic Resource(s)
+GitHub - Winning Against Github (Jan 2023, 30 Minutes) - GitHub Tiers & Support (May
+2020, 30 Minutes) - GitHub Competitive Update (Apr 2020, 26 minutes)
+Jenkins - Proactively Competing Against Jenkins presentation (SKO 2020, internal only) - 
+Competing Against Jenkins and CloudBees (Sep 2019, 25 minutes) - Jenkins:
+Competitive Overview (Feb 2019, 31 minutes) - Jenkins: Overcoming Objections
+(Mar 2019, 26 minutes) - GitLab vs Jenkins, where is GitLab weaker? (Feb 2019,
+25.5 minutes)
+Where may one find
+additional
+competitive
+insights?
+- How GitLab Competes with Snyk (Oct 2022, 30 minutes) - Q1 FY22 Competitive
+Update (Feb 2021, 30 minutes) - GitLab’s Competitive Intelligence Resources Page
+is the single source of truth for competitive sales resources organized by
+competitor - Compete page overview and launch to sales (June 2020, 27 minutes)
+GitLab Portfolio
+GitLab field team members must understand how various elements of the GitLab portfolio
+(offering tiers, SDLC phases, services, training, etc.) solve customer challenges.
+Topic Resource(s)
+What is GitLab’s
+product strategy?
+- GitLab Dedicated (Jun 2023, 30 minutes) - Automated Software Delivery
+(AutoSD) Integrated Campaign (Aug 2022, 21 minutes) - Positioning & Selling
+GitLab.com (June 2022, 26 minutes) - 15.0 Release (May 2022, 18 minutes) - 
+GitLab acquires Opstrace (Dec 2021, 20 minutes) - Breaking Changes in 14.0 -
+AMA with Product & Customer Success (Jun 2021, 30 minutes) - Positioning
+Verify & Product Vision (Mar 2021, 30 minutes) - GitLab Direction - Advantages
+of a single application - GitLab Sales Kickoff 2021 Product Keynote: A Winning
+Product for Peak Performance (slides) (video) (Feb 2021, 88 minutes)
+What are GitLab’s
+product tiers?
+- GitLab Tiers - Why GitLab Ultimate? - Why GitLab Premium? - Feature
+comparison - The Journey to Ultimate (Nov 2021, 48 minutes) - How to upgrade
+your customer to a higher tier (Jul 2019, 26 minutes) - Discovery Questions for
+Selling GitLab Ultimate and GitLab Premium - Seven Ways GitLab Premium will
+Accelerate Customer Development (July 2020, 40 minutes)
+How is GitLab priced? - Pricing page
+What are the GitLab
+customer use cases
+(solutions)?
+- Check out the Customer Use Cases Handbook page - Use Case Driven Go To
+Market (GTM)
+Where may I learn
+about the Version
+Control &
+Collaboration use
+case / solution
+(formerly Source Code
+Management (SCM))?
+- Check out the Version Control & Collaboration Handbook page - The GitLab
+Journey & The SCM Use Case (Mar 2020, 27 minutes)
+Where may I learn
+about the Continuous
+Integration (CI)
+- Check out the Continuous Integration (CI) Handbook page - The GitLab Journey
+& The CI Use Case (Mar 2020, 30 minutes) - Forrester Wave Cloud CI Report:
+What It Means to GitLab Sales, Customers & Prospects (Oct 2019, 32 minutes) -
+Just want to take the knowledge check quiz? Click Here
+
+Topic Resource(s)
+customer use case /
+solution?
+Where may I learn
+about the DevSecOps
+customer use case /
+solution (aka Shift Left
+Security)?
+- Check out the DevSecOps Handbook page - Just want to take the knowledge
+check quiz? Click Here
+Where may I learn
+about the DevOps
+Platform customer use
+case / solution?
+- Check out the DevOps Platform Handbook page - GitLab AutoDevOps Run
+Click-Through Demo (Apr 2019, 21 minutes)
+Where may I learn
+about the GitOps
+customer use case /
+solution?
+- Check out the GitOps Handbook page - Watch The GitLab Journey & the GitOps
+Use Case (July 2020, 30 minutes)
+Where may I learn
+about the Agile
+Planning customer use
+case / solution?
+- Check out the Agile Planning website page (Handbook page coming soon) - 
+Agile Project & Portfolio Management on GitLab Click-Through Demo (Jun 2019,
+30 minutes)
+Are additional
+customer use cases /
+solutions being
+considered and/or
+developed?
+- Yes, check out the Customer Use Cases Handbook page for the latest and
+greatest information
+What about services? - Positioning Professional Services (Apr 2023, 29 minutes) - Professional
+services, available through GitLab or partners, help to optimize your
+organization’s adoption of GitLab, continue to leverage the tools your teams use
+every day, facilitate your transition to GitLab, and deliver hands-on training to
+accelerate your team’s adoption - Q1 FY23 Professional Services Update (Mar
+2022, 25 minutes) - GitLab Value Stream Assesments (Feb 2022, 29 minutes) - 
+Services to Accelerate Customer Adoption - How to engage Professional
+Services to help you sell and scope - Professional Services Full Catalog - The
+Value of Professional Services: A CFOs Perspective (Aug 2020, 29 minutes) - 
+Professional Services Offerings & Positioning (Apr 2020, 29 minutes) - Selling
+Services to Accelerate Customer Adoption (Oct 2019, 28 minutes)
+What about GitLab
+security?
+- Solution Selling: Compliance (Apr 2022, 29 minutes) - Product Stage Direction -
+Secure - From SCM and CI to Security: Paths to Ultimate (slides from GitLab
+Sales Kickoff 2020) - How GitLab Helps Customers Achieve Compliance (May
+2020, 26 minutes) - Forrester Software Composition Analysis (SCA) Wave &
+Security Q&A (Apr 2019, 30 minutes) - GitLab SOC2 Security Compliance
+What about GitLab
+testing capabilities?
+- Pipeline Security Direction Handbook pages - Verify:Pipeline Security Category
+Vision and Positioning (Sep 2021, 26 minutes)
+What are the most
+common technical
+questions that GitLab
+sales team members
+- Check out the Technical Questions for Sales page

@@ -1,0 +1,91 @@
+What Do We Share?
+I want to share that [team member's name] ([group] [role]) will be leaving GitLab, and 
+[his/her/their] last day is (date of their last day). I would like to take this 
+opportunity to thank (team member's name) for their contributions and wish them all 
+the best for the future. If you have questions about tasks or projects that need to be 
+picked up, please let me know. If you have questions or concerns, please bring them up 
+with your manager.
+In some instances there will be no further clarification on why a team member has departed, if
+there are concerns you can address those with your manager.
+Different levels of transparency will exist based on maintaining respectful treatment for all
+departures. Having team members leave may be a learning opportunity for some, but should not
+be a point of gossip for anyone. Managers will need to balance the opportunity for learning with
+the expectation of privacy and consult their People Business Partner should they have questions.
+Turnover Data
+GitLab’s turnover data is only viewable internally.
+Managing the Offboarding Tasks
+Offboarding Issue
+To track all tool deprovisioning, please open an offboarding issue following the offboarding
+standards.
+Returning Property to GitLab
+As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to
+GitLab.
+For laptops, please check and refer to the Laptop Buyback Policy which states that team
+members may, at GitLab’s discretion, have the option to keep or buy back their existing laptops
+either when it gets refreshed for a new one, or when the team member is offboarding. However,
+the option to purchase or keep a laptop at no cost may be voided where the team member is
+involved in cases of investigation, misconduct, termination for cause of any violation of GitLab’s
+Code of Business Conduct & Ethics, or other legal or security related inquiries.
+To return your laptop to GitLab, please contact gitlab-laptop-recovery@gitlab.com immediately
+upon offboarding.
+Navan Expense
+This section of the Accounting Department.
+To remove someone from Navan Expense Log in to Navan Expense and go to “Settings” in the left
+sidebar.
+Select the right policy based upon the entity that employs the team member. Select “People” in
+the left menu.
+
+Select the individual’s name and click “Remove”.
+If the person has a Corporate Credit Card assigned to them, please notify Accounts Payable
+before un-assigning it.
+Retrospective for Managers
+For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and
+coaching/communication of the departing team member. As a manager, you can use this
+template for a retrospective. Please share the filled out template with your manager as well as
+the People Business Partner for your group.
+Within the Engineering division this is a required process because it causes hiring managers to
+reflect on what led to the ultimate decision of parting ways with the team member, and how that
+might be prevented during future hiring processes.
+Evaluation Framework
+How could this outcome have been avoided?
+Were there early signs that were missed?
+In retrospect, what questions should have been asked to bring awareness and
+ownership to performance issues e.g. “How would you compare yourself relative to your
+peers”? - people are surprisingly honest here.
+Unemployment Claims
+Unemployment Claims in the US
+In the United States, Unemployment Insurance provides benefits to GitLab team members who
+have lost their jobs through no fault of their own. The purpose is to provide temporary financial
+assistance to employees who meet certain requirements.
+Unemployment insurance is administered at a state level and in compliance with Federal Law.
+Each state establishes its own eligibility criteria and regulations surrounding Unemployment
+Insurance with respect to the amount allocated, duration and eligibility for Unemployment
+Insurance.
+Eligibility criteria include meeting the state specified requirements in terms of both earnings and
+time worked during the base period. In some instances the state may require additional
+supporting information particularly more extensive wage related details surrounding a claim.
+Unemployment Insurance is funded through employer contributions and most states will have
+State Unemployment Taxes that apply however many employers typically pay the State
+Unemployment Taxes too.
+Reporting a False Unemployment Claim
+If you are a full-time team member and you are contacted by your state’s Unemployment
+Commission to discuss your request for Unemployment Benefits, you may be a victim of
+Unemployment Claim Fraud.
+1. 
+2. 
+3.
+
+Before giving out any information to the caller, please confirm that you are speaking with an
+agency employee. If you confirm with your state’s Unemployment Commission that there is a
+fraudulent claim, please report it via Compass to the People Operations team.
+Additionally here is a link to the U.S Department of Labor Contact Particulars to report
+Unemployment Insurance Fraud.
+GitLab Offboarding FAQ
+Common Questions about the Offboarding Process
+GitLab Offboarding Standards
+Offboarding process and steps on the backend
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .

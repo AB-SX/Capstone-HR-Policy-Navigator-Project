@@ -1,0 +1,130 @@
+14. TRADUCTION
+En cas de conflit entre les versions en langue française et anglaise de la Charte, le texte en
+français prévaudra en toutes circonstances.
+English: GITLAB FRANCE S.A.S. REMOTE WORK CHARTER
+PREAMBLE
+GitLab is one of the world’s largest all-remote companies with over 1,700 team members located
+in more than 65 countries around the world.
+GitLab’s all-remote approach promotes hiring and working from all over the world and flexible
+working hours by empowering team members to work better together whether they are in the
+same location or spread across multiple time zones.
+As a consequence, any and all team members employed by GitLab France S.A.S. (hereafter “the
+Company”) are doing remote work on a 100% basis.
+The present charter (hereinafter the “Charter”) has been drawn up in order to implement and
+supervise remote work within the Company in accordance with the applicable legal framework.
+1. DEFINITION AND SCOPE OF APPLICATION
+Remote work is any form of work organisation in which work that could have been carried out on
+the Company’s premises is carried out by a team member outside these premises using
+information and communication technologies.
+Fully remote work is one of the Company’s hiring conditions.
+This means that the Company does not have any Company premises and any and all team
+members do not have access to company premises/Company work spaces in order to carry out
+their duties for the Company.
+Therefore, upon their hiring, any and all Company team members are carrying out 100% of their
+working time remotely.
+Considering that this remote work organisation is an essential part of the employment contract, it
+can only be changed or terminated upon approval of both parties to the employment contract.
+2. PLACE OF REMOTE WORK
+Remote work shall be carried out either at the team member’s domicile or at a third place to be
+defined by mutual agreement between the Company and the concerned team member.
+Domicile means the team member’s usual place of residence, i.e. the one whose address appears
+on the pay slip.
+Any and all remote work locations have to be situated on French territory.
+3. ADAPTATION AND COMPLIANCE OF THE PLACE OF WORK
+3.1 Conformity of the place of remote work
+
+In the case of domicile-based remote work, the team member must provide a workspace that
+complies with the rules relating to health, safety and working conditions and accepts that a
+representative of the Company checks the compliance of their accommodation.
+A summary of the applicable requirements is annexed to the Charter.
+The team member will be notified of the dates and times of the inspection at least 5 working days
+in advance.
+In addition, the remote workplace has to comply with the requirements regarding the conformity
+of the electrical installations. In this context and prior to the start date, the team member must
+provide a recent electrical diagnosis or, failing that, a certificate on honour of the conformity of
+the electrical installation of the remote work place.
+The team member may organise a diagnosis himself or herself (the costs incurred will be paid by
+the Company on presentation of respective proof).
+In the event of relocation, the team member undertakes to notify the Company and to inform it
+of their new address. The new domicile may also be subject to a compliance check. In addition,
+the conformity of the electrical installations must be demonstrated as specified above.
+In case of remote work in a third place, the team member undertakes to provide a declaration on
+their honour on the conformity of the electrical installation of this remote workplace, the respect
+of the rules relating to health, safety and working conditions (in particular in terms of
+ergonomics, lighting, etc.) and the coverage of this place by an insurance as per article 7 of the
+Charter. This declaration must be provided prior to taking up the remote workplace.
+It is recalled that all the instructions concerning the conformity of the remote workplace are
+health and safety instructions obliging the team member to take care of his or her own safety at
+work. Failure to comply with these instructions may result in disciplinary action up to and
+including dismissal for gross misconduct.
+3.2 Disabled remote worker
+Remote work is open to disabled workers in the following ways:
+Adaptation of furniture;
+Installation of special software;
+Adaptation of the working environment.
+The reasonable accommodation section of the Company handbook provides complementary
+information.
+4. ORGANISATION OF THE WORKING TIME
+During the period of remote work, the team member is free to organise their working time
+provided that they respect:
+The limit of the agreed effective daily working time and with respect to the regular
+working time slots applicable in the Company, i.e. between 9am and 8pm.
+The periods of availability agreed with the team member’s manager during which it
+must be possible to be reached by typical means of telecommunication used within the
+Company (in particular email, Slack, Zoom, etc.).
+The limits imposed by the legislation in force concerning minimum rest periods (11
+consecutive hours between 2 working days and 35 consecutive hours per week).
+• 
+• 
+• 
+• 
+• 
+•
+
+5. WORKING TIME AND WORKLOAD
+5.1 Control of working time
+For each day of remote work, the team member shall work the applicable reference working
+time. Where applicable, remote work may not generate any overtime, except at the express
+request of the management.
+For remote work days, the working time is counted according to a self-reporting system, the
+monthly balance of which must be submitted to the manager without request at the end of each
+month. The Payroll handbook page provides more information in this regard with the Global
+Upside - France section.
+5.2 Modalities for workload regulation
+Remote work must not increase the team member’s usual workload or jeopardise the proper
+performance of the work.
+The team member shall communicate regularly and at least on a weekly basis with their manager
+on the progress of their work. On this occasion, the team member’s workload may be readjusted
+if necessary. In addition, the team member shall contact their manager immediately in the event
+of any difficulty in carrying out the work entrusted to them, in order to find a solution as quickly
+as possible.
+Regardless of any readjustments during the year, the evolution of the team member’s workload
+will be discussed during the annual interview provided for in article 10 of the Charter.
+6. WORK EQUIPMENT
+The Company provides and/or reimburses for the equipment necessary for the team member’s
+activity.
+The equipment provided consists of the following items:
+A laptop computer;
+Any software necessary for the performance of the contractual obligations;
+A screen if required;
+A keyboard/mouse, if required;
+A desk/ergonomic chair, if required,
+A printer, if required.
+The team member undertakes:
+to take care of the equipment entrusted to them;
+to notify the Company immediately in the event of a breakdown or malfunction of the
+work equipment.
+In the event of a need for intervention on the equipment by a technical expert, the team member
+will contact the IT team via the Compass Slack app or by opening an issue in the Team Member
+Enablement Issue Tracker.
+The team member undertakes to take note of the instructions for use of the equipment given to
+them and to comply with them scrupulously under penalty of sanctions which may include
+dismissal.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

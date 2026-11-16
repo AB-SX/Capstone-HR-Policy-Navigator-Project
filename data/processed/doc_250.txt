@@ -1,0 +1,111 @@
+Can I keep my laptop?
+If you are returning your laptop to IT please purchase a cardboard box and packing foam before
+your last day and expense it in Navan under Office supplies & consumables. IT will be sending a
+prepaid shipping label to return the laptop.
+Please refer to the Laptop Buy Back Policy here.
+Compensation - Payroll
+CXC & GitLab Contractors (only)
+Please reach out to the Payroll team nonuspayroll@gitlab.com before your last day (ideally one
+week before) to get your final pay computation in order to submit your invoice before access is
+deprovisioned.
+When will I receive my final pay?
+This will vary depending on location and entity. Please refer to Payroll Pay Date Handbook Page.
+If you have any additional questions please contact NONuspayroll@gitlab.com or 
+USpayroll@gitlab.com (depending on your location).
+When will I receive (if applicable) commission payment(s)?
+Any final commissions earned up until your last working day will be paid (directly deposited) in
+the next month’s commission payroll cycle based on your location. Commissions are paid one
+month in arrears, so for example, if your last day is January 7, any January commissions would be
+paid
+in February. If you have any questions on this payment, please contact Sales Commissions at 
+sales-comp@gitlab.com.
+When do I submit my final reimbursable expenses?
+Please create your final expense report in Navan (for employees), OR, please file any outstanding
+expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely
+manner. We ask that you submit these at least one week before your departure date.
+How do I submit reimbursable expenses if I don’t have a GitLab access to
+Navan?
+Please follow the process as listed on the Expense Handbook page. For any queries regarding
+final expenses, please send an email to ap@gitlab.com
+Other Reimbursements, Refunds or Repurchasements
+Please review our Loan Policy in the GitLab Code of Business Conduct and Ethics if it
+applies to you. Please also note that in the event that a loan is approved, a legal
+contract, in accordance to the team member’s state, local or federal laws regarding
+loans and repayment of loans during employment, will be created by the Legal team. It
+•
+
+will lay out the complete loan terms, repayment and refunding policy if applicable. If you
+leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if
+applicable and legally allowed, as laid out in the terms of the original contract and with
+support from the Payroll team.
+Please review our Unpaid Leave section regarding payments in error.
+Please review our policy regarding Repurchasing Unvested Shares.
+Total Rewards - Benefits
+When will my benefits coverage end?
+Typically, benefits coverage ends your last day with GitLab. In the US, medical, dental, and vision
+coverage will end of the month during which you leave, all other benefits end on your last day.
+How will my stock options be managed? What if I have been at GitLab less than
+a year?
+All information is on the Stock Options handbook page, specifically the Exercise Window after
+Termination section.
+What if I am a designated Insider?
+Reminder: If you are a Designated Insider, while employed by GitLab, each team member is
+required to comply with the Insider Trading Policy, which among things, prohibits team members
+who are in possession of material non-public information (MNPI) from (i) trading in GitLab’s stock
+or other securities on the basis of that MNPI or (ii) disclosing MNPI to someone else who trades
+on the basis of such MNPI. The Insider Trading Policy also applies to a team member’s immediate
+family members and household members. In addition, as a Designated Insider and while
+employed at GitLab you are required to have pre-clearance before making any transactions in
+GitLab’s stock or other securities.
+After you are officially no longer employed by GitLab, your trading account should be
+unrestricted. However, we recommend that you consider a 90 day “cooling off” period prior to
+trading in order to avoid any intentional or accidental violation of applicable securities laws. If,
+however, you are aware of or in possession of any MNPI when your employment or service
+relationship with GitLab ends, you may not trade (whether directly or indirectly) in GitLab’s stock
+or other securities until that MNPI has become public or is no longer material. It is a violation of
+applicable securities laws to trade on MNPI.
+If you decide to trade in GitLab’s stock or other securities prior to the 90th day following the end
+of your employment or service relationship with GitLab, we suggest that you evaluate whether
+you have MNPI prior to trading.
+Will my ESPP contributions be reimbursed?
+Yes. Payroll processes ESPP reimbursements during payroll cycles with termination reports. You
+may receive your reimbursement on the pay period after your termination. Please make sure you
+unenroll from ESPP in E*Trade as well.
+• 
+•
+
+What happens to my Growth and Development Benefit?
+More information can be found in the Growth and Development Reimbursement section, which
+states that if you voluntarily terminate employment with GitLab, any expenses or reimbursement
+related to this benefit will be refunded to GitLab.
+USA
+If you are a US-based team member, your medical, dental, and vision benefits will cease on last
+day of the month of your departure, all other benefits will cease on your last day. You are eligible
+for Consolidated Omnibus Budget Reconciliation Act (“COBRA”), the COBRA administrator has
+been notified and will send out the paperwork to your home address on file. You will have 60
+days from the time you receive the COBRA packet to enroll either through the mail or online, your
+COBRA coverage date will be backdated to the first day you are without cover. More information
+on timelines and contact information for our COBRA administrator can be found in the COBRA
+section.
+You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for
+subsidized health care options via the marketplace. If you are interested it is important that you
+sign up with the market place well before the 15th of the month to have coverage for the
+following month.
+Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a
+certificate of credible coverage please download it from your current carrier’s online portal or
+request it from the Compensation & Benefits team by emailing total-rewards@ gitlab.com. If you
+move, please email people_operations@ gitlab.com so that we can keep your address up to date
+in Workday.
+Where can I find my pay stubs?
+Former team members will retain access to ADP for three years after they leave so they can
+access pay stubs and W-2s. Former team members will need to access ADP portal directly since
+Okta has been deprovisioned. If you experience login issues, please send an e-mail to 
+uspayroll@gitlab.com so the team can assist.
+How do I roll over my retirement account and funds?
+Contact our 401(k) administrative vendor directly to get more information about this process.
+More information can be found on the 401(k) section and 401(k) Rollover section of the US
+Benefits handbook page.
+What about my HSA/FSA Account(s)?
+Please see the Offbarding FSA Section of the US Benefits Handbook page for details on how your
+Medical/Health or Dependent Care FSA will be treated when you leave GitLab.
+Please see the Offboarding HSA Section on GitLab.

@@ -1,0 +1,77 @@
+Elevate Programs
+Use the links below to navigate to each Elevate program. Here is a useful guide to ensure …
+Growth and Development Fund
+A description of programs and resources for team members to access when using the G&D Fund.
+Hone Partnership
+GitLab has partnered with Hone to provide expanded professional development opportunities
+through …
+Internship for Learning
+Resources and direction for internship for learning for all GitLab team members
+Learning Initiatives
+The Learning & Development team is rolling out learning programs to enable a culture of
+curiosity and continual learning.
+LevelUp
+What is LevelUp? LevelUp is GitLab’s internal learning and development platform, running on …
+Mentoring at GitLab
+Mentorship is an opportunity to learn from personal experience, background, and perspective. …
+Self-Paced External Trainings
+Details of third-party training providers utilised by various GitLab departments
+Team Workshops
+Team Workshops are customized, group learning opportunities for teams at GitLab. Workshops
+are …
+Transitioning to a manager role
+Your first few months as a manager at GitLab can be exhilarating. They can also be challenging, …
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/talent-development-program/
+044. Talent Development Program
+Talent Development Program
+Information on GitLab’s Talent Development Program to ensure ongoing success across all
+teams.
+Why a Talent Development Program is vital for GitLab
+As we continue to scale, we want to be intentional about Talent Development. Investing in a
+Talent Development Program creates the opportunity for GitLab to build diverse, flexible and
+versatile teams, as well as of the utmost importance to ongoing success across all teams.
+GitLab’s Talent Development Program includes the following initiatives:
+Talent Assessment Tool
+360 Feedback
+Organisational Structure and gaps
+Performance Assessments and Succession Planning
+Career Development Conversations
+Performance Improvement Plans (PIP)
+Performance Enablement Review
+Individual Growth Plan
+Engagement Survey
+Annual Compensation Review
+Talent Development Program Chart
+graph LR
+ Aid1([Talent<br> Assessment Tool]):::classA --> Eid1([Succession<br> 
+Planning]):::classB
+ Bid1([Org Structure<br> & Gaps]):::classA --> Eid1([Succession<br> 
+Planning]):::classB
+ Cid1([Critical<br> Roles]):::classA --> Eid1([Succession<br> Planning]):::classB
+ Did1([360<br> Feedback]):::classA --> Eid1([Succession<br> Planning]):::classB
+ Eid1([Succession<br> Planning]):::classB --> Fid1([Assess Hiring<br> Implications & 
+Requirements]):::classC
+ Eid1([Succession<br> Planning]):::classB --> Gid1([Career Development<br> 
+Conversations]):::classC
+ Gid1([Career Development<br> Conversations]):::classC --> Hid1([Individual<br> 
+Growth Plan]):::classD
+ Gid1([Career Development<br> Conversations]):::classC --> Iid1([Performance<br> 
+Enablement Plan]):::classD
+ Gid1([Career Development<br> Conversations]):::classC --> Jid1([Performance<br> 
+Improvement Plan]):::classD
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

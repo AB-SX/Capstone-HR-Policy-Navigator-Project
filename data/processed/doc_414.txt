@@ -1,0 +1,86 @@
+Solutions:
+Refocus the conversation on the business outcomes and value of those outcomes. The
+customer already pays more than the price of Ultimate for a collection of tools that do
+not deliver the outcomes they want. This is an opportunity to pay less and get the
+outcomes they want.
+Is the customer worried that only part of the team is cloud native? That’s okay! Ultimate
+is for all developers and approaches and makes it easy to support legacy and cloud-
+native approaches at the same time. The DevOps value applies to all of their developers.
+We don’t support multiple types of users on one deployment because it would make a
+bad experience. We also don’t split the servers for the same reason. Our job is to make
+the customer successful and splitting the deployment is not the path to success.
+Listen to the customer when this question is asked. They either understand the value
+but are still asking for a discount in the form of mixed tiers or they don’t understand the
+value at all.
+If they are really talking about price, dig into the details (deployment timing, sequence,
+services needed) to ensure we’ve optimized every possible angle for the customer.
+Work with the customer to use more stages of GitLab in their deployment. They will see
+improved business outomes and results. This validates the price.
+Leverage the CS team! A customer considering Ultimate should have hands-on
+experiences to see the massive benefit they get from the product.
+Is the customer uncomfortable because they are uset to paying for security products for
+only a few users to operate? Refocus on the value. In many cases they may $250,000 for
+a product operated by 5 people to drive security outcomes. With GitLab, they may pay a
+hither tier price for every user to ensure better security outcomes end-to-end, but the 
+total cost of the increase is actually much less than the products they use today and 
+provides better business outcomes! Focuse on the value because price per user is
+misleading if you are not focused on overall value to the customer.
+5 B2B Sales Call Techniques That Get More Meetings
+If there’s anything I’ve learned from listening to thousands of sales calls, it’s this: despite all the
+tools intended to help sales reps engage with prospects – email, lead and account scoring,
+content, social media alerts, and many more – calls are still where relationships are forged or lost
+forever.
+To put it simply, every other sales activity is leading up to one thing: a phone call. Not
+surprisingly, reps that have the best phone skills are almost always the most successful. In my
+experience, here are the five sales call techniques that the best reps put into practice with every
+prospect.
+1. Show Maximum Respect
+Many of your calls are no doubt scheduled in advance, but some aren’t. Near the beginning of
+unscheduled calls, ask this one simple question: “Have I caught you at a bad time?” You’ll be
+surprised how few people say yes. That’s because by simply asking the question, you’re conveying
+that you’re a thoughtful and respectful human being.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+2. Justify the Call
+Before even dialing, imagine your prospect asking you, “Why are you calling me?” (with the
+emphasis on the word “me”). If you can answer that question eloquently and convincingly, then
+you’re bound to add value during the call.
+For example, “I’m calling because we’re in the same beekeeping LinkedIn group, and I noticed
+you asked whether any group members could recommend a good supplier.” Or, with a repeat
+customer, “You’ve ordered four cedar hives from us in the past, so I thought you’d want to know
+that we released a brilliant new model.”
+3. Verify the Role
+One of the keys to B2B sales is reaching out directly to the person whose job/career/life your
+product will improve. As a sales rep, you’ll do research to ensure that you’re calling the right
+person. But because people change roles all the time, you should verify this up front as well, even
+if you’ve talked to the person in the past.
+For example, “Just to make sure, you’re still involved in managing beekeeping operations – do I
+have that right?” You’ll be surprised how often people will respond with something like, “Actually, I
+changed roles, but I’d be happy to intro you to the person who’s doing it now.”
+4. Personalize
+For best results, use public information to find common ground that helps you to connect as a
+person. For example, “I noticed that we’re both connected to Jack White. Great guy, and an
+incredible guitarist. How’d you meet?”
+Alternatively, you can reference prior engagement. For example, “I saw that you downloaded our
+bee relocation cheat sheet, and I wondered if our mobile cedar hives might be a good investment
+for you.”
+5. Verify Compatibility
+As is often the case in B2B sales, you may have a technology, size, or geography requirement.
+You’re obviously going to research compatibility ahead of the call, but you also need to verify it
+before you waste anyone’s time. For example, “Just so you know, our new hive frames are only
+compatible with WBC hives. Would that be an issue for you?”
+If there’s one common thread in all these tips, it’s that the most successful sales reps put their
+customers’ needs first. Add value, be honest and respectful, and offer information – not a sales
+pitch. If you can put all of these sales call techniques into use, you’ll be crushing your meeting
+quota in no time.
+Dan Tyre wrote
+a great article about “How to Create a Sales Plan”. Here are some highlights
+First, I would like to change our thinking from being a sales plan to a buying plan. This puts us in
+the mindset of the buyer and helps us use words focused on them and not us. The purpose of a

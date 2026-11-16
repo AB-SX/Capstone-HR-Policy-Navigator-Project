@@ -1,0 +1,67 @@
+Answer is “This tool would help us do X faster.”. Read the article to gain more insight and to help
+you translate what the customer is really asking and to tame our happy ears.
+11 Sales Negotiation Mistakes You Might Be Making
+Leslie Ye wrote an article on 11 Sales Negotiation Mistakes You Might Be Making
+Even the best negotiators fall victim to one of these mistakes from time to time. Here is a list of
+the 11 mistakes with point 4, 5, and 10 resonating with me.
+Treating negotiation as a zero-sum game
+Not knowing why the prospect would buy
+Not knowing why the prospect wouldn’t buy
+Negotiating too early
+Negotiating with the wrong person
+Treating all objections the same
+Thinking price as the only lever you can pull
+Giving something away without getting something in return
+Not knowing when to walk away
+You don’t understand the prospect’s decision criteria
+You take things personally
+How to Qualify an Account From Afar
+Target accounts have at least one of the following:
+The company’s core business model relies on software. Using Salesforce Navigator these
+companies are in the gaming, internet, ecommerce and software industries.
+At least 20% of the company’s staff are software developers or other types of DevOps
+practitioners. Use Salesforce Navigator’s advanced features to see this.
+Companies with more than 100 software developers. Use Salesforce Navigator’s
+advanced features to see this.
+2. Great target accounts have all three of the aforementioned characteristics or at least
+one of the aforementioned characteristics and at least one of the following:
+The company’s headcount growth has been greater than 10%. This is best seen in the
+Insights tab of the company’s LinkedIn page.
+The company is hiring DevOps practitioners. This is best seen in the jobs tab of the
+company’s LinkedIn page.
+The company’s technology stack lends itself to what GitLab has to offer.
+3. The best target accounts have at least 3 bullet points from the first two buckets, with
+at least one bullet point in the second bucket along with one of the following:
+The company has targets with LinkedIn profiles that show an interest in the GitLab value
+proposition.
+The company published something in its blog or social media that indicates a need for
+the GitLab value proposition.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+The company has a number of internal users of GitLab core or free plans; this can be
+seen via https://version.gitlab.com.
+Last modified June 1, 2026: Remove outdated pricing model handbook page and update
+references (e354d35b)
+View page source
+ 
+ .
+•

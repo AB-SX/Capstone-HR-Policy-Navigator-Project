@@ -1,0 +1,65 @@
+If you have used the app before, press the + button near the top of the screen
+On the Choose account type screen, select Organization and then Skip
+Select No, Sign in Instead
+For Organization's sign-in URL, enter gitlab.okta.com
+Enter your Okta Username and Password and sign in
+Agree to the terms on screen and enable Touch ID
+Need Help?
+If you need further assistance with setting up your laptop please join our weekly onboarding call
+scheduled every Tuesday (Check your Calendar!) or please contact us via the Compass app in
+Slack (type “Compass” in the top search bar to find it) or it-help@gitlab.com.
+Last modified July 28, 2026: Retire defunct CorpSec functions and realign Corporate IT
+documentation (8f22e33f)
+View page source
+ 
+ .
+5. 
+6. 
+7. 
+8. 
+9. 
+10.
+
+Source: https://handbook.gitlab.com/handbook/eta/corporate-it/end-user-services/onboarding101/linux-
+onboarding101/
+167. GitLab Linux Onboarding 101
+GitLab Linux Onboarding 101
+Welcome to the GitLab Linux Community
+Linux is available as an alternative to macOS, but is not encouraged due to limited support. By
+choosing Linux, you accept full responsibility for maintaining your environment and understand
+that IT does not provide support.
+We expect Linux users to be familiar with the platform and self-sufficient in setting up their work
+environments while staying compliant with our security policies. This guide addresses common
+issues encountered when setting up new machines.
+NOTE: We do not provide in-depth technical support for Linux, but we can assist with Okta
+login issues. The #linux Slack channel is available for exchanging tips and tricks, but it is not an
+official helpdesk resource.
+Table of Contents
+Before You Begin
+Security Requirements
+Initial Installation and Disk Encryption
+Initial Okta Login
+Device Management and Endpoint Security
+SentinelOne Installation - Germany, the Netherlands, Italy, and Austria Only
+Additional Resources
+Before You Begin
+To get set up on your new Linux laptop, you will need to have the following:
+Your GitLab-provided Dell laptop
+A boot-capable USB drive (At least 8GB)
+An up-to-date iOS or Android device with a camera OR a YubiKey
+The Okta activation email sent to your personal email on your first day
+Security Requirements
+Note: Ubuntu LTS (latest version) is the only approved Linux distribution. This ensures GitLab
+meets all regulatory and compliance standards, and Ubuntu has proven highly reliable for
+running the required security tools.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+1. 
+2. 
+3. 
+4.

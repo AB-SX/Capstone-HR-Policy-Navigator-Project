@@ -1,0 +1,55 @@
+Is there opportunity to participate in the program if I am an aspiring manager?
+We offer the ElevatePrep program, specifically designed for GitLab individual contributors (ICs)
+who would like to one day step into a people management role or lead multifaceted, cross-
+functional projects more effectively. ElevatePrep lays the foundation for strong professional skills
+that support a variety of goals.
+Please reach out to the Talent and Development team in the #learninganddevelopment if you
+wish to be considered for the next round. We’ll be sharing more details on the program soon.
+What if I get promoted while I’m part of Elevate?
+If you’re promoted from Manager to Senior Manager, you’ll continue Elevate without interruption.
+If you’re promoted to a Director role or above, please plan to discuss directly with your manager
+and the Elevate team. Decisions will be made on a case by case basis.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/
+elevate-applied/
+169. Elevate Applied
+Elevate Applied
+Elevate Applied: Continuous Leadership Development Beyond Certification
+Elevate Applied is a comprehensive post-certification program designed to support leaders who
+have completed ElevatePrep, Elevate or Elevate+. This program provides ongoing resources,
+coaching, and learning opportunities to help you continuously develop your leadership skills and
+apply proven methodologies in your daily work.
+Please note: Elevate Applied is currently under development. Content and offerings will be expanded
+and refined based on participant feedback and program evolution.
+Continuous Learning Philosophy
+Elevate Applied operates on the principle that leadership development is an ongoing journey, not
+a destination. The program provides multiple pathways for continued growth:
+Apply - Put Elevate concepts into practice with real workplace challenges
+Connect - Build relationships with other leaders facing similar challenges
+Develop - Continuously refine and expand your leadership capabilities
+Contribute - Share your learnings and mentor others in their leadership journey
+Program Benefits
+Hone Membership License
+Premium Access to Elevate-Style Learning Experiences
+Complimentary Hone membership for all GitLab team members
+Access to live, interactive learning sessions with industry experts
+On-demand leadership development content library
+Peer learning opportunities with leaders from other organizations
+Skill-building workshops aligned with Elevate methodologies
+Flexible scheduling to accommodate your work commitments
+Professional Coaching
+Please note: The next iteration of our Elevate Applied Coaching offering is under development, more
+details will be released soon.
+All leaders who have earned their Elevate certification gain access to the following exclusive
+benefits. Elevate Applied 1:1 Coaching is an opportunity for managers to work 1:1 with GitLab-
+trained professional coaches on specific skills. Eligibility is open to all people managers with
+• 
+• 
+• 
+• 
+• 
+•

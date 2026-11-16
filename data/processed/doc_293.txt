@@ -1,0 +1,149 @@
+Source: https://handbook.gitlab.com/handbook/people-group/employment-branding/content-library/
+110. Content library - life at GitLab
+Content library - life at GitLab
+This content library is a curated list of blog posts, articles, videos, awards, and quick facts that
+help tell the story of life at GitLab.
+How to use the content library
+Whether you’re on the Talent Acquisition team or another team at GitLab, we want all team
+members to have the information they need to spread the word about GitLab and what it’s like to
+work here.
+Use this content library as a resource whenever you’re acting as a talent ambassador for GitLab:
+When you’re sharing on social media, having conversations with people in your network,
+speaking at an event, etc.
+Life at GitLab at a glance
+Quick facts
+Fact To date 2026-04-01
+Headcount 2,500+
+Remote team members 100%
+Pets 330+
+Source: GitLab team page
+The current headcount number will be updated each quarter following our quarterly earnings call
+using the GitLab team page as our source of current team members and rounding that number
+down to the nearest hundred. This number will then be used across all careers sites that
+reference a specific number of team members.
+Key messages about life at GitLab
+We’re one of the largest all-remote companies in the world, and we’ve intentionally built
+our culture this way from our founding year.
+Our mission makes it clear that we believe in a world where everyone can contribute. We
+make that possible at GitLab by running our operations on our product and staying
+aligned with our values in everything we do.
+More about life at GitLab and our culture.
+• 
+• 
+•
+
+Key messages about diversity, inclusion, and belonging (DIB) at
+GitLab
+Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We
+infuse DIB in every way possible in all that we do.
+At GitLab, everyone has a voice and is empowered to contribute. This means that team
+members have the opportunity to speak openly about their experiences and provide
+suggestions to leadership in order to create a more diverse and inclusive culture.
+Through Team Member Resource Groups, event sponsorships, mentorship
+opportunities, and partnerships with HBCU’s, we strive to create a transparent
+environment where people can and feel comfortable to show up as their full selves each
+and every day.
+More about DIB at GitLab.
+Awards and lists recognizing GitLab as a great place to work
+These awards and lists recognize GitLab’s unique culture and help us spread the word about why
+this is such a great place to work. Here are the latest:
+Great Place to Work Certified US, 2026-2027
+Great Place to Work Certified India, 2026-2027
+Best Remote Places to Work, Builtin, 2026
+Best Workplaces in Technology, Large, Fortune, 2025
+Best Remote Places to Work, Builtin, 2025
+Great Place to Work Certified, 2025-2026
+Best Workplaces in the Bay Area, Fortune, 2025
+Best Workplaces in Technology, Large, Fortune, 2024
+Best Places to Work, Builtin, 2024
+Great Place to Work Certified, 2024-2025
+Best Workplaces in the Bay Area, Fortune, 2024
+Best Companies to Work for in IT, Software & Services, U.S. Newsweek, 2024-2025
+Great Place to Work Certified, 2023-2024
+Best Places to Work, Builtin, 2023
+Best Workplaces for Parents, Fortune, 2022
+Best Companies for Remote Workers, Quartz, 2022
+Best Workplaces in Technology, Small & Medium, Fortune, 2022
+Best Workplaces for Millennials, Fortune, 2022
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Best Workplaces for Innovators, Fast Company, 2022
+Best Medium Workplaces, Fortune, 2022
+Great Place to Work Certified, 2021-2022
+Best Workplaces in the SF Bay Area, Fortune, 2022
+Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes
+Fortune’s Best Small & Medium Workplaces in 2020
+Great Place to Work Certified, 2020-2021
+Best Engingeering Departments, Comparably, 2021
+Best Startup Employers in 2020, Forbes
+Cloud 100 List, Forbes, 2020
+No. 2 top private employer via Hired’s Brand Health Report, 2020
+Happiest Employees, Comparably, 2020
+Best Perks and Benefits, Comparably, 2020
+Best Compensation, Comparably, 2020
+Best Work Life Balance, Comparably, 2020
+Top 100 Remote Work Companies 2020, FlexJobs
+Best Workplaces in 2019, Inc.
+18 Great Companies For Millennials in the San Francisco Area
+Best Company Culture, Comparably, 2019
+Best Companies for Women, Comparably, 2019
+Best Companies for Diversity, Comparably, 2019
+Outreach Resources
+Articles/Blogs/Features
+Articles/Blogs/Features Category
+What It’s Like to Work on GitLab’s Global CIO Team in India CIO / Culture
+Shipping Code and Career Growth: An Engineer’s Journey at GitLab Engineering / Culture
+Why GitLab Is Scaling Sales Across EMEA and Hiring for Its Next Growth
+Chapter
+Hiring / Sales
+Why I Joined: New Hires Share Why Their Company’s Culture Made Them Say
+‘Yes’
+Hiring / Culture
+Inside the Engineering Teams Leading the Next Wave of AI Innovation Engineering / AI
+What It’s Like to Build a Career at GitLab in a Fast-Changing DevSecOps World Culture / Sales
+How the Creation of GitLab’s AI-Native Platform Reflects an Innovative and
+Collaborative Company Culture
+Culture / Product
+Management
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,53 @@
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/
+119. Learning Initiatives
+Learning Initiatives
+The Learning & Development team is rolling out learning programs to enable a culture of
+curiosity and continual learning.
+Learning Initiatives Introduction
+The Learning & Development team is rolling out learning programs to enable a culture of
+curiosity and continual learning. The learning initiatives are intended to provide a forum for team
+members to come together to learn about all of the activities taking place in the learning space,
+as well as hear from leaders internally and externally on various leadership topics.
+This page is currently under construction as we update with our latest plans.
+Last modified August 4, 2026: Clean up learning-and-development handbook pages (6335fbba)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/team-workshops/
+120. Team Workshops
+Team Workshops
+Team Workshops are customized, group learning opportunities for teams at GitLab. Workshops are
+interactive, collaborative, and led by expert facilitators. They are designed to address specific skill
+gaps, create space and time for building connection and trust, and developing shared best
+practices.
+The program is available to all teams at GitLab, including teams of individual contributors and
+people leaders. Workshop duration is varied.
+Currently offered workshops cover the following skills:
+Having Difficult Conversations
+Executive Presence and Influence
+Storytelling
+Building Trust and Resiliency
+Leading through Change
+Inclusive Leadership
+Open and Effective Communication
+Decision Making and Managing Ambiguity
+Unconscious Bias
+These skills were selected and prioritized based on themes derived from the talent development
+listening tour feedback from People Business Partners, and Elevate Programs.
+When you’re ready to start planning, open an issue to connect with the Talent Development team
+for support.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9.
+
+Last modified October 23, 2025: Jallen - Updating Links (73398fdd)
+View page source
+ 
+ .

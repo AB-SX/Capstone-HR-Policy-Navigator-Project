@@ -1,0 +1,155 @@
+Special Leave:
+Team members who are pregnant can also take up to 10 days of unpaid special leave for
+pregnancy-related reasons such as antenatal classes, scans, or midwife appointments.
+This is in addition to primary carer leave.
+This leave will run concurrently with GitLab PTO.
+If you do not want to select Out Sick in Workday, you may email leaves@gitlab.com with
+the date(s) that you will be taking special leave.
+Partner Leave
+Partner Leave Entitlement:
+If you are a spouse or partner of a primary carer and have been employed for at least six
+months, but less than twelve months, you are entitled to one week of unpaid partner’s
+leave.
+If you are a spouse or partner of a primary carer and you have been employed for at
+least twelve months, you are entitled to two weeks of unpaid partner’s leave.
+Partner Leave will run concurrently with GitLab Parental Leave and provide up to 100%
+of a team member’s regular salary for up to 16 weeks.
+Team members must select Parental Leave in Workday to ensure that their time off is
+properly tracked.
+How to Apply
+To initiate your parental leave, submit your time off by selecting the Parental Leave
+category in Workday at least 30 days before your leave starts.
+Please familiarize yourself with GitLab’s Parental Leave policy.
+To apply for government-funded Parental Leave pay, please submit your application via 
+IRD.
+If there is anything GitLab needs to provide, please let the Absence Management team
+know by emailing leaves@gitlab.com
+If you are eligible, GitLab will supplement the government-funded payment to ensure
+that you receive 100% pay for up to 16 weeks of your Parental Leave.
+Additional Leave Types
+Leave for Defence Force Volunteers
+Under the Volunteers Employment Protection Act 1973, all team members who are
+members of the Armed Forces are entitled to unpaid job-protected leave during military
+training and/or service.
+This leave runs concurrently with GitLab PTO for up to 25 days.
+How to Apply:
+Team members must email the Absence Management team leaves@gitlab.com as soon
+as possible to notify them of the first date of leave and, if possible, the end date of their
+leave.
+Team members must select Military Leave in Workday to ensure that statutory
+entitlements are properly tracked.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+For more information related to this policy, please review the Employment New Zealand website
+Election Voting Leave
+Team members are entitled to 2 hours of paid time off to vote in general (parliamentary)
+elections on polling day if they are registered as an elector of the district and have not
+had a reasonable opportunity to vote before starting work. GitLab encourages you to 
+take time off to vote or volunteer at the polls.
+This leave runs concurrently with GitLab PTO. Team members must select Paid Time Off
+in Workday to ensure that statutory entitlements are properly tracked.
+For more information related to this policy, please review the Employment New Zealand website
+Jury Service
+All team members who have been called for jury service are entitled to unpaid leave for
+the duration of the service. Team members who attend jury service receive an
+attendance fee from the Ministry of Justice.
+Jury Service Leave runs concurrently with GitLab PTO. Team members must select Jury
+Duty in Workday to ensure that statutory entitlements are properly tracked.
+For more information related to this policy, please review the Employment New Zealand website
+Bereavement Leave
+All team members who have been employed for six months are entitled to three days of paid
+leave in the event of the death of a spouse or partner, parent, child, sibling, grandparent,
+grandchild, or parent of a spouse or partner, and one day in the event of the death of another
+person not previously listed.
+This leave runs concurrently with GitLab PTO. Team members must designate this time
+off as Bereavement Leave in Workday to ensure that statutory entitlements are properly
+tracked.
+All team members who have been employed for six months are entitled to three days
+paid leave if a pregnancy ended by way of a miscarriage or still-birth in circumstances
+that give rise to an entitlement to bereavement leave under the Holidays Act 2003.
+For more information related to this policy, please review the Employment New Zealand website.
+Family Violence Leave
+All team members who have been employed for a six month continuous period are entitled to 10
+days of paid leave if they have been affected by family violence.
+This leave may also be taken to support a child who has experienced domestic violence
+as long as they live with the team member for some of the time.
+A person is affected by family violence if they are a person against whom any other
+person is inflicting, or has inflicted family violence, and/or a person with whom there
+ordinarily or periodically resides a child against whom any other person is inflicting or
+has inflicted, family violence.
+Team members may also request short-term flexible working arrangements for up to 2
+months.
+This leave runs concurrently with GitLab PTO. Team members should notify the Absence
+Management team (leaves@gitlab.com) if they need to make use of this leave.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Team members must designate this time off as Out Sick in Workday to ensure that
+statutory entitlements are properly tracked.
+For more information regarding this policy, please review the Employment New Zealand website.
+Garden Leave
+A GitLab team member may use Garden Leave when they have provided their resignation and a
+Garden Leave is mutually agreed upon by both the team member and GitLab. Team members
+can not be forced to take a Garden Leave, but both the team member and GitLab may find it
+useful in the following situations:
+The team member has access to commercially sensitive information and is going to be
+working for a competitor at the end of their notice period. Any limit of trade provision
+would take effect after the employee’s employment ends.
+However, employers should be aware that if an employee’s employment agreement contains both
+a garden leave provision and a restraint of trade provision, the period the employee is on garden
+leave may be taken into consideration in working out whether or not the restraint of trade
+provision is reasonable (and therefore enforceable). The restraint of trade provision takes effect
+after the end of the garden leave period.
+Is distracting other team members while they’re in their notice period
+Is being made redundant and the employer is not requiring them to report to work
+during their notice period so they can look for other job opportunities while they can still
+say they’re currently employed
+Has been dismissed on notice and their presence is creating an uncomfortable
+atmosphere for everyone.
+Leave Without Pay
+Leave without pay is when GitLab allows an team member time off work when they would
+otherwise be working, but doesn’t pay them for this time. Leave without pay (LWOP) doesn’t end
+an team member’s employment, and usually the team member returns to their same position
+and terms and conditions after taking leave without pay (unless the employee and team member
+agree otherwise). Leave without pay can affect the employee’s annual holidays payment and
+entitlement in some situations.
+Team members must designate this time off as Out Sick in Workday.
+For more information regarding Leave without Pay, please review the Employment New Zealand’s
+website.
+Long Service Leave
+While not a legal requirement, long service leave may be negotiated between a team member
+and GitLab as additional entitlements under their employment agreement.
+This leave runs concurrently with GitLab PTO. Team members must designate this time
+off as Paid Time Off in Workday.
+Getting Help & Support
+Resources available when you need them
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,77 @@
+Enable
+What are the best ways to achieve high availability?
+Short answer: GitLab scales on AWS with Autoscaling. For other cloud and On-Prem, we
+have built in HA. For Kubernetes (K8s), we take a hybrid approach.
+Context video (6.5 minutes, May 2020):
+Learn more: Check out the Reference architecture documentation for additional details.
+What are the best ways to achieve disaster recovery?
+Short answer: Coming soon
+Context video: Coming soon
+Learn more: Review the Replication with Geo documentation
+What is GitLab’s out-of-the-box support for (AWS/Azure/GCP)?
+Short answer: Coming soon
+Context video: Coming soon
+Learn more: Please look at GitLab’s multi cloud support
+Does GitLab have reference architectures with sizing information?
+Short answer: Three requirements to determine the correct (most appropriate)
+reference architecture are:
+Number of users
+Whether or not HA (High Availability) is required
+Whether or not Geo (Replication) is required
+Context video (9 minutes, May 2020):
+Learn more: GitLab supports a number of scaling options to ensure that your self-
+managed instance is able to scale out to meet your organization’s needs when scaling
+up a single-box GitLab installation is no longer practical or feasible. Check out GitLab’s
+Reference Architecture documentation.
+What are the best practices for backing up a GitLab instance?
+Short answer: Coming soon
+Context video: Coming soon
+Learn more: Check out the Backing up and restoring GitLab documentation
+What installation method does GitLab recommend customers use?
+Short answer: Coming soon
+Context video: Coming soon
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Learn more: GitLab strongly recommends downloading the Omnibus package
+installation since it is quicker to install, easier to upgrade, and contains features to
+enhance reliability not found in other methods. We also strongly recommend at least
+4GB of free RAM to run GitLab. Find out more on the GitLab Installation page.
+How do customers migrate from GitLab CE to EE?
+Short answer: Coming soon
+Context video: Coming soon
+Learn more: Check out the Upgrade to Enterprise Edition page
+How do customers migrate from GitLab self-managed to .com?
+Short answer: Coming soon
+Context video: Coming soon
+Learn more: Find out how on the Upgrade to Enterprise Edition page
+Last modified August 27, 2026: Marketing restructure, codeowners/redirects cleanup part 2
+(4469685d)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+•

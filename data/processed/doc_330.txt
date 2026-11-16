@@ -1,0 +1,99 @@
+consider a different time off schedule if your regional capacity calendar shows that on
+any of the days you would be absent, the regional team would be short by 20% or more
+of its people
+check the regional calendar and coordinate with your manager to ensure we have
+sufficient cover for days with low availability. You can do this by ensuring that you are
+subscribed to your associated regional calendar (i.e., EMEA - OOO, AMER - OOO, APAC -
+OOO) and that prior to booking time off, you check the calendar:
+🟩 Green: You’re good to book PTO.
+🟨 Yellow: The team is nearing PTO capacity – consider other dates if possible.
+🟥 Red: PTO capacity has been reached. Please discuss with your manager before
+proceeding.
+the calendar colors are determined by the percentage of engineers on PTO:
+🟢 Green: 0–15% of engineers on PTO
+🟡 Yellow: >15% to 20% of engineers on PTO
+🔴 Red: >20% of engineers on PTO
+schedule your time off as far in advance as you can, especially for days that may be
+popular, are holidays, or that are particularly important to you
+don’t lock yourself into nonrefundable travel itineraries before you’ve taken steps such
+as the above to be sure you can get the planned days off
+if possible, plan your time off to avoid disruptions to the various rotations such as on-
+call
+Preparing for time off
+When you are approaching a planned absence from work, it is your responsibility
+to take reasonable actions to prepare the team and your customers for your
+absence. By making these preparations, you will also be making it easier for
+yourself to disconnect from work and make your time off effective.
+If you’re taking off less than half a day, you do not need to make entries in Workday or the
+Support Time Off Calendar, but please consider updating your Slack status. Also consider
+blocking the interval on your personal Google Calendar, so no one tries to book a pairing/
+meeting with you during that time.
+If you’re taking off a half day or more, enter the time off in Workday.
+Follow the guidance below to prepare yourself, your customers, and your colleagues.
+Coverage for roles
+If you are assigned to any PagerDuty shifts (such as on-call) during the time off, arrange for
+coverage:
+Find a volunteer to cover for you; get help from your manager if necessary.
+Create the appropriate override in PagerDuty.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2.
+
+Coverage for assigned tickets
+Tidy your queue before going on PTO. As guidelines cannot cover every case,
+this section is meant to provide guidance for you to think critically about
+what is required to ensure continued excellent support for each customer with
+whom you’re working on a ticket.
+If your absence will be less than three business days
+If your PTO will prevent a timely update, ask the customer whether
+they would prefer to pause the ticket with the on-hold status or
+have someone else step in.
+For high priority tickets, tend towards a handing over to someone else:
+Use the OOO Ticket Summary
+macro, providing the same information as described in the
+Workflow
+topic of the OOO Ticket Management page.
+If your absence is three or more business days
+Change your workflow in advance of your absence:
+A week in advance: Start thinking about whether you may need to hand off tickets, and
+pair with others to get them up to speed.
+One day in advance: Stop assigning new tickets with your own region as the preferred
+region. Instead, prioritize FRT-stage tickets from other regions that you can respond to
+initially and then reassign (reHome) after your first reply.
+Work to resolve and close as many of your assigned tickets as possible.
+Contribute more to first responses and other people’s tickets - internal comments,
+pairing
+sessions - to make up for not taking new tickets of your own.
+Follow the OOO Ticket Management
+process to arrange for others to take care of your tickets in your absence.
+To ensure you’re not auto-assigned to GDPR requests in case of an extented leave (e.g 2
+weeks or longer):
+Update the corresponding yaml file for yourself in the Support Team project.
+Change works_account_deletion: true to works_account_deletion: false
+Request a review from your manager.
+Make sure to undo this change when you return from OOO.
+4. After coming back, make sure to follow the guidelines for catching up after a
+scheduled time off.
+1. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+• 
+•

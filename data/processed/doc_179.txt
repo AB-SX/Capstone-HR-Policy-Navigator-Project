@@ -1,0 +1,153 @@
+Amendments after starting with GitLab
+A contractor requests a modification to their contract due to a name change/company
+incorporation (Example: The individual recently incorporated a company, and would like to
+invoice GitLab through their company versus individually)
+The People Connect Team member should log the requested change in the Documents
+section of the team member Workday profile, using the ‘Contracts and Changes’
+document category.
+The People Connect Team member should draft the new contract using the appropriate
+template in the Employment Contracts internal handbook page. Please remember to
+always make a copy of the template before editing.
+Important: Employment contracts cannot be backdated. If a team member requests to backdate a
+contract for invoicing purposes, an addendum should be added to the contract stating: “As the
+Contractor has not invoiced GitLab for payment since their start date on contractor start date,
+GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base
+compensation”. The start date on the new contract should always reflect the date the contract is staged
+for signatures.
+The People Connect Team member should stage the contract in DocuSign to be signed
+by both the team member and the Director of People Operations.
+Once siged by both parties, the contract should be uploaded to the Documents section
+of the team member Workday profile, using the ‘Contracts and Changes’ document
+category.
+How to Unhire a Candidate After Contract is Signed
+If for some reason a candidate declines an offer after they have been hired into the system,
+whoever receives that information needs to make sure @ces is tagged in the Greenhouse profile
+and is made aware that the candidate will no longer be starting at GitLab. Please note that the
+steps below are assuming that the person will not be working for GitLab; if you are hoping to just
+amend their offer after they’ve been marked as hired, please view the Resend process above.
+If they have been hired in Greenhouse and exported to Workday, the team will need to follow
+these steps:
+Unhire the candidate in Greenhouse if the req is still open by clicking the “unhire” button
+on the candidate’s offer. If the req is closed, ask Enablement to unhire.
+Ask the Recruiter to reject them in Greenhouse; add reasons in notes, you may add the
+email that was sent by the candidate. Click ‘reject and don’t send email’.
+Cancel any scheduled emails in Greenhouse.
+If they were hired via a PEO, inform the contact person at the PEO of this change
+immediately, ideally before onboarding starts. If they are in a country that uses outside
+payroll, we will need to inform the payroll company as well.
+Message IT, People Connect, and the Sr. Background Check Specialist in the #people-
+ops-ces channel to let them know to cancel any laptop orders, onboarding issues,
+background checks, and remove from Workday.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5.
+
+If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes,
+please tag them to let them know that the candidate has withdrawn.
+If the Recruiter has not done so already, add a candidate tag of Rescinded Acceptance to
+the candidate’s profile.
+Enablement steps:
+Make a note on the Approvals tab and tag each job approver who approved the job last.
+Note the date approved and let them know that no action is needed, that you are not
+adding additional headcount, and that you will be reapproving on their behalf as they
+have already approved.
+Open a draft opening through the Approvals tab with “TEMP” in all empty mandatory
+fields.
+Approve on behalf of Total Rewards (job approval step 1).
+Mark the candidate unhired on their candidate profile.
+Remove the temporary opening on the approvals page. This will happen in two steps:
+first, you’ll need to close the opening (using the same process you used to open it), save,
+and then go back in again to delete the record of the opening. There is a bug in
+Greenhouse that impacts pop-ups during this stage, so you may need to resize your
+browser if you’re not seeing confirmation messages.
+Approve the final approvals on behalf of those who originally approved.
+Inform any involved parties of the unhiring status who will be taking next steps.
+Job Change Letter
+When a team member applies for and receives a new position through Greenhouse, a Job Change
+Letter is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist
+will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director,
+Global People Operations or the Chief People Officer and the team member through DocuSign.
+Using
+the Offer through DocuSign - Job Change Letter template in Greenhouse the letter is cc’d to 
+peopleops@gitlab.com team for processing.
+Effective dates for a job change letter should be the first (1st) of the month or the sixteenth
+(16th). For Sales or Sales Development team members, they can only be the first of the month.
+These effective dates do not need to be on a business day and should be adhered to payroll
+purposes.
+Please note that JCLs cannot be used if a team member is moving from the Federal, LLC. entity
+into any other entity or any entity that is not Federal, LLC into the Federal, LLC. entity. In those
+cases, a new contract must be issued as there are tax implications to this entity.
+If the team member is making a lateral move where there is no change in compensation, then
+the start date can be any day of the month.
+When generating a job change letter for a PEO, the steps remains the same as outlined below.
+However, select the JCL template that does not include RSUs, and send the RSU details via
+DocuSign email.
+The Candidate Experience Specialist needs to merge any additional candidate profiles before
+marking as hired. If the profiles are not merged, it will create a duplicate and mess with the
+6. 
+7. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+employment bot sync to Workday. The signed letter is uploaded into Workday under the
+Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst.
+When an internal transition is taking place and the start date for that JCL is amended, please
+ensure to update the People Connect team via Slack in the #people-connect_ces channel of the
+new start date.
+If a team member goes through a promotion through WorkDay versus Greenhouse, a Job Change
+Letter is prepared by the Total Rewards team as listed on their handbook page.
+CES: Follow the instructions below on how to create and send a job change letter.
+Confirm that the start date is either on the 1st or 16th of the month. For Sales or Sales
+Development, the start date should be the 1st. This is for payroll purposes and does not
+need to be on a business day.
+The signatory matches the appropriate entity. If the candidate is located in the US
+(including Federal), Morgan Wilkins can be a signatory. If the candidate is employed
+through a PEO, Morgan Wilkins and Marissa Ferber can be signatories (this process is
+subject to change)
+Next, Click Generate
+Select Job Change Letter template in Greenhouse:
+* Job Change Letter - OTE/with RSU’s
+* Job Change Letter - No OTE/with RSU’s
+* Job Change Letter w/ OTE, no RSU’s
+* Job Change Letter, No OTE, No RSU’s
+JCLs should be treated like contracts, where RSUs are only features in US ones and all other
+countries should have text within the DocuSign email instead.
+Click on Send through DocuSign
+You will be redirected to DocuSign.
+On the top left of the screen, click where it says the candidate’s name, then click “Edit
+Recipients”. Change the order of recipients to reflect the following order:
+* #1 is Director, Total Rewards (needs to sign)
+* #1 is Recruiter (receives a copy)
+* #1 Hiring Manager (receives a copy)
+* #2 Candidate (needs to sign)
+* #3 People Ops (receives a copy)
+* #3 Nitin Upadhyay and Julia Demina (receives a copy)
+* This ensures that the contract goes to the GitLab signatory to sign first, as well as the
+recruiter for a Cc and once signed by them it will go to the People Experience for an
+update of records.
+Then click “Done”.
+When the JCL is signed, ensure that you merge profiles before Hiring to avoid creating
+duplicate profile
+Contractor Conversions
+A contractor conversion is when a GitLab contractor is moving into a permanent position.
+Recruiters should communicate to their CES partner that a candidate is going through a
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+5.

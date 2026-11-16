@@ -1,0 +1,118 @@
+Source: https://handbook.gitlab.com/handbook/sales/onboarding/sqs-learning-objectives/
+138. Sales Quick Start (SQS) Learning Objectives
+Sales Quick Start (SQS) Learning Objectives
+GitLab sales onboarding learning obejctives
+Learning Objectives
+Introduction to GitLab
+Define DevOps.
+Describe how GitLab fits into the DevOps lifecycle.
+Describe GitLab’s 3 value drivers.
+Discover GitLab’s culture as a fully-distributed team.
+Discover the GitLab culture of “Everyone can contribute.”
+Describe the DevOps Landscape
+Define the Software Development Lifecycle.
+Describe how GitLab fits into the Software Development Lifecycle.
+Discover why cloud native app development requires a shift to a DevOps operating
+structure.
+Differentiate between a traditional DevOps toolchain and GitLab’s visions for a Complete
+DevOps solution.
+Describe how to integrate and automate security in the DevOps Lifecycle.
+Describe GitLab’s advantages as an integrated platform for developers and operators.
+Our Customers
+Discover how customers are segmented at GitLab.
+Describe the various buyer personas.
+Examine GitLab’s success stories.
+Locate helpful GitLab information.
+Locate internal-facing GitLab content that helps advance the sale.
+Our Portfolio
+Observe how to deliver the GitLab Pitch Deck and practice making it yours.
+Explain how GitLab helps in each stage of the DevOps Lifecycle.
+Differentiate what’s included in each product tier and be ready to ask questions during
+the live session.
+Identify what sets higher tiers apart from Free and practice advising clients on how they
+can create a more efficient and secure environment.
+Review GitLab pricing at different tiers.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Describe what a use case is and identify GitLab’s unique use cases.
+Identify the GitLab Security Capabilities, practice using them, and observe a click-
+through demo of them.
+Identify GitLab’s Professional Services offerings and describe what their team can do to
+enable your clients to realize the full value of their GitLab installation.
+Discover GitLab’s Roadmap and review our latest releases.
+Describe GitLab as an overall product, identify our differentiating features, and be able
+to tell prospects/clients where to find this information when they ask.
+Field Sales Roles & Expectations
+Discover the different sales roles at GitLab and identify what constitutes “meeting
+expectations” when it comes to your particular role.
+Discover how the SA role at GitLab relates with your role and the prospect/customer.
+Discover how the CSM role at GitLab relates with your role and the prospect/customer.
+Discover how the PSE role at GitLab relates with your role and the prospect/customer.
+Recognize where to find your CS resources at GitLab.
+Sales Process
+Practice the basics of CoM and MEDDPPICC and visualize how it fits into selling here at
+GitLab.
+Describe what CoM is and practice how to use discovery questions, value drivers,
+defensible differentiators, trap-setting questions, and the Mantra to advance the sale.
+Describe what MEDDPPICC is and how it will advance the sale.
+Describe our value drivers and practice how to uncover customer needs and how to
+articulate value and differentiation.
+Observe where sellers turn off buyers and how this fits into CoM.
+Discover the art of using social networks to find, connect with, and nurture your
+customers and prospects. Develop a profile that will resonate with your prospects.
+Recognize the role of the SDR in the sales process and experiment with ways to keep
+your pipeline filled.
+Sales Action & Role Plays
+Predict the customer side of the sales equation so you can be better prepared to have a
+productive, consultative conversation with them.
+Prepare for a sales conversation by using the GitLab value framework.
+Practice the flow of a sales call with your peers.
+Our Competition
+Examine the DevOps industry from our CEO’s perspective.
+Describe our different features and explain how we stack up against our competitors.
+Recognize where to find the resources you’ll need during the sales cycle.
+Identify the differences between GitLab and GitHub and practice articulating them with
+your peers/prospects/customers.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,102 @@
+If necessary and at the request of the Company, the team member undertakes to follow the
+necessary training on the installation, use and maintenance of this equipment and, during the
+remote work period, that is related to its adaptation.
+Finally, the team member undertakes, under penalty of dismissal, to use the equipment provided
+by the Company in accordance with the acceptable use policy.
+The Company undertakes to bear the costs of maintenance, repair and, if necessary, replacement
+of the equipment.
+All equipment provided by the Company remains its property and as such is exempt from seizure.
+The team member undertakes to return the equipment provided by the Company at the end of
+the employment contract without delay.
+7. INSURANCES
+If the team member uses their domicile to work remotely, they undertake to inform their insurer
+of the fact that they are working at their domicile with equipment belonging to the Company and
+to provide the latter with a “multi-risk” home insurance certificate covering their domicile.
+The Company shall bear the resulting additional insurance costs – if there are any – under the
+conditions indicated in article 9 of the Charter.
+8. DATA PROTECTION
+The team member undertakes to comply with the internal policies and rules developed by the
+Company to ensure data protection and confidentiality.
+In particular, the team member will ensure that no information is passed on to third parties and
+that access to their computer equipment is locked to ensure that only they use their workstation.
+9. REMOTE WORK EXPENSES AND PROFESSIONAL EXPENSES
+The expenses incurred by the use of the team member’s domicile for remote work purposes (wifi,
+heating, electricity, etc) will be covered by the Company in accordance with the local regulations
+applicable at the time of expense.
+This means that you shall receive a minimum payment of €57.20 per month, up to the limits set
+out in our expenses policy and provided that your remote work expenses actually incurred
+monthly reach at least this amount.
+Currently, this is incorporated into our general approach to managing expenses and
+reimbursement via our expensing tool (Navan).
+Any remote work expense must, for traceability purposes, be substantiated by the appropriate
+receipts and justification.
+Independently of the expenses related to remote work, the expenses incurred by the team
+member for professional purposes will be paid by the Company according to the applicable legal
+rules and internal policies.
+In addition to the costs related to remote work, the team member will receive a monthly
+occupational allowance (indemnité de sujétion) of €50 gross corresponding to the constraint of
+using part of his private home for professional purposes. This allowance is an integral part of the
+fixed remuneration agreed in the employment contract.
+
+10. ANNUAL INTERVIEW
+The team member shall have an annual interview during which the work conditions and the
+workload related to remote work shall be discussed.
+11. PROTECTION OF PRIVACY
+If a means of surveillance is put in place (technical control, system to combat cybercrime, etc.),
+the team member must be informed. This system must relate exclusively to the use of tools made
+available for professional purposes.
+12. TRAINING
+Apart from the specific training related to the use of the technical equipment provided, the team
+member has access to training, support and coaching in order to ensure his professional
+development.
+13. HEALTH AND SECURITY
+In the event of illness or accident during the days of remote work, the team member undertakes
+to notify Team Member Relations (teammemberrelations@gitlab.com) within 24 hours.
+14. TRANSLATION
+In the event of a conflict between the French and English version of the Charter, the French text
+shall prevail in all circumstances.
+Current and Past Versions (accessible internally only)
+A PDF of the current version of the Charter is available here. If/when the Charter is updated, PDFs
+of previous versions will be made available here for transparency.
+2021 version is available here.
+Last modified July 8, 2026: Deprecating IT_Help and Adding Compass Details (aa22a504)
+View page source
+ 
+ .
+•
+
+Source: https://handbook.gitlab.com/handbook/people-policies/france-sas/right-to-disconnect-charter/
+051. GitLab France S.A.S. Right to Disconnect Charter
+GitLab France S.A.S. Right to Disconnect Charter
+GitLab France S.A.S. Right to Disconnect Charter - French and English language versions.
+This is a Secure Document
+Per the stated Roles & Responsibilities, changes to this page must be approved or merged by a
+code owner. All contributions are welcome and encouraged.
+Roles and Responsibilities
+Role Responsibility
+GitLab France S.A.S. Team Members Responsible for following the requirements in these policies
+People Ops Responsible for implementing and executing these policies
+Legal & People Ops Management (Code
+Owners)
+Responsible for approving significant changes and exceptions
+to these policies
+Français: GITLAB FRANCE S.A.S. CHARTE SUR LE DROIT À LA
+DÉCONNEXION
+1. Objet
+Chez GitLab (ci-après la «Société»), nous veillons à la sécurité, à la santé et au bien-être de tous
+les collaborateurs et mettons l’accent non pas sur le nombre d’heures travaillées mais plutôt sur
+la communication asynchrone ainsi que sur les résultats. Nous pensons que la famille et les amis
+sont prioritaires et que le travail est secondaire. Dans la droite ligne des valeurs de la Société,
+nous comprenons qu’il est essentiel de se « déconnecter » du travail pour favoriser une vie saine
+et équilibrée. Les progrès technologiques, les événements internationaux et les exigences
+professionnelles peuvent parfois nous faire oublier que nous avons besoin d’une pause pour
+nous ressourcer.
+Le présent document (ci-après la « Charte ») a été établi afin de rappeler et de renforcer le droit à
+la déconnexion des salariés vis-à-vis des outils informatiques disponibles au sein de l’entreprise.
+Il est attendu des salariés qu’ils se déconnectent du travail et des moyens de communication liés
+au travail en dehors de leurs heures de travail normales et pendant leurs congés, et l’objectif de
+ce document est d’encourager la déconnexion et de fournir des conseils sur la manière dont
+l’entreprise s’engage à soutenir tous les salariés dans cette démarche.
+Par cette Charte, la Société réaffirme donc l’importance d’une bonne utilisation des outils
+informatiques afin de respecter les temps de repos et de congés, ainsi que l’équilibre entre la vie
+personnelle et familiale et la vie professionnelle.

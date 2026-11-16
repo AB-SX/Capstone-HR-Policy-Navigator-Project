@@ -1,0 +1,152 @@
+Total for fathers/co-mothers: 24 weeks paternity leave (with 13 weeks transferable under
+certain conditions)
+Maternity and Paternity Leave Payment Eligibility
+As a team member, you can receive maternity or paternity benefits if you meet these three
+conditions:
+You must be employed on the first day of your leave or the day before.
+You must have at least 160 hours within the last four full months before the leave.
+You must have at least 40 hours per month for at least three of the four months.
+In addition, you must also be with your child daily, i.e., physically spend time with the
+child.
+Payment Denmark automatically receives the information about your employment and hours
+from your employer.
+Maternity and Paternity Leave Payment
+The maximum maternity and paternity leave payment in Denmark is DKK 4,865 per week (2025)
+for full-time employees working 37 hours per week.
+If you are employed full-time and earn more than DKK 21,092 per month, you will
+receive the maximum weekly benefit of DKK 4,865 before tax.
+Maternity and paternity benefits are calculated based on your hourly wage (excluding
+Labour Market Contribution) and the number of hours of leave taken per week.
+In 2025, the maximum hourly rate for maternity benefits is DKK 131.49 per hour (4,865 ÷
+37 hours). If your hourly wage is lower than this, benefits will be paid at your usual
+hourly rate.
+Employees with a permanent job in addition to their education can apply for maternity
+benefits as a salaried employee for the hours during which they work.
+If eligible, GitLab’s Parental leave will be applied concurrently with the statutory leave and/or pay
+entitlements the team member is eligible for. GitLab will top up state maternity/paternity benefits
+to ensure you receive 100% of your salary for up to 16 weeks (*). Any additional leave taken (up to
+52 weeks total) will be unpaid by GitLab and paid at the statutory rate only.
+*GX (GitLab’s employer of record) will seek reimbursement from the public authority; Udbetaling
+Danmark for the state funded portion.
+Applying for Maternity and Paternity Leave Benefits in Denmark
+The application process for maternity and paternity benefits is the same for both parents.
+Notify Your Employer (GitLab & GX) that you will be taking leave. Your employer must
+notify Udbetaling Danmark via virk.dk/barselsdagpenge on your first day of leave or
+later. Enter your Parental Leave into Workday by selecting the “GitLab Parental Leave”
+option under the Leaves dropdown menu. This request will route to the Absence
+Management team who will contact you with more information.
+If you are eligible for GitLab’s Parental leave: If you receive pay during the leave,
+reimbursement will be sought by your employer. You can only apply for maternity/
+paternity benefit yourself when the salary stops. Your employer must notify Udbetaling
+Danmark when the salary stops. They can do this at the earliest on your first day without
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2.
+
+pay. As soon as your employer has given notice, you will automatically receive a letter
+via Digital Post with access to apply for maternity/paternity benefits.
+If you are not eligible for GitLab’s Parental Leave: You must apply for maternity/paternity
+benefit yourself from the start of the leave. Your employer or unemployment insurance
+fund must first notify Udbetaling Danmark that you are going on leave. They can do this
+your first day on leave at the earliest. As soon as they have given notice, you will receive
+a letter via Digital Post with a link to apply for maternity/paternity benefits. It also says
+when you last applied.
+Application Deadlines: You must apply for maternity/paternity benefits no later than:
+8 weeks after childbirth (if not receiving pay)
+8 weeks after your salary stops (if receiving partial pay)
+8 weeks after your leave starts (e.g., unpaid paternity leave)
+For detailed information regarding statutory/maternity benefits, review the Danish
+government website.
+Denmark Other Leave Policies
+Adoption Leave: Adoptive parents are entitled to 4 weeks of leave prior to receiving the
+child, if the adoptive parents have to reside outside of Denmark to adopt. If the child is
+adopted in Denmark, and it is necessary to reside where the place child is situation,
+parents are eligible for one week of leave before the adoption. In all cases of adoption,
+one of the adoptive parents is entitled to adoption leave of 14 weeks and the other with
+to leave with statutory benefits for 2 weeks. The remaining 12 weeks can be split
+between the adoptive parents.
+Care leave(omsorgsdage): Intended to allow team members to care for a sick child.
+This is not a statutory requirement, but is common.
+Kenya 🇰🇪
+Contact: gx_employeeexperience@globalexpansion.com
+Platform: Global Expansion Instruction Guide
+All benefits listed below are administered and managed by Global Expansion, providing flexible
+healthcare support and protection designed to meet your needs in Kenya.
+Kenya Healthcare Allowance
+Monthly healthcare allowance to support your medical coverage needs, providing flexibility to
+choose the healthcare that works best for you and your family
+Key Features
+Up to 40,000 KES per month for individual coverage
+Up to 70,000 KES per month for family coverage
+Monthly reimbursement through regular payroll
+How to Access
+Registration: Upload proof of coverage to GX1 portal
+Reimbursement: Receive monthly payment with regular payroll
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Changes: Upload new proof of coverage to GX1 portal and email 
+gx_employeeexperience@globalexpansion.com and total-rewards@gitlab.com
+Annual Audit: Once a year, Global Expansion may reach out to team members to
+complete an audit and request that team members upload proof of coverage and cost.
+Kenya Life Insurance
+Company-paid International Group Life and Disability Plans through AXA provide financial
+security for you and your loved ones.
+Kenya Pension
+Pension: You’re covered by Kenya’s National Social Security Fund (NSSF), which provides
+retirement security through the national pension system. This comprehensive framework ensures
+your retirement planning is supported through Kenya’s established pension structure.
+Kenya Leave Policies
+Annual Leave
+Statutory Entitlement: 21 days per year
+[Placeholder; GitLab policy; runs concurrently with Flexible Time Off]
+Parental Leave
+Maternity: Up to 3 months leave (100% paid by GitLab for up to 16 weeks if eligible)
+Paternity: Up to 2 weeks leave (100% paid by GitLab for up to 16 weeks if eligible)
+Please familiarize yourself with GitLab’s Parental Leave policy.
+How to Apply
+Submit requests via Workday - Time Off at least 30 days before leave starts.
+Mexico 🇲🇽
+Contact: gx_employeeexperience@globalexpansion.com
+Platform: Global Expansion Instruction Guide
+All benefits listed below are administered and managed by Global Expansion, providing
+healthcare, remote work support, and enhanced parental leave designed to meet your evolving
+needs in Mexico.
+Mexico Medical Coverage
+Comprehensive healthcare options designed to meet your changing needs, with enhanced
+coverage through our global health plan, AXA.
+Key Features
+GitLab covers 100% of team member premiums (AXA plan)
+GitLab covers 66% of eligible dependent premiums (AXA plan)
+Direct administration through Global Expansion
+How to Access: Global Expansion will collect your census information during onboarding via the
+GX1 platform. If adding dependents, you’ll need to sign an authorization form for payroll
+deduction. Contact the Global team for any changes or modifications to your coverage.
+Questions? Contact: gx_employeeexperience@globalexpansion.com
+Mexico Life Insurance
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

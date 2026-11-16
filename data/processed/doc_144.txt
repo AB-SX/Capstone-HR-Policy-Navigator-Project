@@ -1,0 +1,104 @@
+permitted by French law. Team members should not feel that they must respond to social
+communications from colleagues outside of their working hours, see the Team Member Social
+Media Policy for more details.
+8. Meetings
+The Company asks that we be respectful of others’ time and consider the time investment others
+are asked to make when attending meetings. Try to avoid meetings, and if one is necessary, try to
+make attendance optional for as many people as possible. All meetings should have an agenda
+linked from the invite, and you should document the outcome. Instead of having people ask
+permission, trust their judgement and offer a consultation process if they have questions.
+9. Tips to help
+In addition to the company-wide tips in Communicating Your Time Off, take a look at these tips to
+increase your ability to disconnect from work, truly make the most of your time off, and make it
+easier to return to work:
+Unsubscribe from any MRs that will likely resolve while you’re away, and then you won’t
+have to deal with all the emails from them when you return.
+Set up some email filters to move emails into buckets that you can address one-at-a-
+time when you return.
+Disconnect yourself from Slack and Gmail in any of these ways: NOTE: Time Off by Deel is
+supposed to turn off Slack notifications on your phone and set DND mode. But just in case, you
+may want to do one of these:
+log out from Slack and Gmail on your phone, or;
+remove Slack and Gmail from your phone, or;
+pause the Slack and Gmail apps on your phone, or;
+manually configure Slack and Gmail to send no notifications on your phone.
+10. Company’s undertakings regarding awareness and training on the right to
+disconnect
+The Company affirms that information and communication technologies are an important part of
+the work environment and are necessary for the efficient running of the Company. They are a
+source of social interaction, facilitating exchanges and access to information, but they must be
+used wisely, with respect for individuals and their privacy, to ensure that minimum rest periods
+are respected.
+In this context, and in addition to above-mentioned tips and recommendations, the Company
+undertakes in particular to:
+Raise awareness, and train if necessary, each team member in the reasoned and
+balanced use of digital tools.
+Provide each team member with personalized support.
+These measures will be regularly updated and adapted to team members’ requests and needs.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+11. Raising concerns
+The effectiveness of the Charter will be reviewed as required and we encourage team members
+to speak with their manager or a member of Team Member Relations if they have any concerns
+regarding this Charter including potential violation by others.
+If a team member:
+Considers not being able to properly exercise their right to disconnect;
+Believes that their manager is not complying with the Charter, or otherwise is not
+comfortable raising an issue regarding the Charter with their manager;
+The said team member may contact Team Member Relations.
+Team members who do not comply with this Charter may be subject to disciplinary action.
+12. Translation
+In the event of a conflict between the French and English version of the Charter, the French text
+shall prevail in all circumstances.
+13. Entry into force of the Charter
+This version of the Charter shall enter into force on 3 April 2023.
+This Charter is concluded for an indefinite period.
+Current and Past Versions (accessible internally only)
+A PDF of the current version of the Charter is available here. If/when the Charter is updated, PDFs
+of previous versions will be made available here for transparency.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-policies/ireland-ltd/right-to-disconnect-policy/
+052. GitLab Ireland Ltd Right to Disconnect Policy
+GitLab Ireland Ltd Right to Disconnect Policy
+GitLab Ireland Ltd Right to Disconnect Policy
+This is a Secure Document
+Per the stated Roles & Responsibilities, changes to this page must be approved or merged by a
+code owner. All contributions are welcome and encouraged.
+Roles and Responsibilities
+Role Responsibility
+GitLab Ireland Ltd Team Members Responsible for following the requirements in these policies
+People Ops Responsible for implementing and executing these policies
+Legal & People Ops Management (Code
+Owners)
+Responsible for approving significant changes and exceptions
+to these policies
+1. Purpose
+At GitLab (the “Company”), we support the safety, health and well-being of all team members and
+we operate with an emphasis on asynchronous communication and a focus on impact, not
+activity. We believe that family and friends should come first and work should come second. In
+line with company values, we understand that “disconnecting” from work is critical in order to
+foster a healthy and well-rounded life. Technological advancements, world events, and work
+demands, can, at times, cause us to forget that we need a break from work to recharge.
+It is expected that team members will disconnect from work and work-related communications
+outside of their normal working hours and during PTO, and the purpose of this Right to
+Disconnect Policy (“Policy”) is to encourage disconnection, and to provide guidance on how the
+Company is committed to supporting all team members to do so.
+2. Applicability
+This Policy applies to all team members regardless of position, tenure, and work location, as local
+laws permit, and is intended to support existing rights and obligations of team members and the
+Company under those laws. For any additional information regarding your specific work location,
+please refer to the entity-specific employment policies.
+All team members should familiarise themselves with this Policy.

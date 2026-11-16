@@ -1,0 +1,85 @@
+Source: https://handbook.gitlab.com/handbook/hiring/interviewing/panel/
+069. Panel Interviews
+Panel Interviews
+When a candidate gets the opportunity to interview with more than one member of the hiring
+team at once, this is called a panel interview.
+Panel Interviews
+When a candidate gets the opportunity to interview with more than one member of
+the hiring team at once, this is called a panel interview (as they speak with
+a panel of interviewers). For candidates, this can be a benefit as they get to
+meet with more members of the team in a shorter time frame, which means they
+spend less time scheduling and attending interviews. For interviewers, this
+means that they get to work together to learn more about a candidate and can
+benefit from each other’s viewpoints and experience.
+In order to maximize the effectiveness of our panel interviews, we observe the
+following guidelines:
+Panel interviews are best done by video call. In-person panel interviews
+can be intimidating because you sit across from a group of people. Video
+calls are easier to keep conversational.
+Start with an explanation and introductions. Walk the candidate through
+the interview, roughly how long each stage will take. Introduce yourselves
+briefly, then ask the candidate to do the same.
+No difficult or “trick” questions. Panel interviews are conversations,
+not tests. If the candidate needs to prepare for the interview or will be put
+on the spot with a question designed to test their knowledge, they should
+have the opportunity to do that with a smaller audience. Panel interviews
+work best when they are oriented around questions about a candidate’s
+experience, history, and opinions.
+Interviewers, be prepared. Have a list of sample questions ready to draw
+from to keep the conversation moving. Know when it is your turn to ask
+questions. Communicate in Slack or similar if you need to make adjustments.
+Turn off notifications or any other distractions so you can stay focused.
+Taking turns asking questions is not an excuse to multi-task.
+The goal is to get to know the candidate. Because panel interviews are so
+conversational, it’s really easy for interviewers to spend time talking to
+each other instead of the candidate. Be diligent about keeping the focus on
+the candidate and give them the space to be the star in the interview.
+Last modified September 26, 2023: Fix markdown errors using autofix (a1409046)
+1. 
+2. 
+3. 
+4. 
+5.
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/hiring/interviewing/technical/
+070. Technical Interviews
+Technical Interviews
+Technical Interview Guide
+For some positions, the hiring process includes a technical interview.
+This technical interview revolves around a merge request to a small application created for the
+interview, tailored to the position you’ve applied for.
+You will receive a link to the merge request at least 72 hours before your scheduled call. We
+encourage you to dedicate up to an hour to review it, approaching it much like you would any
+contribution to a project. The merge request is self-contained, eliminating the need to search for
+additional context within the project. To ensure your interviewer has sufficient time to evaluate
+your progress before the interview, please complete your review at least 24 hours prior to the
+scheduled time. Additionally, kindly leave a note on the platform indicating when you have
+completed your asynchronous contributions.
+This technical interview is a 90-minute video call and screen-sharing session with the
+interviewer(s), where they will ask you to walk them through your review and where you will also
+write some code to improve the merge request. The purpose of this interview is to see how you
+communicate asynchronously, your knowledge of the technology, and how well you collaborate
+with a member of the team. You can expect questions to center around the qualifications listed
+for the role, whether it is a backend role or a frontend role.
+We know live coding can be stressful, so it is recommended that you review code review
+guidelines and contact your recruiter or CES team member with any questions you have ahead of
+your scheduled interview.
+Usage of AI
+We encourage the use of AI in the interview process, you can read our guidelines here.
+Alternative Assignment Considerations
+If a candidate desires an alternative assignment or test to the one detailed above, or if they
+object to what they perceive as unpaid work, we should be open-minded. Seek to understand
+their discomfort with the assignment and respond appropriately. Most of our candidates respond
+positively to the test and feedback, and this is not a way to get free contributions. In fact, the
+technical interview can be quite costly for us.
+It’s also worth noting and making the candidate aware that we no longer request that they work
+on live or “real” issues as part of the technical interview. As described above, the merge request
+we send is self-contained and drawn from a curated bank of technical exercises.
+Becoming qualified to conduct technical interviews
+If GitLab team-members are interested in becoming qualified to conduct technical interviews,
+they can read more about the process in the interviewing best practices page.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)

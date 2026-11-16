@@ -1,0 +1,89 @@
+Source: https://handbook.gitlab.com/handbook/customer-experience/csm/csm-onboarding/
+133. CSMA Onboarding
+CSMA Onboarding
+View the CSMA Handbook homepage for additional CSMA-related handbook pages.
+Onboarding for Customer Success Managers and Customer Success Architects is a guided,
+methodical process to ensure new team members have the knowledge they need to be effective.
+There is a lot to learn to make you a great GitLab CSMA. It is important for new team members to
+gain competency on how our platform solutions provide customer value, and how we partner
+with customers to build a productive relationship. This handbook page will provide an overview of
+what can be expected during the onboarding journey including learning objectives, milestones,
+and ways in which a manager and onboarding buddy can support a new team member during
+their onboarding.
+Overview of Role-Based CSMA Onboarding
+As a CSMA, your onboarding experience will be a blended learning experience that includes the
+following elements:
+Your onboarding issue, assigned to you by the People team
+GitLab Academy (for full details and links, see The GitLab Academy Highspot page)
+Asynchronous eLearning Paths & Introductions to the Revenue Organization: a self-
+paced role-based learning path on Level Up (our internal Learning Management System)
+Synchronous Value Selling class & workshops: four two-hour virtual sessions (pre-reads
+required)
+Synchronous Role-based Skills Workshops: enablement leads and SMEs will facilitate
+workshops to feature core role fundamentals and skill-based development
+In-person, regional Bootcamp: two-day event to participate in cross-functional and role-
+based workshops and complete live exercise before graduating
+A buddy-led onboarding program, which includes 1:1 calls, hands-on work, shadowing
+customer calls, and exposure to real-life customer scenarios and activities
+GitLab Academy for CSMAs
+Milestones and Onboarding Roadmap
+Synchronous Role-based Skills Sessions
+As part of GitLab Academy Component 3 (Synchronous Role-based Skills Workshops), CSMAs
+attend four role-based live virtual sessions. These sessions are 90 minutes each and run on a
+rolling monthly rotation. Session 0 is shared across all Customer Experience new hires.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+Session 0 — One CX: Roles, Customer Journey and Overview
+Audience: All CX new hires (CSM, CSA, CSE, RM, PS Engagement Manager, PS Technical Architect,
+PS Project Manager)
+Format: Watch and AMA — approximately 60 minutes of async pre-watch followed by a 30-
+minute live AMA session
+What this covers:
+The One CX model and how all roles connect across the customer journey
+Success Tiers overview — Self-Guided through Signature, and what each tier means
+Professional Services and Education Services overview — what is available and when
+each applies
+Win stories illustrating what strong CX collaboration looks like in practice
+How to work with PS, CS, and Renewals as a team
+Pre-work: Watch the CX Roadshow recording (linked in your cohort Slack channel) before the live
+AMA session.
+Session 1 — Customer Onboarding and Time-to-Value
+Format: Workshop — scenario-based
+What this covers:
+The customer onboarding journey — key milestones from closed/won to first value
+CSM vs. CSA roles in customer onboarding — where each role plugs in, handoffs, and
+collaboration points
+How onboarding progress is tracked in Gainsight and Salesforce — CTAs and health
+scores
+Scenario practice — building a day 1-30 plan for a sample customer profile
+Session 2 — Success Tiers, EBRs and Success Planning
+Format: Workshop — discussion and practice
+What this covers:
+Success Tiers — On-Demand through Signature, and what each tier means for CSM vs.
+CSA engagement; note that CSMAs are only available as a paid option through Success
+Tiers, and both CSM and CSA are expected to be able to position tier upgrades
+Success Planning — what a good success plan looks like, how it’s built, and who owns
+what
+EBRs — purpose, how to book one, who should be in the room, and CSM vs. CSA
+ownership
+Risk and renewal management — how to identify and flag risk early and its connection
+to renewal forecasting
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

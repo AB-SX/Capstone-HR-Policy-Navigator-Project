@@ -1,0 +1,38 @@
+discussions, case studies, and hands-on exercises, participants will learn to define strategy,
+conduct TOWS analysis, and pressure-test assumptions to ensure success.
+Mobilizing Teams around Strategies: This executive-level session empowers senior leaders to
+close the gap between strategy and execution by effectively mobilizing their teams. Participants
+will explore what true mobilization looks like—and why it’s essential for driving business results,
+boosting engagement, and sustaining momentum. Using a guided self-audit, leaders will assess
+their current practices across four key pillars: gaining buy-in, securing commitment, managing
+resources, and driving aligned execution.
+Frequently Asked Questions
+What does success in Elevate+ look like?
+To earn the final Elevate certification, participants must:
+Attend or makeup all live sessions
+Complete all async intersession work
+Is my participation in Elevate+ required?
+Yes, this and Elevate are both a required training for all people leaders at GitLab.
+Where do I communicate my questions, concerns, and feedback as I go through
+the program?
+When the program begins, you’ll be added to a Slack group that includes all members of your
+cohort. You can also reach out directly to your manager or the Learning and Development team.
+I missed, or cannot attend, a live session. What do I do?
+It’s a requirement to make up missed sessions within each month to ensure that you’re learning
+each new skill and moving through the program in the appropriate order. Please make every
+effort to attend live sessions as scheduled. Please reach out to your Learning and Development
+team for any questions.
+We’re committed to working with you to find a solution that lets you successfully complete
+Elevate+. If you must miss one live session for personal reasons, you need approval from your
+manager. Additional missed sessions will result in an incomplete Elevate+ status.
+When I complete this program will I earn a certificate?
+Yes! Upon successful completion of the program, including attendance to all required live
+sessions, asynchronous learning participation, and Executive coaching sessions, participants will
+be awarded the GitLab Elevate+ certification.
+Last modified August 4, 2026: Clean up learning-and-development handbook pages (6335fbba)
+1. 
+2.
+
+View page source
+ 
+ .

@@ -1,0 +1,140 @@
+2026 Plan Year Information
+Quick Start Resources
+Review the 2026 Benefits At A Glance for benefits overview
+See the 2026 US Benefits Guide for a full review of the GitLab Benefit Plans
+Need help selecting a plan? Use the 2026 Flimp PlanSelect tool to help you find the plan
+that best fits you and your family’s needs.
+See the 2026 Cigna Formulary
+See our 2026 Annual Rights Notices
+See the Transparency in Coverage. These machine readable files are made available in
+response to the federal Transparency in Coverage Rule and include negotiated service
+rates and out-of-network allowed amounts between health plans and healthcare
+providers. The machine-readable files are formatted to allow researchers, regulators,
+and application developers to more easily access and analyze data.
+Important Documents, Archived Plans, Medicare Notices & Tax Documents
+Tax Documents: ACA Tax Form 1095-C: Health Coverage Statements & How to Request
+IMPORTANT NOTICE: This information explains how to access your ACA Form 1095-C, a tax
+statement that reports the health coverage GitLab offered to you as a full-time employee.
+GitLab no longer automatically mails paper 1095-C forms. This change is due to the Paperwork
+Burden Reduction Act (PBRA) enacted in December 2024.
+Getting Your Form Online
+Your 1095-C tax form is available through PlanSource:
+Log into PlanSource
+Go to Documents > ACA Documents > List of your documents by years
+Select the tax year you need, tax documents will be available to download no later than
+March 2nd
+Requesting a Paper Copy by Mail
+You can opt in to receiving a physical 1095-C form at any time by:
+Logging into PlanSource and clicking “I want to receive my 1095-C by mail” on the ACA
+Documents screen, OR
+Contacting Total Rewards using any method below
+Contact Total Rewards
+Email: total-rewards@gitlab.com
+Mail: GitLab Inc., 268 Bush Street #350, San Francisco, CA 94104
+Phone: (408) 712-3237
+Additional Important Documents, Archived Plans, Medicare Notices
+Summary of Material Modifications from Jan 1, 2022
+Illinois Team Members: 2023 Coverage Summary per Illinois Consumer Coverage
+Disclosure Act
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+2025 Calendar Year archived plans
+Medicare Resources:
+Our plans are Medicare-creditable; check the 2025 Annual Notice if you’re Medicare-
+eligible
+Visit medicare.gov or call 1-800-MEDICARE (1-800-633-4227)
+Contact your State Health Insurance Assistance Program
+Getting Started with Your Benefits
+You have 30 days from your start date to sign up for benefits through PlanSource (our benefits
+system).
+Important: If you don’t choose a plan within 30 days, you’ll automatically get the Medical
+Waiver Allowance and won’t have other optional coverage.
+For help understanding how benefits work, check out the PlanSource Video Library. You can also
+find payroll deduction details on our Accounting and Reporting page.
+Who Can Get Benefits?
+You’re eligible if you’re a full-time GitLab team member working at least 30 hours per week. Your
+benefits start on your first day.
+You can also cover:
+Your spouse or domestic partner
+Your children up to age 26 (including adopted and stepchildren)
+Adult children with disabilities who can’t support themselves
+Important Notes & Domestic Partner Details
+If you and an eligible family member both work at GitLab, you can only be covered once
+under our plans
+For domestic partners: You’ll need to complete a Domestic Partner Affidavit (except
+during new hire or open enrollment). Domestic partner coverage may be taxable income
+and premium contributions may not be pre-tax eligible under Section 125
+How to Enroll
+Access PlanSource through your Workday profile:
+Login to Workday
+Click Personal on the sidebar, then select Personal Information Hub
+Under Suggested Links, select US Benefits Enrollment - PlanSource
+Complete your enrollment in the separate screen
+Review the PlanSource Login & Enrollment Guide for step-by-step instructions.
+ID Cards & Access
+Cigna: Digital cards available through myCigna website and mobile app
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+•
+
+Kaiser: Physical cards mailed within 3 weeks; digital cards available through the Kaiser
+online portal and mobile app
+Qualifying Life Events
+You can make benefit changes outside of open enrollment when you experience qualifying life
+events such as:
+Marriage or divorce
+Birth or adoption of a child
+Spouse’s employment changes
+Moving to a different state
+Process: Log into PlanSource within 30 days of your qualifying event to submit changes with. For
+step-by-step instructions on how to submit a Qualifying Life Event (QLE) in PlanSource (including
+how to add dependents and upload documentation), see the Qualifying Life Event (QLE) Process
+& Documentation guide
+Health & Wellbeing: Complete Wellness Support
+Medical Coverage
+GitLab provides medical insurance through Cigna nationwide, with Kaiser options available for
+California and Hawaii residents. If you already have coverage elsewhere, you can opt out and
+receive a monthly allowance instead.
+Need Help Choosing? Use the Flimp PlanSelect tool to find the right plan for you, or contact
+Cigna One Guide Service for personalized assistance walking through your options.
+Medical Waiver Allowance
+Already have group medical coverage? You can opt out and receive a $150 monthly benefit
+allowance while still enrolling in dental, vision, and other benefits. You must actively waive
+medical coverage in PlanSource to receive this allowance. If you do not enroll in a plan within your
+benefits election period, you will automatically be enrolled in the Medical Waiver Allowance.
+Cigna Medical Plans
+Available to team members in all US states except Hawaii, with three coverage options. See plan
+details and monthly costs in the US Benefits Guide.
+Plan Summaries
+Cigna EPO
+EPO: 2026 SBC | 2026 Summary
+RX Plan: 2026 Standard 3-Tier
+*See Important Coverage Notes
+• 
+• 
+• 
+• 
+•

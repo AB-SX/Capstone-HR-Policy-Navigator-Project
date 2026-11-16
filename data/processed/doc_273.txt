@@ -1,0 +1,105 @@
+Question Answers from
+the GitLab Team
+How often do you have career conversations with your team?
+What about team members who don't have strong sense of their career goals yet?
+How do you support them?
+What fears do managers at GitLab have when it comes to having career
+conversations?
+Your Individual Growth Plan (IGP) Journey
+Your step-by-step resource for creating a meaningful Individual Growth Plan that drives your
+career forward
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/sales/training/
+103. Sales Training
+Sales Training
+GitLab’s sales learning framework and sales training resources
+GitLab Sales Learning Framework
+GitLab field team members are expected to be knowledgeable and proficient across a variety of
+topics, skills, behaviors, and processes. For ease of consumption, sales training resources are
+organized in 6 categories below. If you are looking for more immediate access to resources to
+support your selling efforts, please check out the Sales Resources page.
+For the latest Field Enablement Spotlight videos and training resources please see the Field
+Enablement Spotlight: Continuous Education at GitLab page on Highspot.
+GitLab Target Audiences
+Successful field team members must have an intimate understanding of ideal customer profiles,
+customer environments where opportunities for GitLab are most ripe, targeted buyer personas,
+industry-relevant insights, and more.
+Topic Resource(s)
+What is GitLab’s ideal customer
+profile?
+- Handbook page - GitLab Account Based Marketing and Ideal
+Customer Profile (Mar 2020, 34 minutes) (internal only)
+What business problems does
+GitLab help customers solve?
+- Check out the value drivers and other materials on the GitLab 
+Command of the Message page
+What are target buyer personas
+and their pain points?
+- GitLab Buyer Personas - Interview with an IT Agility Director -
+Learn more about Enterprise IT roles & key pain points
+What are target user personas and
+their pain points?
+- Handbook page
+Industry Topics & Trends
+To serve as trusted advisors to customers and partners, GitLab field team members must be able
+to competently and confidently engage with customers on topics like the Software Development
+Life Cycle (SDLC), Source Code Management (SCM) / Version Control & Collaboration, open source
+& open core, DevOps, Continuous Integration & Continuous Delivery (CI/CD), containers,
+Kubernetes, and more.
+Topic Resource(s)
+What is DevOps? - DevOps Explained (20 minutes) - Video (Dec 2013, 7 minutes) - Stages of
+the DevOps Lifecycle - DevOps terms: 10 essential concepts, explained
+
+Topic Resource(s)
+What is the software
+development life cycle and
+how is software developed
+and deployed?
+- GitLab’s public website on the SDLC - What is the Software Development
+Lifecycle (SDLC)? (July 2018, 11 minutes) - Software Development Lifecycle
+(SDLC) in 9 minutes! (Jan 2016, 9 minutes) - How is software made using
+GitLab? (Nov 2019, 23 minutes)
+What is Git? - Git Tutorials
+What is cloud-native? - GitLab website - Video on Cloud-Native Transformation (Mar 2019, 29
+minutes)
+What is SCM? - Video (June 2019, 29 minutes)
+What is CI and CD? - GitLab Continuous Integration (CI) & Continuous Delivery (CD) - 
+Modernize Your CI/CD eBook - Click here to enroll in the Continuous
+Integration learning path (Aug 2020)
+What is DevSecOps? What is
+“shift left?”
+- Security & Governance Enablement Update (Oct 2022, 30 minutes) - 
+DevSecOps Campaign Refresh (Oct 2021, 30 minutes) - DevSecOps with
+GitLab - 2019 Global Developer Report: DevSecOps - Speed up secure
+software delivery with DevSecOps (Apr 2019) - Click here to enroll in the
+DevSecOps learning path. (Aug 2020)
+What is Auto DevOps? - Auto DevOps
+What is GitOps and
+Infrastructure as Code?
+- Why GitOps should be the workflow of choice (Apr 2020) - Optimize
+GitOps workflow with version control from GitLab (Oct 2019)
+What is open source? - Check out this post on opensource.com
+What is open core? - What to consider with an open source business model (Jul 2019)
+What are microservices? - Video: What are microservices? (Jan 2019, 19 minutes) - What are
+microservices?
+What is serverless? - What is Serverless? (Jan 2019, 18 minutes)
+What are containers? - What are containers and why do you need them? (Jun 2017) - What are
+containers? (Mar 2018, 9 minutes)
+What is Kubernetes? - What is Kubernetes? (Jun 2018, 12 minutes) - The Evolution of the
+Kubernetes Landscape (Nov 2019, 30 minutes) - First Steps to Becoming
+Certified Kubernetes App Developer (30-60 minutes) - Kubernetes API
+Fundamentals (30 minutes)
+What is complete DevOps? - The entire DevOps lifecycle in one application
+What is concurrent DevOps? - Video (Apr 2019, 24.5 minutes) - GitLab Concurrent DevOps white paper
+(internal link) (gated link)
+How do I keep up to date
+with industry trends?
+- Review and subscribe to the following blogs: Hacker News, Martin
+Fowler, and New Stack
+Why GitLab?
+GitLab field team members must be able to clearly articulate a compelling, differentiated, value-
+driven message to customers, prospects, and partners.

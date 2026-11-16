@@ -1,0 +1,63 @@
+Access & Accommodations
+Team members can explore available adjustments, assistive tools, and country-specific processes
+through the following resources:
+Accessibility & Accommodations Handbook
+Global Accessibility and Accommodations Policy
+Contact Team Member Relations via Compass
+Further Resources
+All TMRGs at GitLab
+Diversity, Inclusion & Belonging Overview
+Owner: Naomi Johnson, Senior Diversity Business Partner
+Last updated: 12 November 2025
+This page follows GitLab’s accessibility standards with clear headings, plain language, and logical
+structure.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/neurodiversity-and-neuroinclusion/
+neurodiversity-resources/
+191. Support, Accommodations & Resources
+Support, Accommodations & Resources
+How to access support, request accommodations, and find resources for neuroinclusive work at
+GitLab.
+Support, Accommodations & Resources
+This page provides support pathways, accommodation processes, and resources for
+neurodivergent team members and anyone supporting neuroinclusive work at GitLab.
+Quick Links:
+Request accommodations via Compass
+Global Accessibility and Accommodations Policy
+Join the Disability & Neurodivergence TMRG
+Access Modern Health support
+Workplace Accommodations
+We’re creating environments where disabled and neurodivergent individuals don’t just participate
+- they thrive, lead, and shape the future of work. Through our commitment to removing barriers
+and fostering belonging, we’re establishing GitLab as a leader in inclusive workplaces where
+accessibility is embedded in everything we do.
+For current team members:
+For information on how to request accommodations, types of accommodations available, and the
+interactive process, visit the Global Accessibility and Accommodations Policy.
+For candidates and applicants:
+If you’re interviewing with GitLab and need accommodations during the recruitment process, visit
+our Disability, Neurodivergence & Accessibility page.
+Resources for those who identify as neurodivergent
+GitLab’s Employee Assistance Program, Modern Health, offers resources to support
+team members that identify as neurodivergent:
+Digital Content: Modern Health offers digital resources that may be helpful, such as
+meditations for sensory mindfulness and programs that offer strategies for focus.
+Coaching & Therapy: GitLab Team Members have access to coaching and therapy
+sessions. Modern Health has counselors and therapist who specialize in working with
+people across the spectrum of neurodiversity. Any member can write into 
+• 
+• 
+• 
+• 
+• 
+• 
+•

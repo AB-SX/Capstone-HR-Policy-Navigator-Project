@@ -1,0 +1,111 @@
+Perform a review at least every 6 months, and sooner when related product features,
+docs, or workflows change significantly.
+If a maintainer’s availability changes (for example, role change, extended leave), they should work
+with their manager to hand off ownership.
+Responsibilities
+1. Content accuracy and alignment
+Maintainers ensure the module:
+Has an accurate Goal and Objectives section that reflects what learners should be able
+to do after completion.
+Lists correct prerequisites and dependencies (for example, required earlier modules or
+baseline knowledge).
+References up-to-date:
+Product documentation.
+Handbook workflows.
+External resources (courses, vendor docs, videos), where used.
+When maintainers become aware of material changes (for example, new features, renamed
+settings, deprecations, or new workflows), they either:
+Update the module themselves, or
+Create/triage an issue and help review an MR from another contributor.
+2. Template and workflow stewardship
+Each training module lives as an issue template in the Support Training project. Maintainers are
+responsible for keeping the template itself in good shape:
+Keep the stage structure from the training module template.
+Ensure tasks and checklists reflect how we actually work (for example, ticket volumes,
+tools, required issue links, self-assessment steps).
+Ensure the module is relevant to support’s work on tickets in the area.
+Maintain metadata and labels, including:
+maintainers: list in the YAML frontmatter, if present.
+Standard labels (for example ~module, ~"Module::<Name>", and relevant group or
+category labels).
+Ensure the module is correctly discoverable, categorised and advertised in:
+The Skills Catalog / module inventory.
+Any learning pathways that reference it.
+Support Week in Review (SWIR)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+3. Review and collaboration
+Maintainers act as the first-line reviewers for proposed changes to their module:
+Review MRs that modify the module content, structure, or metadata.
+Apply the Support “Guideline to update Support Training module” process:
+If a maintainer is available, they review and either approve or give feedback.
+If they are unavailable, they help route to:
+Another module maintainer, or
+A subject-matter expert or Support Manager.
+A relevant Support Pods Slack channel
+For substantive changes (for example, major restructuring, new assessments, or significant scope
+changes), maintainers:
+Loop in relevant subject-matter experts, SSCs, or product area leads (where needed).
+Confirm the updated module still fits into the broader learning paths and Support
+education strategy.
+Promote/advertise the changes in team calls and SWIR.
+4. Learner experience and assessment
+Maintainers help ensure the module is usable and effective for learners:
+Periodically (every 6 months) sanity-check that:
+Tasks are clear and not unnecessarily blocking.
+Learners should be able to complete the modules themselves.
+Ticket and call requirements are realistic given expectations/workload capabilities.
+Any quizzes or self-assessments are accessible.
+Review trainee and manager feedback (where available) and convert recurring themes
+into improvements:
+Clarifying ambiguous instructions.
+Adjusting the expected order of tasks where it makes sense.
+Adding or simplifying examples, diagrams, or practice tasks.
+5. Lifecycle decisions
+Maintainers are key voices in deciding how the module evolves over time:
+Identify when a module should be:
+Refreshed (minor content updates).
+Restructured (for example, split into “Basics” and “Advanced”, or aligned to topic-based
+paths).
+Deprecated or merged into another module.
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

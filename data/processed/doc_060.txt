@@ -1,0 +1,134 @@
+Country Team
+Member
+Type(s)
+Entity Pay
+Frequency
+Paid By Workday
+Profile (Y/
+N)
+GitLab
+Payroll
+Dept
+Japan Employee GitLab GK 12 GitLab
+Payroll
+Dept
+Y
+Netherlands Employee GitLab BV 12.96 GitLab
+Payroll
+Dept
+Y
+New Zealand * Employee GitLab PTY Ltd NZ
+(Branch of GitLab
+PTY Ltd Australia)
+12 GitLab
+Payroll
+Dept
+Y
+Singapore Employee GitLab Singapore
+PTE. LTD
+12 GitLab
+Payroll
+Dept
+Y
+South Korea Employee GitLab Korea Limited 12 GitLab
+Payroll
+Dept
+Y
+Spain * Employee GitLab Iberia S.L. 12 GitLab
+Payroll
+Dept
+Y
+United Kingdom
+(England, Scotland,
+Wales, Northern Ireland)
+Employee GitLab UK Ltd 12 GitLab
+Payroll
+Dept
+Y
+United States Employee GitLab Inc 24 GitLab
+Payroll
+Dept
+Y
+United States (Public
+Sector)
+Employee GitLab Federal LLC 24 GitLab
+Payroll
+Dept
+Y
+Team Members Hired as Contractors via our GitLab Services Inc Entity
+Where we do not have an entity or a PEO, team members contract with our GitLab Services Inc
+entity as independent or C2C contractors. We are not currently hiring in locations that do not
+have an entity or PEO.
+International Expansion
+Country Conversions
+As GitLab continues to scale, country conversions may occur from time to time based on business
+needs and our location strategy. Any conversions will be managed by the Employment Solutions
+
+Team.
+The Employment Solutions Partner is responsible for managing the country conversion processes
+outlined here.
+Compensation Review for Country Conversions
+As part of the country conversion and benefits review process, the Total Rewards and
+Employment Solutions Partner will review the gross value of cash compensation and benefits
+while also ensuring alignment to the employee rate.
+The Total Rewards and People Operations Team member should also review alignment to the
+compensation ranges based on the new employee status. Whenever we change salaries as part
+of a country conversion, these should be consistently applied among all team members in that
+country.
+WBSO (R&D tax credit) in the Netherlands
+For roles directly relating to Research and Development in the Netherlands, GitLab may be
+eligible for the WBSO (R&D Tax Credit).
+Organizing WBSO
+There is a translated English version of the application template located in the WBSO folder on
+the Google Drive. The applications should be completed by a Product Manager, responsible for
+features or a service within GitLab, who can detail the technical issues that a particular feature
+will solve. Assistance on completing the application can also be sought from the WBSO consultant
+(based in the Netherlands). The contact details for the consultant can be found in a secure note in
+the People Ops 1Password vault called WBSO Consultant. The People Operations Team member
+will assist with co-ordinating this process. It is currently owned by Finance.
+Hour Tracker
+Each year a spreadsheet with the project details and hours logged against the work done on the
+project(s) will need to be created. This is for the entire year. The current hour tracker is located in
+the WBSO folder on the Google Drive, and shared only with the developers that need to log their
+hours (located in the Netherlands), Total Rewards Analysts, Finance and the WBSO consultant.
+Once the projects have been completed for the year, the WBSO consultant will submit the hours
+and project details to claim the R&D grant from the RVO. The WBSO consultant will contact Total
+Rewards Analysts should they have any queries.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/
+021. Benefits
+Benefits
+Overview of GitLab’s Benefit Philosophy and get support with questions
+Related Benefits Pages
+General & Entity Specific Benefits
+Modern Health
+Parental Leave and Return Tool Kit for GitLab Managers and Team Members
+We’ve Got You Covered: Our Benefits Philosophy
+Clear Benefits, Real Support
+At GitLab, we believe team member Benefits should be simple to understand and there when you
+need them. From life’s big moments to everyday questions, our comprehensive coverage gives
+you clarity and confidence so you can focus on your work and life.
+Whether you’re planning for the future, starting a family, caring for aging parents, or dealing with
+unexpected challenges, GitLab’s Benefits are designed to support you at every stage of life—with
+comprehensive coverage and transparent information when you need it most.
+Your Support Team and Resources
+Need help with your Benefits? Rest easy knowing you have multiple resources at your
+fingertips:
+Start here: This handbook is your comprehensive guide to understanding GitLab’s
+Benefit offerings
+Company-Wide & Entity/Country Specific Benefits - Complete details on benefits
+available company-wide and in your location
+Leave Tool Kit for Managers and Team Members - Comprehensive guidance enabling
+you for life transitions such as parental leave or other types of leave of absence
+Direct support: Our Total Rewards team is here to guide you through any questions or life
+changes. Reach out to us via Compass.
+• 
+• 
+• 
+• 
+• 
+•

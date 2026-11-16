@@ -1,0 +1,139 @@
+If you are a current team member and are interested in applying for a current vacancy, please
+follow the steps below.
+Log in to your Greenhouse account
+If you are a GitLab team member who signed in to Greenhouse you can access the 
+Internal Job Board. If you do not yet have a Greenhouse account, you can activate yours
+by clicking the Greenhouse tile in Okta.
+You can also access the internal job board under the “Helpful Links” section. For more
+information (and screenshots!), feel free to read the Greenhouse help article.
+Click on the position title that interests you.
+You will be redirected to the vacancy description and application form, where you will be
+asked to fill out basic personal information, provide your resume, LinkedIn, GitLab
+username, and/or cover letter, and answer any vacancy-specific application questions, as
+well as answer a voluntary Equal Employment Opportunity questionnaire if the position
+is open to US applicants.
+Once you have finished, click “Submit Application” at the bottom.
+Who can apply?
+Equal Opportunity Employer
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer.
+GitLab’s policies and practices relating to recruitment, employment, career development and
+advancement, promotion, and retirement are based solely on merit, without regard to all legally
+protected classes, including, but not limited to: race, color, religion, ancestry, sex (including
+pregnancy, sexual orientation, or gender identity), national origin, age, citizenship, marital status,
+gender identity, disability and genetic information (including family medical history), and any
+other status protected by federal, state or local law. GitLab will not discriminate on the basis of
+disability or veteran status.
+I applied for a job on your careers page. What’s next?
+Thanks for your interest in GitLab! Our team will reach out if they need more information from
+you. In the meantime, read about what you can expect during the interview process below.
+If your experience is a good fit for the role, we will be in touch soon. Please note that it’s not
+possible for us to respond to every candidate, but we aim to review every application.
+A recruiter reached out. How do I know they’re real?
+Scammers often target job seekers by impersonating companies like GitLab, using the GitLab
+name and GitLab team member names. Scammers have been observed requesting job seekers
+pay thousands of dollars for “technology equipment” after job seekers completed an in-depth,
+fake job application interview process.
+Check out the “What to know about a fake job scam impersonating GitLab” blog post for warning
+signs and tips on how to protect yourself.
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+Screening Call
+Screening Call expectations
+If it is determined that you qualify for continued consideration, the assigned Recruiter will
+conduct a screening call with you. Calls can last anywhere between 30 and 40 minutes (some
+specialist roles require more time), depending on the conversation. The Recruiter will wait 5
+minutes for you to show up to the appointed video call, which is always shared via email. If you
+do not show up to the interview, or do not reach out in advance to reschedule, you will be
+classified as a no show and be disqualified. We will unreject when circumstances beyond your
+control cause you to miss a scheduled call.
+You, the recruiter or the hiring manager can terminate the discussion at any point during the
+interview if either party determines that it isn’t a fit. Be as transparent and honest as possible and
+provide feedback.
+Depending on the outcome of the call, the talent acquisition team or manager may either reject
+or move you to the Team Interview stage.
+Example Screening Call questions
+Why are you interested in GitLab?
+What are you looking for in your next position?
+Why did you join and leave your last three positions?
+What is your experience with X? (for each of the skills listed in the position description)
+STAR Method questions and simple technical or skills-related questions
+What is your current location and do you have any plans to relocate? (relevant in context
+of compensation, country-hiring guidelines, and in case an offer would be made)
+Do you require visa sponsorship or a work/study permit to work for GitLab? Or do you
+require the work permit to be transferred to GitLab? If the answer is yes, we will not be
+able to proceed, unless you currently hold a work permit in the Netherlands. You can
+refer to the Visa and Sponsorship handbook section for further clarity.
+What is the notice period you would need if you were hired?
+Is this salary range in line with your expectations? At GitLab, we are committed to paying
+competitively and equitably. Therefore, we set our offers based on market pay rather
+than a candidate’s pay history.
+At the end of the screening call, the Recruiter will tell you what the next steps will be, if any. There
+should be time for you to ask any questions you may have.
+Team Interviews
+Team Interviews expectations
+After the Screening Call, a candidate will move into the Team Interviews stage if the Recruiter
+decides that the candidate is fit for the role. Team Interviews may consist of behavioral, panel
+and/or technical interviews (certain positions).
+Feel free to ask your Recruiter which type of interview you can expect.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9.
+
+Optional TMRG Connection
+During the reference stage in the interview process, candidates will get the option to speak with a
+GitLab team member who is a member of our Team Member Resource Groups (TMRGs) to learn
+about what it’s like working at GitLab from someone who they can relate to.
+When you receive a reference form, you will have the option to opt-in for a conversation with a
+member of the TMRG of your choice. Our Candidate Experience team (CES) will then reach out
+and coordinate this Zoom call for you. You can also read about how we field this request.
+Interview Process FAQs
+How to request for a reasonable accommodation
+At GitLab we pride ourselves on ensuring that everyone can contribute. To make certain that
+everyone’s interview experience is a positive one, we encourage those who require a reasonable
+accommodation to successfully carry out the interview process, to reach out to ces@gitlab.com.
+The Candidate Experience team along with Talent Acquisition leadership will work with you to
+define and accommodate those needs. This could include but is not limited to the following:
+Translation Services
+Use of additional services or assistive technologies
+Assistance in setting up Closed Captioning for interviews
+I've started the interview process at GitLab, but haven't heard back from anyone recently. What
+do I do?
+Feel free to send an email to your Recruiter to get a status update on where you are in the
+interview process.
+Can I have the hiring team's email addresses so I can send them a note?
+If you’d like to send a note to the hiring team, please send it to your Recruiter and they will
+forward it on.
+Can I interview for multiple roles at the same time?
+In the event that you are interested in more than one opening, there is no limit on the number of
+roles you can apply for but keep in mind the following:
+You will have to complete a full interview process for each role you apply to, so be
+mindful of the time commitment for each application you submit.
+Due to capacity, the recruiting team will only process 3 of your applications at a time
+based on which ones you decide to prioritize. Any other applications outside of the 3 will
+be processed after the prioritized roles’s interviews are completed.
+In the effort to be as transparent as possible and avoid sending multiple competing
+GitLab offers, there will be an added step to the process after your final interview where
+you will discuss with your recruiter which role you’re interested in before any official
+offer documents can be sent.
+If you already have interviewed with us, you can apply for a different role again, but
+please take note that there may be a cooldown period of 6 months or more if it’s a
+similar role, depending on the reason for not moving forward which is communicated by
+the recruiter.
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.

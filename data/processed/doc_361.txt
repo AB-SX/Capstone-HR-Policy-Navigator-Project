@@ -1,0 +1,109 @@
+Review the following workflows in the GitLab Customer Support Documentation
+(Material - Handbook - 15 minutes)
+Read the Working with GitLab Support page as it details how to get in touch with us for
+common requests requiring Support involvement.
+The Support Tickets & Customer Information and the Common Requests
+sections have a list of workflows that you might frequently encounter.
+Check out this Slack workflow if you have to escalate a ticket for a customer to
+understand the expectations around it.
+Read the Trials and Prospect Support workflow that should be followed for
+prospects looking to evaluate Support experience.
+Make note of Support’s internal-requests project - you will be filing issues
+under this for some of the workflows listed in the above page.
+Sign up for Zendesk (Assignment - 5 Minutes - 10 Points - Pre Work)
+All GitLab staff can request a ‘Light Agent’ account so that you can see customer tickets
+in Zendesk and leave notes for the Support team.
+To do so, follow the process outlined in the handbook. Once the account is
+created, you’ll need to wait 24 hours for it to be assigned in Okta. Once
+Zendesk is assigned, you should be able to login to Zendesk at https://
+gitlab.zendesk.com/agent.
+In-Class Assignments
+In-Class Assignments
+Essential Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)
+Please work in small groups to answer the questions on the attached document.
+Value Card Exercise - Group Activity (Assignment - 30 Minutes - 10 Points - In-Class)
+Please work in small groups to create a value card for your assigned differentiator with
+the attached document..
+Discovery Questions Exercise (Assignment - 30 Minutes - 10 Points - In-Class)
+Please work in small groups to fill out the attached document. Think of a real
+opportunity that you or someone in your group is currently working and write some
+good discovery questions & expected responses.
+Defensible Differentiator Exercise (Assignment - 30 Minutes - 10 Points - In-Class)
+Please work in small groups to fill out the attached assignment on defensible
+differentiators.
+Searching GitLab Like a Pro (Assignment - 10 Minutes - 10 Points - In-Class)
+At GitLab, we’re prolific at documenting what we do in the handbook, the website, and in
+GitLab documentation. This may make it difficult to find specific pieces of content.
+Google already indexes all our public facing pages and there is a search modifier google
+offers that will help. Take a look at the handbook page on how to set up your search
+engine like the pros!
+Course Evaluation & Feedback
+• 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+• 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Course Evaluation & Feedback
+Every participant is asked to please let us know how we can do better by taking this brief
+survey
+Customer Success Quick Start - Role Based Curriculum
+Technical Deep Dive (SA, CSM, and PSE ONLY
+12. Technical Deep Dive (SA, CSM, and PSE ONLY)
+GitLab Ultimate Demo (Material - Video - 60 minutes)
+-Review the GitLab Ultimate Demo
+Auto DevOps (Material - GitLab Docs - 15 minutes)
+-Auto DevOps provides pre-defined CI/CD configuration which allows you to
+automatically detect, build, test, deploy, and monitor your applications. Leveraging CI/
+CD best practices and tools, Auto DevOps aims to simplify the setup and execution of a
+mature & modern software development lifecycle.
+-Review the GitLab Doc on Auto DevOps
+GitLab API (Material - GitLab Doc - 15 minutes)
+-Automate GitLab via a simple and powerful API.
+-Review the GitLab Doc on API
+GitLab for Agile (Material - 30 minutes)
+-Agile development is iterative, incremental, and lean approaches to streamline and
+accelerate the delivery of projects. Ever wondered if GitLab supports Agile methodology?
+If you’re considering using GitLab it might not be obvious how its features correspond
+with Agile artifacts, so we’ve broken it down for you in a blog and the GitLab Agile
+Planning page.
+-Review the Agile Delivery page on the company website
+-Review the Agile Blog
+GitLab Runners (Material - GitLab Docs, Slides, and Video - 60 minutes)
+-GitLab Runner is the open source project that is used to run your jobs and send the
+results back to GitLab. It is used in conjunction with GitLab CI, the open-source
+continuous integration service included with GitLab that coordinates the jobs. Below are
+slides, the video presentation, and additional information about GitLab Runners.
+-GitLab Runner Doc
+-GitLab Runner Deep Dive Slides
+-GitLab Runner Deep Dive Reording
+GitLab Reference Architectures and GitLab GEO (Material - 20 minutes)
+-Review the GitLab Reference Architectures and Geo Replication Overview, then hear
+Brian Wald, Solution Architect Manager, break it all down.
+-GitLab Reference Architectures
+-GitLab High Availability and Geo Options Video
+ACTIVITY: Let’s Install GitLab! (Material - Handbook - 60 minutes)
+-Choose one of the installation options mentioned in the link below. Once installed
+populate with some test data. Be sure to include: Populate with some test data: User
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

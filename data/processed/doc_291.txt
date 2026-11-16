@@ -1,0 +1,113 @@
+Bias What It Is Example
+Affinity
+Bias
+Favoring people similar
+in background or style
+A reviewer strongly supports Alex, saying “we collaborate well.”
+Meanwhile, Samira—who communicates differently but leads
+across cultures—is called “solid, but not a strong fit for the next
+level.”
+Halo
+Effect
+Letting one strength
+overshadow other
+concerns
+Linh led a big launch recently, earning strong praise. But earlier
+collaboration gaps go unmentioned. Mateo, who showed
+inclusive leadership all year, is overlooked without a visibility
+“spike.”
+🛠️ How to Interrupt Bias
+Bias can’t be removed—but it can be managed.
+Slow down decision-making for performance and promotion reviews
+Review full-cycle evidence, not just recent activity
+Ask: “Would I make the same judgment if this person had a different background or style?”
+Include feedback from cross-functional and async collaborators
+Use rubrics and artifacts (1:1 notes, design docs, MR comments) to supplement visibility
+gaps
+💡 Tip: Promotion reviewers should apply the same rigor we use in code review—checking for
+bugs, bias, and missed opportunities.
+✋ More Examples of Bias Types
+Other common biases include:
+Confirmation Bias – Seeking only evidence that confirms a belief
+Authority Bias – Giving undue weight to someone in power
+Name Bias – Making assumptions based on perceived origin of a name
+Gender, Age, or Height Bias – Associating leadership or competence with physical or
+demographic traits
+Cultural Assumption Bias – Mistaking differences in style for lack of engagement
+See additional definitions in the Bias Glossary - Link coming soon
+🧪 Want to Test Your Bias?
+The Implicit Association Test (IAT) is a free research-based tool that can help you explore
+unconscious associations around race, gender, age, and more.
+Using these tools doesn’t make you biased. It makes you aware—and awareness is the first
+step toward equitable decisions.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+📚 Related Resources
+DIB Examples in Promotion Packets - Link TBC
+The SPACE2 Model of Inclusion - Six evidence based techniques for managing bias in
+oneself and others.
+GitLab Performance Review Guide
+Bias in Interviewing
+Last modified August 12, 2025: Update file unconscious-bias.md to Recognizing Bias in Decision-
+Making (1be82abf)
+View page source
+ 
+ .
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/
+igp-guide/
+109. Your Individual Growth Plan (IGP) Journey
+Your Individual Growth Plan (IGP) Journey
+Your step-by-step resource for creating a meaningful Individual Growth Plan that drives your
+career forward
+Your Role as the Driver of Your Career
+You are the Directly Responsible Individual (DRI) of your career journey. This means you have
+the power to make decisions that best serve your growth. This guide offers direction, not rigid
+rules. At its heart, your Individual Growth Plan is a personal tool to reflect, set goals, and take
+meaningful action.
+After completing your IGP, the real magic happens when you commit to continuous learning:
+📅 Block dedicated calendar time for your development
+🌱 Use this time for courses, certifications, stretch assignments, reading, or mentorship
+🔄 Share your learning journey with your team, especially if you’re a manager
+🚀 Remember, when you prioritize your growth, you inspire others to do the same
+Section 1: What Inspires You?
+Self-reflection provides the compass for your career decisions. In this section, you’ll explore these
+5 key questions:
+What parts of your role light you up and keep you engaged?
+What work gives you that feeling of excitement and belonging?
+Which areas of your work leave you feeling drained?
+How do you learn best and most naturally?
+Looking ahead 2-3 years, what role do you envision for yourself and why?
+Be flexible with yourself here. You might choose to dive deep using tools like:
+Myers Briggs assessment
+Strengths Finder assessment
+Learning style exploration
+Or you might prefer a simpler check-in approach. Both are perfectly valid!
+Stuck on these questions? Try this: Keep a simple energy journal for one week. Note when you
+feel energized or drained throughout your workday, then look for patterns to guide your
+reflection.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+• 
+•

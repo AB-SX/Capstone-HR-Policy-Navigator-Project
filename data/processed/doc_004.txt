@@ -1,0 +1,173 @@
+Subgroup GitLab handle Email Slack Group handle/
+channel
+Greenhouse Issue
+tracker
+People
+Operations
+Team
+@gl-people-ops-
+team
+Team
+Member
+Relations
+@atisdale-ext teammemberrelations@gitlab.com n/a n/a
+Absence
+Management
+Team
+@lyndemeiers leaves@gitlab.com Compass n/a
+People
+Group
+Engineering
+@gl-people-
+engineering
+No email group, create issues for
+People Engineering here
+#peopleops-eng n/a https://
+gitlab.com/
+groups/
+gitlab-
+com/
+people-
+group/
+peopleops-
+eng/-/
+boards/
+Diversity,
+Inclusion
+and
+Belonging
+No alias yet,
+@mention the
+Diversity,
+Inclusion
+and
+Belonging
+Partner
+diversityinclusion@
+gitlab.com
+n/a n/a Diversity,
+Inclusion
+and
+Belonging
+issue
+tracker
+Learning and
+Development
+@gitlab-com/
+people-group/
+learning-
+development
+learning@ gitlab.com #learninganddevelopment n/a L&D Issue
+Board
+Talent
+Acquisition
+@gl-talent-
+acquisition
+recruiting@ gitlab.com @talent-acquisition-team n/a
+Employer
+Branding
+No alias yet,
+@mention the 
+Senior Talent
+Brand Manager
+employmentbranding@ gitlab.com n/a n/a
+Candidate
+Experience
+Specialist
+@gitlab-com/gl-ces ces@ gitlab.com @ces @ces*
+Talent
+Acquisition
+@gl-talent
+acquisitionops
+talentacquisitionops@ gitlab.com @talent-acquisition-ops @talent-
+acquisitionops
+
+Subgroup GitLab handle Email Slack Group handle/
+channel
+Greenhouse Issue
+tracker
+Operations
+and Insights
+Sourcing @gl-sourcingteam n/a @sourcingteam n/a
+People
+Analytics
+No alias, create
+issues for People
+Analytics here
+n/a @peopleanalyticstriage n/a People
+Analytics
+Issue
+Board
+People Group Program Calendar for Managers and Team Members
+On [this page]https://theloop.gitlab.com/home you can find our People Manager Calendar and
+All Team Member Calendar. The goal of these pages is to ensure that team members and People
+Managers can plan ahead and have an overview of upcoming programs and timelines.
+Support provided by the Legal, Employment team to the People
+Group
+The Legal-Employment team, collaborates with and provides support to the People team in many
+functional areas.
+Email approval from the VP of Legal, Employment is required prior to engagement with external
+counsel to allow for accurate tracking of costs.
+Invoices will be sent to VP of Legal, Employment, for approval.
+When support from the People Operations team is required by the
+Legal, Employment team
+The Legal, Employment team may require support from the People Operations team, for
+communicating a country specific legal requirement to team members, to consult with team
+members in an entity country if necessary or to arrange legally required contract amendments,
+to name just a few examples. As these matters may relate to individual team members or groups
+of team members, they are appropriately managed in a confidential manner.
+If the Legal, Employment team makes a request for support or assistance from the People
+Operations team, the request should be formulated using a template (linked here, though
+accessible internally only to Legal, Employment and the People Operations team).
+The request should include all the required detail and explanation to enable People Operations to
+support, including:
+An explanation of what is needed
+Whether there’s a timeline on the request (ensuring People Operations are provided
+with as much lead time as possible)
+Whether all the information needed, has been provided, eg contact names, dual
+language translations if applicable, links to any relevant documents etc
+• 
+• 
+•
+
+A note on whether an FAQ to share with team members is needed or whether People
+Operatons have enough information to answer any questions which might arise
+Whether there are any follow up actions for legal or for People Operations
+A short explanation or summary (if necessary) or courtesy update for the managers of
+any affected team members
+Whether confirmation of completion is needed
+To make a request, a copy of the template should be saved, filled out as above, dated and passed
+to the People Operations Manager so the request can be assessed and assigned to a member of
+the People Operations team for completion. Once assigned, the member of the People
+Operations team who will be assisting with the request should touch base with the member of
+the Legal, Employment team who has made the request, to confirm that the request is being
+worked on and so it’s easy to collaborate on finishing out the task.
+Support provided by the People Operations team to the People
+Business Partner team
+Most tasks/requests from the People Business Partners for the People Operations team will be
+handled via Compass. If a general query/question, the PBP may request guidance in the private 
+#pbp-peopleops Slack channel. This is a private channel. The People Operations Team, will self-
+assign a task, within 24 hours and comment in Slack/Compass on the request to confirm.
+People Operations Responsibilities & Response Timeline
+Please note that the source of truth for role responsibilities is the job family for the People
+Operations Team. The table below is meant to provide a quick overview of some of the core
+responsibilities for the team.
+People Operations Team
+Responsibility Response Timeline
+Onboarding 2 weeks prior to start date
+Offboarding Immediate action for involuntary & 24 hours for voluntary
+Organizational Changes Within 3 days of effective date of change
+Letters of Employment Within 24 hours
+Employment Verification Within 24 hours
+Anniversary Emails First day of the following month
+Compass Queries Within 24 hours
+Probation Period Notifications Daily (when applicable)
+Contract Renewals 30 days or more prior to team member’s renewal date
+Exit Interviews During voluntary offboarding team member’s last week
+US Unemployment Claim
+Management
+As Needed and Audited Quarterly
+• 
+• 
+• 
+•

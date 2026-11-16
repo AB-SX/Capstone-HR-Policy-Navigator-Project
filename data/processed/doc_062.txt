@@ -1,0 +1,110 @@
+Source: https://handbook.gitlab.com/handbook/total-rewards/compensation/
+022. Compensation at Gitlab
+Content last updated 2026-02-19
+Compensation at Gitlab
+Find answers to your questions about GitLab’s compensation framework.
+Contact Total Rewards
+If you have any feedback or questions relating to compensation, please reach out to Total
+Rewards.
+Our Philosophy
+Our compensation philosophy is to attract and reward team members who deliver meaningful
+results through collaboration while operating with efficiency as GitLab grows and succeeds.
+Our standardized framework utilizes local labor market data to ensure fair and competitive
+compensation with a focus on transparency. This framework ensures that compensation directly
+aligns with pay for performance, achieved through both individual excellence and collaborative
+efforts.
+Compensation Elements
+Total compensation at GitLab combines three components designed to reward both immediate
+contributions and long-term value creation. Understanding each piece helps team members see
+the full picture of their compensation package.
+Base Salary
+Base salary is annual guaranteed pay, typically paid in local currency. It’s determined by role,
+level, and location, and forms the foundation of total compensation.
+GitLab sets base salary ranges using market data from compensation surveys, such as Radford,
+targeting compensation at or above the 50th percentile of the software industry to remain
+competitive.
+Variable Pay
+Some roles include variable pay in addition to base salary. Variable pay has a target amount, but
+is not guaranteed. The target amount represents what a team member would earn if
+performance targets are met. Actual payment can be higher or lower depending on results.
+
+Director+Bonuses
+Directors and above (excluding those on a sales commission plan) have a bonus target that’s a
+percentage of base salary and paid twice per year (semi-annually) based on company
+performance.
+For example: 15% of a $100,000 base salary would be a $15,000 annual bonus target
+For more information: Eligible team members can view more information about the bonus plan
+on The Loop.
+Sales Commissions
+Sales roles have compensation structured as On-Target Earnings (OTE), which combines base
+salary and commission target. The split between base and commission varies by role.
+Commission is tied to quota achievement - hitting quota earns the full target, exceeding quota
+provides upside, and missing quota results in lower commission.
+For example, $100,000 OTE with a 60/40 split would be $60,000 base salary and $40,000
+commission target
+For more information: See the Sales Compensation Internal Handbook.
+Understanding Total Target Cash (TTC): Base salary plus variable pay target equals Total Target
+Cash (TTC). For sales roles, this is often called On-Target Earnings (OTE). TTC and OTE is the
+compensation a team member would receive if 100% of targets are met.
+Equity
+Equity compensation provides ownership in GitLab’s future success through Restricted Stock
+Units (RSUs). Shares vest over time, meaning they become available to the team member
+according to a schedule. The value of these shares is tied to GitLab’s stock price at the time
+they’re sold. Equity is a meaningful part of total compensation and represents shared ownership
+in the company’s long-term value.
+When Team Members Are Eligible for Equity
+New hire grants as part of offer packages
+Refresh grants through Annual Compensation Review based on performance and
+growth potential
+Promotion grants when advancing to a new level
+For more information: See the Equity Compensation handbook page.
+When Compensation is Determined
+Compensation decisions happen at specific points throughout the year, each serving a different
+purpose in managing total rewards.
+• 
+• 
+• 
+• 
+•
+
+Time of Hire
+A team member’s initial compensation package is determined when they join GitLab. This
+includes base salary (or OTE for sales roles), equity grant, and applicable benefits.
+The offer is based on:
+The market range for the role and level
+The location of the role
+Experience and skills as they relate to the role
+Annual Compensation Review (ACR)
+Once per year, GitLab conducts a company-wide review of all team member compensation. ACR
+addresses market changes, recognizes performance, and ensures internal equity.
+Effective Date: May 1
+What’s Reviewed:
+Merit increases to Total Target Cash (TTC) based on individual performance
+Equity refresh grants based on growth potential and contribution
+Market alignment to ensure compensation remains competitive
+For more information: See the Annual Compensation Review Guide on Loop for detailed
+information about the process, eligibility, guidelines, and resources.
+Promotion Cycles
+GitLab conducts formal promotion reviews twice per year. Promotions recognize team members
+who have demonstrated they are already operating at the next level.
+Cycle Timing
+Q2 Cycle: Promotions effective May 1
+Q4 Cycle: Promotions effective November 1
+When promoted, compensation is adjusted to align with the market range for the new role and
+level. This may include changes to Total Target Cash (TTC), equity grants, and variable pay
+structure.
+For more information: See Promotions and Transfers handbook page for more details.
+Internal Moves
+Team members may change roles within GitLab through open positions posted in Greenhouse or
+through off-cycle moves due to organizational structure changes. Compensation is evaluated
+during internal moves and may be adjusted.
+Compensation changes from internal moves are effective on the date of the move and are
+processed outside of the regular ACR and promotion cycles.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

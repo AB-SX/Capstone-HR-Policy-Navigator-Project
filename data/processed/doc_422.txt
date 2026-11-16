@@ -1,0 +1,27 @@
+🤝 Engaging with the Community Programs team
+You can engage with our team asynchronously by:
+Using our Slack channel, #developer-relations-programs
+Tagging us in account-related conversations on Salesforce
+Using our Slack channel, #gitlab-for-campuses for questions regarding the GitLab for
+Campuses paid offering.
+We are also happy to meet with you for synchronous coffee chats or join you for meetings with
+customers.
+Last modified February 27, 2026: Update Developer Relations strategy-programs references to
+programs (sales section) (b86ef246)
+View page source
+ 
+ .
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/
+165. Enablement
+Enablement
+Collaborating with Community Programs
+Note The Community Programs team is now Developer Relations Programs. The information
+from the …
+Last modified November 6, 2023: Move sales files in to place (6d61f57d)
+View page source
+ 
+ .

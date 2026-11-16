@@ -1,0 +1,90 @@
+OBJECTION: “Your price is too high!”
+RESPONSES: “Your price is too high!”
+Thanks for sharing that. How much too high are we?
+I appreciate your telling me that. Have you found a less expensive product?
+You are right, we are more expensive than some of our competitors. How much were
+you hoping to pay?
+You’re right, we are not the cheapest. Is price the only consideration? • Thanks for being
+honest. Is the price higher than you expected, or is it because we combined the services
+and training in one proposal?
+I’m not surprised to hear you say that. Are we only too high overall or is our per-unit cost
+too high as well?
+Thanks for sharing that. Is our price a showstopper?
+I appreciate your honesty. Does our current price mean we will never be able to do
+business together?
+Too high? Really?
+What do you suggest we do?
+Thanks for letting me know. I’m curious, how much were you expecting to invest?
+OBJECTION: We don’t have any budget
+RESPONSES: We don’t have any budget
+Budget?
+Oh! I appreciate that makes it difficult to buy. When does your budget come up for
+renewal or review?
+Thanks for letting me know. Is your budget renewed annually or quarterly?
+Does not having a budget mean we will never get a chance to do business together this
+year?
+OBJECTION: I need a discount
+RESPONSES: I need a discount
+Discount?
+It’s good of you to be looking for the best deal. How much of a discount do you need?
+Why that much?
+Making sure you’re getting the best deal for your company is a good idea. If we can’t
+budge on the price, does that mean it’s over between us?
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Echo! Echo
+Another option for asking questions is to use the ECHO technique.
+The echo technique is simply the art of taking the last word (or last important word) in a client’s
+sentence and turning it into a question.
+Whenever a client says “I need a discount,” look them squarely in the eye and say “discount?”
+Ninety-nine times out of a hundred, the customer either tells the rep exactly what they need to do
+from a price and terms point of view to move the deal forward, or offers alternatives to the
+pricing model that will make both parties happy.
+What could be simpler than that!
+Price Objections - The Script that Always Closes
+You hear it all the time – if your price is higher than your competition you’re told to “build value.”
+You’re instructed to stress the quality, the warranty, the features, etc. But your prospects have
+heard all that before, haven’t they? Want a better way?
+Let’s face it – prospects will often buy from people they like, know, or trust. Your enthusiasm for
+your product or service is also a big factor in getting your prospects to place an order with you as
+well. Knowing this, I’ve often used the following script to not only build value in my product or
+service, but also to build value in myself. Here’s what to say:
+If your prospects says, “I can get cheaper,” or “Well the XYZ company has something similar or for
+less money,” or anything like that, say:
+“You know _________ I’m aware of all the other options for this Git Repository Management and
+quite frankly if I thought any of them were better for my clients, I’d be working there and selling
+them.
+“When I got into this industry I did my own research, and I looked for the best company that not
+only offered the best product but also delivered the best customer service and follow-up. I chose
+GitLab because they give my clients the best overall value and the best experience and that
+means they continue to do business with me and refer new business to me as well.
+“If there was a better product or company for you to be doing business with I’d be there and we’d
+be talking about that. But there isn’t.
+“Bottom line – if you want the best overall value, results, and experience, then do what I do did –
+choose GitLab – You’ll always be glad you did. Now, do you want to start with the X size order or
+would the Y size order be better?”
+This technique builds value in the most important part of any sales transaction — you and your
+belief in your product or service. Use it each time you get the price/competition objection and
+watch your sales and confidence growth.
+Mixed Tier Objections - Refocus on the value and deployment
+Scenario: Customer really likes Ultimate but feels that only 1,000 of the 4,500 developers really 
+need it. They ask to buy 1,000 seats of Ultimate and 3,500 seats of Premium and to have it all work
+together as one.
+Translation: I don’t understand why Ultimate is so valuable that it’s a no-brainer to buy it for all of
+my users.

@@ -1,0 +1,73 @@
+360 Feedback
+360 Feedback is an opportunity where managers, direct reports, and cross functional team
+members will give feedback to each other.
+Anti-Harassment Policy
+Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our
+Anti-harassment policy.
+Competencies
+GitLab has competencies as a common framework to learn things. This page is a Single Source of
+Truth (SSoT) resource for our competencies.
+Contracts, Background Screenings, Probation Periods & PIAA
+GitLab contract information and associated procedures.
+Directly Responsible Individuals (DRI)
+Directly Responsible Individuals (DRIs) at GitLab own particular projects, initiatives, or activity.
+Employment Solutions - Overview
+GitLab's Employment Solutions.
+Engagement Surveys and Employer Awards
+GitLab uses engagement surveys to allow team members to provide feedback and leadership to
+gain insight.
+Gender and Sexual Orientation Identity Definitions and FAQ
+Gender and sexual identity definitions, frequently asked questions, and resources
+GitLab Internal Acceptable Use Policy
+This policy specifies requirements related to the use of GitLab computing resources and data
+assets
+
+GitLab Offboarding
+Offboarding Procedures for GitLab Team Members and Stakeholders
+GitLab Onboarding
+Onboarding at GitLab and Onboarding Issue Templates
+GitLab People Operations Team
+Connect with Us GitLab Team Members can now reach out to us at the touch of a button via
+Compass. …
+GiveLab Volunteer Initiatives
+Discover GitLab's volunteering opportunities with GiveLab
+Global People Compliance at GitLab
+The Global People Compliance team at manages all compliance-related initiatives across People
+Operations processes.
+Guidance on Feedback
+GitLab's views and directions on how to give and receive feedback.
+Incident Response
+An outline of action to be taken in the instance that a team member or group of team members
+is impacted by an extreme weather event; natural disaster or any other catastrophe.
+New Hires, Celebrations and Significant Life Events
+Review different ways GitLab celebrates its team members.
+Organizational Change Management
+Overview GitLab is growing fast and we have been ranked as one of the fastest-growing private …
+People Business Partner Team
+Team Structure and Organizational Health People Business Partner Alignments This page has
+been moved …
+
+People Group Program Management
+This page provides an overview of Program Management within the People Group today.
+People Operations Team
+GitLab People Operations Department Handbook
+Promotion Document Style Guide
+Assembling a case for promotion can be a time-consuming process. The tips and style principles
+in …
+Promotions and Transfers
+Information and protocols related to GitLab promotions and transfers.
+Pronoun Guidance and Information
+Resources for understanding and discussing pronouns and their usage at GitLab.
+Relocation
+GitLab's Policies & Processes in Relation to Team Member Relocations.
+Talent Assessment
+Our talent assessment process is how we recognize and grow the people who make GitLab
+successful. By evaluating performance, identifying growth potential, and spotlighting key talent,
+we create clarity on where you stand, where you're headed, and how we'll support you getting
+there.
+Talent brand
+Our ambitions as an employer, the steps we take to achieve and communicate those ambitions,
+and the measures in place to ensure we live up to them.
+Talent Development
+Overview Purpose Why we exist: GitLab Talent Development (commonly referred to as “Learning
+…

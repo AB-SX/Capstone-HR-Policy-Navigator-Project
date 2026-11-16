@@ -1,0 +1,130 @@
+How We Work
+Responsibilities
+People Operations is a Department under the People Division.
+Compass
+The People Operations Department primarily uses Compass as the primary tool for all GitLab’s
+People Operations-related queries. This is where folks from other teams can ask for help,
+direction, and receive answers or direction to the correct team from the People Operations team.
+You can also tag subsets of the People Operations Team in other slack channels using:
+@peopleanalyticstriage - this should be used in the #data channel when there are
+questions or concerns about people data in dashboards or Snowflake
+GitLab Groups and Projects
+The People Operations, Technology & Analytics Team primarily uses these sub-groups and
+projects within the main People-Group public GitLab Group:
+People Operations is the primary public Group for the GitLab People Operations Team.
+This group contains 4 public and 1 private project:
+General is the public Project containing issues related to the People Operations team.
+This project is where any team member can create People Ops-related issues for the
+team to review.
+Employment Templates is the public Project which manages templates for the entire
+team member life cycle (onboarding, career mobility, offboarding, etc). Issues cannot be
+created in this project, only MRs to the templates and files.
+People Ops Team Training Issues is a private Project which houses training issues for
+new People Operations hires.
+People Operations is the private Group for the People Operations team. This group
+contains two private Projects.
+Internal handbook is the private Project which contains the content for the internal
+People Ops internal handbook.
+People Analytics is the private Group for the People Analytics team. It contains 3 private
+projects.
+People Analytics is also a private, confidential Group for a small set of GitLab Team
+Members. This group is used to collaborate on sensitive projects and issues. There are 2
+private projects in this Group.
+People Tools and Technology is the public Group for the People Tools and Technology
+team. It contains one public project.
+General is the public Project where any team member can create an issue related to
+People Tools and Technology.
+peoplegroup-eng is the public Group for the GitLab People Engineering team. This
+group contains one public sub-group, 10 public projects and 4 private projects.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+People Group Engineering is the main public Project for any team member to create
+issues related to People Engineering.
+People Engineering this is the group that contains all of the People Engineering projects.
+People Compliance is the private Project for GitLab team members to create People
+Compliance-related issues.
+People Compliance is also a private confidential Group for a small set of GitLab team
+members to collaborate on sensitive projects and issues. This group contains 5 private
+Projects.
+You can tag the People Operations in GitLab using:
+‘@gl-people-ops-team - this notifies the entire People Operations team
+People Operations Team Handbook Navigation
+People Operations team
+People Engineering Handbook
+People Compliance
+People Analytics Team
+People Analytics
+GitLab People Analytics Team Handbook Page
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/promotion-document-style-guide/
+039. Promotion Document Style Guide
+Promotion Document Style Guide
+Assembling a case for promotion can be a time-consuming process. The tips and style principles
+in this guide will help you prepare a document that presents the evidence clearly, requiring fewer
+review cycles.
+The emphasis on quantification over editorialization has a number of benefits for both the reader
+and the author:
+It’s easier to gradually assemble the document over time, and to understand the level of
+completion at any point.
+The document reads more confidently and, crucially, more objectively.
+Cases for promotion to the same role are more readily comparable to each other and
+the job family criteria, with consistent tone.
+The presentation is maximally inclusive, requiring less context on the part of the reader.
+Principles for Presenting a Strong Promotion Case
+Minimize the use of adjectives and adverbs.
+* Don’t:
+“significantly improved the performance of the most important Plan endpoints.”
+Do:
+“reduced Time to First Byte (TTFB) by an average of 180ms for the 5 most visited
+Plan endpoints.”
+Why: Adjectives and adverbs are imprecise and make it difficult for the reader
+to understand the true impact and the person’s exact contribution to it.
+Ensure quantification is appropriate and meaningful.
+* Don’t:
+“increased page views by 2 million over a 3 month period.”
+Do:
+“increased monthly page views by 25% over a 3 month period, from 8 million to 10
+million.”
+Why:
+Ensures that statements pass the “so what” test, requiring no further
+investigation on the part of the reader.
+• 
+• 
+• 
+• 
+1. 
+◦ 
+◦ 
+◦ 
+◦ 
+2. 
+◦ 
+◦ 
+◦ 
+◦ 
+◦

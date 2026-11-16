@@ -1,0 +1,142 @@
+There is no right answer; what matters here is to listen to the candidate and gather data on how
+they are telling the story.
+These questions can be quite unbalancing and can increase the stress during the interview.
+Again, be kind and help the candidate understand what you are looking for, and provide an
+example if one is needed when you notice the candidate is blocked.
+It can also happen that the candidate does not have a story to share with you; that is okay. It’s
+just another data point that should be added to the feedback (I failed to get data on …). Just move
+to the next question and be sure to have a few questions as a backup.
+Situational Interview Questions
+A situational interview question presents a hypothetical but potential real-world scenario to a
+candidate, so that you can understand how they would handle specific situations. The reason we
+ask situational interview questions is so we can feel confident in a candidate’s skills and their
+potential capability to do this specific job. We are looking for people to join our team who have
+the skills and competencies to do the role at hand, not just someone who has done this exact
+thing before elsewhere.
+Situational interview questions allow the opportunity to understand a candidate’s approach and
+ability to be successful, regardless of the opportunities they have had to demonstrate that in the
+past.
+Example: “If you were assigned a project with a tight deadline and limited resources, how would
+you prioritize tasks to ensure the successful completion of the project?”
+Candidate Evaluation and Scorecards
+Interview feedback
+In Greenhouse, you will use an “interview kit” when interviewing a candidate, which has text for
+feedback and scorecards for skills and values. Your feedback is crucial in helping the Hiring
+Manager make their hiring decisions.
+We want to highlight the strengths and weaknesses of the candidate in an easy to absorb,
+standardized way. Every scorecard must include Pros and Cons. This helps the talent acquisition
+team gather data that will be presented to the candidate in the form of feedback. Remember, if
+something is not relevant to the job, it should not be written down.
+It is important that scorecards are completed within 24 hours so Talent Acquisition can keep the
+hiring process moving and ensure a positive candidate experience. All meeting notes should live
+in Greenhouse, and not in links to Google Docs or other external sources. Doing so we allow
+Greenhouse to be the single source of truth (SSOT) for information from the candidate for GDPR
+and compliance reasons.
+In order to help remove bias, Interviewers (unlike Hiring Managers) are not able to see another
+Interviewer’s scorecard. If there are certain specific flags, concerns, or notes that should be
+highlighted to the rest of the Interview Team, the Interviewer should add a note in their scorecard
+by clicking the Note for Other Interviewers section right underneath the Key Take-Aways text
+box.
+
+Scoring is defined as follows (all divisions but Engineering):
+Strong Yes - Exceeded expectations of the competency (meets requirements and aligns
+with values)
+You have no significant questions and are confident (to the best of your knowledge with
+the information at hand) that the candidate would succeed in the role.
+Yes - Met expectations of the competency (meets requirements, but may have some
+yellow flags)
+You think the candidate is qualified for the role, but you are either not certain, or still
+have some outstanding questions that should be addressed at a later stage.
+By default, Yes candidates should move forward in the interview process, although
+hiring managers should use their judgment and look for patterns in any outstanding
+questions or areas where it’s difficult to get insight into a particular candidate. It may be
+appropriate to reject a candidate who does not receive stronger feedback through our
+process.
+No - Did not meet expectations of the competency (meets few requirements, has many
+yellow flags, may not align with values)
+You think the candidate is unqualified for the role, but have some doubts or believe they
+performed well enough that strengths in other areas could mean that they are still able
+to succeed in the role.
+Hiring managers should use their discretion to determine whether or not to continue
+the interview process with any candidate that receives a No vote.
+Strong No - Strongly did not meet expectations of the competency (does not meet
+requirements, red flags, not aligned with values)
+You are certain this candidate is not qualified and/or not a good fit for the role.
+There are significant flags related to Diversity, Inclusion and Belonging where this hire
+may create an unsafe work environment for others.
+Candidates who receive a Strong No vote should almost always be rejected immediately
+by the hiring manager.
+Engineering Division
+The scoring definitions for GitLab’s Engineering Division are defined differently than the rest of
+the company. Rather than scores representing the probability of a hire, they are meant to reflect
+the candidate’s interview performance. This allows us to expect scores to fit the normal
+distribution. The probability densities of Strong yes and Strong no should be greater than one 
+standard deviation away from the mean.
+Strong Yes
+Extends Yes
+Meets an unusually large proportion of our “nice to have” criteria for the role
+Brings interesting qualities that we were not necessarily looking for
+Yes: All must-haves criteria that were evaluated in the interview were present
+No: One, or more, must-have criteria that were evaluated were found to be missing
+Strong No
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Extends No
+The candidate demonstrated clear opposition to either our Collaboration, Diversity, or
+Results values
+The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or
+Transparency values
+Shadowing Interviews
+While it is possible to shadow interviews as a trained, regular interviewer to maintain your
+skillset, please be considerate of those who are actively working to become an interviewer and
+allow them priority in choosing when to shadow.
+Just like those leading an interview, shadowers should ensure that they are not shadowing
+someone who they have referred to GitLab. This helps to remove bias from the interview process
+and does not allow specific candidates disproportionate access to interview feedback.
+If you are shadowing an interview, part of this process should be taking notes and writing
+feedback in addition to the interviewer. Take notes using the scorecard just like you would if you
+were leading, but do not submit the scorecard because you are still considered to be in training
+during this period. As an interview training best practice, we recommend that a debrief meeting
+occur between the interviewer and shadow trainee after the interview to compare feedback notes
+(ideally in a sync meeting). Only one official scorecard should be submitted by the main
+interviewer. Even if you receive multiple prompts and reminders from Greenhouse as a shadow
+interviewer, please ignore.
+More info on engineering hiring practices.
+Level Categories in Engineering Scorecards
+Whereas the scoring definitions company-wide describe the probability of hire, the scoring
+definitions in the Engineering Division are meant to reflect the candidate’s interview
+performance. To further support the ability to utilize interview results to hire across all levels, we
+have added a ‘Level’ category to R&D scorecards.
+In this category, the interviewer can define the level the candidate scored on, and add details on
+why they scored a candidate on the particular level. The added value of this category is that the
+interviewer can score the candidate on multiple levels (ex. the Senior level and the Intermediate
+level).
+This scorecard feature will increase sharing of candidates that, for example, may meet the ‘must-
+have’ criteria on an Intermediate level position but did not meet all of the ‘must have’ criteria on a
+Senior level. The dual score, when applicable, will help recruiters and hiring managers with
+candidacy decisions. Interviewers should use the notes section to capture the why behind their
+score and provide any additional detail that is directly relevant in assessing leveling.
+Unhelpful vs. Effective Feedback Examples
+Unhelpful Feedback Example
+Competency: Clear communication across all levels and departments
+• 
+• 
+•

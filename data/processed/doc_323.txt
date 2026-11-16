@@ -1,0 +1,121 @@
+Benefits Questions:
+Medical (Southern Cross): benefits.nz@willistowerswatson.com or 0800 329 920
+KiwiSaver: Contact your chosen provider or IRD
+General benefits: total-rewards@gitlab.com
+Leave & Absence:
+All leave questions: leaves@gitlab.com
+Government benefits: IRD for parental leave, ACC for injury coverage
+General Support
+People Operations:
+Main resource: People Operations page
+Global benefits: General GitLab Benefits
+Team Member Relations: teammemberrelations@gitlab.com
+This handbook provides comprehensive information about your benefits and employment with GitLab
+PTY Ltd. Complete terms and conditions are outlined in official policy documents and your employment
+contract. As part of our commitment to supporting you at every stage of your career, we continuously
+review and enhance our benefits to ensure they meet your evolving needs in New Zealand.
+Last modified March 3, 2026: Employee vs Employer kiwisaver contribution discrepancy
+explanation (8b1c3032)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/financial-
+wellness/
+125. Financial Wellness
+Financial Wellness
+A summary of Financial Wellness resources available to team members at GitLab.
+Financial Wellness: We’ve Got You Covered
+Clear benefits, real support
+Your financial wellbeing matters at GitLab. We provide comprehensive resources to support you
+at every life stage—from understanding equity compensation to planning major transitions.
+Whether you’re starting out, managing debt, growing a family, or planning retirement, our
+benefits give you the tools and guidance to build financial confidence.
+Note: GitLab provides resources and education but cannot offer direct financial advice.
+Modern Health Financial Coaching
+Access personalized financial guidance through Modern Health’s Employee Assistance Program.
+Get practical strategies and understand the psychology of money management.
+Eligibility
+All GitLab team members globally
+No cost, confidential support
+Key Features
+One-on-one financial coaching, digital money management programs, and group workshops
+addressing financial decision-making psychology.
+How to Access Modern Health Financial Coaching
+Download Modern Health app or visit online platform
+Add a Financial Coach to your care team
+Access “Financial Well-being” digital program
+Join Money Management Circles
+Available Resources
+One-on-One Coaching: Add a Financial Coach to your care team
+Digital Programs: “Financial Well-being” app modules
+Group Sessions: Modern Health Money Management Circle - Recording
+Session Focus: Understanding wealth psychology, assessing your financial situation,
+and identifying financial values
+Questions?
+Access support through the Modern Health platform.
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+•
+
+SageView Financial Wellness Program
+Dedicated financial wellness specialists help you understand your complete financial picture,
+including GitLab equity plans. Focus areas include investment assets, asset protection, income
+protection, debt management, and estate planning.
+Eligibility
+All GitLab team members worldwide
+No cost to participate
+Key Features
+One-on-one consultations, educational workshops, and ongoing access to financial resources.
+Main focus: understanding how your GitLab equity plan works.
+How to Access
+Schedule Consultation: Use scheduling flyer
+Access Resources: Visit Sage411.com for general questions
+Join Workshops: Attend Financial Wellness Workshops
+Review Materials: Access regular SageView communications
+Getting Started
+Program Overview: Kickoff presentation or AMA session
+Session Details: Program description
+Important Information
+SageView provides educational guidance but cannot offer specific tax, legal, or financial advice.
+All consultations are confidential.
+Questions?
+Contact SageView through the scheduling system or total-rewards@gitlab.com.
+Total Rewards and Financial Wellness for Managers
+An important component of the Total Rewards Package is Equity Compensation. Team members
+review equity holdings in Schwab. Vested and exercised shares are currently held at
+Computershare.
+Managers can access a Total Rewards Summary showing vested and unvested holdings as of
+October 14, 2021 for each direct report.
+Total Rewards Summary
+Eligibility & Access
+Eligibility
+Managers of team members with equity grants on/before September 3, 2021
+Access through Workday via Okta
+RSU grants not included (next review: December 15, 2021)
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+•

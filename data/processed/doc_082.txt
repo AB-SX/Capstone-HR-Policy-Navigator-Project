@@ -1,0 +1,144 @@
+Source: https://handbook.gitlab.com/handbook/people-group/360-feedback/
+029. 360 Feedback
+360 Feedback
+360 Feedback is an opportunity where managers, direct reports, and cross functional team
+members will give feedback to each other.
+360 Feedback
+Overview
+360 feedback is a valuable component of our performance review and talent assessment process
+that gathers input from multiple perspectives to provide a well-rounded view of an employee’s
+performance and development opportunities. This cross-functional feedback approach provides
+critical insights into strengths and improvement areas to support ongoing performance in role
+and career development.
+Why 360 Feedback Matters
+360 feedback enriches the dialogue between managers and team members by:
+Providing comprehensive insights from peers, stakeholders, and direct reports who
+observe different aspects of performance
+Identifying blind spots that may not surface in regular one-on-one conversations or be
+clear through other feedback channels
+Supporting targeted development by highlighting specific strengths to leverage and
+areas for growth
+-Creating more meaningful career conversations grounded in diverse perspectives
+Building self-awareness through feedback from various working relationships
+Uncovering hidden strengths that may not be visible in day-to-day manager interactions
+Is The 360 Process Right For Me?
+A 360 can be a very helpful development tool, but it should not be a replacement for regular,
+ongoing feedback that team members receive throughout the year. There may be situations and
+points in team member development where a 360 can supplement development and individual
+growth plans, and times when development areas are clear and 360 feedback may not be
+needed.
+Below are a few key points to think through when determining in which situations the 360 tool
+may or may not be useful:
+Development Oriented: The 360 process is meant to support the team member’s
+development and to provide feedback supporting individual growth and development.
+360s should not be used as performance management tools.
+• 
+• 
+• 
+• 
+• 
+•
+
+Ongoing Feedback: Managers and team members should seek cross functional
+feedback throughout the year to inform performance discussions. A 360 should not
+serve as a replacement for asking stakeholders and peers how things are going.
+Focused Goals: 360 feedback is most useful when a team member is committed to
+working towards certain development goals, as the 360 can provide more specific
+feedback and focus towards those development goals, and also reveal some blind spots
+or hidden strengths.
+Single Data Point: It is important to remember that the 360 represents a single,
+anonymous point in time. While it can be helpful to supplement performance
+conversations, it should not be the core data point.
+Uncover Blind Spots: A 360 is best used when trying to uncover blind spots. If team
+members and their managers already have a good understanding of the growth areas,
+direct, transparent feedback is the most productive way to support continued growth
+and development.
+When 360 Feedback Works Best
+You’re committed to working towards specific development goals
+You want to uncover blind spots or hidden strengths
+You’re in a leadership position with cross-functional responsibilities
+You’re seeking to supplement your existing development efforts
+You want focused feedback to support individual growth plans
+When 360 Feedback May Not Be Needed
+Development areas are already clear and you have an actionable plan underway
+You already have a good understanding of your growth areas through regular feedback
+Direct, transparent feedback would be more productive for continued development
+Remember that 360 feedback represents a single, anonymous point in time and should
+supplement, not replace, ongoing feedback conversations throughout the year.
+How It Works
+For Team Members
+If you’d like to receive 360 feedback as part of your performance conversation:
+Express interest to your manager about receiving multi-perspective feedback
+Suggest feedback providers - recommend 3-5 people who work with you regularly and
+can provide meaningful insights (peers, stakeholders, direct reports, cross-functional
+partners)
+Share context with your manager about why these individuals would provide valuable
+perspective
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Contact your feedback providers to explain your goals for the 360 process - why you’re
+seeking feedback and what you hope to achieve. This helps reviewers provide the right
+kind of information to support you
+Participate in the conversation - your manager will share themes and patterns from
+the feedback during your review discussion
+Take action - consider sharing the themes you heard and resulting actions with
+stakeholders who can support your growth throughout the year
+For Managers
+To incorporate 360 feedback into your team member’s performance conversation:
+Discuss and select feedback providers - have a conversation with your team member
+to get their input on potential feedback providers, then choose 3-5 people using your
+discretion to ensure a balanced mix of perspectives (peers, stakeholders, direct reports,
+etc.)
+Choose your collection method:
+Google Form: Use THIS link to make a copy of a 360 feedback form for each
+team member. Customize it with your team member’s name, indicate your
+desired response date, and send to your selected feedback providers.
+Download responses from the form when complete. NOTE: This is an interim
+solution while we explore alternative platforms to gather feedback.
+Email or Slack: Gather feedback using the same questions from the Google
+Form via direct email or Slack messages
+Analyze for themes - look for patterns and common observations across multiple
+sources
+Integrate insights into your performance conversation, focusing on themes rather
+than individual comments
+Maintain confidentiality - share feedback anonymously without attributing specific
+comments to individuals
+Support ongoing development - help your team member create actionable next steps
+based on the feedback received
+For Feedback Providers
+When asked to provide 360 feedback:
+Focus on specific examples and observable behaviors when possible
+Be constructive and balanced in your observations
+Consider the person’s stated development goals when framing your feedback
+Respond promptly within the requested timeframe
+Keep feedback confidential between you and the requesting manager
+• 
+• 
+• 
+• 
+• 
+• ◦ 
+• ◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

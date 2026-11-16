@@ -1,0 +1,146 @@
+Ireland
+Complaint and Disciplinary Procedures
+Bullying, Harassment, and Sexual Harassment Policy
+Disciplinary Procedure
+Grievance Procedure
+Protected Disclosure Policy (This policy is also list on the ‘Whistleblowing at GitLab
+Handbook page’ (https://handbook.gitlab.com/handbook/legal/whistleblowing/
+#country-specific-whistleblower-policies))
+Right to Disconnect Policy
+Health and Safety
+Display Screen Equipment Regulations 2007
+To ensure the physical and mental health and safety of our team members in Ireland,
+and to maintain compliance with local employment regulations, all team members in
+Ireland will complete a home working checklist at onboarding. This checklist will be
+reviewed annually. If you think you may need accommodations in order to achieve and/
+or maintain a healthy and safe work environment, please contact the People Operations
+team. If you need to report an accident or injury, please contact Team Member
+Relations.
+GitLab Korea LTD
+Korea
+None currently applicable specific to team members in Korea.
+GitLab LTD (UK)
+United Kingdom
+GitLab LTD (UK) Homeworking and Flexible Working Policy
+Health and Safety
+GitLab Ltd (UK) Health and Safety Risk Assessment
+To ensure the physical and mental health and safety of our team members in the UK, and to
+maintain compliance with local employment regulations, all team members employed by GitLab
+Ltd. must review the guidelines for working comfortably at home and complete a home working
+risk assessment at onboarding. If you think you may need accommodations in order to achieve
+and/or maintain a healthy and safe work environment, please contact the People Operations
+team via Compass. If you need to report an accident or injury, please contact Team Member
+Relations. Team members should regularly inspect their home offices for potential hazards
+related to the following:
+Electrical equipment: make sure that your plugs, wiring, and casings are in good
+working order and there is no fraying.
+Fire: regularly check your smoke detectors and develop an escape plan in case of fire, if
+you haven’t already.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Slips and trips: keep your work area clear of boxes, cables, uneven surfaces, and other
+obstacles that may cause a trip hazard.
+First aid: Keep first aid provisions in your home and be careful when handling sharp
+objects and hot or cold liquids.
+The handbook also has a wealth of information and recommendations for setting up your
+workspace and procuring the proper equipment:
+How to Create an Ergonomic Workspace
+Focus your Workspace
+Combating Burnout, Isolation, and Anxiety in a Remote Workplace
+Considerations for a Productive Home Office
+Equipment Examples
+Working Time Regulations
+What are the Working Time Regulations?
+The Working Time Regulations (1998) were introduced to support the health and safety of
+workers by setting maximum requirements for the number of hours that they can work, paid
+time off and rest periods.
+The 48-hour working week
+The regulations state it is illegal for you to work any time over a total of 48 hours each week. You
+can agree to exceed this limit if you want to, but you cannot be mandated to work more than 48
+hours per week.
+Average working hours are calculated over a ‘reference’ period, which is usually 17 weeks. This
+means you can work more than 48 hours one week, as long as the average over 17 weeks is less
+than 48 hours a week.
+For more information about the 48-hour working week restrictions, please visit the government’s
+website.
+How to opt-out of the 48-hour working week
+It is entirely your decision if you would like to work more than an average of 48 hours a week.
+GitLab is committed to enabling team members to maintain a healthy work-life balance, but on
+occasion (for example during periods of high customer demand) you may be asked to work
+longer hours. To ensure that we remain compliant with the regulations, we ask you to opt out of
+them, in case such a need arises.
+If you would like to opt-out, you can do this by signing this written agreement, known as the opt-
+out agreement. You may have chosen to sign/confirm this agreement already during your
+onboarding. The duration of the agreement is indefinite. If you haven’t already signed this
+agreement but would like to do so, you can make a copy of this document, add your name and
+sign it, and attach a copy of it to a new case to the People Operations team within Compass, with
+a request that it be saved with your documents in Workday.
+How do I cancel my opt-out agreement?
+You can choose to cancel your opt-out agreement at any time. The notice period you are required
+to give is three months.
+GitLab PTY (Australia)
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Australia
+Health and Safety
+To ensure the physical and mental health and safety of our team members in Australia, and to
+maintain compliance with local employment regulations, all team members in Australia will
+complete the following checklist at onboarding. This checklist will be reviewed annually. If you
+think you may need accommodations in order to achieve and/or maintain a healthy and safe
+work environment, please contact the People Operations team via Compass. If you need to report
+an accident or injury, please contact Team Member Relations.
+Remote Work Checklist
+Right to Disconnect
+Right to Disconnect
+GitLab PTY (New Zealand)
+New Zealand
+Health and Safety
+To ensure the physical and mental health and safety of our team members in New Zealand, and
+to maintain compliance with local employment regulations, all team members in New Zealand
+will complete the following survey at onboarding. The responses will be reviewed annually. If you
+think you may need accommodations in order to achieve and/or maintain a healthy and safe
+work environment, please contact the People Operations team via Compass. If you need to report
+an accident or injury, please contact Team Member Relations.
+Remote Work Checklist
+GitLab Singapore PTE LTD
+Singapore
+Health and Safety
+How to Create an Ergonomic Workspace
+Focus your Workspace
+Combating Burnout, Isolation, and Anxiety in a Remote Workplace
+Considerations for a Productive Home Office
+Data Protection/Privacy Policy
+Employee Privacy Policy
+GitLab Privacy Policy
+Workplace Harassment Policy
+Anti-Harassment Policy
+Code of Business Conduct & Ethics
+Fair Employment Practices Policy
+GitLab PTE LTD Fair Employment Practices Policy
+GitLab India Pvt LTD
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

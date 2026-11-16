@@ -1,0 +1,156 @@
+Relocations To New Country or Different Location Factor
+Discuss the proposed move with your manager and seek business approval before
+submitting a formal relocation request.
+Complete the Relocation Request Form, attaching the pre-approval via Compass. Upon
+completion, the form is sent automatically to People Operations.
+Once the relocation request form has been received by People Operations, they should
+review the form playing close attention to the following information:
+Work Eligibility
+The relocation date is future dated and allows enough time for the process to be
+finalized.
+Relocations from one country to a new country: once you have determined an
+appropriate month for your relocation we will request that the relocation effective date
+reflects either the 1st or 16th of the month to help avoid any complications with local
+taxes or absence accrual policies.
+For sales personnel with a variable change, the effective date should always be the 1st
+of the month.
+Reason for relocation is provided
+Team member has confirmed whether or not they require employer sponsored visa for
+relocation
+The team member has satisfied the required one year tenure to be eligible for relocation
+4. The People Operations Team will determine the impact on compensation based on
+the relocation utilizing the following practices:
+If the relocation request within the same country does not result in a change in
+compensation, no further approvals are required and The People Operations team will 
+inform the manager of the relocation
+If the country and/or the location factor changes, the compensation will be adjusted
+based on the location factor change. For example, if a team member currently resides in
+a location with a location factor of .70 and the move results in the team member landing
+in a location with a location factor of .75, the compensation recommendation will be to
+increase the salary to position the team member’s salary to an equal position in the new
+range (compa-ratio). If the team member currently resides in a location with a location
+factor of .80 and the move results in landing in a location with a location factor of .70,
+the compensation recommendation will be to decrease the salary to position the team
+member’s salary in an equal position in the new range. If the compensation range of the
+team member’s role isn’t available, the People Operations Team member reaches out to
+Total Rewards to discuss the new compensation.
+If the relocation meets all requirements for a compensation change, the People
+Operations Team will determine relocation salary using the same compa ratio as the
+previous location (if applicable).
+5. The People Operations team will then obtain approvals for the relocation request and
+add the applicable PBP of the division in copy. Considerations in addition to budget
+availability include business criticality of the role, ability to perform the role from the
+proposed new location, and demonstrated performance by the team member. Any
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+increase in location factor equal to or greater than .20 will require VP approval and
+following that E-Group member approval BEFORE manager approval due to the possible
+significant impact on compensation with a copy to the Division Director and VP to add
+context and transparency for E-Group member consideration.
+6. The People Operations Team member will update the Relocation Tracker with the
+details of the relocation
+Once Approved
+The People Operations Team member will inform the Manager once the relocation has
+been fully approved.
+The manager will convey to the team member that their relocation has been approved
+and relay their new compensation. The manager will then determine if the team
+member still wishes to relocate based on the changes to compensation. The manager
+will convey the team member’s final decision to the People Operations team.
+The People Operations Team member will ensure that all approval documents including
+original request from the team member and any approval email threads are saved in the
+team member’s Workday Contracts & Changes folder. This approval will include the
+converted salary where applicable for the authorized signatory on the contract / job
+change letter to audit against before signing.
+Contract Phase
+The contract phase is unique based upon the team member’s relocation. The different options
+are as follows:
+Relocation within the Same Country
+Relocating to a new country
+Relocation within the Same Country
+Tasks for People Operations
+If relocating between Quebec and Non-Quebec review applicable tasks here
+A Relocation letter is only needed if there is a compensation change:
+Make a copy of the Relocation letter and save it to the working documents folder.
+Enter all applicable information based on the relocation request approval email and the
+team member’s Workday profile
+3. Once the Relocation letter has been created, ping the People Operations Team for
+auditing.
+4. Stage the letter in DocuSign and send for signature to the applicable signatory and
+the team member
+5. Upload the signed document to the team member’s Contracts & Changes folder in
+Workday.
+6. Update the Relocation Tracker with the details of this relocation.
+7. The People Operations Team member makes any necessary updates to the team
+member’s Workday profile by following these Job Aids:
+1. 
+2. 
+3. 
+1. 
+2. 
+1. 
+2. 
+• 
+•
+
+How to: Change Job and
+For relocations to another state within the US: Set a reminder to update the benefit
+group on the effective date of the relocation
+8. Once the People Operations Team member has updated Workday, they will then
+reach out to another People Operations team member to audit the updated entry
+9. Once the team member updates their address in Workday, the People Operations
+Team member approves the address change
+Tasks for the Team Member
+Update your address in the Contact tab in your Workday profile. Your address will then
+get approved by the People Operations Team member team.
+Relocation to a New Country
+Tasks for People Operations
+Upload the approval communication from Compass to the team members Workday >
+Documents folder (approvals & confidential)
+Create a new contract for the team member confirming new compensation (if
+applicable) and effective date.
+* Ensure to remove the cover letter from the contract template (if applicable) for
+relocations, as the cover letter is not needed.
+* If a team member is relocating to France, you should follow similar steps to CES, when
+creating a French offer, by requesting support from the Legal,Employment Team via
+email legal-employment@gitlab.com to determine which contract template should be
+used and to have the relocating team member classified under the applicable CBA in
+France. One of the Legal, Employment Team members will respond with the following
+information:
+The Template that you should use (A,B or C); and
+The classification wording that should be added to the template (including
+information on where the wording should be placed on both the English &
+French sides)
+No stock options are given through relocation, so that line can be removed
+Probation Period: If a team member has continued service with GitLab (tenure
+with GitLab has been uninterrupted) and they have already passed the
+probationary period of their original location or contract, they do not need to
+go through the probation period of their new location or contract.
+A list of all signatories can be found here.
+If applicable:
+* A Mutual Termination Agreement is needed, if the team member is relocating from IT
+BV.
+* A Side letter Relocation - Transfer from one entity to another is needed if the team
+member is relocating from one entity to another.
+• 
+• 
+1. 
+1. 
+2. 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+3.

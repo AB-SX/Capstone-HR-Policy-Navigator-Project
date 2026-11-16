@@ -1,0 +1,80 @@
+High Level Process
+Field Enablement Program Managers send a “Call for Content” for their relevant segment areas
+(ENT, COMM, Customer Success, Channel & Alliances) and give DRIs/team members 3 weeks to
+send in submissions. Submissions are then prioritized based on a set list of criteria and relevance
+to the SKO theme. Any sessions not chosen are put into a backlog for consideration in fast-follow
+enablement/reinforcement activities following SKO. Please see below for a more detailed
+overview of the process.
+SKO Breakout “Call for Content” Process
+Below are the activities that Field Enablement Managers and Sales Kickoff (SKO) DRI collaborate
+on as a part of the “Call for Content” for SKO breakout sessions. This process begins no later than
+three months before SKO.
+Field Enablement Program Managers to meet with segment VPs and determine on what
+types of content (topic, format, etc.) to solicit in their Call for Content.
+Field Enablement Program Managers open their segment’s “Call for Content” and
+socialize it in relevant meetings/Slack channels.
+Call for Content stays open for 3 weeks.
+Call for Content submissions for role-based breakout sessions are made via the SKO Call
+for Content Submission issue template
+Call for Content submissions for “Choose Your Own Adventure” breakout sessions are
+made via the SKO Call for Content Submission issue template
+Submissions are managed on this issue board with the following labels for organization:
+Static labels: ~field enablement ~field events ~FE priority::1 ~sko ~sko content
+submission
+Scoped labels: ~sko content::triage, ~sko content::accepted, ~sko content::deferred, ~FE
+status::triage
+Once Call for Content closes, Field Enablement Program Managers review the
+submissions and choose top submissions based on the selection process outlined below.
+Field Enablement Managers notify DRIs of chosen submissions and begin working with
+them on next steps to further build out session content.
+Label for these accepted issues changes to ~sko content::accepted and ~FE status::wip
+Field Enablement Managers notify DRIs for submissions not chosen. Issues for all
+submissions that are not chosen (and are viable, i.e. not a partial/irrelevant submission)
+are moved into the Field Enablement Backlog where they can be considered for
+upcoming enablement initiatives.
+~sko content::deferred and ~FE status::backlog
+Selection Criteria & Process
+Below is are the criteria used to select submissions for SKO breakout sessions.
+Criteria
+Content directly supports the SKO objectives
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+1. 
+1.
+
+Proposed session is interactive and takes advantage of in-person modality
+High content quality
+Fresh content (not a rehash of old ideas or topics)
+Session topic embodies the GitLab values
+Content fits well in the landscape of all other topics being chosen (i.e. a blend of
+technical, functional/soft skill topics)
+Selection Process
+All Field Enablement Program Managers and the Field Enablement leader meet in a
+working session to review submissions for each segment and select the winning
+submissions based on the criteria.
+Note: Doing this in a working session vs. silo will help the team have healthy discussions
+around relevance and will uncover any areas of overlap.
+Field Enablement Program Managers review/justify selections with their segment area
+VPs to ensure alignment.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+3.

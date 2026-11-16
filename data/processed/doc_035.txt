@@ -1,0 +1,90 @@
+Removing the pet page entry
+Update the CODEOWNERS file: change to the manager or remove if the manager is
+already a codeowner for that file
+The People Operations Team member will need to complete:
+Remove the team members ReadMe
+If the ReadMe is in a private project, request assistance from the IT Ops team to delete
+(you can tag them in the team page MR and private Slack channel)
+Check for hardcoded references
+The People Operations team member handling the offboarding should check to see
+whether the offboarded team members name is listed on any other public Handbook
+pages. This can be done by doing a Google search for the team members name and
+“GitLab” - this should pull up results that reflect any association with the team members
+name and GitLab (including a ReadMe).
+Offboarding Compliance
+The People Operations Team ensures all offboarding cases are opened within each week of the
+offboarding effective date (the last day worked).
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding
+date. For systems that are more critical and time sensitive, these will be completed within the first
+24 hours (example 1Password, Slack) by the relevant Departments. Information about application
+& system deprovisioners can be found on the Tech Stack.
+To ensure a successful completion of the offboarding case, it is important that all tasks are
+checked off, whether the system/tool is applicable to the offboarding team member or not.
+Checking the box indicates one of the following:
+I have revoked team member access to this particular system/tool
+I have checked and this team member was not given access to this particular the
+system/tool
+Exceptions
+Exceptions to this policy must be approved by the People Operations team.
+References
+Information Security Parent Policy
+GitLab Offboarding
+GitLab Offboarding FAQ
+Offboarding Automation Flow
+Last modified October 5, 2026: FY27 Controlled Document Review: Offboarding Standards
+(3d81db45)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/promotions-transfers/
+015. Promotions and Transfers
+Promotions and Transfers
+Information and protocols related to GitLab promotions and transfers.
+This page is currently under review and construction
+For the most up to date information, please go to this Loop page for information.
+Hiring for VP+ Roles
+In order to ensure a consistent level of review for both internal promotions and new leadership
+roles, any net new VP and above “To be Hired” roles will be reviewed and approved by e-group.
+Senior leaders should partner with their People Business Partner to create a justification
+document for their proposed role. The justification document allows for e-group to better
+understand the business need for the role and how it will align within the organization.
+This review is part of our organizational design discussions that occur during the e-group offsite.
+Proposed roles can be reviewed as soon as the organization has visibility to the business need.
+However, if the need for a new VP+ role comes up outside of those organizational design
+discussions, it can be reviewed during the weekly e-group meeting to continue to ensure that we
+are agile and competitive in our hiring practices.
+The justification document needs to be used when:
+We decide to backfill an existing role at a higher level (VP+)
+We open a net new headcount for a VP+ role (that is was not accounted for in the
+current fiscal year headcount plan)
+Process for Managers: Requesting a Promotion
+Determine whether the promotion change should be processed through the twice per
+year promotion cycle or through Greenhouse
+If proceeding with the twice per year promotion cycle, work with your People Business
+Partner and Leadership to recommend the promotion ahead of the planning process so
+the team member included in planning and calibrations. Ensure the Promotion or
+Compensation Change Document has been created at this time.
+* If the team member you are recommending a promotion for is director or above,
+please refer to the promotions to director and above.
+If the promotion/compensation change should be processed through Greenhouse,
+please follow the steps outlined in the Greenhouse Promotions/Transfers Process
+section.
+1. 
+2. 
+1. 
+2. 
+3.

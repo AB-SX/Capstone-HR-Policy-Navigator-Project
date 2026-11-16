@@ -1,0 +1,104 @@
+Gay
+Attraction primarily to members of the same sex/gender. This term has historically been used for
+men specifically, but is often a more widely used term for both men and women.
+Lesbian
+Describes a woman whose sexual orientation is primarily geared towards other women.
+Bisexual
+Attracted to more than one gender or gender identity. Although the prefix “bi” strictly means
+“two”, it is inaccurate to say that all bisexual people are only attracted to two genders (i.e. male
+and female). More commonly, people who identify as bi are attracted to multiple gender
+identities, including
+trans/non-binary identities.
+Pansexual
+Attracted to the person rather than their sex, gender, or gender identity. Pansexual people
+commonly describe their pattern of attraction as being interested in “hearts, not parts.”
+Queer
+Often used as a term for someone who is gay, but more recently has become popular as an
+umbrella term for someone who identifies as anything other than straight/cisgender.
+Some people also choose the labels ‘queer’ or ‘fluid’ as a way of expressing themselves by their
+own personal feelings.
+Make sure that you use queer as an adjective and not as a noun. Good examples:
+“Amy is a queer developer.”
+“Amy is queer.”
+But something like “Amy is a queer” is offensive.
+QUILTBAG
+QUILTBAG is a comprehensive, newer term that stands for queer and questioning, unsure,
+intersex, lesbian, transgender and two-spirit, bisexual, asexual and aromantic, and gay and
+genderqueer. It is a easier way to say LGBTQ+ as well as being a bit more inclusive. It was first
+coined in October 2006 by Sadie Lee in Diva Magazine.
+Frequently Asked Questions
+What’s the difference between sex and gender?
+Sex and gender are often seen as the same thing but in reality, sex and gender are distinct.
+• 
+•
+
+Sex can refer to a person’s anatomy and physiology, which can include phenotype, internal and
+external genitalia, gonads, hormone levels, chromosomes, epigenetics, etc… Maybe people
+believe sex is binary (either male or female) but in reality, sex is a non-binary construct where 1 in
+1500 people are born intersex.
+Gender refers to the social norms, emotions, and behaviors that are associated with being
+female, male, androgynous, or others. Gender traits can vary greatly depending on the time
+period and cultural context. It’s important to remember that gender is not an inherently natural
+thing, but rather a social construct that varies from society to society.
+What’s the difference between being transgender and being gay?
+Transgender is a gender identity while gay is a sexual orientation. They are two different
+concepts. Someone can be transgender while being straight, gay, bisexual, or another sexual
+orientation. Similarly, someone can be gay and be cis, trans, genderqueer, or another gender
+identity.
+What’s the difference between being bisexual and pansexual?
+Both gay and straight refer to sexual orientations in which a person is primarily attracted to only
+one gender. Bi- and pan- are sexual orientations in which a person is attracted to multiple
+genders. Bisexual tends to refer to attraction to multiple sexes, genders, and/or gender identities. 
+Pansexual tends to refer to being attracted to a person, rather than their sex, gender, and/or
+gender identity.
+This FAQ on bisexual vs pansexual orientations goes into more details.
+Bi- and pan- can be very similar so it is ultimately up to the individual as to which they identify as.
+What’s the difference between cross-dressing and being transgender?
+Cross-dressing is a specific form of gender expression that involves wearing clothing, accessories,
+etc. that is traditionally not associated with one’s gender. Cross-dressing does not imply anything
+about a person’s gender identity or sexual orientation.
+Transgender is an umbrella term to refer to and capture all non-traditional gender identities and
+expressions. As such, people who cross-dress may also identify as transgender however, the
+distinction between being trans and cross-dressing should be noted. Cross-dressing is a
+temporary activity, while transgender is a state of permanence. It is best to use the term
+preferred by the individual.
+Is being transgender a mental disorder?
+No, being transgender is not a mental illness.
+Transgender people can experience a mental illness known as gender dysphoria, however not all
+trans people have this experience, so being trans in and of itself is not a mental illness.
+This Vox article on transgender mental health says it well,
+“The AMA, APA, and other medical experts agree that letting someone transition, which can
+entail medical treatments like hormone therapy and gender-affirming surgeries, without social
+
+stigma is the main treatment for gender dysphoria. In this way, being trans isn’t the medical
+condition; living as trans is in fact the treatment to the medical condition.”
+Do all people who transition have surgery?
+No, not all transgender people desire medical transition such as hormone therapy and surgeries.
+Additionally, some trans people do desire medical transition, but cannot afford it. They are still
+trans none the less.
+As HRC says well,
+“Many transgender people cannot afford medical treatment nor can they access it. In light of
+these injustices, it is important that civil rights and protections are extended to all transgender
+people equally, regardless of their medical histories. It’s also critical to continue advocating for
+full access to health care coverage for transgender people.”
+How do I know which pronouns to use?
+Simple, just ask :)
+Asking for someone’s pronouns is the same as asking for their name. In the same way that you
+wouldn’t assume what someone’s name is and start calling them by a name that wasn’t theirs,
+you shouldn’t assume someone’s pronouns.
+In English, there are many common pronouns such as the singular they/them and ze/hir/hirs. To
+learn more see this Time article on pronouns.
+For more information on pronouns, check out Pronoun Guidance and Information.
+What if I accidentally use the wrong pronouns?
+Quickly apologize, correct yourself and move on. Don’t make a big deal out of it. It happens.
+Can someone be fired for being transgender, gay, etc.?
+At GitLab, you will not get fired for any of the following reasons, no matter where you are:
+Race, color, religion, national origin, sex (including pregnancy), age, disability, HIV status, sexual
+orientation, gender identity, marital status, past or present military service, or any other status
+protected by the laws or regulations in the locations where we operate.
+Please review our anti-discrimination guidelines for more information on what is not tolerated at
+GitLab.
+Last modified September 30, 2025: People Group page deletes round two (9aa7ece8)
+View page source
+ 
+ .

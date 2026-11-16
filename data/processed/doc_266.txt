@@ -1,0 +1,81 @@
+Acronym Word/Saying/Title
+ACV Annual Contract Value
+ARR Annual Recurring Revenue
+ASM Area Sales Manager
+ATR Available To Renew
+CAC Customer Acquisition Cost
+CS Customer Success
+FTE Full Time Equivalent
+LAM Landed Addressable Market
+LTV Life Time Value
+MRR Monthly Recurring Revenue
+PCV ProServe Contract Value
+SA Solution Architect
+SAE Strategic Account Executive
+SQL Sales Qualified Lead
+SRE Site Reliability Engineer
+CSM Customer Success Manager
+TAM Total Addressable Market
+TCV Total Contract Value
+Last modified November 6, 2026: Remove /content/teamops/ and related handbook TeamOps
+page (704ed710)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/identity-data/
+100. Identity data
+Identity data
+GitLab country specific data in regard to team members location, gender, ethnicity, race, age etc.
+View data here!
+GitLab Identity Data
+The metrics on this page are being reviewed and adjusted.
+TO BE UPDATED
+Last modified March 25, 2026: Delete people success performance indicators page (aa58e78b)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/
+101. Diversity, Inclusion & Belonging
+Diversity, Inclusion & Belonging
+Diversity, Inclusion & Belonging is fundamental to the success of GitLab. We include it in every
+way possible and in all that we do.
+Diversity, Inclusion & Belonging at GitLab
+Diversity, Inclusion & Belonging is fundamental to the success of GitLab. We include it in every
+way possible and in all that we do. We strive for a transparent environment where all globally
+dispersed voices are heard and welcomed. We strive for an environment where people can show
+up as their full selves each day and can contribute to their best ability. And with over 100,000
+organizations utilizing GitLab across the globe, we strive for a team that is representative of our
+users.
+Diversity, inclusion, and belonging are part of our Culture of Excellence, the foundation of our
+Operating Principles.
+And diversity in our leadership supports innovation, promotes better decision making and 
+improves financial results.
+GitLab’s Diversity Inclusion and Belonging Mission
+Mission:We create spaces where everyone belongs and deliver programs so that everyone can
+contribute.
+At GitLab, Diversity, Inclusion & Belonging (DIB) is fundamental to our success. We are building
+an environment where everyone can thrive and contribute through three strategic pillars:
+Pillar 1: Empowering our people
+Growing our talent & their experience through comprehensive learning and
+development programs
+Equipping team members with skills-based learning, career mobility resources, and
+tailored learning journeys
+Supporting TMRGs (Team Member Resource Groups) and TMAGs (Team Member
+Advocacy Groups)
+Implementing leadership development through our Elevate programs
+Pillar 2: Uplifting our communities
+Engaging with external communities through strategic partnerships and sponsorships
+Supporting DIB-focused events like Women of Silicon Roundabout, Black Techfest, and
+Grace Hopper Celebration
+Giving back through volunteer opportunities and nonprofit donations
+Advancing our mission through the GitLab Foundation
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

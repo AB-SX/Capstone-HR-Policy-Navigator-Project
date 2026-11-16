@@ -1,0 +1,135 @@
+Social learning features including channels, groups, and collaborative learning
+Getting Started with LevelUp
+How to Access LevelUp
+Access LevelUp through Okta by searching for the “LevelUp” tile. Once you log in, you’ll see your
+personalized learning dashboard with recommended content, assigned training, and learning
+paths relevant to your role.
+Mobile Access
+You can access LevelUp on your mobile device by downloading the Cornerstone mobile app
+(search “Cornerstone Galaxy” in the App Store or Google Play). This allows you to complete
+learning assignments, browse courses, and discover new content from anywhere.
+For detailed instructions on setting up mobile access, including Okta Verify prerequisites, see our 
+Mobile Access Guide.
+Your Learning Dashboard
+When you log into LevelUp, you’ll find:
+Assigned Learning - Training courses and content assigned to you by your manager or
+required by the company (e.g., compliance training)
+Recommended for You - Content suggestions based on your role, skills, and interests
+In Progress - Learning you’ve started but haven’t completed yet
+Channels - Topic-based collections you can follow to discover new content
+Groups - Communities organized around teams, departments, or shared interests
+Content in LevelUp
+Content Partners and Integrations
+LevelUp integrates with several content partners to provide you with a wide range of learning
+resources:
+O’Reilly - Technical books, videos, and learning paths
+Hone - Live training and coaching sessions, including our Elevate leadership program
+Masterclass - Expert-taught courses on leadership, creativity, and more
+Google Cloud Skills Boost - Hands-on Google Cloud training with labs and certifications
+To request access to any of these platforms, use Lumos or contact the Talent Development team
+in #learninganddevelopment.
+Finding Content
+Use the search bar to find specific courses, or browse by:
+Skills - Find content that develops specific competencies
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Topics - Explore content organized by subject area
+Content Type - Filter by videos, articles, courses, live events, etc.
+Level - Choose Beginner, Foundation, or Advanced content
+Creating Content in LevelUp
+There are several ways to create and share learning content in LevelUp:
+Third-party integrations - Content from partners like Hone, Masterclass, etc.
+Native content creation - Build content directly in LevelUp using SmartCards,
+Pathways, and Journeys
+Articulate Rise courses - Professional e-learning built in collaboration with the Talent
+Development team
+When to Use Each Approach
+Method Best For Complexity
+SmartCards Quick, simple content sharing; linking to existing resources Low
+Pathways Curated collections of related content; structured learning programs Medium
+Journeys Complex, multi-phase learning experiences; leadership programs High
+Articulate
+Rise
+Formal courses with completion tracking; large group assignments;
+interactive e-learning
+High
+Creating content natively in LevelUp
+LevelUp allows you to create content directly within the platform using three main content types: 
+SmartCards, Pathways, and Journeys.
+SmartCards
+SmartCards are individual pieces of content that form the foundation of learning in LevelUp.
+They’re ideal for sharing a single resource, article, video, or quick learning activity.
+Types of SmartCards: Web URL, Uploaded Content, Text Card, Poll, Quiz, Live Event, Project, and
+SCORM File (for full completion tracking).
+How to Create a SmartCard
+Click More > Tools > Manage Content > SmartCard
+Choose the type of SmartCard you want to create
+Fill in the required information:
+* Title - Clear, descriptive name (tip: use AI “Rewrite it for me” feature)
+* Description - Explain what learners will gain
+* Upload/Link - Add your file or URL
+* Skills, Tags, Level, Duration, Content Type - Help others find your content
+• 
+• 
+• 
+1. 
+2. 
+3. 
+1. 
+2. 
+3.
+
+Set Privacy Settings (Public or Private)
+Click Create Card to publish, or Save as Draft
+Best Practices: Keep titles specific, write descriptions that answer “What will I learn?” and “Why
+does this matter?”, tag skills accurately, and estimate duration realistically.
+Pathways
+A Pathway is a curated collection of SmartCards organized around a specific topic or learning goal
+- like an onboarding program, certification course, or skill development track. Use Pathways to
+combine multiple pieces of content in a logical sequence, mix different content types, and award
+badges upon completion.
+Note: You’ll need permissions from the Learning and Development team to create Pathways.
+Request access in #learninganddevelopment.
+How to Create a Pathway
+Click More > Tools > Manage Content > Pathway
+Enter your Pathway details (title, description, thumbnail, skills, tags, level, provider,
+optional badge)
+Click Continue
+Add content:
+* Search for existing SmartCards or create new ones (note: SmartCards created within a
+Pathway can’t be reused elsewhere)
+* Use Dynamic Pathway to auto-generate up to 10 relevant SmartCards
+* Drag and drop to reorder, mark cards as optional (at least one must be required)
+Save as Draft or Publish
+Best Practices: Start with foundational content and build to advanced topics, mix content types
+(videos, articles, quizzes), and include knowledge checks at key points.
+Journeys
+Journeys combine multiple Pathways and SmartCards into comprehensive, multi-phase learning
+experiences organized into sections. Use Journeys for complex, long-term programs like
+leadership development or certification tracks.
+Note: You’ll need permissions from the Learning and Development team to create Journeys.
+Request access in #learninganddevelopment.
+Types of Journeys:
+Self-Paced - All sections accessible immediately
+Progressive Unlocking - Complete one section to unlock the next
+Time-Based - Content released on a schedule over 1-12 weeks
+4. 
+5. 
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+• 
+•

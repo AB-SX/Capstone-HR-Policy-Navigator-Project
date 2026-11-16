@@ -1,0 +1,150 @@
+Demotions
+Demotions are not always considered a step backwards. It may be an opportunity for a team
+member to acquire new skills or to move to a role that more closely aligns with their area of
+interest. To demote one of your direct reports, a manager should follow the following steps:
+If the demotion is due to performance, the manager should discuss any performance
+issues or possible demotions with Team Member Relations.
+Demotions should also include a review of compensation and equity in the google doc.
+Managers should consult with Total Rewards team on these topics.
+Once agreement is reached on the demotion and changes (if any) in Team will act as the
+point of escalation to have any demotion reviewed and approved by the Compensation
+Group once the relevant google doc is complete.
+Once approved, the manager informs the individual and should request the necessary
+changes by submitting a request via Compass. A Job Change Letter will then be created.
+The People Operations team should then follow the process listed under the For People
+Operations Team: Processing Promotions & Compensation Changes.
+Communication should be on a need-to-know basis only and should not be made public
+out of respect for the individual.
+The manager will initiate any necessary access requests or access change requests.
+Job Title Specialty Changes
+Job title specialties are used to indicate a stage, group and/or a specific focus area of the team
+member within their responsibilities. These specialties are not part of the job title, but are used to
+feed into reporting around stage, group and/or focus area investments. It is also a resource for
+the People Group and leaders to leverage to review organizational health metrics and ratios.
+If any changes are required to a team members Job Title Speciality, the manager should
+create a Compass case for the People Operations team with the new job title specialty
+information along with the effective date of the change (select Data Correction). If a new
+Job Title Specialty that does not already exist needs to be created, please open an issue to
+get it created in Workday using the Workday: Job Title Specialty Request template. It is an
+important manager responsibility to ensure this field remains accurate in Workday.
+Job Title Specialty Guidance For Managers
+Different departments at GitLab manage job title specialties in different ways. Below, we have
+outlined guidance for certain departments to document how they think through job title
+specialties to ensure a consistent approach.
+To easily access a report for what current job title specialties are for your team, you can follow
+these steps:
+Log into Workday
+Type “My Team Job Title Specialties” in the search bar
+Click “OK” for your organization
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+For Development and Infrastructure departments
+Who should have a specialty:
+ICs: Should have Stage and/or primary group (if applicable)
+People Mgrs: Managers, Senior Engineering Managers, and Group Product Managers
+managing ICs should have Stage and/or primary group (if applicable)
+When requesting a job title specialty update, please follow the following formatting:
+Review Product/Categories and make sure the group names you use match these. If
+they don’t, please connect with your Product Manager to confirm and work with them to
+update if needed.
+Add both stage and group in the job title specialty field
+Example: Add “Govern: Authentication” instead of “Authentication”
+Important: Please ensure that you leave a space after the colon (:)
+between stage and group.. For example, Create: Source Code is correct
+formatting, and Create:Source Code is incorrect formatting. This helps ensure
+that when pulling reports we have accurate counts for investment alignment.
+Review each person and make sure it only lists one group.
+Note: In situations where there are two groups, pick the primary group.
+Ensure all specialty information is in the Job Title Specialty field as opposed to the Job
+Title Specialty (Multi-Select) field.
+For Customer Support department
+Who should have a specialty:
+ICs: Indicate the focus of the role being Global, Federal or Readiness (if applicable)
+People Managers: Managers and Senior Managers to indicate the primary focus of their
+role (if applicable).
+Note: For Support it’s not tied to stage, group but rather the focus of the role that is not captured
+in the Job title.
+When requesting a job title specialty update, please make sure to use any of the below
+focus areas when reaching out to People Operations:
+Global
+Federal
+Readiness
+Manager Self-Service in Workday: Job Information Change
+Job information changes are used to update any information on the team member’s profile in
+Workday that is not compensation related. The current manager submits all job information
+change requests (including requests to change team member’s manager). These changes are
+required through Workday to have an approval trail for compliance reasons.
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+For Current Manager: Processing Manager Changes
+This job aid will help provide people managers with instructions on how to move team members
+to another manager within Workday. If the manager you need to move your direct report to is
+not available, it likely means they do not have a “supervisory organization” created. Even if their
+management level shows “Manager” a supervisory organization is needed in Workday for a team
+member to have a direct report. Supervisory organizations should have a name unique to the
+team they are managing (e.g. Commercial Sales - EMEA, Content Marketing (John Smith),
+Backend Engineering - Ruby). Please reach out to the People Operations team via Compass with
+the name of the team member who needs the supervisory organization set up, the unique name,
+and the effective date of the supervisory organization. We can gladly help set it up in Workday.
+Note for Sales Managers: If team members are not moved under the correct sales manager in
+Workday, credits will not be rolled-up to the correct manager for sales commissions. See
+additional promotion and transfer considerations for commissionable roles here.
+For People Operations: Processing Manager changes
+The People Operations Specialist logs into Workday via Okta to approve the transfer in
+Workday > click on Inbox in top right corner
+Review the business process titled ‘Transfer’ and reason ‘Manager to Another Manager’
+> click: approve
+Process for EBA to update senior leadership:
+Create a case in Compass for the People Operations team requesting the changes to be
+made in Workday and provide an effective date.
+The People Operations Team will process the changes in Workday.
+Once complete, the team will follow-up with the EBA to let them know all changes have
+been made.
+The EBA will then need to make the changes on the Team Page.
+For People Operations: Processing Job Information Change Requests
+Audit all job change requests and ensure the changes are captured in the Payroll tracker.
+In case of Job Title Specialty change requests, managers will reach out to the People
+Operations Team Compass to have a team members Speciality updated in Workday.
+* The People Operations Team member should check whether the title already exists in
+Workday. If not, check whether the Job Speciality has been added to the respective
+departments Handbook page (example: https://handbook.gitlab.com/handbook/
+engineering/ai/search/ or if the People Operations Team members are tagged in a
+respective issue to have it added. If unclear, reach out to the respective People Business
+Partner).
+Department Transfers
+If you are interested in applying for an open role, please do so through Greenhouse or the
+internal job board, link found on the #new-vacancies Slack channel.
+1. 
+2. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2.

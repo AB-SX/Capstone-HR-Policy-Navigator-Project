@@ -1,0 +1,94 @@
+is attending the meeting, an Glean Executive Briefing Doc or Executive Briefing Doc
+(internal link) will also be required (see the next section for more details on engaging
+with an e-group member).
+Customer Calls with GitLab Executives
+Occasionally, a GitLab executive (VP or C-level) will meet with a customer, for example, as part of
+an executive briefing, escalation, etc. Please review the EBA handbook page on guidance on how
+to schedule with these executives, specifically the section on customer, prospect, and partner
+meetings with an E-Group member. For each call with an executive, the account team must reach
+out to the EBA with a completed Executive Briefing Document (linked on the EBA page) at least
+one week in advance of the customer call, in addition to any materials that will be used or
+referenced during the call. The account team should also offer to do a prep call with the executive
+prior to the customer call. Below are some tips on preparation to ensure a positive experience:
+Work on the prep doc and call resources with your account team.
+Be as thorough as possible about your customer’s details (e.g. ARR, # of users, tier,
+renewal date, stages in use)
+Answer the 5 W’s (who, what, where, when, why) of the meeting and what should be the
+outcome of the meeting.
+* Make sure that we detail both what GitLab wants out of the meeting and what the
+customer wants out of the meeting. This is a collaborative partnership that benefits both
+parties.
+Be prepared in advance of what you want the E-Group member to do, say, and ask.
+Have an agenda for the customer call and ensure everyone knows what they’re
+supposed to do (who will speak when and about what).
+Add any topics to the briefing document you think the customer may bring up (positive
+or negative) and advice on how to approach it.
+Provide links wherever possible in the briefing document (e.g. documentation, feature
+requests, blockers, etc.).
+Disengaging with a customer
+There are situations when a CSM needs to disengage with a customer. Examples include:
+A customer downgrades or churns and is below the CSM alignment threshold
+A CSM has been engaged with a customer below the CSM alignment threshold for a
+strategic purpose such as a tier upgrade that was unsuccessful
+When this happens, it is important to manage the disengagement so that the customer
+understands the reason, and is clear on who they should communicate with going forward. Here
+are some recommendations for how to have this conversation:
+Do it in person (or face-to-face via Zoom), and include the SAE/AE since they will retain
+the relationship.
+Be honest about the reason. Each situation will be different, and it’s a good idea to talk it
+over with your manager.
+Go over their options for assistance going forward (below).
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+• 
+• 
+•
+
+Send a follow-up that summarizes what was discussed, including their assistance
+options.
+Recommended options to review with the customer include:
+Troubleshooting, errors, outages, and basic “how to” technical questions should go to
+Support.
+Complex “how to” and workflow advice should be sent in writing to the SAE/AE. Doing it
+in writing lets them work with the whole of Customer Success asynchronously to get the
+best solution.
+If disengagement is due to the customer downgrading/churning, identify the features
+they will lose access to with the feature comparison page.
+Online resources such as the GitLab documentation, blog, YouTube channels, 
+community forum and other relevant materials that they can for self-serve guidance.
+Customer Personas
+Customer Success Managers focus on helping customers achieve business outcomes by advising
+and enabling customers on usage of GitLab features. We are able to do this most effectively when
+we are engaged with customer personas who are responsible for the capabilities that GitLab
+provides.
+We have defined two key personas that CSMs should regularly engage with and align on
+outcomes and use cases:
+Development Lead
+A member of the customer’s development or engineering department, in a leadership role. This
+person is aware of and/or responsible for delivering on customer business objectives related to
+the customer’s software production. They are able to speak to development workflows, and SDLC
+and DevOps practices and challenges.
+Software Security Lead
+Has responsibility for the security of the software the customer develops. This person is able to
+speak to business requirements, objectives, compliance frameworks, etc. that the customer has
+related to the software they produce. They have knowledge of (and possibly own) the customer’s
+current security scanning & management tools.
+Persona Enablement
+We have role-play scenarios to practice identifying and gaining access to the defined personas.
+Capturing customer personas in Gainsight
+Customer personas are attributed to individual contacts in Gainsight when viewing an account.
+To capture a customer persona, use the following steps:
+Inside of the account view, click the Contacts link on the left.
+• 
+• 
+• 
+• 
+• 
+1.

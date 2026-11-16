@@ -1,0 +1,143 @@
+Cancel, move, or find coverage for any meetings you organize.
+If you are an interviewer, review your calendar to address any scheduled interviews.
+Please review this handbook page and work with the recruiter and CES partner to
+reschedule or find a replacement interviewer.
+Knowledge Transfer and Work Continuity
+Documentation and Iteration
+Documentation and Iteration
+Document your knowledge and share it with others to help prevent Key-person-risk. This
+is especially true for “subject matter experts” or SME, people with specialized knowledge
+of a project, tool, or subject.
+Create and share a Google Doc listing all important projects/customer interactions with
+relevant details:
+Assign a covering team member for each project/customer.
+Specify which calls/meetings require attendance during your absence.
+Highlight high-priority topics and relevant issues.
+Include a section for comments by covering team members.
+Documentation Tips
+Documentation Tips
+Use symbols (e.g., ✅, ❗️) to help others quickly identify important entries.
+Don’t rely solely on color coding, as this may create accessibility issues for people with
+color blindness.
+Share documentation during team calls and asynchronously in Slack ahead of your
+absence to allow team members to review and ask clarifying questions.
+Work Transition
+Work Transition
+Designate a backup individual for emergencies and brief them on key projects.
+Transition and reassign in-progress work to another team member whenever possible.
+Practice asynchronous communication by documenting decisions and updates in issues
+rather than relying on synchronous handoffs.
+On-Call Coverage
+Please see the On-Call page for information on how to handle scheduled leave for someone from
+the On-Call team.
+Summary of Best Practices: Results-Focused Approach
+Share PTO plans 2-3 weeks in advance or more when possible
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+For global remote teams, coordinate with others to ensure adequate coverage during
+busy periods and ensure that your team is able to cover your workload while you are
+away by providing documentation and transition plans in advance
+Give team members advance notice at least twice as many days as your planned time off
+Remember that at GitLab, we measure results, not hours—taking time to recharge is
+essential to doing your best work
+Communicating Unplanned Time Away
+Unplanned time away encompasses various situations that require immediate or unexpected
+absence from work, including illness, bereavement, emergencies, or other unforeseen
+circumstances.
+If an unexpected emergency occurs please contact your manager via Slack or email as soon as
+possible if you will be unavailable or unable to work. This will allow your manager to confirm your
+safety and reassign any critical work during your absence. Please make sure you’ve added at least
+one emergency contact in Workday. We will only contact your emergency contact if we are unable
+to reach you via Slack, email or phone.
+After notifying your manager, and as soon as reasonably practicable, please ensure you have:
+Entered your time off in Workday. If you aren’t sure how to classify your time-off within
+Workday (i.e. Out Sick, Bereavement, Emergency Leave), please reach out to the Absence
+Management team.
+Update your Slack and Google Calendar. If you have the Time Off by Deel integration this
+should occur automatically after entering your time into Workday. Note: the OOO event
+will not auto-decline your meetings.
+Set an out-of-office automated Gmail response including your away dates and identify
+someone to contact in your absence.
+Types of Unplanned Time Away
+Types of Unplanned Time Away
+Please click on each of the time-off types listed below for more information.
+Sick Time Policy
+Bereavement Policy
+Emergency Leave Policy
+Manager Responsibilities
+Manager Responsibilities
+If a team member has contacted you with an unexpected or emergency situation, you should:
+Confirm their safety and offer support
+Develop communication strategy with the team member
+Reassign or develop a coverage plan for the team member’s work as appropriate
+• 
+• 
+• 
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+1. 
+2. 
+3.
+
+For more information about manager’s responsibilities related to absence management, please
+visit the Manager Toolkit for Absence!
+Workday: Single Source of Truth for Absence
+Overview
+All team members and managers (including those employed under a PEO and independent
+contractors) must log time away requests (PTO, Public Holiday, Out Sick, etc.) in Workday.
+Workday and Workday Slack are the primary systems for all time away management. While
+integration with Time Off by Deel continues, all data flows from Workday to Deel.
+It’s expected that you provide your manager and team members who may expect to work with
+you with as much advance notice as possible about your planned time off. When requesting paid
+time off, provide at least twice as many days of advance notice as the duration of your planned
+absence. For example, a 3-day absence requires at least 6 business days of advance notice.
+For Workday questions, please use the Compass portal.
+Key Features
+Workday to Time Off by Deel Integration
+Workday to Time Off by Deel Integration
+Google Calendar Sync: Time away entries flow into Time Off by Deel and sync with your Google
+Calendar.
+Calendar invites are sent to managers to track team absences (based on calendar dates,
+not adjusted for timezones).
+Managers can decline and manually create correct calendar entries without affecting the
+time off request.
+More information is available on the Team PTO Calendar handbook page.
+Time Off by Deel Features
+Time Off by Deel Features
+Automatic Status Updates: Sets OOO status in Slack and activates “Do Not Disturb”
+settings (requires individual permission setup).
+Important: This will not auto-decline all meetings on your Google Calendar.
+Roles and Task Handoffs: Assign responsibilities to co-workers during absence.
+Accepted roles appear in Slack away messages.
+Important: Request permission before assigning a #channel to a role to avoid creating
+excessive notifications.
+Monthly PTO Reminders: Optional subscription to monthly prompts encouraging you
+to plan time off.
+Sent on the first working day of each month.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

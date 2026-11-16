@@ -1,0 +1,136 @@
+the team member is due a refresh. The team member’s existing laptop should be
+disposed of at the originating entity prior to relocation.
+Germany
+Relocating to Germany
+Once approvals from all stakeholders (including manager) has been received, the next step where
+a team member is relocating to Germany would be to get approval from the German Works
+Council. The People Operations Specialist should complete the following:
+Make a copy of the Works Council New Hire Checklist - Germany (Relocations) document
+and complete all information regarding the relocation.
+Upon info has been completed, the People Operations Specialist should create a
+Compass child case for Emma Tate requesting Works Council approval. Share a copy of
+the document you created with Emma Tate (PBP). They will work to get the approvals
+and update in the Compass case once done.
+Once Works Council approval is received, the People Operations Specialist can proceed with:
+From 1 January 2025, certain employee documents in Germany can be issued via
+DocuSign and will no longer require a wet ink signature. An employment contract for a
+team member relocating to Germany can be issued through DocuSign.
+Review current onboarding tasks for Germany.
+Relocating from Germany
+Relocation Contract and Mutual Termination Agreement Process for Germany
+The requirement for a wet ink signature in Germany, although removed for certain employment
+documents, will still apply to termination documents in order for them to be valid. If a team
+member is relocating from Germany resignation letter or a Mutual Termination Agreement (MTA)
+must be wet ink signed by an authorised signatory for the German entity.
+Once a Mutual Termination Agreement (MTA) has been created by the People Operations Team
+member, next steps are to stage the documents in DocuSign, while also sending the documents
+to an authorised signatory for the German entity to have them physically sign and mail the
+documents.
+Stage the documents for signature in DocuSign. This document will be sent to the
+Signatory first and then to the team member.
+Once signed, save the file into the team members Workday profile.
+2. Reach out to legal, employment for support with selecting a signatory and starting
+the process for having the documents physically signed and mailed by both the
+signatory and the team member.
+• 
+• 
+1. 
+2. 
+• 
+1. 
+•
+
+Open the saved unsigned contract, confirm the GitLab signatory (once decided) is in the
+required places:
+Summary Key of Terms - Delete the GitLab Signatory’s name and leave the
+field
+blank.
+Scroll down to the end of the contract - replace Signatory’s name with
+“GitLab Signatory”. Save
+the contract as a PDF format.
+In the body of an email, you will need to explain the below steps for the process.
+To (recipients)- Designated GitLab signatory & Team member’s GitLab email
+address
+Subject line : Please Send Physical Contract for “Name of the team member”
+Attachment : attach the unsigned PDF contract
+1. The Designated GitLab signatory will need to print two copies of the
+document. They will need to sign both of the copies, and then mail them to the
+team member. Please include the address and phone number of the team
+member in the email.
+2. Once the team member receives the documents in the mail, they will keep
+one copy and then will need to sign and send the other copy to the signatory or
+to the address requested. Please include the return mailing address in the
+email.
+The postage fees can be submitted for reimbursement. Please also include that
+information in the email.
+It is also best practice to recommend in the email that both parties confirm that they
+have mailed the document.
+Once the designated signatory receives the signed documents (signed by both parties),
+they should also send a scanned copy of the signed documents to the People
+Operations team - please also include that request in the email. This document will need
+to be saved in the team member’s Workday profile.
+Canada
+Relocating between Quebec and Non-Quebec
+The People Operations Team member creates the applicable Employment Agreement
+due to the contractual differences of the provinces.
+The People Operations Team member adds the following details to the contract:
+* Start Date: add effective date of relocation
+* Add this line underneath the start date at the top: “Continuous Service Date: add
+original hire date”
+* Add this sentence to the section above 1. Position: “Your continuity of service for all
+employment purposes begins on the add original hire date: YYYY-MM-DD”
+• 
+1. 
+2. 
+• 
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+1. 
+2.
+
+Spain
+Relocating to Spain
+Before choosing a template or creating a contract, the People Operations Lead should
+reach out to legal-employment@gitlab.com with the details of the role the relocating
+team member has for support with classification of the role under the applicable CBA.
+The clasification will determine the choice of template used for creating a contract.
+If the relocating team member does not yet have an address or NIE in Spain, legal,
+employment can provide a separate template for use (once the role has been classified).
+South Korea, France or Singapore
+Relocating to South Korea
+The People Operations Lead shares the relocation contract with 
+gitlabHRSS@globalupside.com. Global Upside then sends an Egnyte (payroll platform)
+login invitation email to the relocating team member.
+Relocating to France
+France requires contracts to be individually drafted by the Legal team.
+Team member relocating to France will also receive an invite to Mihi (time tracking)
+If a team member relocating to France is an expatriate who has not been a French tax
+resident for the 5 calendar years before the calendar year during which they relocate,
+and they wish to assess their eligibility for the impatriate tax regime, they must let
+People Operations know three months in advance that they will be undertaking the
+assessment. The People Operations team can reach out to legal-
+employment@gitlab.com for support with appropriate contract language once the
+relocating team member confirms their eligibility. Note that eligibility is a complex tax
+matter and the relocating team member should check with their personal tax advisor.
+Relocating from France
+The relocating team member needs to resign from GitLab France S.A.S. with a notice
+date effective one day before the start date of their new contract. Please email the
+resignation letter to legal-employment@gitlab.com and also upload the resignation
+letter to your Workday profile. This is required to process your exit in France while you
+are simultaneously onboarded in the new country.
+Once the resignation letter has been emailed to legal-employment@gitlab.com and
+uploaded to Workday, the People Operations team member will share this letter with
+the team member relocating away from France for e-signature via DocuSign as soon as
+possible (and at least within 7 days) in order to waive the balance of the notice period
+1. 
+2. 
+1. 
+1. 
+2. 
+3. 
+1. 
+2.

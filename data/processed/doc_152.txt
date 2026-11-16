@@ -1,0 +1,243 @@
+Category of Personal
+Data
+Third-Party Source
+• Corporate Security and IT administrators • Application providers • Security
+researchers • Government agencies
+How Do We Collect Information Regarding Your Family or Other
+Third-Parties?
+As noted above, you may be required to provide us personal data regarding your dependents and
+other family members so that we may administer Team Member benefits and contact your next-
+of-kin in the case of an emergency. Before you provide such third-party personal data to us, you
+must first inform these third-parties of any such data which you intend to provide us and the
+processing to be carried out by us. If these third-parties want to know more information about
+why their data is being shared with us, please direct them to this Privacy Policy or provide them
+with our contact information at dpo@gitlab.com.
+How Do We Process and Use Your Personal Data?
+We may collect and process your personal data in our systems for the various purposes stated in
+the table below. For Team Members in jurisdictions subject to the GDPR or otherwise require us
+to attribute the processing of your personal data to a statutorily enumerated legal basis, you will
+also find that information in the table below.
+These legal bases include the following:
+Performance of the employment contract or other active contract where GitLab is a
+party
+Legal obligations that GitLab must comply with
+Consent from the Team Member, where required by applicable law
+Legitimate business interests of GitLab where such interests are not overridden by the
+interests or fundamental rights and freedoms of Team Members
+Where applicable, we will process your personal data subject to local laws and any applicable
+collective bargaining agreements, labor management agreements, or works council agreements.
+Purpose of Processing Categories of Personal Data Legal Basis
+Identity verification • Contact information • Personal identifiers • Performance of the
+employment contract •
+Legal obligation
+Remuneration and
+benefits administration
+• Contact information • Personal identifiers •
+Household data • Employment qualifications •
+Performance and Team Member relations data •
+Payroll and benefits data
+• Performance of the
+employment contract •
+Legal obligation
+Occupational health and
+workplace 
+accommodations
+• Contact information • Personal identifiers •
+Operational data • Payroll and benefits data •
+Regulatory and compliance data
+• Performance of the
+employment contract •
+Legal obligation •
+Consent
+• 
+• 
+• 
+•
+
+Purpose of Processing Categories of Personal Data Legal Basis
+Business analytics and
+workforce planning
+• Contact information • Operational data •
+Performance and Team Member relations data
+• Performance of the
+employment contract •
+Legal obligation •
+Legitimate interests •
+Consent
+Sales management and
+strategy
+• Contact information • Communications data •
+Performance and Team Member relations data
+• Performance of the
+employment contract •
+Legitimate interests •
+Consent
+Facilitating internal
+communications
+• Contact information • Personal identifiers •
+Systems administration data • Communications
+data • Employment qualifications
+• Performance of the
+employment contract •
+Legitimate interests
+Paid time off, sick leave
+and other absence
+calculations
+• Contact information • Personal identifiers •
+Household data • Payroll and benefits data •
+Regulatory and compliance data
+• Performance of the
+employment contract •
+Legal obligation
+Enterprise application
+security and access
+• Systems administration data • Communications
+data • Workplace safety data
+• Performance of the
+employment contract •
+Legal obligation •
+Legitimate interests •
+Consent
+Personnel file
+management
+• Contact information • Personal identifiers •
+Communications data • Employment qualifications
+• Performance and Team Member relations data •
+Payroll and benefits data • Regulatory and
+compliance data
+• Performance of the
+employment contract •
+Legal obligation
+Training and learning
+opportunities
+• Contact information • Performance and Team
+Member relations data • Regulatory and
+compliance data
+• Legal obligation •
+Legitimate interests
+Tax reporting and
+withholding obligations
+• Payroll and benefits data • Regulatory and
+compliance data
+• Legal obligation
+Schedules and
+calendaring
+• Contact information • Communications data • Performance of the
+employment contract •
+Legitimate interests
+Compensation
+benchmarking
+• Personal identifiers • Operational data •
+Employment qualifications • Payroll and benefits
+data • Regulatory and compliance data
+• Legal obligation •
+Legitimate interests
+Company surveys • Personal identifiers • Operational data • Legitimate interests
+Performance
+management, internal
+investigations, and
+disciplinary procedures
+• Contact information • Employment qualifications •
+Performance and Team Member relations data •
+Payroll and benefits data • Workplace safety data
+• Performance of the
+employment contract •
+Legal obligation •
+Legitimate interests
+Company handbook and
+policy updates
+• Contact information • Communications data •
+Systems administration data • Regulatory and
+compliance data
+• Legal obligation •
+Legitimate interests
+
+Purpose of Processing Categories of Personal Data Legal Basis
+Events coordination • Contact information • Personal identifiers •
+Communications data
+• Performance of the
+employment contract •
+Legitimate interests •
+Consent
+Social security and
+retirement contributions
+• Contact information • Personal identifiers •
+Household data • Payroll and benefits data
+• Performance of the
+employment contract •
+Legal obligation
+Promotions and growth
+plans
+• Communications data • Performance and Team
+Member relations data
+• Legitimate interests •
+Consent
+Team Member safety,
+travel assistance, and
+disaster planning
+• Contact information • Personal identifiers •
+Household data • Communications data •
+Workplace safety data
+• Legal obligation •
+Legitimate interests
+Diversity programs and
+equal opportunity
+monitoring
+• Personal identifiers • Operational data •
+Regulatory compliance data
+• Legal obligation •
+Consent
+IT management, network
+monitoring, device
+backups, and application
+testing
+• Communications data • Systems administration
+data • Workplace safety data
+• Legal obligation •
+Legitimate interests •
+Consent
+Requests from public
+authorities
+• Contact information • Personal identifiers •
+Household data • Communications data • Systems
+administration data • Employment qualifications •
+Performance and Team Member relations data •
+Payroll and benefits data • Regulatory and
+compliance data • Workplace safety data
+• Legal obligation
+Protection of intellectual
+property and work
+product
+• Systems administration data • Regulatory and
+compliance data • Workplace safety data
+• Legal obligation •
+Legitimate interests
+Litigation and legal
+claims
+• Contact information • Personal identifiers •
+Household data • Communications data • Systems
+administration data • Employment qualifications •
+Performance and Team Member relations data •
+Payroll and benefits data • Regulatory and
+compliance data • Workplace safety data
+• Legal obligation •
+Legitimate interests
+Marketing and publicity
+materials
+• Contact information • Personal identifiers •
+Employment qualifications
+• Legitimate interests •
+Consent
+Social media content and
+external communications
+• Contact information • Personal identifiers •
+Employment qualifications
+• Legitimate interests •
+Consent
+Artificial intelligence
+adoption and efficiency
+reports
+• Systems administration data • Legitimate interests
+Where consent is the legal basis for the processing of your personal data, such as the direct
+collection of sensitive personal data, you may withdraw your consent at any time by contacting
+GitLab’s People Operations Team at people_operations@gitlab.com and the Privacy Team at

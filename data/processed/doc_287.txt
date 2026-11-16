@@ -1,0 +1,41 @@
+Enable Location Services.12.
+
+Set up Touch ID when prompted.
+Once you land at the desktop, GitLab’s onboarding app (Exit0) opens the Set up your
+Mac window. Click Start setup, or wait 10 seconds for it to start on its own. It installs
+your core apps (Google Chrome, Slack, etc.), applies required settings, and verifies
+security compliance before use.
+When the You’re all set! screen appears, setup is finished. If FileVault full disk
+encryption is already enabled, your Mac is ready to use. If FileVault is not enabled, you
+will be prompted to restart the Mac in order to enable it. Click Restart or wait for the 60-
+second countdown, then log back in with your local Mac account password.
+If setup stops or shows an error, email it-help@gitlab.com from your personal email address.
+Manual Mac Setup
+Manual enrollment is only for Macs that cannot use automated enrollment, such as a Mac that
+was not purchased through GitLab’s authorized vendors. Manually enrolling Macs should be a
+last resort and is not considered a standard process. If you live in a country where GitLab is not
+able to ship a Mac to you, email it-help@gitlab.com to confirm it’s the right option.
+Before you begin, make sure your Mac is running macOS 15 or later and you can sign in to it with
+an administrator account.
+Email it-help@gitlab.com and ask for access to manual Mac enrollment. IT adds you to
+the Okta group for manual enrollment and lets you know when it’s done.
+On your Mac, open Safari. Google Chrome isn’t installed yet.
+13. 
+14. 
+15. 
+1. 
+2.
+
+Sign in to the Okta dashboard.
+Click the Fleet macOS Manual Enrollment tile. It opens the Fleet enrollment page.
+Sign in to Okta again when prompted.
+On the How to turn on MDM on your Mac page, make sure Company-owned is
+selected, then click Download. If Safari asks to allow downloads, click Allow. When you
+see Profile Downloaded, click OK.
+Choose Apple menu > System Settings, then select General > Device Management.
+Double-click the GitLab enrollment profile.
+3. 
+4. 
+5. 
+6. 
+7.

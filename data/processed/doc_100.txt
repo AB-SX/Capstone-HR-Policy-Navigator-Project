@@ -1,0 +1,132 @@
+Phase Core Purpose Objective Sample Key Actions
+Broadcast narrative,
+invite dialogue,
+maintain transparency
+Anything) sessions at key milestones •
+Create targeted messages for different
+stakeholder groups
+06/Activate Launch change,
+secure early
+wins
+Execute rollout,
+capture quick wins
+• Implement pilot program or phased
+release • Conduct regular stand-ups to
+address emerging issues • Recognize and
+celebrate early adoption and successes
+07/Monitor Track signals,
+measure
+momentum
+Track metrics and
+sentiment to sustain
+momentum
+• Review performance dashboards on
+regular cadence • Conduct pulse surveys to
+gauge adoption and sentiment • Report
+progress to stakeholders transparently
+08/Adapt Embed change,
+continue to
+iterate
+Integrate
+improvements
+permanently and
+continue to iterate
+• Update handbook and standard
+operating procedures • Integrate change
+metrics into regular business reviews •
+Create feedback loops for ongoing
+refinement
+Key Framework Notes
+Leadership Engagement: Visible leadership is key to success on any large-scale transformation
+at GitLab. Team members look to leaders for cues on how to interpret change and what actions
+to take. Leadership drives team member engagement and adoption of change.
+Data-Driven Approach: The ultimate purpose of change management is to get team members
+to adopt the change and implement it in their day-to-day roles. Focus on user adoption and
+measure it regularly so we can adjust the communications and training approach.
+Continuous Feedback: Part of successful change management is creating a positive experience
+and sentiment for team members around large organizational changes. This means team
+members feel their feedback was heard, and they understand the positive impact of the change.
+BRIDGE Communication Framework
+The BRIDGE Framework is our structured approach to communicating change effectively. It
+ensures that all change communications acknowledge concerns, provide clarity, and encourage
+dialogue.
+The Five Elements of BRIDGE:
+B - Big Picture: Start by framing the change within the larger organizational context. Explain the
+“why” behind the decision, connecting it to company growth, market conditions, or strategic
+priorities. This helps people see beyond their immediate concerns to understand the broader
+rationale.
+R - Recognize the Reality: Acknowledge the current situation honestly and transparently.
+Validate concerns and emotions without minimizing them. Show that you understand this change
+may feel uncertain or challenging. Being authentic about the reality builds trust and credibility.
+
+I - Identify what’s Intact: Highlight the elements that remain stable - core values, strategic
+priorities, team objectives, or job security. This provides psychological safety by showing that not
+everything is in flux. People need anchors during change to feel grounded.
+D - Define what’s Different: Clearly articulate what will change, when it will happen, and how it
+affects different groups. Be specific about new processes, structures, or expectations. Clarity
+reduces anxiety and helps people prepare for the transition.
+G - Give the Go-Forward: Provide clear next steps, timelines, and expectations. Explain how the
+team will navigate the change together. Focus on actionable items and how success will be
+measured. This shifts the conversation from “what’s happening to us” to “what we’re doing next.”
+E - Encourage and Engage: Create space for questions, concerns, and input. Show confidence in
+the team’s ability to succeed while remaining open to feedback. Make it clear that dialogue is
+welcome and that you’re committed to supporting them through the transition.
+A Manager’s Role in Change Management
+Managers play a crucial role in change management success. They serve as the bridge between
+strategic vision and daily implementation, focusing on making business transitions successful by
+determining discrete steps and their sequence.
+Managers can be concentrated on implementing change effectively by:
+Translating Strategy: Breaking down high-level changes into actionable steps for their
+teams
+Maintaining Morale: Supporting team members through uncertainty and resistance
+Providing Feedback: Offering ground-truth insights from their teams to leadership
+Coaching Through Change: Helping individual team members adapt and succeed
+Balancing Priorities: Managing business-as-usual work alongside change initiatives
+By learning how to preempt and address challenges associated with change, managers ensure
+they are equipped with the skills and knowledge needed to manage transitions effectively.
+Getting Started with Change Management
+To prepare for GitLab transformations and changes:
+Assess Your Situation: What phase are you in? How much time do you have? Who are
+your key stakeholders? What’s your biggest risk?
+Create Your Essentials: Draft your From→To→Because statement, list top 5
+stakeholders, identify executive sponsor, choose communication channels
+Build Your Support: Meet with sponsor, identify change champions, schedule
+stakeholder conversations, create feedback mechanisms
+Apply the Framework: Use our 8-phase approach, implement BRIDGE communications,
+and iterate based on feedback
+Change management doesn’t stop once you’ve successfully executed the transition. Throughout
+and following the process, continuously assess outcomes, measure data, support team members
+with new methodologies and practices, and readjust goals as necessary to increase adoption.
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.
+
+Please contact the Learning & Development team if you would like more of an understanding of
+OCM and how to apply the methodology to a change/transformation at GitLab!
+Additional Resources on Organizational Change Management
+Change Management Primer (Slides) (Video)
+Change Management Toolkit
+BRIDGE Framework
+Change Template
+Change Management FAQ
+Understanding Resistance to Change
+Contact Us:
+Slack: #learninganddevelopment
+Last modified March 12, 2026: Delete comp calc page and change job grades to job levels
+(4dc3454d)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+•

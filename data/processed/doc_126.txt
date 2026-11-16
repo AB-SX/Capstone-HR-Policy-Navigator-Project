@@ -1,0 +1,125 @@
+8. What is the “workplace rule” defense?
+Under the “workplace rule” defense, a federal contractor can defend against a claim of
+discrimination by showing that it took adverse action against an team member for violating a
+consistently and uniformly applied company rule. The rule must not prohibit, or tend to prohibit,
+team members or applicants from discussing or disclosing their compensation or that of a co-
+worker or job applicant. Examples of “workplace rules” may include rules on the use of leave and
+the length of breaks.
+9. Does my employer have to tell me what other team members are being paid?
+No. Executive Order 11246 does not require employers to provide team members or job
+applicants with information on the pay of other team members or applicants.
+10. Who does OFCCP protect?
+OFCCP protects the rights of team members and job applicants of companies doing business with
+the US Federal Government. This includes team members at banks, information technology frms,
+meat packing plants, retail stores, manufacturing plants, accounting firms, and construction
+companies, among others.
+Filing a Complaint
+11. What can I do if I believe my employer discriminated against me because I asked about,
+discussed, or disclosed my pay or the pay of another team member or applicant?
+You can file a complaint with OFCCP. You do not need to know with certainty that your employer
+is a federal contractor or subcontractor to file a complaint.
+12. How do I file a complaint with OFCCP?
+You may file a discrimination complaint by:
+Completing and submitting a form online through OFCCP’s Web site;
+Completing a form in person at an OFCCP office; or
+Mailing, e-mailing or faxing a completed form to the OFCCP regional office that covers
+the location where the alleged discrimination occurred.
+The form is available online here and in paper format at all OFCCP offices. To find the office
+nearest you, visit the online listing of OFCCP offices.
+You must remember to sign your completed complaint form. If you fail to do so, OFCCP will still
+take your complaint but an OFCCP investigator will ask you to sign the form during a follow-up
+interview. Complaints alleging discrimination for discussing, disclosing, or inquiring about pay
+must be fled within 180 days from the date of the alleged discrimination, unless the time for fling
+is extended for good cause. The same 180-day time frame applies to complaints alleging
+discrimination based on race, color, religion, sex, sexual orientation, gender identity, or national
+origin.
+13. Can my employer fire, demote, or treat me less favorably because I filed a complaint?
+No. It is illegal for your employer to retaliate against you for filing a complaint or participating in
+an investigation. OFCCP’s regulations protect you from harassment, intimidation, threats,
+coercion, or retaliation for asserting your rights.
+14. Can I file a complaint with OFCCP and the Equal Employment Opportunity Commission
+(EEOC)?
+• 
+• 
+•
+
+Yes, if you fle with both OFCCP and EEOC, your complaint will be investigated by the appropriate
+agency. In some instances, OFCCP and EEOC may decide to work together to investigate your
+complaint. OFCCP generally keeps complaints filed against federal contractors that allege
+discrimination based on discussing, disclosing, or inquiring about pay. OFCCP also generally
+keeps complaints fled against federal contractors where there appears to be a pattern of
+discrimination that afects a group of team members or applicants, and those that allege
+discrimination based on a person’s sexual orientation or gender identity, disability, or protected
+veteran status.
+15. What will happen if there is a finding that I was a victim of employment discrimination?
+You may be entitled to a remedy that places you in the position you would have been in if the
+discrimination had never happened. You may be entitled to be hired, promoted, reinstated, or
+reassigned. You may also be entitled to receive back pay, front pay, a pay raise, or some
+combination of these remedies. In addition, if OFCCP finds that the federal contractor or
+subcontractor discriminated, OFCCP could seek to have the company debarred or removed from
+consideration for future federal contracts or have the company’s current contracts or contract
+modifications cancelled.
+For more information: The U.S. Department of Labor Office of Federal Contract Compliance
+Programs, 200 Constitution Avenue, NW Washington, D.C. 20210. 1-800-397-6251 TTY:
+1-877-889-5627 www.dol.gov/ofccp
+Infectious Disease Policy
+It is the goal of GitLab, Inc. during a period of an infectious disease outbreak or pandemic to
+maintain essential functions and services and provide a safe and healthy work environment for
+team members, customers/clients, vendors and the public. GitLab is committed to establishing
+methods for monitoring the severity and duration of an outbreak or pandemic, implementing
+measures to minimize exposure in the workplace and sustaining essential functions until the
+organization can resume normal operations.
+Communication
+People Operations will oversee the implementation of this policy and coordinate communications
+from management to team members and other stakeholders. Duties include:
+Monitoring and coordinating events and communications around an infectious disease
+outbreak or pandemic; and
+Creating work rules that could be implemented to promote safety through infection
+control.
+Oversight includes the maintenance of a current list of contacts including:
+Government agencies;
+Emergency response and healthcare facilities and services; and
+Equipment suppliers and service contractors who can or have agreed to assist during
+and after an outbreak or pandemic.
+• 
+• 
+• 
+• 
+•
+
+Safety and Health Measures
+GitLab will implement disease mitigation and protective measures for team members working
+onsite and offsite and for interactions with customers/clients, vendors and the public during the
+outbreak or pandemic. GitLab is committed to providing the most current and credible
+information about the disease, including the way it spreads, symptoms and measures to prevent
+its transmission.
+Health Monitoring
+All team members will be notified on how to self-monitor for symptoms and report to their
+supervisor/manager when they are ill or experience infectious disease symptoms.
+Rest When Sick
+Team members are urged not to report to work when they are feeling ill or are experiencing
+symptoms of an infectious disease. A team member who appears to exhibit infectious disease
+symptoms when reporting to work or who becomes sick during their time at work will be strongly
+encouraged to log off from work.
+If a team member is confirmed to have contracted an infectious disease, they may be eligible for
+additional leave after utilizing the Paid Time Off Policy. In the event that the sick leave provided
+under your local law is more generous than GitLab’s policy, then your local law would supersede
+this policy.
+Business Travel Restrictions
+GitLab will evaluate the risk of team member exposure to the infectious disease from business
+travel, and may restrict, cancel or ban business travel as necessary to minimize or prevent risk of
+infection. In making such determinations, consideration will be given to any travel bans or
+advisories issued by government agencies, including the U.S. Department of State and the CDC.
+Non-Essential Activities
+During an infectious disease outbreak or pandemic GitLab may postpone or cancel all
+nonessential activities, including meetings, gatherings and training sessions. Affected team
+members would be notified as soon as practicable.
+Attendance and Leave
+GitLab’s attendance policies will remain in place during an infectious disease outbreak or
+pandemic, unless otherwise notified. If a team member has a challenge (e.g., childcare issues in
+the event of a school closure), they should speak to their supervisor/manager to determine an
+alternative plan. Team members will be notified of any work schedule changes caused by an
+infectious disease outbreak or pandemic. Requests to adjust individual work schedules will be
+addressed on a case-by-case basis.
+If a team member is out of work because of exposure to an infectious disease, or other illness or
+condition recognized by federal, state or local law, the team member may be required to submit

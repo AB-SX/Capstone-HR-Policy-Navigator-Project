@@ -1,0 +1,147 @@
+They haven’t demonstrated interest in or capacity for the four growth potential pillars:
+Adaptability, Expandability, Consistency, and Self-Awareness
+Note: “Developing” growth potential does not reflect on current job performance. A team member
+can be “Exceeding” in performance while “Developing” in growth potential.
+Examples:
+A team member is recently promoted or is new to the company, and hasn’t had
+sufficient time to demonstrate the pillars of growth potential for a sustained period of
+time (and at the new level, if recently promoted)
+A team member has actively expressed that they do not have an interest in learning new
+skills or take on new projects. In a day-to-day they show self-awareness but they have
+not shown great adaptability, expandability and consistency to further expand on their
+role and responsibilities.
+Growing
+“Growing” growth potential generally refers to a team member who is growing in their current
+role and demonstrating interest in advancing (up or laterally) and they exhibit knowledge, skills,
+and abilities that indicate this. Team members with “growing” growth potential generally:
+Show interest in areas outside of their immediate scope occasionally
+Are comfortable in their current role
+Are a stable counterpart for other team members (especially for peers and more junior
+team members)
+Learn and apply new skills when the job calls for it; apply lessons learned to enhance
+success
+Example:
+A team member has demonstrated adaptability and expandability but has not been
+consistent in their results or self-awareness. This holds the team member back from
+growing to a higher level or taking on more complex responsibilities in their current
+role.
+Exceeding
+“Exceeding” growth potential generally indicates that a team member will be ready for promotion
+within the next year (or when an opportunity arises). “Exceeding” growth potential team
+members:
+Frequently seek involvement in stretch project/projects outside of their scope
+Invest in their development; seek feedback to improve and applies that feedback on the
+job
+Demonstrate ability to learn new skills
+Actively pursue increased opportunities to influence decisions and inspire others
+Example:
+A team member has consistently and proactively looked for opportunities to fill gaps
+and take on stretch projects. When another team member left the team, you leaned on
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+this team member to help keep projects moving forward until you found a suitable
+backfill. They regularly ask for feedback from peers and adapt their approach
+accordingly. This has given your team member skills beyond their current job
+requirements, and broader understanding of the business.
+Calibration
+The portion of the Performance/Growth Potential matrix that often entails the most significant
+time commitment is the live calibration session of team members with leadership. The calibration
+session is very valuable to ensure consistency across the Job Family and level, raise any questions,
+and provide cross-departmental and/or cross-divisional feedback on team members to capture
+the assessment of different managers as opposed to the opinion of the direct manager
+exclusively.
+Ensure consistency and fairness in assessments
+Calibrate on approach and thought process behind assessments
+Provide cross-departmental and/or cross-divisional feedback
+Provide an additional checkpoint to check for unconscious bias
+Calibration can be done asynchronously or synchronously, and should be done by level (i.e.
+Manager calibration for their directs, Director calibration for their directs, etc.) so as not to
+disclose Talent Assessment evaluations amongst peers.
+Too New to Rate
+For newly onboarded team members, with a tenure up to 3 months, we have implemented a “Too
+New to Rate” (TNTR) assessment category. This designation will be applied to individuals with a
+start date within 3 months of the kick off of Talent Assessment as they have not yet had sufficient
+time to demonstrate their Performance/Growth Potential according to the defined pillars.
+A TNTR designation is to accurately reflect the time to get up and running of recently onboarded
+team members. This category acknowledges that new hires require a reasonable timeframe to
+familiarize themselves with the organization, their role, and the expectations before they can be
+accurately assessed using the Performance/Growth Potential Matrix.
+While newly onboarded team members do not need to complete the Self Assessment evaluation
+in Workday, it’s still important for them to have a check-in conversation with their manager. We
+recommend that this conversation happens after the team member has completed 3 months
+with GitLab. We’ve created this template for team members and managers to complete. The goal
+would be for the newly onboarded team member and their manager to come together to have a
+conversation reflecting on their first 3 months at GitLab, highlighting their strengths and
+opportunities, then aligning on any support needed for the team member moving forward.
+Calibration Session
+The calibration session is one of the most important pieces of the Performance/Growth Potential
+Matrix process, as it provides time for managers, their peers, and their manager to calibrate.
+Below are a few communication guidelines to ensure efficiency and fairness during the
+calibration session discussion.
+• 
+• 
+• 
+•
+
+Best Practices
+Be conscious of time and consider setting a (reasonable) time limit per team member
+being discussed.
+Review program guidelines and avoid leniency bias.
+Refer to performance data that you may have taken on a team member throughout the
+past year - including any stakeholder or cross-functional feedback, performance against
+metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or
+the halo effect. Please note that when reviewing feedback for the talent assessment, it’s
+important to take into account areas in which the team member has improved. Two
+quarters is a fairly significant amount of time and team members have (hopefully) taken
+action on improvement areas during this period, which should be reflected in the
+assessment. Managers and other participants in calibration discussions should be
+prepared with this information if asked how they determined a rating.
+Leaders should feel comfortable providing feedback on team members in other
+functions that they have direct experience working with.
+Focus on discussing artifacts that are relevant to the performance factor and refrain
+from discussing artifacts that are not relevant to performance being developing,
+performing or exceeding. Examples of artifacts which are not relevant: upcoming
+maternity/parental leave, personal information/home situation or things that were
+confidentially shared and do not relate to performance.
+Refer to the competencies, job family, job frameworks and values when deciding what is
+relevant.
+Utilize the SBI model for feedback. Focus on facts and avoid blanket statements as
+opposed to (i.e. [team member] has poor communication), “[team member] struggled
+with collaboration during the roll-out of x project and could have improved
+communication by ensuring they aligned with x stakeholders more regularly during the
+process. The impact of this was x.”
+Calibration is not a stack ranking of team members. While some inter-person
+comparison may happen, it should only be to ensure that evaluations are being applied
+fairly across different raters.
+Ask questions and provide feedback! This may seem obvious, but it is an important
+aspect to help identify any potential bias
+Who Do I Calibrate?
+It is likely not necessary to discuss each team member in detail, particularly for larger groups.
+Calibration sessions typically focus on gaps, outliers and areas that might require additional
+management attention and/or alignment.
+As a best practice, we should calibrate outliers. “Outliers” are typically considered to Box 1
+(“Exceeding Growth Potential” and “Exceeding Performance”) and Box 9 (“Developing Growth
+Potential” and “Developing Performance”). People Business Partners and business leaders have
+discretion to expand this threshold as needed, but live calibration for team members in Box 1 and
+Box 9 should be the baseline across the board.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

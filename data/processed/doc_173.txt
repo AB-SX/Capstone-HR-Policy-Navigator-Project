@@ -1,0 +1,151 @@
+If a Candidate Withdraws from the Hiring Process
+If a candidate emails the CES Service Desk stating they would like to withdraw from the interview
+process, the CES should respond to the candidate’s email (not the Service Desk ticket) and cc the
+recruiter (if the recruiter isn’t already on the email). The CES response should not say anything
+definite as there may be a chance for the recruiter to reel the candidate back in. A basic response
+is below:
+Hi Candidate Name, thank you for your email. I have cc’d your recruiter in this email and if there
+are any additional questions, they will be in touch.
+The CES should also tag the Recruiter in the Greenhouse profile of the candidate who withdrew.
+The only exception to this should be for executive roles. Please just forward the withdrawal email
+to the Executive Recruiter and they will handle any follow-up.
+Non-Disclosure Agreements
+To send a Non-Disclosure Agreement (NDA) to a candidate, Recruiters should ping @ces in
+Greenhouse.
+CES can then log into DocuSign, select “start” and “use a template”, and then access shared
+templates.
+Once the NDA has been returned, upload the document in the “details” section of Greenhouse.
+Download this document from DocuSign as separate files, and only use the NDA itself (the
+summary is not necessary).
+Background Screenings
+GitLab will obtain references and complete a criminal records check with employment
+verifications.
+If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or
+Recruiter (whoever kicks off the reference check process) should send the job requisition
+to the legal team via the #legal Slack channel during Reference/Background screening
+phase to determine whether or not the role is a position of trust.
+The recruiter should select “Email the team” and send the “CES Start Contract Request”
+email to CES* to initiate the offer letter and background screening processes after the
+verbal offer has been made.
+The Candidate Experience Specialist will initiate a background screening and start the
+contract process for the candidate.
+Background screening results will be received by the Senior Background Check Specialist
+and escalated to Team Member Relations and Legal where appropriate
+For additional information on reviewing Background screenings see this page.
+Initiating a Background Screening through Greenhouse
+Log in to Greenhouse and go to the candidate’s profile.
+Click the Application tab.
+Click Export to Sterling.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.
+
+Click Complete Report, which will redirect you to the Sterling website.
+Click Invite, and then follow the steps below starting at the second step.
+If the candidate is located in New York City and you have already initiated Step 1, please
+order NYC Step 2 instead of a traditional US check.
+Initiating a Background Screening through Sterling Talent Solutions
+Log in to Sterling and E-invite the candidate by inputting their email address.
+Under “Applicant Information” enter in the candidate’s first and last name, as well as
+their email address to confirm.
+Select the candidate’s location. You will need to include City and State for US candidates.
+Next, select “GitLab” from the “Job Position” drop down menu.
+Next, select the name of the country where the candidate is located. If the country is not
+listed, choose Global Screening
+Finally, scroll to the bottom of the page and click “Send”
+Make a note in the Greenhouse profile that the Background Screening has been started
+Reference Check Forms
+Prior to giving an offer, Recruiters are required to request references and other offer-related
+information by sending a form in the Reference Check stage. There are a few versions of this
+form available on every job based on the country where the candidate is located. When CES
+receives a form in the Service Desk, there are 3-4 fields to look at: NYC status, PIAA (Employee
+Invention Assignment Agreement), Outside Work disclosure, and TMRG requests.
+NYC Location
+USA Reference Check forms only:
+It’s important to note that the USA Reference Check form should be sent to the candidate and
+Step 1 should be completed before presenting a verbal offer. If the candidate selects “Yes” to
+indicate that they are located in NYC or its 5 boroughs (They will be listed as Brooklyn, Bronx, New
+York (Manhattan), Queens, or Staten Island), you will need to complete a two-step background
+screening process:
+Please note that Long Island is not part of NYC and this process does not apply to residents there.
+CES service desk receives a ticket indicating that the candidate has submitted Reference
+Check Process Information - USA form. CES notes that the candidate has selected “Yes”
+for the NYC location question.
+CES will add the text expander snippet refchecktodo into the ticket to help guide them
+through the process. CES will add the “NYC BGC” label.
+CES will go to https://sterlingcheck.app/dashboard/#/dashboard/. It is important to use
+this version of Sterling because it allows us to edit the email template that is delivered
+with the check.
+* Select NYC Step 1 screening package. You will need to fill out the Location of
+Employment field as San Francisco, and the Projected Salary field with the candidate’s
+salary (this range can be found in the “Approvals” tab of the candidate’s GH profile). Click
+“next”.
+4. 
+5. 
+6. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+1. 
+2. 
+3.
+
+* On the next page, under “Email Content”, in the drop down, select “NYC Step 1”
+template.
+* Scroll to the bottom of the page and input the candidate’s full name and email
+address. Send Invite.
+CES will add the “Pending” label and due date on the ticket. Create a follow-up reminder
+in Greenhouse 1 business day out to check if there is an ETA.
+* Once an ETA is set in Sterling, create another follow up reminder in greenhouse for
+that ETA date. Please note that the results may come in earlier than the ETA.
+* Please contact the Senior Background Check Specialist for any BGC escalations. e.g
+“Status: Unperformable” or “Status: Consider”
+This process has been added due to NYC law, which separates the employment
+verification from the criminal check. Keep an eye on the status of the Step 1 screening
+results in Sterling. While we are waiting for Step 1 to be cleared, the recruiter can
+provide the candidate the verbal offer, begin creating the offer in Greenhouse and going
+through the approval stages. Recruiters can send the contract request ticket to CES
+when they are ready, although, CES cannot send a written contract to the candidate
+until Step 1 has been cleared.
+Tip: when the CES desk receives the contract ticket, add the NYC BGC label immediately
+to remind yourself and your team members that this candidate is undergoing the NYC
+two-step background screening process.
+* When checking BGCs in Sterling initiated by other team members, be sure to select
+“Entire Organization” in the top left section of the Sterling dashboard.
+Once the recruiter has sent CES a contract ticket, CES will then complete NYC Step 2 of
+the background screening through the Greenhouse integration. Once in Sterling, select
+the NYC Step 2 screening package and send.
+Troubleshooting Tip: If you receive an “expired” error when initiating Step 2 through
+the Greenhouse Sterling integration, you can navigate to the Sterling Direct dashboard.
+On the right hand side, under “E-Invite Applicant to Background Check”, enter in the
+candidate’s email address and select “Invite”.
+* Fill in the applicant’s information
+* Under “Order Information”, select GitLab as the Job Position and under “Screening
+Package” select NYC Step 2.
+* Then scroll to the bottom right of the page and select Send.
+Outside Work and PIAA Process
+In the form, you will find that candidates are required to disclose whether or not they have any
+outside work, side projects, Inventions, etc. If they state “none” or “n/a”, you can skip this step. If
+the candidate discloses any information in either the Outside Work section or the PIAA section,
+CES will take the following steps:
+CES will visit the TA Candidate PIAA and Outside Work Disclosure Group
+CES will click “New Project” in the upper right corner of the page
+Select “Create from template”
+Select “Group (1)” tab and click on the blue button “Use Template”
+For Project Name - create a title as the Candidate Name
+4. 
+5. 
+6. 
+1. 
+2. 
+3. 
+4. 
+5.

@@ -1,0 +1,62 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/tmrg-gitlab-api/
+174. TMRG - API (Asian-Pacific Islander)
+TMRG - API (Asian-Pacific Islander)
+An overview of our API TMRG
+Hello and welcome to the Asia-Pacific Islander TMRG space! Join us in our Slack channel #api-
+tmrg to be notified of events and meet other members.
+Resources:
+API TMRG Slide Deck
+API TMRG GitLab Project
+API TMRG Slack Channel
+API TMRG Google Group
+Purpose of TMRG
+The API TMRG provides a safe space for every GitLab team member to better understand Asian
+and Pacific Islander cultures, and to understand how diversity can be leveraged to contribute to
+GitLab’s strategic objectives and global success. This TMRG is non-exclusionary in nature and
+open to anyone at GitLab.
+Mission
+“To promote the advancement, cultural awareness, talent recruitment, retention, and
+professional development for API individuals by giving a voice to the diverse backgrounds of the
+Asian and Pacific Islander communities within GitLab in order to ensure the GitLab messaging
+continues to reflect its core value of Diversity, Inclusion and Belonging.”
+Leads
+Robin Falkowski [Global Lead]
+APJ
+Tracy Lu
+Nick Malcolm
+Aletha Alfarania
+Shaurya Sanger
+Pratik Gupta
+Yin YU
+AMER
+Young-Eun Park
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Annelise Denny
+EMEA
+Rui Zhang
+Executive Sponsors
+Manu Narayan
+Rashmi Chachra
+How To Get Involved
+Join our Google Group and connect with us on Slack (#api-tmrg)!
+Last modified April 9, 2026: Remove trailing spaces (edd8c656)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•

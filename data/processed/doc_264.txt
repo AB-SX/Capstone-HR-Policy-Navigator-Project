@@ -1,0 +1,128 @@
+Tools section above and remember to take breaks. Also feel free to bookmark certain
+Handbook pages for a later time to refer back to (except those marked with a big red
+dot - 🔴 which require immediate action).
+Communication Tools
+We’re a fully remote company embracing asynchronous communication
+Slack is our primary communication tool—use it to connect with other team members
+and interest groups
+We use Google Workspace (Gmail, Drive, Docs/Sheets) rather than standard office
+software
+Team members can reach out to the respective teams via Compass when needing
+support and assistance with a specific query
+Week Two and Beyond
+Expect to gradually shift focus to role-based training
+Your role training may appear in your main onboarding issue, a separate training issue,
+or in LevelUp
+Your manager and onboarding buddy will guide you through role expectations
+Equipment
+If your laptop hasn’t arrived near your start date, email it-help@gitlab.com (cc: 
+people_operations@gitlab.com)
+New to Mac? Check our handbook page for helpful tips or explore YouTube tutorials
+Accessibility & Accommodations Support
+At GitLab, everyone belongs and everyone can contribute. As a new team member, we want to
+ensure you have the tools, accommodations, and support you need to thrive from day one. We’re
+here to remove barriers and create an environment where you can bring your best self to work.
+Global Accessibility and Accommodations Policy
+Note: To ensure proper support and avoid declined requests, any equipment beyond our
+standard offerings requires approval before purchasing.
+Technology & Equipment Setup
+Standard Equipment: All GitLab team members can access ergonomic equipment
+through an office budget stipend, and technology through our regular IT processes.
+Accommodations & Adjustments: Assistive technology or specialized equipment
+beyond standard offerings can be requested through our Team Member Relations (TMR)
+team (teammemberrelations@gitlab.com).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Device Configuration: Our IT team can configure your laptop with standard
+accessibility settings, or work with TMR for specialized software setup.
+Accessibility Tech Stack - Accessibility Technologies
+Remote Work Environment
+Standard Home Office Budget: We provide a budget for standard ergonomic
+equipment available to all team members - work with your manager and IT for these
+standard items.
+Individualized Accommodations: Need specific environmental modifications or
+specialized equipment beyond standard offerings? Connect with the Team Member
+Relations team for individualized assessment, support, and pre-approval.
+Accessible Communication
+Meeting Accessibility: Request live captioning, interpreters, or alternative formats
+through your manager or IT team
+Documentation Access: All materials follow our Learning Content Accessibility
+Guidelines - contact Diversity, Inclusion and Belonging (DIB) team if you need specific
+document formats. They can be contacted via the #diversity_inclusion_and_belonging
+Slack channel once you have started with us.
+Your First Steps
+Before Day 1: If you need workplace accommodations or adjustments beyond standard
+equipment, connect with our Team Member Relations team
+(teammemberrelations@gitlab.com) for assistance.
+Day 1-3: Explore accessibility features in your GitLab tools (Slack, Zoom, Google
+Workspace).
+First Week: For standard ergonomic equipment, discuss with your manager and IT. For
+specialized accommodations, submit a request in Compass (internal system) for the
+Team Member Relations team.
+Ongoing: Use standard IT processes for standard equipment needs, and reach out to
+the Team Member Relations (TMR) team via Compass (internal system) to request
+ongoing accommodations and/or adjustments.
+Support Network
+IT & Compass: Standard equipment requests and technical support are available to all
+team members.
+Team Member Relations: Individualized workplace accommodations, adjustments, and
+individualized support beyond standard offerings.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Diversity, Inclusion & Belonging (DIB) Team: Policy questions and accessibility
+consultation via Slack.
+Our Commitment
+Accessing accommodations is part of creating an inclusive environment where everyone can
+contribute. We’re committed to continuous improvement and removing barriers - reach out
+whenever you need support.
+New Hire FAQ: Everything You Need to Know
+Equipment and Expenses
+Q: Can I purchase work items before my start date and get reimbursed later?
+A: We recommend waiting until your start date, as you’ll receive a virtual card with funds for
+equipment purchases. If you do make purchases before starting, email expenses@gitlab.com
+immediately, as these will count against your onboarding funds.
+Q: What if my GitLab laptop hasn’t arrived by my first day?
+A: You’re welcome to use a personal laptop temporarily. Just postpone any hardware-related
+security setup tasks until your GitLab laptop arrives.
+Q: How do I get reimbursed for a laptop I purchased for work?
+A: You’ll gain access to Navan (our expense system) during your first week. Submit your receipts
+through this platform for reimbursement.
+Q: Can I work from a co-working space instead of home?
+A: Absolutely! Just review our co-working space guidelines once you get started in the internal
+handbook before signing any agreements.
+Q: Does GitLab provide funds for home office equipment?
+A: Yes! All new team members receive $1,500 USD (or local equivalent) via a virtual card for office
+equipment purchases.
+Payroll & Benefits
+Q: When will my first paycheck be?
+A: After your date of hire you can check the payroll cut-off dates in our internal handbook to
+determine your first pay date. Please note the internal handbook can only be accessed once
+you have started at GitLab. If you’re hired after the cut-off date, the prorated amount will be
+included in the following month’s paycheck. If you have any questions prior to your start date on
+the payroll cut off in respect to your start date, please reach out to us via 
+people_operations@gitlab.com.
+Q: How should I handle pre-planned vacations?
+A: Discuss any pre-planned time off with your manager as soon as possible to ensure proper
+coverage, then enter the time in Workday (you will have access once you get started with us).
+Q: How long do I have to enroll in benefits?
+•

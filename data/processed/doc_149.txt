@@ -1,0 +1,156 @@
+All team members are entitled to 2 days of paid compassionate leave if:
+A member of their immediate family or household dies, or contracts or develops a life-
+threatening illness or injury,
+A baby in their immediate family or household is stillborn,
+They have a miscarriage,
+Their current spouse or de facto partner has a miscarriage
+An immediate family includes:
+spouse or former spouse
+de facto partner or former de facto partner
+child
+parent
+grandparent
+grandchild
+sibling
+Immediate family members may also include:
+the immediate family of the employee’s spouse or de facto partner (or former spouse or
+de facto partner)
+step-relations (for example, step-parent and step-child)
+adoptive relations
+Team Members can take compassionate leave for other relatives (for example, cousins, aunts and
+uncles) if they are a member of the employee’s household or if their employer agrees.
+This leave runs concurrently with GitLab PTO. Team members should select Bereavement Leave in
+Workday to ensure that leave entitlements are properly tracked.
+Public Holidays
+All team members are entitled to at least their base pay rate for all hours worked on 
+public holidays.
+Team members who take time off for public holidays are entitled to their base pay rate
+for the ordinary hours they would have worked. GitLab encourages all team members to
+take time off for the holidays they observe.
+Team members must select Public Holiday in Workday to ensure that statutory
+entitlements are properly tracked.
+Community Service Leave
+All team members are entitled to unpaid community service leave for voluntary
+emergency management activities. Team members are also entitled to paid community
+service leave for jury duty.
+A team member engages in a voluntary emergency management activity if:
+The activity involves dealing with an emergency or natural disaster
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+The team member engages in the activity on a voluntary basis if:
+The team member was either requested to engage in an activity, or it would be
+reasonable to expect that such a request would have been made if
+circumstances had permitted, and
+The team member is a member of, or has a member-like association with a
+recognized emergency management body. More information can be found on
+the FairWork Ombudsman Website.
+Jury Duty
+Team members are entitled to “make-up pay” for the first 10 days of jury selection and
+jury duty. GitLab will supplement the difference between the amount that the team
+member has been paid and their ordinary pay to ensure that the team member receives
+100% of their salary for the first 10 days of jury duty/selection.
+This leave runs concurrently with GitLab PTO. Team members must select Military
+Leave under the Leaves dropdown menu in Workday to ensure that statutory
+entitlements are properly tracked.
+Team members must notify their manager of the period or expected period of leave as
+soon as possible and provide evidence showing they attended jury selection or jury duty.
+Parental Leave
+Comprehensive support for growing families, combining Australian statutory entitlements with
+GitLab’s enhanced parental leave benefits.
+Statutory Leave Entitlement
+All team members are entitled to up to 12 months of unpaid parental leave if they have been at
+GitLab for at least 12 months. They can also request up to 12 months of additional unpaid
+parental leave.
+Australian Government Parental Leave Payment
+Team members may be eligible for pay from either or both of the following:
+Australia’s Government Parental Leave Pay Scheme
+GitLab’s Parental Leave
+Eligible employees who are the carer of a child born or adopted from 1 July 2026 can get up to 26
+weeks’ Parental Leave Pay, which is paid at the National Minimum Wage. For more information
+visit Services Australia – Parental Leave Pay
+If you are applying for government-funded Parental Leave Pay, you can apply up to 3
+months before your child’s due date.
+Applying for Parental Leave in Australia
+To initiate your parental leave, please enter the dates of your leave into Workday by
+selecting the Parental Leave label.
+Record-keeping for paid Parental Leave:
+In addition to the usual record-keeping requirements, employers that have team
+members getting government-funded Parental Leave Pay also have to keep the
+following records:
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+the amount of Parental Leave Pay funding received from the government for each team
+member and the period it covers
+the date each parental leave payment was made to the team member
+the period each payment covers
+the gross amount of the payment
+the net amount paid and the amount of income tax withheld (including other payments,
+if any, were made)
+a statement identifying the payment as Parental Leave Pay under the Australian
+Government Paid Parental Leave Scheme
+the amount of any deductions made from each payment.
+Pay slips for Parental Leave payments:
+Team members who get Australian Government Parental Leave Pay have to be given a
+pay slip for each payment. The pay slip must specify that the payments are Parental
+Leave Pay under the Australian Government Paid Parental Leave Scheme.
+Ordinary pay slip requirements apply to pay slips given to team members getting
+government-funded Parental Leave Pay.
+Workplace Rights & Policies
+Right to Disconnect
+Your workplace right to disconnect from work communications outside normal working hours,
+supporting healthy work-life balance and well-being.
+Your Rights & Support
+At GitLab (the “Company”), we care about the safety, health, and well-being of all team members
+and focus not on hours worked but rather on asynchronous communication and results. We
+believe that family and friends come first and work comes second. In line with the Company’s
+values, we understand that “unplugging” from work is essential to a healthy and balanced life.
+Technological advancements, global events, and work demands can sometimes make us forget
+that we need a break to recharge.
+Team members are expected to disconnect from work and work-related communications outside
+of normal working hours and during PTO and there are many suggestions in the Handbook for 
+communicating when you will be away so other people can manage their time efficiently, projects
+don’t slip through the cracks, and so that team members are not disturbed while away.
+This guidance reminds team members in Australia of their workplace right to disconnect (codified
+from 26 August 2024) and how the Company is committed to supporting team members in doing
+so.
+The right to disconnect means that a team member is not required, outside of their working
+hours, to monitor, read or respond to contact, or attempted contact, from an employer or a third
+party (where the contact relates to their work), unless it would be unreasonable to refuse.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

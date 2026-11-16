@@ -1,0 +1,100 @@
+Show them our Testing Environments, and introduce them to GitLab Sandbox Cloud for
+GCP
+Encourage them to create MRs for the handbook or docs if they see something that
+needs to be updated.
+Help them update the GitLab team page with their info (one of their Onboarding Issue
+checklist items)
+Consider doing async slack check-ins to see if they have questions that they might be
+reluctant to ask, or something they might need your help with.
+Consider splitting the info you are sharing with them over several meetings/pairings, to
+avoid getting them overwhelmed.
+Week 3+
+Remember to review their open modules with them to see:
+if they need help with any tasks, and remind them to check out the tasks they finish, and
+close the modules
+if they have any open modules that don’t seem to fit their path at the moment and
+discuss it with them
+Consider scheduling a regular chat aside from the pairing session(s), or alocate time in
+your regular meetings to discuss their progress, concerns, and what they need help
+with.
+Pairings
+Introduction to Zendesk and how we use it:
+Walk them through Zendesk and how to use it
+Show them how to use the different macros, and advise them on the most used
+ones.
+Show them how to leverage the different apps on Zendesk
+Answer any questions they have about the ticket workflow handbook pages
+Walk through your own process for choosing and answering tickets
+Talk about setting salutations in signature
+Working on tickets:
+Show them how to create a ticket pairing issue using pairfy
+While trying to help them feel comfortable, we also want new SEs to develop the low
+level of shame value by going out of their comfort zone. Stress that there are no stupid
+questions (maybe share the most recent “silly question” that you asked) and encourage
+them to ask questions in different public Slack channels
+Have them set up pairings with different subject matter experts when they feel stuck on
+a topic. Specify the experts by sharing their full name or gitlab username, to avoid
+confusion.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Walk them through the GitLab calendars, and show them some group pairings in their
+region that can be beneficial to their development. Consider sending them a link to
+them
+Pair on tickets:
+Share your screen and answer a few easy tickets with them
+If they brought any tickets to the call, answer those first
+Alternate who shares their screen and answers the tickets
+Reproduce problems whenever you can. Show them how to quickly spin up an instance
+using your preferred method (Docker, GitLab Sandbox Cloud for GCP, etc.)
+Lead by example, following our “handbook first” value when checking for workflows
+Customer calls:
+Ping them when you have a customer call so they can shadow it
+Show them how to find customer calls to shadow
+Be available for their first customer call, if possible. If not, do what you can to ensure
+they have a shadow to help them out
+What to do afterwards
+After closing the on-boarding issue, discuss with them the different focus areas, and ask
+them what training module they might be interested in picking next. Guide them to the
+subject matter experts and the spt pod slack channels (if any). Send them the full names
+of the experts and channels in DM or add them to a shared doc if you have one.
+Consider keeping a frequent check-in/chat/pairing with them (ex. monthly)
+Over the first few months, if you have anything interesting you’re working on that you
+think they can learn from, ping them and see if they’d like to either pair or shadow you
+on it.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

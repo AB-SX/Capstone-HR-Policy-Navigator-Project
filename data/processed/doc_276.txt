@@ -1,0 +1,68 @@
+Additional Resources for Sales Training
+Customer Success (CST) Courses Explainer Videos
+CST201 GitHub.com vs. GitLab CST202 Hosting GitLab …
+Field Accreditation Program
+To support and scale GitLab's continued growth and success, the Field Enablement Team has
+developed a role-based accreditation program that includes functional, soft skills, and technical
+training for field team members
+Field Enablement Spotlight: Continuous Education at GitLab
+Continuous education webcast series for all GitLab field sales & customer successs team
+members
+Field Functional Competencies
+GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab
+field team members must demonstrate to successfully deliver desired outcomes. They provide a
+common language and consistent expectations for what good looks like for the GitLab field
+organization.
+Product Certification for GitLab Field Team Members
+Training and certification program to ensure field team members have the requisite knowledge
+to serve as trusted advisors to customers, prospects, and partners by properly positioning the
+right GitLab solutions based on customers' or prospects' expressed needs and/or challenges
+Sales Kickoff
+The GitLab Sales Kickoff sets the tone for the GitLab field organization for the new fiscal year
+Social Selling
+How to use social media to build your professional brand and grow your business
+Technical Questions for Sales
+To improve sales efficiency, the GitLab Solution Architect team identified and answered some of
+the most common technical questions that GitLab sales team members should be able to answer
+
+Technical Skills Exchange
+Continuous education webcast series for GitLab's technical field team members
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/sales/training/sales-enablement-sessions/
+104. Field Enablement Spotlight: Continuous
+Education at GitLab
+Field Enablement Spotlight: Continuous Education at
+GitLab
+Continuous education webcast series for all GitLab field sales & customer successs team
+members
+Field Enablement Spotlight Sessions
+The Field Enablement Spotlight is a weekly continuous education series for all GitLab Sales, Sales
+Development, Customer Success, Solution Architects, Partner Ecosystem, Renewals, Professional
+Services & Operations team members.
+The Field Enablement Spotlight takes place each week on Thursday, with two session options to
+accommodate GitLab’s global field sales & customer success audience.
+(Option 1) 11:00 AM (US Eastern Time)(UTC -4) = (8 AM Pacific Time) = (4 PM Central
+European Time)(UTC +1)
+(Option 2) 11:00 AM (Australian Eastern Time)(UTC +11) = (5 PM US Pacific Time)(UTC
+-7)
+Attending the weekly Field Enablement Spotlight session is mandatory, with two options provided
+to accommodate our global audience. If team members are on paid time off or have a scheduling
+conflict with a customer, they may watch the session recording in a timely manner.
+Upcoming Training
+To see what training is coming soon, view the Field Enablement Spotlight issue list.
+Winter 2025 Lineup
+DATE TOPIC SPEAKERS
+Nov 27 No Session
+Dec 4 GitLab 18.6 Release Product Marketing
+Dec 11 (Available)
+Dec 18/19 GitLab 18.7 Release Product Marketing
+Dec 25 No Session
+Jan 1 No Session
+Jan 8 (Available)
+Jan 19/20 GitLab 18.8 Release Product Marketing
+• 
+•

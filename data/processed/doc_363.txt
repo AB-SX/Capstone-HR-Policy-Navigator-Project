@@ -1,0 +1,62 @@
+Sandbox Cloud is an automated provisioning platform for AWS or GCP environments.
+These environments are helpful for demo/sandbox/testing purposes and is paid for by
+GitLab.
+CSMs Only: Certifications to Complete and Lifecycle Processes
+15. CSMs Only: Certifications to Complete and Lifecycle Processes
+Certifications
+Success Plans
+Executive Business Reviews
+Customer Onboarding
+Customer Onboarding (Material - Handbook and Video - 60 Minutes)
+Customer on-boarding is a 45 day time period. Customer Success Managers and
+Professional Services Engineers should work closely together throughout the on-
+boarding process, with support from Solutions Architects and Strategic Account
+Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that
+matters in the customer’s journey. Below are resources you should familiarize yourself
+with as you get ready to start interacting with customers.
+Customer Onboarding
+Using Gainsight within Customer Success
+Customer Onboarding Dashboard
+ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)
+-Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager
+and your onboarding buddy.
+-The Rubric for the call
+PSEs Only: Statement of Work
+16. PSEs Only: Statement of Work
+The Statement of Work (SOW) Process (Material - Handbook - 20 minutes)
+Review the SOW Creation Process, and review the below reference deck for details on
+creating a Professional Services SOW.
+Workflow for the SOW
+SOW Creation Instructions
+ACTIVITY: Create a Mock SOW (Assignment - 60 minutes - 10 points)
+-Create a mock SOW using the calculator below and the automatic SOW creator on that
+page. This is for 1000 users. The prospect wants an HA deployment on AWS, admin
+training for 20 people, CI/CD training for 60 people and a migration of their existing data
+from their existing SVN system (assume this costs $15K). Send the link of the Google doc
+you create to your manager when it’s complete.
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+-GitLab Services Calculator Please note the SOW may have errors in it as the calculator is
+still WIP
+Many example SOW’s can be found in the Google Drive Folder
+Sales & Customer Success Onboarding Process
+Sales Onboarding Process The GitLab Candidate Experience team initiates a general GitLab
+onboarding …
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+•

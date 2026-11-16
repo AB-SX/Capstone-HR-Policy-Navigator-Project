@@ -1,0 +1,138 @@
+Discrimination
+Having a diverse workforce, made up of team members who bring a wide variety of skills,
+abilities, experiences and perspectives, is essential to our success. We are committed to the
+principles of equal opportunity, inclusion, and respect. All employment-related decisions must be
+based on company needs, job requirements, and individual qualifications. Always take full
+advantage of what our team members have to offer; listen and be inclusive.
+We do not tolerate discrimination against anyone, including team members, customers, business
+partners, or other stakeholders. Any form of discrimination towards an individual is strictly
+prohibited, including:
+On the basis of race (includes national origin or ancestry, ethnicity, national origin or
+ethnic characteristics; interracial marriage or association; traits historically associated
+with race, including hair texture, protective hairstyles, and any other national origin or
+ancestry “as specified by a complainant in a complaint”), color, religion (including all
+aspects of religious observance and practice, as well as belief or lack of religious belief),
+sex (including pregnancy, childbirth and related medical conditions; breastfeeding; sex
+assigned at birth; gender identity or gender expression; affectional or sexual
+orientation, including heterosexuality, homosexuality, bisexuality, and asexuality; and
+differences of sex development, variations of sex characteristics, or other intersex
+characteristics), age, disability, HIV status, marital status, past or present military
+service, life expectancy, or any other status protected by the laws or regulations in the
+locations where we operate.
+We comply with laws regarding employment of immigrants and non-citizens and provide
+equal employment opportunity to everyone who is legally authorized to work in the
+applicable country.
+We provide reasonable accommodations to individuals with disabilities and remove any
+artificial barriers to success.
+Report suspected discrimination right away and never retaliate against anyone who raises a good
+faith belief that unlawful discrimination has occurred.
+If you believe you have been discriminated against or witnessed discriminatory practices, please
+contact the Chief People Officer, a People Business Partner, or the Team Member Relations
+Specialist to initiate an investigation into the behavior. GitLab has also engaged Lighthouse
+Services to provide anonymous reporting methods, as described in the How to Report Violations
+section.
+Bullying / Workplace Violence
+GitLab does not tolerate violent acts or threats of violence. The company will not tolerate fighting,
+bullying, coercion, or use of abusive or threatening words directed to, about, or against a co-
+worker, lead, manager, executive, candidate, client/customer, vendor, contributor, or any other
+person. No individual employed by GitLab should commit or threaten to commit any violent act
+or discuss committing such offenses, even in a joking manner.
+• 
+• 
+•
+
+Retaliation
+Retaliation of any sort for filing a claim of harassment will not be tolerated. If you believe you
+have been retaliated against, please contact the Chief People Officer, Team Member Relations or
+a People Business Partner to initiate an investigation.
+Speaking up during a public situation
+If someone messes up, people are encouraged to speak up publicly and within the moment, in
+order to let that person and others know that what happened was not inclusive behavior.
+This makes for a situation from which all parties can learn, and is one which promotes
+understanding. Additionally it makes it possible for that person to de-escalate the situation by
+correcting themselves and apologizing.
+This does not ensure there will be no consequences. However, it will greatly reduce the chance of
+escalation and has the potential to help a situation become comfortable and inclusive again.
+Reporting a Physical Threat
+If a threat is made against you or someone else that makes you or another team member
+question their safety due to an issue, merge request, email or other work related matters do not
+hesitate to initiate the following process:
+Contact local law enforcement. Note the proper number to contact in your locality and
+whether the emergency, or non-emergency number should be called.
+Notify the People Operations Team via a Compass request. A private slack channel may
+then be opened with your People Business Partner, People Operations Team member,
+Team Member Relations, Manager, and the security team helping with the situation.
+The following steps may be taken based on the threat:
+* Internal threat assessment
+* Temporary accommodation (friends, family, hotel, etc.)
+* Transportation to alternate location (stay with family/friends for example)
+* Time off from work/LOA
+* Personal Security Detail
+The above can be triggered by the People Operations Team, Manager, Team Member
+Relations, or People Business Partner based on their knowledge of the threat. Whenever
+it is safe to do so, please go through the normal permissions work flow, however if a
+threat is credible and potentially imminent, immediate action may be taken before the
+approvals have been put in place.
+The Sr. Director of Security will advise when it is best to halt any of the above tasks.
+Reporting Alleged Harassment
+Any individual who believes they have been the target of harassment of any kind is
+encouraged to immediately and directly address the harasser, letting them know that
+their behavior is unwelcome, offensive, and must stop immediately.
+1. 
+2. 
+3. 
+4. 
+5. 
+1.
+
+If they do not wish to address the harasser directly or the behavior doesn’t cease, they
+should report the misconduct to the Chief People Officer, Team Member Relations or a 
+People Business Partner.
+Once reported, an impartial investigation will be conducted by a People Business
+Partner or by an independent third party, depending on the severity and circumstances
+of the complaint.
+Individual(s) reporting an incident or pattern of behavior will be asked to provide a
+written account, including any action(s) causing concern, the dates and times such
+actions occurred, and the names of anyone involved, including the participants and
+witnesses. All complaints or concerns of alleged harassment or discrimination will be
+taken seriously and handled confidentially.
+The Role of Managers
+If managers become aware of misconduct, they must deal with any allegations expeditiously,
+seriously, confidentially, and fairly, whether or not there has been a written or formal complaint
+made to People Business partner. Informed managers are expected to:
+Take all complaints or concerns of alleged harassment seriously no matter how minor or
+who is involved.
+Ensure that any form of harassment or misconduct is immediately reported to People
+Business Partner.
+Take appropriate action to prevent retaliation, or the alleged misconduct from recurring,
+during and after an investigation.
+Managers who knowingly allow or tolerate any form of harassment or retaliation, including the
+failure to immediately report such misconduct to People Business Partner, are in violation of this
+policy and subject to disciplinary action, including termination.
+The Role of Individual Contributors
+All employees have the responsibility to help create and maintain a work environment free of
+bullying and harassment and can help by:
+Being aware of how their own behavior may affect others, and changing it if necessary.
+Treating their colleagues with dignity and respect.
+Taking a stand if they think inappropriate jokes or comments are being made to others.
+Making it clear to others where they find their behavior unacceptable.
+Intervening, if possible, to stop harassment or bullying from occurring.
+Reporting promptly to their manager or the People Business Partner any incident of
+bullying or harassment witnessed by them.
+The Role of People Business Partners
+The Chief People Officer and People Business Partners are responsible for:
+Ensuring that any individual filing a complaint and any accused individual(s) are made
+aware of the seriousness of misconduct.
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1.

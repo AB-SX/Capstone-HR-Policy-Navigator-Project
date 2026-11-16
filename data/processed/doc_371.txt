@@ -1,0 +1,80 @@
+Linux system administration
+Support Engineers regularly troubleshoot GitLab Self-Managed instances running on Linux.
+Strong Linux fundamentals are essential for reading logs, understanding process management,
+debugging networking issues and navigating the filesystem.
+Linux Foundation (request/approval)
+Title Type Level
+LFS101 - Introduction to Linux Course Beginner
+O’Reilly Learning
+Title Type Level
+Learning Modern Linux - Michael Hausenblas Book Beginner
+How Linux Works, 3rd Edition - Brian Ward Book Beginner-
+Intermediate
+The Linux Command Line, 2nd Edition - William E. Shotts Book Beginner
+Linux Foundation Certified System Administrator (LFCS), 3rd Edition -
+Sander van Vugt
+Course
+(20h)
+Intermediate
+LPIC-1 Linux Administrator (101-500) - ACI Learning Course
+(12h)
+Intermediate
+Git internals
+Support Engineers troubleshoot Git operations daily: push/pull failures, repository corruption,
+merge conflicts, LFS issues and server-side hooks. Understanding Git internals (packfiles, refs,
+objects, transfer protocols) is directly applicable.
+O’Reilly Learning
+Title Type Level
+Pro Git, 2nd Edition - Scott Chacon, Ben Straub Book All levels
+Version Control with Git, 3rd Edition - Prem Kumar Ponuthorai, Jon Loeliger Book Intermediate
+Head First Git - Raju Gandhi Book Beginner
+Complete Git Guide: Understand and Master Git and GitHub - Bogdan
+Stashchuk
+Course
+(22h)
+All levels
+Containers and Docker
+GitLab Runner uses Docker executors, GitLab.com and Dedicated uses Kubernetes, and many
+Self-Managed customers use container-based deployments. Understanding container
+fundamentals is important for debugging CI/CD job failures, registry issues and deployment
+problems.
+
+O’Reilly Learning
+Title Type Level
+Docker Deep Dive - Nigel Poulton Book Beginner
+Docker: Up and Running, 3rd Edition - Sean P. Kane, Karl Matthias Book Intermediate
+Docker and Kubernetes Masterclass: From Beginner to Advanced - LM
+Academy
+Course
+(32h)
+All levels
+Introduction to Docker and Containers - Noureddin Sadawi Course (5h) Beginner
+Kubernetes
+GitLab can be deployed via the official Helm chart on Kubernetes, and GitLab.com itself runs on
+GKE. Support Engineers regularly troubleshoot Helm chart deployments, pod failures, ingress
+configuration, certificate issues and resource limits.
+Linux Foundation
+Title Type Level
+LFS158 - Introduction to Kubernetes Course Beginner
+O’Reilly Learning
+Title Type Level
+Kubernetes: Up and Running, 3rd Edition - Brendan Burns, Joe Beda,
+Kelsey Hightower, Lachlan Evenson
+Book Intermediate
+Kubernetes Patterns, 2nd Edition - Bilgin Ibryam, Roland Huss Book Intermediate-
+Advanced
+Kubernetes for the Absolute Beginners - Hands-On - KodeKloud
+(Mumshad Mannambeth)
+Course
+(5h)
+Beginner
+Docker and Kubernetes Masterclass: From Beginner to Advanced - LM
+Academy
+Course
+(32h)
+All levels
+Google Cloud Skills Boost
+Title Type Level
+Getting Started with Google Kubernetes Engine Course Beginner
+Architecting with Google Kubernetes Engine (series) Course Intermediate
+Deploy Kubernetes Applications on Google Cloud Skill Badge Intermediate

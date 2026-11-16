@@ -1,0 +1,95 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/tmrg-gitlab-women/
+182. TMRG - GitLab Women
+TMRG - GitLab Women
+An overview of our remote TMRG GitLab Women
+Mission
+The GitLab Women TMRG cultivates an inclusive community where those who identify as women
+can build skills, leadership and connection through mentorship, collaboration and professional
+development. This group is open to all members of the GitLab community.
+Vision
+To build an interconnected, barrier-free GitLab community where everyone who identifies as a
+woman is professionally equipped to drive innovation, socially supported to thrive, and globally
+empowered to shape the future of technology.
+Click through to meet some of the women working at GitLab!
+Pillars
+This TMRG is focused on 4 key areas of impact. We call them our pillars. Review the table below to
+read about the purpose of each pillar and results the TMRG has achieve for each.
+Pillar Purpose Example Results
+Awareness and
+Education
+Increase awareness of the experience
+of TMRG members at GitLab and
+educate allies.
+Professional
+Development
+Increase access to opportunity for
+career and professional growth of
+TMRG members
+Women at GitLab Mentorship Program
+Recruiting and
+Retention
+Increase the successful recruitment
+and retention of women at GitLab
+Participate in candidate TMRG calls by
+joining the #candidate_tmrg-call Slack
+channel
+Business
+Influence
+Start and contribute to discusses that
+influence GitLab the business.
+Surface burnout data to People
+Leadership
+Leads
+Winnie Chan Co-Lead
+Pamela Corpus Co-Lead
+Tatiana Fernandez Co-Lead
+• 
+• 
+•
+
+Executive Sponsors
+Jessica Ross - Chief Financial Officer
+Dorina Pulluqi - VP, High Velocity Sales & Sales Development
+How to Join
+Please sign up here to be added to the Women TMRG Google Group. This will ensure
+you’re added to upcoming TMRG calendar events. It might take up to 24 hours before
+the calendar events appear on your calendar. If there is an event happening within
+24 hours of you joining the Google Group, please post in the #women Slack channel
+to be added manually.
+– When you click this link, you will see a “You don’t have permission to access this
+content” message. Below it, you should see a “For access, try joining the group” message
+with a link. Click the link and follow the process.
+Please share your location so we can invite you to Executive Connects happening near
+you: Women TMRG - Member Location
+Join the #women Slack channel for conversation, announcements, and connecting with
+other TMRG members. Please introduce yourself in the channel when you join!
+Member Involvement
+This section is meant to outline how team members in the Women TMRG can contribute to key
+initiatives each quarter. We encourage team members to contribute in any way they feel
+comfortable and have capacity - from meeting attendance to leading initiatives and anywhere in
+between!
+Attend the Monthly Women TMRG Meeting
+We host one Women TMRG meeting each month, offered in three sessions to accommodate
+members across regions. The meeting brings together planning and social connection, with the
+format shaped by the activities and priorities for that month. Check the calendar invitation for the
+current date, time, and meeting details, as these may vary from month to month.
+A typical meeting may include:
+Quick updates from TMRG leads on monthly and quarterly priorities. Updates may be
+shared and discussed synchronously or asynchronously.
+Discussion of projects and ideas related to our TMRG pillars: Awareness & Education,
+Professional Development, Recruiting & Retention, and Business Influence.
+Time to connect socially, which may include small breakout groups and open
+conversation, depending on the group and available time.
+Some months, a special event, such as a guest speaker session or workshop, may take the place
+of the usual meeting format. Check the #women Slack channel for that month’s agenda and
+format.
+Allies are always encouraged to attend any TMRG meeting. For questions or to share ideas, reach
+out in the #women Slack channel.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

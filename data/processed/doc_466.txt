@@ -1,0 +1,77 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/neurodiversity-and-neuroinclusion/
+understanding-neurodivergence/
+189. Understanding Neurodivergence
+Understanding Neurodivergence
+Foundational concepts, shared language, and how different ways of thinking contribute to teams
+at GitLab.
+Understanding Neurodivergence
+This page introduces neurodiversity and neurodivergence, language guidance, and common
+neurodivergent profiles.
+What We Mean by Neurodiversity
+Neurodiversity describes the natural variation in how human brains work. No two people think,
+learn, or process information in the same way.
+Neurodivergence refers to individuals whose cognitive processing differs from majority
+expectations. This may include ADHD, autism, dyslexia, dyspraxia, Tourette’s, sensory processing
+differences, and many other profiles.
+Neurotypical describes individuals whose cognitive functioning aligns with majority social
+norms.
+Important: Only groups can be neurodiverse. An individual is neurodivergent. Even someone with
+multiple neurodivergent conditions (such as ADHD and autism) is multiply neurodivergent, not
+“neurodiverse.”
+Neurodivergence is not about capability. It reflects different patterns of attention, perception,
+communication, energy regulation, and problem-solving — all of which can bring unique
+strengths to teams.
+Many neurodivergent people also experience co-occurring conditions. For example, many autistic
+people also have ADHD (often referred to as AuDHD). Some also experience mental health
+conditions such as anxiety, depression, or OCD, often arising from navigating environments not
+designed with cognitive diversity in mind.
+Understanding Our Approach
+GitLab’s approach to neuroinclusion focuses on identifying and addressing barriers in systems,
+processes, and expectations, in accordance with applicable laws and regulations across our
+global locations.
+This approach includes:
+Providing clarity and transparency in documentation and expectations
+Offering async-first communication that allows time to process and respond
+• 
+•
+
+Designing flexible workflows where feasible
+Fostering psychological safety for team members to express needs
+Iterating on tools and processes as we learn
+When we design with cognitive diversity in mind, more team members can work effectively —
+which benefits everyone.
+We also recognize that accommodations are provided in line with applicable laws, including
+considerations such as essential job functions and operational requirements in each location.
+Language That Matters
+How we talk about neurodivergence shapes how people experience work. At GitLab, we use
+language aligned with respect, accuracy, and community preference.
+Neurodivergent vs. Neurodiverse
+Neurodivergent describes an individual
+Example: “Alex is neurodivergent.”
+Neurodiverse describes a group with varied neurotypes
+Example: “Our team is neurodiverse.”
+Identity-First and Person-First Language
+Both approaches can be respectful.
+Identity-first language treats neurodivergence as an integral part of identity:
+“Autistic person”
+“Dyslexic person”
+Person-first language emphasizes the person:
+“Person with autism”
+“Person with dyslexia”
+Many autistic people and neurodivergent communities prefer identity-first language. When
+referring to individuals, the best practice is to use their preferred terminology or mirror the
+language they use.
+Common Neurodivergent Profiles
+Every neurodivergent person is different. These descriptions reflect patterns sometimes seen in
+workplace contexts — not stereotypes or diagnostic criteria. They are starting points for
+understanding, not assumptions about any individual colleague.
+The term condition in this section refers to cognitive differences, not medical deficits.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

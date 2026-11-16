@@ -1,0 +1,131 @@
+How to organize an all-remote mentorship program
+Consider the following practices and lessons learned by the GitLab team when organizing your
+own all-remote mentorship program. Open a Merge Request to contribute your own learning to
+list!
+Share call for applications across multiple channels and do direct outreach to great
+mentors for the best engagement. Lean on People Business Partners for suggestions of
+team members who would make great mentors and mentees.
+In applications, ask for role, location, and mentorship focus area, along with ideal goals.
+Use multiple choice questions to easily sort and pair responses.
+Give at least 2 weeks for folks to apply as mentors and mentees. Keep applications open
+past the deadline for rolling applications with a note that late applicants might not be
+paired. Rolling applications might help fill in the gaps with hard to pair mentors/
+mentees
+Collaborate with Team Member Relations and People Business Partners to ensure that
+participatns are not on performance improvement plans and that their work
+performance qualifies them to participate (as program applications outline)
+Consider using automation, if available, to pair. At GitLab we haven’t used automation
+yet, but we are exploring it for future iterations.
+If pairing manually, set aside at least 1 week to work on making pairs based on
+application responses. Consider recruiting a committee to delegate to.
+Use Slack to send a message to mentors and mentees once paired. Put all relevant
+information for starting the program into one message and consider using both text
+and a short video to share this information.
+Use a dedicated #mentorship Slack channel to communicate to participants over the
+length of the program.
+Send 1-2 resources via Slack throughout the program to keep participants engaged and
+learning.
+Use Polly or another survey tool to do a 1 month check in with mentees. This helps
+identify pairs that have not yet met or folks that might have left the company.
+Give participants at least 3 weeks to complete the end of program survey.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11.
+
+Source: https://handbook.gitlab.com/handbook/legal/ethics-compliance-program/learning-content-accessibility-
+guidelines/
+117. Learning Content Accessibility Guidelines
+Learning Content Accessibility Guidelines
+Overview
+GitLab is committed to compliance with all applicable laws and regulations, including, the
+Americans with Disabilities Act of 1990. We believe that our Diversity, Inclusion, and Belonging
+value provides the foundation for our commitment to create an environment that enables
+everyone to contribute to and co-create the software that powers our world. To support these
+beliefs and commitments, GitLab encourages team members to make learning and development
+experiences as accessible as possible to the entire GitLab community. In order to facilitate this,
+GitLab aims to conform to level AA of the World Wide Web Consortium (“W3C”) Web Content
+Accessibility Guidelines (“WCAG”) 2.2, which is the most widely accepted set of recommendations
+for making web content more accessible.
+GitLab’s Ethics and Compliance Program and the Accessibility Working Group have collaborated
+to create the following guidelines to help GitLab team members create accessible web learning
+experiences (whether internal or external) training platforms used by GitLab, in keeping with the
+WCAG recommendations. To do this, the guidelines outline the different types of content you are
+likely to use or design, the potential challenges that each can create for your user, and what you
+can do to prevent or mitigate those challenges.
+These guidelines are meant to be a starting point but throughout the guidelines links are
+provided to additional resources so that you can explore the WCAG recommendations in more
+detail and achieve a deeper understanding of what compliance may entail. Any questions about
+these guidelines or the compliance that it promotes may be directed to The Ethics and
+Compliance team via the #ethics_compliance Slack channel. Separately, please refer to the GitLab
+Content Style Guide for guidance on brand voice, tone, grammar, and punctuation. Any questions
+about the Content Style Guide may be directed to the Marketing team via the #brand Slack
+channel.
+An accessible experience
+What does it mean to provide a more accessible learning experience? Simply put, this means that
+no user’s access to content and functionality is limited in any consequential way. This may involve
+making content available in multiple forms and may involve considering the different ways that
+users consume and interact with course content.
+Platform
+Before we discuss content, let’s talk about learning and development platforms. A learning and
+development platform is the delivery method for course materials and contains the functionality
+to navigate, read, watch, and interact with the content. A platform that isn’t accessible or lacks
+
+certain features is going to create a barrier to some users and may prevent them from fully
+engaging with the course or absorbing the information that it is meant to convey.
+GitLab’s primary learning management system, LevelUp. Before you consider using a different
+learning and development platform, do some research to understand whether that platform
+provides an accessible learning experience. Many companies will also provide an accessibility
+statement of compliance that outlines their intentions and ways to remedy issues. Some even go
+further by providing a Voluntary Product Accessibility Template (VPAT®) that explains how the
+related technology satisfies accessibility requirements.
+Plain language
+Communicating, in written or verbal form, in plain language, can be an important element of an
+accessible experience. Consistent use of plain language benefits every form of media and all
+users.
+From plainlanguage.gov:
+Plain language (also called plain writing or plain English) is communication your audience can
+understand the first time they read or hear it.
+Considerations
+People absorb information differently, so we must recognize that language that is plain to one
+set of readers may not be plain to others. We can, however, consider the following themes and
+attributes that are common to plain language:
+The language is familiar to all users and written at an appropriate comprehension level;
+Explanations or definitions are provided for technical terms, unusual words, or
+abbreviations;
+Content is edited to address grammar and spelling errors;
+Headings follow a logical order (using heading levels 1–6) to create a scannable and
+structured outline for sighted and screen reader users;
+Headings clearly communicate what users can expect in the section that proceeds; and
+Calls to action are clear and unambiguous. For example, “Discover more about
+pipelines“ instead of “Read more“.
+Written material is in plain language if your audience can:
+Find what they need;
+Understand what they find; and
+Use what they find to meet their needs.
+Guidelines
+While much of the success criteria from WCAG 2.2 applies to content in some form, the following
+are most related to the concept of plain language and the presentation of text:
+1.3.1 Info and Relationships (Level A): Information, structure, and relationships conveyed
+through presentation can be programmatically determined or are available in text.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

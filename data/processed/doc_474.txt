@@ -1,0 +1,75 @@
+Customer Success Managers
+Session Name Presentation Video
+CSM Strategy slides video link
+CSM and Customer Personas slides video link
+Driving Adoption With CI/CD Workshops slides video link
+Professional Services Engineers
+Session Name Presentation Video
+Professional Services & Product: Working Better Together slides video link
+How to use the GitLab Pipeline COE w/ Governance Pipelines slides video link
+GET Workshop slides video link
+Sales Development Reps
+Session Name Presentation Video
+Competitive Workshop slides video link
+Partnering with Sales: Good to Great slides video link
+Alumni Stories: Lessons Learned slides video link
+Field Marketing
+Session Name Presentation Video
+Integrated Marketing Goals N/A video link
+SKO 2022 Wrap Up
+SKO 2022 Wrap Up presentation (public)
+Last modified August 16, 2024: Replace aliases with redirects (af33af46)
+View page source
+ 
+ .
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/training/sko/2021/
+194. Sales Kickoff 2021
+Sales Kickoff 2021
+GitLab Sales Kickoff 2021
+Overview
+GitLab Sales Kickoff 2021 consisted of half-day virtual sessions (due to COVID-19) during the week
+of Feb 8-11, 2021. Sessions were repeated twice to accommodate our team members around the
+world, and the 2021 theme was Peak Performance.
+SKO 2021 Theme Reveal Video
+SKO 2021 Pre-Event Promo Video
+SKO 2021 Day 1 Sessions
+Session Name Presentation Video
+Welcome to GitLab Sales Kickoff 2021 slides (GitLab
+internal)
+video (GitLab
+internal)
+Product Keynote: A Winning Product for Peak Performance slides (GitLab
+internal)
+video (GitLab
+internal)
+Customer Spotlight: H-E-B and GitLab: A Happy Marriage slides (GitLab
+internal)
+video (GitLab
+internal)
+Customer Spotlight: Trendyol & GitLab: How International
+Expansion Drives Business Needs
+slides (GitLab
+internal)
+video (GitLab
+internal)
+SKO 2021 Day 2 Sessions
+Session Name Presentation Video
+Marketing Keynote: Prepare for Peak Performance slides (GitLab
+internal)
+video (GitLab
+internal)
+Guest Speaker (Jamie Clarke): Expedition Life–Perform Your
+Best When It Matters Most
+slides (N/A) video (GitLab
+internal)
+Channel Keynote: Cover More Ground with Channel Partners slides (GitLab
+internal)
+video (GitLab
+internal)
+Alliances Keynote: Winning is a Team Sport! slides (GitLab
+internal)
+video (GitLab
+internal)
+Closing Keynote: It’s Time for Peak Performance

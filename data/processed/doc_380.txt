@@ -1,0 +1,63 @@
+CI/CD
+A combined track covering pipeline configuration and runner infrastructure.
+Order Module Status
+1 Continuous Integration Exists
+2 GitLab Runner Exists
+3 Runner-Job-Lifecycle Exists
+4 CI/CD Troubleshooting (pipeline failures, job logs, debugging strategies) To be created
+5 GitLab Runner Infrastructure Toolkit (GRIT) (optional) Exists
+Security Scanning and Security Policies
+A pathway covering security scanning and security policies.
+Order Module Status
+1 Dependency Scanning To be created
+2 SAST Exists
+3 DAST Exists
+4 Security Policies To be created
+5 Advanced SAST To be created
+GitLab Installation and Administration
+A deep-dive track for engineers supporting self-managed deployments, covering installation
+methods, scaling and architectural understanding.
+Order Module Status
+1 Introduction to GitLab Architecture Exists
+2 GitLab Installation and Administration Basics Exists
+3 GitLab Intermediate Topics Exists
+4 GitLab Omnibus Exists
+5 GitLab Upgrades Exists
+6 Docker Exists
+7 Helm and GitLab Charts Exists
+8 GitLab Environment Toolkit Exists
+9 Openshift Exists
+10 Scaled And High Availability Exists
+Geo
+A focused track for Geo, which frequently appears in complex support tickets and emergencies.
+
+Order Module Status
+1 Geo Exists
+Gitaly
+A focused track for Gitaly and Praefect, which frequently appears in complex support tickets and
+emergencies.
+Order Module Status
+1 Gitaly Exists
+Authentication & Identity
+A track grouping all identity-related modules into a coherent pathway.
+Order Module Status
+1 SAML Exists
+2 SCIM Exists
+3 SAML/SCIM Troubleshooting (combined real-world scenarios) To be created
+4 LDAP Exists
+5 OmniAuth Exists
+Observability & Log Analysis
+A track focused on monitoring, performance analysis and the log analysis skills that underpin
+effective troubleshooting across all domains.
+Order Module Status
+1 Kibana & OpenSearch for Log Analysis In progress
+2 GitLab Performance Exists
+3 Competent Strace module Exists
+GitLab Duo & AI Usage
+A track covering GitLab’s AI-powered features for both supporting customers and engineers’ own
+productivity.
+Order Module Status
+1 GitLab Duo Exists
+2 Using AI in Support Exists
+3 GitLab Duo Agent Platform Exists
+4 GitLab Duo Self Hosted Models Exists

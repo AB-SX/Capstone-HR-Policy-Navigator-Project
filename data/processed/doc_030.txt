@@ -1,0 +1,126 @@
+to determine an appropriate course of action. It may be that some kind of counselling or
+mediation session(s) is required between the complainant and the alleged
+perpetrator(s).
+Either party may appeal the findings of an investigation under this procedure by
+submitting, in writing, within 5 working days of the Company’s decision in respect of the
+complaint outlining the reasons for the appeal. The appeal will be heard on the points
+raised and will not involve reinvestigation of the complaint.
+Mediation
+Mediation is an alternative method of resolving issues relating to bullying, harassment
+and sexual harassment. Mediation involves the parties seeking to arrive at a solution
+through mutual agreement, rather than through an investigation and decision.
+Mediation provides a confidential opportunity for the person who feels that they have
+been bullied, harassed or sexually harassed and the person(s) accused of carrying out
+this inappropriate behaviour to discuss the matter and to reach an agreement on their
+continuing working relationship.
+Mediation is conducted in private, and is directly between the parties concerned, with
+the support of a mediator, who will act as an independent facilitator. Either party may
+withdraw from the process at any time by notifying the mediator, in writing, that they
+wish to do so.
+If both parties agree to resolve the issue by mediation, the Company will arrange the
+mediation process. An appropriate person, acceptable to both parties, from within or
+outside the Company will be assigned as mediator. The Team Member Relations
+specialist may serve as the internal mediator, if acceptable to both parties.
+If the mediation process results in an agreement acceptable to both parties, the
+mediator will draw up a written record of the terms of the settlement for signature by
+both parties.
+If mediation breaks down or fails to achieve its goal, the matter can be processed
+through the other stages of this procedure. The person involved in the mediation
+process will not be involved in the investigation process.
+GitLab Inc and GitLab Federal LLC
+In addition to EthicsPoint and Lighthouse, please review the Team Member Relations handbook
+page. GitLab also offers a Harassment Complaint Form that any team member may use to
+document any instance of any type of workplace harassment. Simply copy the form, fill it out with
+your information and send it to our Team Member Relations Specialist at 
+teammemberrelations@gitlab.com.
+California Law Requirements
+Every team member located in the state of California will be required to read, review, and
+understand the following three documents during their onboarding:
+State requirements policy
+California Law Prohibits Workplace Discrimination & Harassment
+Sexual Harassment & Civil Remedies
+11. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+• 
+• 
+•
+
+Connecticut Law Requirements
+Every team member located in the state of Connecticut is required to take the 2 hour Anti
+Harassment Training for Supervisors. This training is to be completed by all individual
+contributors as well as managers.
+Maine Law Requirements
+Team members who reside in Maine have the right to file a complaint through the Maine Human
+Rights Commission within 300 days of the date of the alleged discrimination. You may contact the
+Commission by phone at (207) 624-6290, TTY Maine Relay 711, or by visiting the office located at
+51 State House Station, August Maine, 04333-0051. It is unlawful under the Maine Human Rights
+Act for an employer to retaliate against you because you filed a complaint of discrimination or
+because you aided in an investigation.
+Massachusetts Law Requirements
+Team members who reside in Massachusetts have the right to file a complaint to the 
+Massachusetts Commission Against Discrimination (MCAD): 1 Ashburton Place, Suite 601, Boston,
+MA 02108, tel: (617) 994-6000, TTY:(617) 994-6196.
+Oregon Law Requirements
+Nondisclosure or Nondisparagement Agreements
+Under this policy, a nondisclosure agreement is any agreement by which one or more parties
+agree not to discuss or disclose information regarding any complaint of work-related
+harassment, discrimination, or sexual assault.
+A nondisparagement agreement is any agreement by which one or more parties agree not to
+discredit or make negative or disparaging written or oral statements about any other party or the
+company.
+A no-rehire provision is an agreement that prohibits a team member from seeking reemployment
+with the company and allows a company to not rehire that individual in the future.
+The company will not require a team member to enter into any agreement if the purpose or
+effect of the agreement prevents the employee from disclosing or discussing conduct
+constituting discrimination, harassment, or sexual assault.
+A team member claiming to be aggrieved by discrimination, harassment, or sexual assault may,
+however, voluntarily request to enter into a settlement, separation, or severance agreement
+which contains a nondisclosure, nondisparagement, or no-rehire provision and will have at least
+seven days to revoke any such agreement.
+Time Limitations
+Nothing in this policy precludes any person from filing a formal grievance in accordance with a
+collective bargaining agreement [if applicable], the Bureau of Labor and Industries’ Civil Rights
+Division 800 NE Oregon St., Suite 1045 Portland, OR 97232, tel: (971) 673-0761, TTY Relay 711, or
+the Equal Employment Opportunity Commission. Note that Oregon state law requires that any
+legal action taken on alleged discriminatory conduct (specifically that prohibited by ORS 659A.
+
+030, 659A.082 or 659A.112) commence no later than five years after the occurrence of the
+violation. Other applicable laws may have a shorter time limitation on filing.
+Rhode Island Law Requirements
+Team members who reside in Rhode Island have the right to file a complaint with the Rhode
+Island Commission for Human Rights located at 180 Westminster St., 3rd Floor, Providence, RI
+02903. Phone: (401) 222-2661, Voice Relay: 7-1-1.
+Vermont Law Requirements
+If the a team member who resides in Vermont is dissatisfied with this employer’s action, or is
+otherwise interested in doing so, they may file a complaint by writing or calling the Vermont
+Attorney General’s Office, Civil Rights Unit, 109 State Street, Montpelier, VT 05609, 
+ago.civilrights@vermont.gov, tel:(888)745-9195 (Toll Free VT) or (802)828-3657 (voice/TDD).
+Complaints should be filed within 360 days of the adverse action.
+Resources
+We are continuously gathering country specific references to review regulation and obtain
+guidance on the management of harassment or misconduct at work. Here are a few authorities
+we referred to in the creation of this policy:
+Equal Employer Opportunity Commission (EEOC)
+Contact EEOC: John F. Kennedy Federal Building, 475 Government Center, Boston, MA
+02203, , tel:1-800-669-4000 (voice), 1-800-669-6820 (TDD). Complaints must be filed
+within 300 days of the adverse action.
+Society of Human Resource Management (SHRM)
+Further Guidance (Country-Specific)
+UK: Acas (advisory service for employees and employers)
+The Netherlands: Inspectorate SZW
+Belgium: Unia: For equality, against discrimination
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+•

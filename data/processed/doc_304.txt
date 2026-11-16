@@ -1,0 +1,104 @@
+ElevatePrep
+ElevatePrep is a signature program within GitLab’s broader Elevate leadership experience aim …
+Last modified April 10, 2026: Elevate Handbook Verbiage Additional Update file _index.md
+(d0cb628f)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/mentor/
+116. Mentoring at GitLab
+Mentoring at GitLab
+Mentorship is an opportunity to learn from personal experience, background, and perspective.
+Mentorship builds trust, provides a safe space to make mistakes, and encourages growth for
+both the mentor and mentee. Reach out in the #mentoring Slack channel with questions or
+feedback.
+The Power of Mentoring
+How to get started
+Team members have multiple options to participate in mentorship at GitLab.
+Identify and self-select a mentor from your professional network or the list of
+available mentors below.
+Make yourself available as a mentor by following these steps.
+Participate in an organized mentorship program where mentors and mentees are
+paired based on an application process.
+What team members are Saying
+Although not directly, but my mentor has indirectly helped me with my OKRs. My
+mentor has given me more confidence and knows-how in approaching my OKR goals.
+With advice from my mentor, I was able to adjust the way I was reporting on my
+OKRs & projects to better communicate my progress. I also was coached on how to
+prepare myself for feedback & criticisms on my projects and how to better
+receive those comments - not taking them personally, and striving to be a part
+of the solution to fixing problems versus thinking I am the problem.
+I have learnt to navigate GitLab code and improve my debugging skills, which
+directly feeds into delivering exceptional experience to my efficiency,
+customers results and skills development.
+My mentor has been a force in my life. She is incredible - from helping me
+navigate new manager styles to how to prospect to how to deal with my mental
+health better - she's so so good. I hit the jackpot! I am in such a better place
+to actually work hard with her on my team, so the impact is indirectly directly
+related to my ability to sell.
+Results
+We regularly survey mentees in organized mentorship programs to understand the effects of
+mentorship on business and personal results.
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4.
+
+Benefits and Expectations
+Benefits for the mentee
+Be encouraged to prioritize, and be held accountable for, your career development
+Learn new skills related to your current role, your future career goals, or an area that
+you’re passionate about
+Set and reach clearly outlined goals.
+Benefits for the mentor
+Serve as a leader in the organization by enabling growth for other team members
+Practice leadership, effective communication, and coaching skills
+Establish yourself as an expert in a field or speciality
+Build trust with team members
+Expectations
+Expectation Description
+Mentees lead
+conversations
+Mentorship is led by the mentee, similar to how 1:1’s at GitLab are driven by direct
+reports.
+Maintain
+Boundaries
+Maintain clear and appropriate boundaries. Be clear on your responsibilities and
+those of their manager.
+Set Goals Mentees should create goals, put them in writing, and frequently revisit goals to
+measure progress.
+Build Trust Colleague first, expert second. Spend time getting to know one another. Be open,
+honest, and fully authentic.
+Set Expectations Be realistic and uphold your commitment. Share access to resources and people,
+but make it clear you do not wield your influence over others.
+Listen Establish trust and openness in communication. Give your full, undivided
+attention. Hear concerns before offering advice and guidance.
+Acknowledge
+Independence
+Recognize mentee goals and autonomy. Your role as a mentor is to guide; it’s up
+to the mentee to decide what to implement in their own career.
+Respect Diverse
+Experiences
+Recognise that underrepresented groups might face additional barriers to
+advancement. Educate yourself and ask for advice and support via the appropriate
+DIB channels.
+Practice Self-
+Awareness
+Identify your strengths, weaknesses, and biases. Be aware of and respect other’s
+experiences, ideas, and goals.
+Advocate Mentor others on being effective managers or colleagues to those who might
+have different experiences to them. Teach your mentee how to become a mentor
+themselves – by example and by encouragement.
+Express Gratitude Share openly about your experience. Express gratitude for the skills or
+experiences developed over time.
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4.

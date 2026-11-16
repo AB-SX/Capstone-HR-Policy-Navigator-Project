@@ -1,0 +1,127 @@
+Factor Favourability Rating
+Company Confidence 60%
+Our Leaders 62%
+Opportunities - Individual statements Favourability
+Rating
+I believe action will take place as a result of this survey 55%
+GitLab effectively directs resources (funding, people and effort) towards company
+goals
+57%
+When there are career opportunities at GitLab, I am aware of them 58%
+Additional analysis associated with these opportunities is included in our detailed FY24 Culture
+Amp Engagement survey results presentation that is available only for GitLab team members.
+Using Epics and Issues to Create an Action Plan
+For the FY24 Engagement Survey, all divisions are recommended to create an Epic to store
+Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of
+the engagement survey results that includes: highlights, lowlights, recommended actions, and
+resources. Epic’s can be created in division issue boards or projects that are applicable to the
+organization.
+In addition, Managers can create an Engagement Survey Action Issue that links to the division
+wide epic. In the Issue, managers can link team wide actions to the division.
+FY24 Division-Wide Engagement Survey Action Epics
+Product
+Engineering
+Sales
+Marketing
+Finance
+People
+Legal & Corporate Affairs
+CISO
+Summit Pulse Surveys Overview
+The goal of the Summit is to build trust through social connections. This trust should lead to
+higher individual and team motivation, leading to higher productivity and retention. Higher trust
+between individuals and teams fuels collaboration and leads to stronger results.
+To best determine how effective we are at achieving the goal of Summit is to gauge team
+member perceptions before and after the event.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+We ran two surveys
+Pre-Summit: January 9, 2024 to January 19, 2024
+Post-Summit: March 15, 2024 to April 5, 2024
+This will helped us gain valuable insights into any shifts in sentiments among team members,
+allowing us to assess the true impact of the summit, satisfaction and engagement.
+This is an abbreviated version of our engagement survey, and it also includes a few Summit
+related questions.
+Survey Confidentiality
+In an effort to ensure team member confidentiality is upheld, only managers with >5
+respondents will be able to view quantitative results - this is carried across to demographic
+filtering in teams with population sizes which exceed the minimum too. The survey is wholly
+administered by Culture Amp on a secure external website and the survey data will not be stored
+on any local computer. If you’d like to know more, check out CultureAmp’s FAQ guide.
+Survey Results
+Team members can access Summit Pulse Survey results here
+FY'23 Pulse Engagement Survey
+FY'23 Pulse Engagement Survey Timeline
+2022-05-16: Pulse Survey launch
+2022-05-25: Pulse Survey close
+2022-06-14: Results shared with e-group
+2022-06-21: Managers with 5+ responses receive reports via Culture Amp
+2022-06-21 through 2022-07-04: Leaders/Managers review their reports and discuss/
+brainstorm action plans in Staff/team meetings
+2022-06-28 and 2022-06-29: Results shared company-wide at GitLab Assembly
+2022-07-30: Finalize Action items and document in epics/issues
+2022-08-01: Functional action plans added to FY'23 Q3 OKRs and Division epics
+Taking Action
+Once the GitLab Team Member Engagement Survey has been closed out, reports will be
+dissementated to the E-Group and Divisional Heads for review i.e. only those with team
+populations >5. These will form the basis of discussion when collaboratively compiling the people
+strategy for year ahead in conjunction with additional data such as attrition reports etc.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Timeline for Action Planning
+Each E-Group member will in collaboration with their respective People Business Partner
+(PBP) to identify one or two acton items to initiate coming out of the results review -
+these will be tracked and managed via a dedicated Epic in GitLab per Division.
+After action items have been identified at the E-Group level, all managers who received
+an engagement survey result report (AKA: managers with 5+ direct reports who
+responded to the survey) will also be asked to create an action plan in Culture Amp.
+A manager may choose to align their action planning to their leader or division or they
+may choose to add a specific and separate action for their team. This will likely depend
+on the size/structure of the organization.
+Using Epics and Issues to Create an Action Plan
+For the FY23 Engagement Survey, all divisions are recommended to create an Epic to store
+Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of
+the engagement survey results that includes: highlights, lowlights, recommended actions, and
+resources. Epic’s can be created in division issue boards or projects that are applicable to the
+organization.
+In addition, Managers can create an Engagement Survey Action Issue that links to the division
+wide epic. In the Issue, managers can link team wide actions to the division.
+See the example epics from FY22 for inspiration.
+FY23 Division-Wide Engagement Survey Action Epics
+Engineering
+Product
+Sales
+Marketing
+Finance
+People
+Legal & Corporate Affairs
+Resources for Managers
+Engagement Survey Manager Toolkit - GitLab Learn pathway
+Managers Guide to Taking Action
+Take Action with Action Framework
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

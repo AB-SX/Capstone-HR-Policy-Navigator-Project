@@ -1,0 +1,116 @@
+Date Topic Public or
+Private
+2020-04-09 Professional Services Offerings & Positioning Private
+2020-04-02 End to End Visibility & Insights Public
+2020-03-26 GitLab Account Based Marketing and Ideal Customer Profile Private
+2020-03-19 True-Ups Public
+2020-03-12 The GitLab Journey & The SCM Use Case Public
+2020-03-05 The GitLab Journey & The CI Use Case Public
+2020-02-27 Q1 FY21 GitLab Release Update Public
+2020-02-06 SKO Preview Public
+2020-01-13 FY21 Product Outlook - Ops Section Public
+2020-01-13 FY21 Product Outlook - Secure and Protect Public
+2020-01-09 Reference Edge training session Private
+2019-12-19 Microsoft Competitive Update Private
+2019-12-12 FY21 Product Outlook - CI/CD Section Public
+2019-12-05 Build Pipeline Leveraging the New Digital Transformation Customer
+Deck
+Public
+2019-11-21 Ultimate Is Ready for Primetime! Private
+2019-11-14 FY21 Product Outlook - Dev Section Public
+2019-11-07 How to Sell with AWS to accelerate your pipeline and find new
+Customers
+Private
+2019-10-17 The Art Behind Command of the Message Private
+2019-10-10 Selling Services to Accelerate Customer Adoption Public
+2019-10-03 Forrester Wave Cloud CI Report: What It Means to GitLab Sales,
+Customers & Prospects
+Private
+2019-09-26 Renewals Update from Sales Ops Private
+2019-09-19 GitLab Comparison Story against Cloudbees and Jenkins Private
+2019-09-12 Crayon Launch (Market and Competitive Intelligence Tool) Private
+2019-08-22 Q3FY20 GitLab Release Update for Sales Public
+2019-08-15 Things I Wish I Knew During My First Few Quarters at GitLab Private
+2019-08-01 Sales and Customer Enablement Update Public
+2019-07-11 Social Selling 101 Public
+Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on 
+watching private videos. which includes a link to this 2-minute video.
+To request new Field Enablement Spotlight sessions
+Complete and submit this Field Enablement Spotlight Request issue template•
+
+For urgent requests, please send a Slack message to #field-enablement-team and
+mention @John Blevins
+An example of the template is shown below with guidance on how to fill out each
+section.
+Overview
+Please provide a brief overview for the session that articulates why the field audience (sales &
+customer success) will want to attend, this will be used to create communications for the session.
+Please take care to write an inclusive description that articulates why the entire field sales and
+customer success audience will want to attend the session.
+Date & Time
+Please list the desired date for the session. The Field Enablement Spotlight takes place each week on
+Thursday, with two session options to accomidate GitLab’s global field sales audience.
+Presenter(s) & Moderator(s)
+Make sure the presenter(s) are able to cover both session options, or find alternative presenter(s) that
+can cover both session options. Whenever possible, please invite a member of the field sales team to
+speak about their experiences to support your topic. The Moderator(s) are assigned from the
+Enablement team to facilitate the session and act as the primary point of contact for collboaration.
+In most cases more than one moderator will be assigned to cover both session options
+(Option 1) 11:00 AM (US Eastern Time)(UTC -5) = (8 AM Pacific Time) = (5 PM Central
+European Time)(UTC +1)
+(Option 2) 12:00 PM (Australian Eastern Time)(UTC +11) = (5 PM US Pacific Time)(UTC
+-8)
+Learning Objectives
+Please write 2-3 key takeaways you would like for the audience to be informed about as a result of
+the session.
+Resources
+Please list all session resources within the planning issue, including presentations and other related
+content. All session content must be ready for review by Field Enablement and departmental
+leadership one week prior to the session air date.
+Session Format
+Consider the desired session format and style including but not limited to Interview, Ask Me Anything,
+Presentation with Q&A, and Panel Discussion.
+• 
+• 
+• 
+•
+
+Session Length
+The Field Enablement Spotlight takes place every week on Thursday. Please choose a session length
+appropriate for the topic, length of presentation, and expected volume of questions from the
+audience. 30 minutes is the standard session length, with 15 minutes for presentation and 15
+minutes for questions from our audience. When needed sessions can be extended to 45 or 50
+minutes.
+Call to Action
+What action(s) do you want field team members to take after this session?
+Polling
+If you would like to add a poll to your session, please write the poll question and answer choices that
+should be presented to the audience.
+Get an invite to the weekly session
+To get a calendar invite to the weekly Field Enablement Spotlight, make sure you are added to the
+one of the following email groups.
+Sales & Customer Success Teams sales-all@
+SDR BDR Team sdrbdr@
+Marketing Team marketing-team@
+You can fill out an access request to request access to the email group. These groups are invited
+to the meeting so that each individual person does not need an invite.
+Training Playlist
+The latest, most relevant sessions are highlighted within the Field Enablement Spotlight:
+Continuous Education at GitLab page in Highspot.
+There are a few places to see historical Field Enablement Spotlight sessions.
+Sales enablement Youtube playlist on GitLab Unfiltered YouTube
+Sales enablement Youtube playlist on GitLab YouTube
+Historical sessions that were recorded in Google drive can be accessed via this 
+deprecated spreadsheet
+Scheduling trainings
+4-6 weeks before the start of a new quarter
+Solicit input from sales leaders, Product Marketing, Partner Ecosystem, Competitive
+Intelligence, Analyst Relations, and others (e.g. Sales Ops) on sales enablement topics
+for the next quarter
+• 
+• 
+• 
+• 
+• 
+• 
+•

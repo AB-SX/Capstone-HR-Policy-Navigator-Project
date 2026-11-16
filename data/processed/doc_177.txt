@@ -1,0 +1,164 @@
+How to Update a Start Date After the Contract is Signed
+To change a start date after a GitLab entity contract has been signed and the new team member
+has been “hired” in GreenHouse the Candidate Experience Specialist will complete the following
+steps:
+Once the recruiter notifies CES of the start date change, CES should send the “Start Date
+Change Confirmation” template in Greenhouse under “email the team” and ensure all
+necessary fields are filled in.
+After receiving confirmation from both the Hiring Manager and the New Hire, save the
+confirmation email as a PDF file for upload into Workday.
+Update GreenHouse:
+Offer Details
+Click the edit pencil next to the start date
+Select the new Start Date
+Save
+In the “Make a Note” section in Greenhouse state the old start date and the new state
+date, and tag the person on FP&A (typically the second approver) who approved the
+offer.
+Save
+4. Update Entity Payroll Provider (Netherlands) of any changes to the start date via the
+email templates in Greenhouse.
+5. Update the People Connect Team in Slack Workflow.
+Open private Slack channel #peopleops-alerts-private
+Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
+Click “New Start Date Workflow”
+Fill in Team Member Name with the New Hire Name
+Fill in Original Start Date (YYYY-MM-DD)
+Fill in New Start Date (YYYY-MM-DD)
+Fill in Reason For Change. This is to inform the People Connect Team of the reason for
+the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
+Optional: Fill in Any other changes.
+Click Submit
+6. Upload start date change comms into Workday.
+Sign into Workday
+Search the new team member’s name
+Click on the Personal Link on left side of screen
+Select “Documents”
+Select “Add”
+Click “Select Files” and choose appropriate saved PDF
+Select “OK”
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Under “Document Category” select “Pre-Hire Documents & Changes”
+Under “Comment” write “Start Date Change”
+Click “Ok” to upload
+To change a start date after a PEO contract has been signed and the new team member has been
+“hired” in GreenHouse the Candidate Experience Specialist will complete the following steps:
+Confirm the start date via email with the new team member, the recruiter, the hiring
+manager, and the Candidate Experience Specialist.
+Forward the email to the contact at the PEO.
+The PEO will generate a new contract and send to the new team member.
+* The Candidate Experience Specialist will need to follow-up with the PEO contact to
+ensure the new contract is signed.
+Update GreenHouse:
+* Offer Details
+* Click the edit pencil next to the start date
+* Select the new Start Date
+* Save
+* In the “Make a Note” section in Greenhouse state the old start date and the new state
+date
+* Save
+Update the People Connect Team in Slack Workflow.
+* Open private Slack channel #peopleops-alerts-private
+* Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
+* Click “New Start Date Workflow”
+* Fill in Team Member Name with the New Hire Name
+* Fill in Original Start Date (YYYY-MM-DD)
+* Fill in New Start Date (YYYY-MM-DD)
+* Fill in Reason For Change. This is to inform the People Connect Team of the reason for
+the new date (i.e. Public Holiday, New Hire request, Hiring Manager request, etc.).
+Upload start date change comms into Workday.
+* Sign into Workday
+* Search the new team member’s name
+* Click on the Personal Link on left side of screen
+* Select “Documents”
+* Select “Add”
+* Click “Select Files” and choose appropriate saved PDF
+* Select “OK”
+* Under “Document Category” select “Pre-Hire Documents & Changes”
+* Under “Comment” write “Start Date Change”
+* Click “Ok” to upload
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+How to Update a Start Date for an internal candidate after the Job Change
+Letter is Signed
+To change a start date after a Job Change Letter (JCL) has been signed and the internal team
+member has been “hired” in GreenHouse, the Candidate Experience Specialist will complete the
+following steps:
+Once the start date change request comes through, CES will advise the recruiter to
+collaborate with the hiring manager or PBP to raise a Compass ticket for the People
+Connect team to make these changes in Workday.
+The hiring manager or PBP should provide confirmation of the new start date via the
+Compass ticket.
+CES can update GreenHouse:
+* Go to Offer Details
+* Click the edit pencil next to the start date
+* Select the new Start Date
+* Save
+* In the “Make a Note” section in Greenhouse, state the old start date and the new state
+date, and tag the person on FP&A (typically the second approver) who approved the
+offer.
+* Save
+How to Update a Start Date After a French or Spain contract has been signed
+Please follow the normal start date change process, thereafter, please follow the following steps:
+Make a copy of this Start Date Amendment letter
+Edit all the highlighted details and save the document on your desktop
+In Docusign, create a new envelope and set the signing order as follows:
+* 1 - GitLab France or Spain Signatory (sign)
+* 2 - The candidate (sign)
+* 3 - Alessio Spaggiari (copy)
+Use the TextExpander ‘StartdateFS’ in the body of the email in Docusign
+Request the signatory in the contracts Slack Channel #contracts-to-sign to sign the
+letter
+Once the document has been signed, load it onto the candidate’s profile in WorkDay
+How to Void a Contract Before a Candidate Signs
+In rare cases, we may rescind our offer before a candidate signs the contract. Work with the
+Recruiter, Hiring Manager, People Business Partner, VP of Talent Acquisition, and Contract
+Employment Counsel on ensuring uniform communication. Once the candidate has been
+informed verbally and via email by the talent acquisition team, follow these steps:
+Ensure the email is exported into the Activity Feed in Greenhouse.
+Void the contract in DocuSign utilizing the same communication that was emailed.
+Reject the candidate in Greenhouse. Be sure to select ‘Reject and Don’t Send Email.’
+1. 
+2. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+3.

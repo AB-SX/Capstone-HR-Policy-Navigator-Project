@@ -1,0 +1,139 @@
+Query - Team Roster with Tenure Information 
+Shows all current team members with their length of service, helping managers understand their team
+composition and recognize long-term employees.
+SELECT 
+ t.employee_id,
+ e.full_name,
+ e.position,
+ e.team_manager_name,
+ t.hire_date,
+ DATEDIFF('month', t.hire_date, CURRENT_DATE()) AS tenure_months,
+ ROUND(DATEDIFF('year', t.hire_date, CURRENT_DATE()), 1) AS tenure_years
+FROM "PROD".common.fct_team_member_history t
+JOIN PROD.COMMON_MART_PEOPLE.MART_TEAM_MEMBER_DIRECTORY e 
+ ON t.employee_id = e.employee_id AND is_current= TRUE -- Team member's current 
+information
+WHERE e.team_manager_name = 'MANAGER_FULL_NAME' -- Replace with preferred 
+full name of the people manager
+ AND t.term_date IS NULL -- Only current team members
+ORDER BY tenure_years DESC
+fct_team_member_job_history
+This table contains team members’ job history. Sensitive columns like job_grade are masked
+using dynamic masking and the fields are only visible to team members with the analyst_people
+role assigned in Snowflake. This table is a hybrid SCD (Type 0 + Type 2).
+The table includes information from Workday, . The grain of this table is one row per team member
+ID and workday job profile id combination.
+Query - Career Progression Path Analysis (Most common job transitions)
+WITH job_sequences AS (
+ SELECT
+ dim_team_member_sk,
+ job_title AS current_job,
+ LEAD(job_title) OVER(PARTITION BY dim_team_member_sk ORDER BY job_start_date) 
+AS next_job
+ FROM "PROD".COMMON.fct_team_member_job_history
+)
+SELECT
+ current_job,
+ next_job,
+ COUNT(*) AS transition_count
+FROM job_sequences
+WHERE next_job IS NOT NULL
+AND NOT current_job = next_job
+GROUP BY current_job, next_job
+ORDER BY transition_count DESC;
+Query - Team Member Retention by Job Family/
+WITH retention_by_job_family AS (
+SELECT
+
+job_family,
+ COUNT(DISTINCT dim_team_member_sk) AS total_team_members,
+ COUNT(DISTINCT CASE WHEN is_active_team_member = TRUE THEN dim_team_member_sk END) 
+AS active_team_members,
+ ROUND((COUNT(DISTINCT CASE WHEN is_active_team_member = TRUE THEN 
+dim_team_member_sk END) / COUNT(DISTINCT dim_team_member_sk)::FLOAT) * 100) AS 
+retention_rate
+FROM "PROD".common.fct_team_member_job_history
+GROUP BY job_family
+ORDER BY retention_rate DESC
+)
+SELECT * 
+FROM retention_by_job_family
+WHERE NOT active_team_members = 0 --Excluded deprecated job families
+fct_team_member_absence
+This table contains team members’ absence information. Sensitive columns are masked using 
+dynamic masking and the fields are only visible by team members with the analyst_people role
+assigned in Snowflake. This table is a Type 0 SCD
+The table includes information from Time Off By Deel, . The grain of this table is one row per 
+team member ID per pto_uuid and absence_date combination.
+mart_team_member_absence
+This table is a derived mart from fct_team_member_absence and dim_team_member. Sensitive
+columns are masked and only visible by team members with the analyst_people role assigned in
+Snowflake. This table will be a replacement of the workspace table wk_pto.This table is a hybrid
+SCD (Type 0 + Type 2).
+The grain of this table is one row per team member ID per pto_uuid and absence_date
+combination.
+Query - Absence days for an team member by quarter for the year 2024
+WITH final AS (
+ SELECT
+ *,
+ DATEDIFF(DAY, absence_start, absence_end) + 1 AS pto_days_requested,
+ ROW_NUMBER() OVER (
+ PARTITION BY
+ employee_id,
+ absence_date
+ ORDER BY
+ absence_end DESC,
+ pto_uuid DESC
+ ) AS pto_rank
+ FROM prod.common_mart_people.mart_team_member_absence
+ WHERE absence_date <= CURRENT_DATE
+ AND pto_days_requested <= 25
+ AND COALESCE(pto_group_type, '') != 'EXL'
+ AND NOT COALESCE(absence_status, '') IN ('CEO Shadow Program', 'Conference', 
+'Customer Visit')
+
+QUALIFY pto_rank = 1
+)
+SELECT
+ QUARTER(absence_date) AS quarter,
+ absence_status,
+ COUNT(absence_date) AS absence_count
+FROM final
+WHERE full_name = 'John Doe'
+ AND YEAR(absence_date) = 2024
+GROUP BY QUARTER(absence_date), absence_status
+ORDER BY quarter ASC, absence_count DESC;
+mart_team_member_directory
+This table is a derived fact from fct_team_member_position and dim_team. Sensitive columns are
+masked and only visible by team members with the analyst_people role assigned in Snowflake.
+This table will become a replacement of the legacy tables employee_directory_* once all the
+Workday data has been included in the upstream tables.
+The grain of this table is one row per team member per valid_from/valid_to combination.
+Average location factor by division
+SELECT
+ directory.division,
+ DATE_TRUNC('month', dates.date_actual) AS month,
+ ROUND(AVG(location_factors.location_factor),2) AS average_location_factor
+ FROM PROD.COMMON_MART_PEOPLE.MART_TEAM_MEMBER_DIRECTORY AS directory
+ INNER JOIN PROD.LEGACY.DATE_DETAILS AS dates
+ ON dates.date_actual >= directory.valid_from
+ AND dates.date_actual < directory.valid_to
+ LEFT JOIN PREP.SENSITIVE.EMPLOYEE_LOCATION_FACTOR_SNAPSHOTS AS location_factors
+ ON REPLACE(location_factors.bamboo_employee_number,',','') = directory.employee_id
+ AND NOT (directory.valid_to <= location_factors.valid_from
+ OR directory.valid_from >= location_factors.valid_to)
+ WHERE location_factors.location_factor IS NOT NULL
+ AND directory.is_current AND directory.is_current_team_member
+ GROUP BY 1, 2
+Tenure bucket per team member
+SELECT
+ employee_id,
+ hire_date,
+ DATEDIFF(day, hire_date, CURRENT_DATE()) AS tenure_in_days,
+ CASE WHEN tenure_in_days BETWEEN 0 AND 183 THEN '0 - 6 Months'
+ WHEN tenure_in_days BETWEEN 184 AND 365 THEN '6 - 12 Months'
+ WHEN tenure_in_days BETWEEN 366 AND 1095 THEN '1 - 3 Years'
+ WHEN tenure_in_days BETWEEN 1096 AND 2190 THEN '4 - 6 Years'
+ WHEN tenure_in_days > 2191 THEN '6+ Years'
+ ELSE null
+ END AS tenure_bucketed

@@ -1,0 +1,158 @@
+FROM PROD.COMMON_MART_PEOPLE.MART_TEAM_MEMBER_DIRECTORY
+WHERE is_current AND is_current_team_member
+Legacy and Other Data Models
+Legacy models are models we will be transitioning from at some point but are still being used for
+reporting.
+Legacy Workday Data Models
+Click to expand
+Database Schema Table Name Data Grain Description Notes
+prod legacy employee_directory_analysis employee_id
+by 
+date_actual
+Gives the
+current state of
+the team
+members at
+GitLab at any
+point of time.
+This is the
+model to use
+for headcount,
+team size, or
+any people-
+related analysis
+for team
+members. This
+has current
+and past team
+members, as
+well as their
+department,
+division, and
+cost center and
+hire/
+termination
+dates.
+prep sensitive employee_directory_intermediate employee_id
+by 
+date_actual
+INCLUDES
+SENSITIVE
+INFORMATION.
+The master
+collection of all
+info about
+GitLab team
+members for
+their latest
+position.
+prep sensitive workday_terminations employee_id Provides the
+termination
+reason, and
+
+Database Schema Table Name Data Grain Description Notes
+exit impact to
+allow the
+People
+Analytics team
+to accurately
+report on
+termination
+data
+prep workday blended_directory_source employee_id
+by 
+uploaded_at
+and 
+source_system
+Daily upload of
+team member
+data used for
+downstream
+models.
+Helpful
+source for
+auditing
+any data
+issues in
+Snowflake
+Greenhouse Data Models
+Click to expand
+Database Schema Table Name Data Grain Description Notes
+prod workspace_people rpt_hires application_id This is a
+report
+specifically
+for talent
+acquisition
+and counts
+accepted
+offers as
+hires.
+prep greenhouse greenhouse_application_stages_source application_id
+by stage_id and 
+stage_entered_on
+This table is
+Historical
+activity of
+all stages
+an
+application
+can be in
+Each row
+represents
+a stage that
+an
+application
+can be in,
+and the
+timestamp
+that the
+application
+entered and
+exited the
+stage
+
+Database Schema Table Name Data Grain Description Notes
+Things to
+note: This
+table
+contains a
+row for
+each stage
+that an
+application
+can be in
+(taken from
+the job that
+the
+application
+is on). Thus,
+there may
+be rows for
+stages that
+an
+application
+has yet to
+reach, or
+will not
+reach (if the
+application
+was
+rejected).
+prep sensitive greenhouse_recruiting_xf application_id This is
+shows all
+applications
+submitted
+and ties in
+offer data,
+greenhouse
+department
+(the
+associated
+division),
+and source
+data to be
+in 1 place.
+Last modified October 16, 2026: Remove content that was moved to The Loop (fd43b9b1)
+View page source
+ 
+ .

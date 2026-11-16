@@ -1,0 +1,107 @@
+Reinstatement
+If a team member is offboarded from GitLab during the course of their Military service,
+they will be guaranteed reinstatement rights for up to 2 years after their service ends.
+Team members with disabilities have two years after their service ends—for purposes of
+recuperation and convalescence—to seek re-employment.
+To be entitled to reinstatement, the following conditions must have been met:
+The team member gave the employer notice of the need for military leave,
+The team member was released under honorable conditions,
+The team member returned and applied for re-employment within the following time
+restrictions:
+Leaves of less than 31 days: The team member must report to work on the first regularly
+scheduled work period following the completion of military service; no application is
+required.
+Leaves of more than 31 days but less than 180 days: The team member must apply for
+reinstatement within 14 days after completion of military service.
+Leaves of more than 180 days: The team member must apply for reinstatement no more
+than 90 days after completion of military service.
+When team members return from military service, they will be entitled to return to the position
+they would have attained if they had not been called to serve. This requirement is known as the
+“escalator principle.” The principle means that if the team member would have been promoted
+except for this leave of absence and if the team member is qualified to take the position now or
+can become qualified with reasonable efforts by GitLab, then GitLab must consider the team
+member for the promotion. If the team member is not or cannot become qualified, then GitLab
+will reinstate them to the job they held before the leave of absence or in a position of equivalent
+seniority, pay and status. In limited situations, if GitLab’s circumstances make reinstatement
+impossible—for example, in light of decreased business or impending layoffs—then GitLab’s
+obligation to reinstate the team member does not apply.
+How to Apply for Military Leave
+Team members should first review their own country’s Military Leave policies to ensure they are
+reporting their leave in accordance with any reporting requirements. Whenever possible team
+members need to provide at least 30 days advance notice by selecting Military Leave under the
+Leaves dropdown in Workday. GitLab reserves the right to request documentation related to the
+team member’s Military service. The Absence Management Team will contact you if
+documentation is needed.
+For any questions about how to initiate a military leave or requests for reinstatement,
+please contact the Absence Management team by submitting a Compass ticket. For
+GitLab Inc or GitLab Federal team members, please additionally review the Military
+Leave policy.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Sick Leave
+Sick absences that are 6 days or longer are considered a leave of absence. You can read more
+about this here.
+Caregiving Sick Leave
+Caregiver sick absences that are 6 days or longer are considered a leave of absence. You can read
+more about this here.
+Equity Vesting During Leave
+Stock vesting is paused after six months of continuous leave and resumes on your first day back
+at work. Please note that this policy is applied in accordance with applicable local laws and
+statutory requirements, and may not apply in all locations or to all types of leave globally.
+For complete details, please refer to our Equity policy page. If you have questions or concerns
+about how this applies to your specific situation, please submit a Compass ticket to the Stock
+Admin team directly.
+Last modified October 26, 2026: Update Parental Leave to include fostering & surrogacy
+(intended parent) (f96389cf)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/data-
+guide/
+085. Data Guide to People Data Analysis
+Data Guide to People Data Analysis
+Objectives for this page
+This handbook page provides an overview of data definitions and data models used by the People
+Analytics team. Use this page for clarification on terminology, calculations, or models that use
+People data. If you have any questions please don’t hesitate to reach out to someone from the
+team for help.
+Helpful places to start
+DBT Docs - This resource contains comprehensive documentation on all available dbt
+models. This is a great starting point to understanding our models. For specific People
+Models, please reference the Commonly Used Data Models section below for a starting
+point.
+Definitive guides to data subject areas managed by the Data team.
+Documentation on data pipelines for the technically curious analyst. This page goes into
+each data source and extraction details.
+People Group Tech Stack Guide for overview of all the integrations that go into and out
+of our HR systems and all the tools we use.
+People Group Data Dictionary
+Employment Data
+Data pertaining to the worker and employment at GitLab once hired
+Click to expand
+Name Description Calculation Is
+Sensitive
+Team
+Member
+A person that worked for GitLab at any
+point in time, has an employee id in one
+of our Human Resource Management
+Systems (HRMS), and is not a temporary
+(contingent) worker or intern
+Employee ID Unique ID assigned in our HRMS upon
+hire to track team member’s employment
+with GitLab
+Yes
+Hire Date
+• 
+• 
+• 
+•

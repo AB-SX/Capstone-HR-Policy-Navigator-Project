@@ -1,0 +1,48 @@
+Source: https://handbook.gitlab.com/handbook/eta/corporate-it/end-user-services/onboarding101/
+107. GitLab IT Onboarding 101
+GitLab IT Onboarding 101
+Step-by-step guide for new hires to activate Okta, set up their GitLab Mac or Linux computer, and
+access their Google and GitLab accounts.
+Welcome To GitLab
+Congratulations on joining GitLab! This page is dedicated to the IT onboarding experience, here
+at GitLab we use many applications and the latest hardware to enable you to complete your work
+to the best of your ability! While it may seem a little bit overwhelming at the start, we are here to
+make the process as easy as possible!
+IMPORTANT: You will not have access to your work Mac until your start date. On your start
+date, please follow this guide.
+Table of Contents
+Activate Your Okta Account
+Set up your computer:
+* Mac Setup
+* Linux Setup
+Set Up Okta Verify on Mac
+Google Account Setup
+Access GitLab Email and GitLab.com
+Activate Your Okta Account
+You will receive an Okta activation email in your personal email. This is the first step to gaining
+access to GitLab’s systems.
+On a mobile device, check your personal email for an Okta activation email.
+Click the link in the email to set your password and configure Okta Verify on your mobile
+device.
+After setting up your account, your browser will redirect to the Okta dashboard.
+IMPORTANT: Either Okta Verify or an enrolled FIDO2 key (like a YubiKey) is required to set up
+your GitLab-managed Mac. Make sure either is set up during your Okta account onboarding.
+Mac Setup
+IMPORTANT: If the Device Management screen does not show up during setup, please follow
+the manual enrollment steps to enroll your device in MDM.
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3.
+
+Keep your Mac plugged in and connected to a stable internet connection until setup is complete.
+Power on your GitLab-managed Mac.
+Select your country or region.
+1. 
+2.
+
+On the Transfer Your Data to This Mac screen, select Set up as new.3.

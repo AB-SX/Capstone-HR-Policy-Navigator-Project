@@ -1,0 +1,150 @@
+Leave can be taken as a 2 month block, or may be split into two periods of at least one
+month each
+Leave must be taken within 9 months of birth or adoption
+For children born between 1 January 2026 and 30 June 2026, the 9-month window
+begins on 1 July 2026, meaning leave must be used by 31 March 2027
+This leave is paid by the French social security system (indemnités journalières) at a degressive
+rate:
+Month 1: 70% of net reference salary
+Month 2: 60% of net reference salary
+The monthly benefit is capped at the monthly Social Security Ceiling (PASS), which is EUR
+4,005 in 2026
+How to Apply
+Notify your manager and provide at least 1 month’s advance notice to the Absence
+Management Team at leaves@gitlab.com, specifying your desired start date and
+duration. If your Additional Birth Leave immediately follows Paternity or Adoption Leave,
+the notice period is reduced to 15 days
+If taking the leave in two separate periods, indicate this in your request along with the
+planned dates
+Apply for social security daily allowances (indemnités journalières) as applicable
+Family Care Leave
+When your family needs you, GitLab provides time to care for ill family members, ensuring you
+can be there during challenging times.
+Eligibility Requirements
+All GitLab France S.A.S. team members
+Medical certificate required
+Key Features
+3 days per year for family care
+5 days if child is under 12 months old
+Generally unpaid unless eligible for GitLab Sick Time policy
+How to Request
+Contact Absence Management Team at leaves@gitlab.com
+Submit medical certificate with your request
+Specify dates needed
+Time Off Policies
+Paid Time Off (Vacation)
+GitLab France provides generous paid time off in accordance with French statutory requirements,
+plus additional RTT (Reduction of Working Time) days. This comprehensive approach ensures you
+have time to rest, recharge, and maintain work-life balance.
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+•
+
+Eligibility Requirements
+All GitLab France S.A.S. team members
+Entitlement based on French labor law
+Must track time in Workday
+Key Features
+Statutory vacation days per French requirements
+Additional RTT days for work-life balance. Team members are responsible for ensuring
+that they are tracking their time accurately in Workday.
+Flexible time off through GitLab’s PTO policy
+Team members can review statutory requirements in relation to vacation (internal
+access only)
+Team members should be aware of their applicable leave categories and can review
+logging requirements for logging time away from work and the suggested order for
+using leave balances (internal access only)
+How to Request Time Off
+Submit request in Workday via Slack by following these time-off logging instructions
+Important Details
+RTT tracked separately from standard PTO
+Contact Information
+Policy questions: leaves@gitlab.com
+Payslip balance questions: nonuspayroll@gitlab.com
+Sick Leave Policy
+When illness strikes, GitLab provides comprehensive sick leave support through a combination of
+French social security benefits and company salary supplementation, ensuring financial stability
+during health challenges.
+Eligibility Requirements
+First 6 months of sick leave:
+150 hours worked in prior 3 months, OR
+Salary of 1,015 times hourly SMIC in prior 6 months
+Beyond 6 months:
+12 months of social security contributions
+600 hours worked in prior 12 months, OR
+Income of 2,030 times hourly SMIC in prior 12 months
+Coverage & Key Features
+Up to 6 months sick leave (extendable based on eligibility)
+GitLab supplements social security to provide 100% salary for first 25 working days
+After 25 days: Social security benefit of 50% daily wage (max €50.58/day)
+Review current sick time policies
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+How to Report Sick Leave
+Notify GitLab within 48 hours via “Out Sick” in Workday
+Send sheet no. 3 from physician to leaves@gitlab.com
+Submit sheets no. 1 & 2 to social security organization
+For extensions: Notify within 48 hours with updated sheet no. 3
+Important Details
+Notification deadline: 48 hours
+Medical documentation required
+GitLab salary supplement: First 25 working days
+Contact Information
+Sick leave reporting and policy questions: leaves@gitlab.com
+Working Hours Tracking
+All France team members must track working hours and time away to comply with French labor
+regulations.
+Requirements
+Log all time away from work
+Review detailed timekeeping policies (internal access)
+Contact Information
+Policy questions: leaves@gitlab.com
+Questions?
+For any questions, reach out to our support teams:
+Benefits: Compass
+Leave and absence: leaves@gitlab.com
+Additional resources: People Operations page
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

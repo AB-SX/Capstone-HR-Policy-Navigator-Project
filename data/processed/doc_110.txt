@@ -1,0 +1,154 @@
+A few additional reasons to consider calibrating beyond Box 1 and Box 9 are:
+Team members close to promotion
+Team members who have changed assessments from the previous fiscal year (i.e.
+“Performing Performance” to “Exceeding Performance”)
+Team members in Box 3 (“Exceeding Growth Potential” and “Performing Performance”)
+to highlight potential development opportunities from peer groups
+Outliers based on Performance alone (i.e. everyone “Developing Performance” and
+everyone “Exceeding performance”)
+Anyone hired in the last 3 months assessed as Performing or Exceeding for Performance
+aligned with eligibility guidance
+Anyone identified as Key Talent
+Calibration Session Pre-Work
+It is absolutely essential that managers complete the required pre-work to ensure that the live
+calibration session is as efficient and productive as possible. Pre-work includes:
+For calibration sessions you can leverage this agenda template
+Review the team member’s own Self-Evaluation if they have completed one, if they
+wished to complete one.
+Review the Job Family/Families that will be calibrated in detail
+Review our competencies
+Job frameworks
+Values competencies
+Remote work competencies
+Functional competencies (if applicable)
+Determine the appropriate box for each of your team members
+Add notes for each of your team members to the agenda, at least 12 hours before the
+session
+An example of notes could include:
+2-3 strengths/accomplishments (and supporting examples)
+2-3 improvement areas
+Anything else noteworthy (i.e. recently promoted or transferred, etc.)
+Keep the SBI Model (Situation, Behavior, Impact) in mind when adding notes for
+strengths/accomplishments and improvement areas. Each point should include clear
+examples and blanket statements should be avoided.
+Review the notes of your peers for other team members and add feedback/questions/
+thoughts for discussion
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+• 
+•
+
+Topics To Avoid
+While we want to encourage open and transparent conversation during calibration session, there
+are certain topics that should be avoided to ensure we respect team member privacy.
+Sharing whether team members are currently undergoing formal performance
+remediation. It is okay to share that team members are receiving coaching, but specifics
+pertaining to Written coaching, PIPs, etc. should be avoided.
+Anything related to health (i.e. medical diagnoses, conditions, disabilities, etc.). It is okay
+to share that team members have a lot going on in their personal lives, but we should
+not go into detail. Note that this applies for team member’s friends/family as well.
+Identifying Action
+After the calibration sessions the performance and growth potential outcomes can be used as
+input for the following:
+Career Development Conversations
+Promotion planning
+Identifying L&D opportunities
+Succession Planning
+FY26 Talent Assessment
+Timeline
+The FY26 talent assessment cycle runs from January through April, with promotions and
+compensation changes effective May 1, 2026. This cycle combines talent assessments with Q2
+promotion nominations to streamline the process for managers and team members.
+Note that different departments may have additional due dates built into the high-level timeline
+below. Please follow up with your People Business Partner if you have questions specific to your
+division.
+December: Offline versions of self-assessment and promotion document available for
+early drafting
+January 12: Self-assessment opens in Workday for all team members (due: January 23). 
+Note: Self-assessments automatically advance to managers upon submission. Managers
+can begin their reviews and ratings immediately without waiting for the mass-advance
+on January 23.
+January 23: Incomplete self-assessments are mass-advanced to managers
+January 26-30: Manager Talent Assessment ratings and promotion nominations due in
+Workday (via “Assess My Team”)
+February 2-27: Leadership calibration sessions
+February 27: Calibration window closes, all ratings and nominations finalized
+March 13: Manager finalizes and submits team member assessment form in Workday
+March: Annual Compensation Review (ACR)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+End of April: Manager communication window (specific dates to be communicated)
+May 1: Promotions and cash compensation changes effective
+Note: This timeline represents the high-level flow for the combined cycle. More detailed guidance,
+including specific division timelines and process details, will be shared through your respective
+People Business Partner, January AMAs, and updated resources as we approach each phase.
+*Team members who are on Leave of Absence (LOA) are excluded from the auto advancement of
+their talent assessment until they return to work.
+For full details on our Annual Compensation Review (ACR) timeline and cycle, please refer to our
+ACR handbook page.
+Cadence
+GitLab completes talent assessment annually, with a recommended informal mid-year check-in.
+Eligibility
+Anyone hired before October 13, 2025 should receive a Performance and Growth Potential
+assessment, as they are eligible for Annual Compensation Review. Also refer to the Too New To
+Rate description.
+Team Member Self-Evaluations
+It is up to all team members’ discretion if they wish to complete their Self-Evaluation in Workday.
+While they are voluntary, self evaluations are highly encouraged so the team member’s
+perspective is captured and shared with their manager prior to the manager’s evaluation and
+Calibration Sessions. Please review the most current timeline to ensure a timely delivery.
+Team members may use Claude, Insights, and GitLab Wrapped to assist in the preparation of
+your self evaluation. AI tools like these can be super helpful to assist you in gathering information
+about your accomplishments, or helping you brainstorm how you might refine your self
+evaluation. However, meaningful human input and review is always required, and you should not
+rely solely on Claude to write your self-evaluation.
+Matrix Assessment Timeline
+The Performance/Growth Potential Matrix typically takes 4-6 weeks to complete from beginning
+to end. Steps are as follows:
+Team members have the opportunity to complete a Performance Review Self-Evaluation
+if they so wish, and share it with their manager through Workday.
+Managers complete a Manager evaluation and Performance/Growth Potential ratings
+for their respective team members
+Live session takes place for calibration with managers up to E-Group level
+Executive Review (leadership meets to review the matrix results, key talent, promotion
+requests, development and performance actions, review discrepancies, and measure
+against previous matrix results)
+Talent Management and People Analytics performs an equality review.
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5.

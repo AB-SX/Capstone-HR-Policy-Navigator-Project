@@ -1,0 +1,77 @@
+Share helpful tips and resources that are valuable during onboarding and beyond
+Month 2
+Provide opportunities for the new hire to shadow your calls and debrief on them
+together
+Align with the new hire’s manager on other ways you can provide support
+Month 3
+Provide support and feedback as it relates to different customer situations and discuss
+mitigation strategies for renewals
+Inform the new hire on how you can continue to support them beyond the formal
+onboarding period
+Graduation from RM Onboarding
+To be considered graduated from your RM onboarding journey, you must have:
+Completed all items in your GitLab onboarding issue checklist (recommended within 5
+working days of your start date)
+Completed the GitLab Academy eLearning prework and passed all knowledge checks
+Attended all GitLab Academy sessions, including the Command of the Message class
+(attendance is mandatory)
+Attended all four role-based live skills sessions
+Attended the in-person regional graduation Bootcamp and passed the stand-and-deliver
+capstone assessment
+Completed role-play activities and discussed feedback with your manager and
+onboarding buddy
+Shadowed at least 5-10 calls as determined by your hiring manager
+Demonstrated proficiency in all Salesforce operations relevant to the RM role, including
+preparing accurate renewal quotes for customers and resellers
+Demonstrated proficiency in sales order processes
+Demonstrated a clear understanding of how to use the GitLab handbook as a resource
+Demonstrated an understanding of forecasting
+It is expected that by your 20th working day, you will be assigned to your territory.
+Continuous Enablement
+In addition to onboarding, continuous enablement is available through micro-learning, job aids,
+just-in-time resources, and live webinars.
+Customer Success Skills Exchange — a biweekly webinar series for Customer Success
+and Solutions Architect teams covering a range of relevant topics
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Field Enablement Spotlight — weekly sessions covering topics relevant to the full field
+team
+RM Highspot Page — single source of truth for RM content, plays, and resources
+Resources and Links
+Renewals Manager (RM) Onboarding Learning Path on LevelUp
+Revenue Academy Handbook Page
+RM Highspot Page
+#global-renewals-managers Slack Channel
+RM Onboarding Feedback
+Feedback
+Your feedback on the onboarding process is important to us and we welcome your thoughts and
+ideas about how we can improve in the future. Please share your feedback in the RM Onboarding
+Feedback issue or reach out in #field-enablement-team on Slack.
+Last modified September 24, 2026: Rename Customer Success handbook to Customer
+Experience, delete the stale CX handbook (968e3521)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+•

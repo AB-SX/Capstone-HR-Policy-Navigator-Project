@@ -1,0 +1,109 @@
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/self-paced-learning/
+113. Self-Paced External Trainings
+Self-Paced External Trainings
+Details of third-party training providers utilised by various GitLab departments
+Teams around GitLab utilize other training providers for accessing role specific training courses
+and learning materials. This handbook page lists the different providers used, including details
+on access and licensing.
+O’Reilly Learning
+The O’Reilly Learning library, contains thousands of books, videos and live learning courses to
+assist team members with professional development and staying up-to-date with changing
+technology trends. Additionally, code sandboxes are included within the O’Reilly platform that
+team members can utilize to practice new skills or hone existing ones.
+How to get an O’Reilly license
+O’Reilly is funded by Engineering, so is currently only available for Engineering team members
+please request access via Lumos. Please note, seats are very limited, so you may need to wait
+until one becomes available.
+To ensure seats and licenses are used effectively, access will be removed after 3 months to
+reallocate seats/licenses to other users. If you would like access again in the future, you can re-
+request it.
+If you’re outside of Engineering and would like an O’Reilly license, you can purchase one using
+the G&D Fund.
+Accessing O’Reilly content
+Once you have an active license, we have a content integration set up in LevelUp, so you can find
+and filter O’Reilly content using the search function, alongside all our other self-paced learning
+materials.
+You can also access via the O’Reilly platform directly.
+Google Cloud Skills Boost Learning
+As a GCP Partner, GitLab has a number of seats to Google Cloud’s Skills Boost Platform for
+Partners. This portal includes a wide array of learning materials related to Google Cloud’s
+offerings, ranging from introductory to advanced.
+This is a completely self-paced learning platform with a variety of learning formats, including
+video content and hands-on labs style engagement.
+If you would like a seat for Google Cloud Skills Boost, please request it via Lumos.
+
+Hone Learning
+GitLab has partnered with the Hone employee development platform to provide licenses for all of
+GitLab’s manager population. You can read more about the system and how to access, (including
+access for ICs) in the Hone handbook page.
+MasterClass
+MasterClass gives every GitLab team member access to world-class instructors across a huge
+range of subjects — from leadership and communication to creativity, writing, cooking, and
+beyond. Whether you’re looking to sharpen a professional skill or explore something entirely new,
+MasterClass is a great place to start.
+The content itself is genuinely exceptional. You’ll learn directly from people who are the best in
+the world at what they do — think Diane von Furstenberg on building a brand, Chris Voss on
+negotiation, or Roxane Gay on inclusive storytelling. The production quality is second to none,
+and courses are broken into short, digestible lessons that fit easily into a busy schedule.
+All GitLab team members have a MasterClass license included as part of our learning offering, so
+there’s no cost and no approval needed — just log in and start learning.
+Accessing MasterClass
+You can access MasterClass in two ways:
+Via Okta — find the MasterClass tile in your Okta dashboard and log in directly.
+Via LevelUp — search for MasterClass content in the LevelUp catalogue to discover
+courses alongside all our other self-paced learning materials.
+Last modified August 28, 2026: Update O'Reilly section with seat reallocation policy (91717281)
+View page source
+ 
+ .
+1. 
+2.
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/level-up/
+114. LevelUp
+LevelUp
+What is LevelUp?
+LevelUp is GitLab’s internal learning and development platform, running on the Cornerstone
+Talent Experience Platform. It’s designed to support team member learning, professional
+development, and career growth, bringing together training content, skills development, and
+career pathing in one centralized system.
+Learning today goes way beyond self-paced content, webinars, and documents. GitLab’s LevelUp
+is an integrated talent experience platform that shows just how dynamic learning, growth, skills
+development, and performance can be.
+What’s the difference between LevelUp and GitLab University?
+With the launch of LevelUp, it’s important to note that LevelUp and GitLab University are now two
+completely separate platforms, each with a different purpose and audience.
+GitLab University LevelUp
+Target
+Audience
+Designed for educating customers
+and community members
+Designed for educating internal team members
+Platform Runs on ThoughtIndustries
+Learning System
+Runs on Cornerstone Talent Experience Platform
+Training
+Type
+Delivers external-facing product
+training
+Delivers internal training for team members -
+including product, professional development, and
+compliance training
+Benefits and Features
+The Cornerstone Talent Experience Platform (TXP) offers significant improvements over our
+previous learning management system, specifically designed to support internal employee
+development and career growth at GitLab. Key features include:
+Internal gigs and side projects to provide hands-on learning opportunities
+Enhanced management tools for training assignment and recommendations
+Advanced user-generated content capabilities - team members can create and share
+learning content
+Seamless integration with our talent management infrastructure, ensuring skills
+development is reflected in performance data
+Skills library linked to GitLab job architecture
+Mobile access via the Cornerstone mobile app for learning on-the-go
+• 
+• 
+• 
+• 
+• 
+•

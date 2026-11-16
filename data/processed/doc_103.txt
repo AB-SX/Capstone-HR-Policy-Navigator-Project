@@ -1,0 +1,123 @@
+Only use numbered links to list examples, not to describe how the person did
+something. Instead describe the contribution and link parts of the text.
+* Don’t
+“brought a critical user feature from the architectural stage right through to
+General Availability (GA) [1,2,3,4,5].”
+Do
+“created an [architecture blueprint], with a [proof of concept implementation] to
+validate the proposed solution and aid estimation. As a result, the project was
+delivered on time in 3 MRs [1,2,3].”
+Why: Avoids the need for the reader to investigate each link individually and
+figure out for themselves what the person’s contribution actually was, often
+from a large issue or discussion.
+Focus on ability and impact at the next level.
+* Don’t:
+"[name] delivered several projects on time by identifying quality implications during
+development, performing reviews and reaching out early when blocked."
+(Intermediate Engineer Competencies)
+Do:
+"[name] delivered several projects on time by proactively resolving vague
+requirements, collaborating cross-functionally, and mentoring other team-members
+in a way that enabled them to contribute." (Senior Engineer Competencies)
+Why: Space is limited and detailing contributions at the current level does not
+materially contribute to the case for promotion.
+Business Justification should describe how the person’s role will change if promoted, and
+what that means for the business.
+* Don’t:
+“This promotion recognizes [name]’s ability to operate at the next level in their role
+when required to do so.”
+Do:
+“With this promotion, [name] will assume ongoing responsibility for technical
+architecture, initially accelerating [project 1] as project lead and bringing forward
+completion of [project 2] and [project 3] by 3 months to the end of Financial Year
+2026.”
+Why: Clearly defining the expected role evolution helps demonstrate the
+business need for the promotion and how investing in it will contribute to the
+organization’s goals.
+Additional Tips for Clarity and Impact
+Avoid unnecessary filler words or phrases:
+Arguably
+In order to
+3. 
+◦ 
+◦ 
+◦ 
+◦ 
+4. 
+◦ 
+◦ 
+◦ 
+◦ 
+5. 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+• 
+•
+
+It should be noted that
+Due to the fact that
+Expand acronyms first time they appear (“Technical Account Manager (TAM)”).
+Double-check that links point to the right resource and that it is available to your
+expected readership.
+Use bullet points instead of prose.
+Avoid sentences over 30 words.
+Stick to the template. If it asks for two examples, give the two best examples.
+Last modified November 21, 2024: Add new FrontmatterTitle Vale rule and fix errors raised by
+new rule (d0b92d71)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/pronouns/
+040. Pronoun Guidance and Information
+Pronoun Guidance and Information
+Resources for understanding and discussing pronouns and their usage at GitLab.
+At GitLab, Diversity, Inclusion, & Belonging are written into our values.
+Part of creating an inclusive, respectful workplace is paying attention to
+the language that we use with each other, including how we use and share pronouns. Our
+inclusive language guidance is one way we put these values into practice.
+Sharing pronouns is always a personal choice, and not everyone will choose to do so. In some
+regions or contexts, people may not feel comfortable or safe sharing this information, and that
+choice should be respected.
+This page provides an overview of pronouns, why they matter, and how to use and display them
+across common tools at GitLab.
+A global perspective
+GitLab is an all-remote company with team members across many countries, cultures, and
+languages. Pronoun norms vary significantly around the world:
+In some languages, such as Turkish, Finnish, Hungarian, and Bengali, third-person
+pronouns are not gendered at all, so the concept of gendered pronouns may be
+unfamiliar.
+In some cultures and regions, openly sharing gender identity may carry personal safety
+considerations.
+Comfort levels with pronoun-sharing practices differ across cultural contexts, and that’s
+okay.
+This guidance is written primarily for English-language communication at GitLab. If you work
+across languages or cultures, approach pronoun conversations with curiosity and respect rather
+than assumption.
+What are pronouns?
+A pronoun is a word (or group of words) that can take the place of a noun or noun phrase. We
+use pronouns all the time in everyday conversation.
+For example:
+I didn’t know they painted their kitchen pink this weekend.
+Have you ever seen a double rainbow?
+It was a life-changing experience.
+Someone left their costume on the stage.
+If you see Josephine, please tell her that she did a great job!
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

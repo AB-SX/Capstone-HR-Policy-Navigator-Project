@@ -1,0 +1,89 @@
+Moderator Responsibilities
+Overall Technical Skills Exchange Management
+As the moderator for the Technical Skills Exchange, you are responsible for identifying topics,
+speakers, and dates for the quarter.
+Webinar Moderator Responsibilities
+Prior to Webinar
+One week before the webinar, confirm with the speaker that they are prepared and
+available for the session. This can help eliminate the need for last minute cancellations.
+Day before webinar, send an announcement in the #customer-success, #tim-tams, and
+#solutions-architects Slack Channels.
+During the Webinar
+The moderator for each webinar should serve as the host of the call and overall wingperson for
+the presenter. The moderator monitors chat to raise questions to the presenter and searches for
+links that are mentioned on the call to make sure they get linked in the handbook page for the
+training.
+Log in to zoom 5 minutes ahead of time
+The video should not be recording, but pause if this is the case
+Promptly welcome everyone to the call and remind them that the call will be recorded.
+Specifically mention how to talk about sensitive info on every intro. Be sure to start the
+meeting as close to the start time as possible.
+Record the call.
+Monitor the time.
+After the Webinar
+After the session, upload the recording to the Technical Skills Exchange Highspot.
+Post a announcement in the #customer-success, #tim-tams, and #solutions-architects
+Slack channels, and link to the Highspot page.
+Sample Announcement:
+If you missed yesterday’s Technical Skills Exchange session with discussing < Summary of
+session>, the recording is now live on Highspot!
+You can find links to all previously recorded sessions on the Highspot page and see the team
+Q&A in the session notes document.
+Last modified July 28, 2026: Retire defunct CorpSec functions and realign Corporate IT
+documentation (8f22e33f)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/sales/training/field-functional-competencies/
+106. Field Functional Competencies
+Field Functional Competencies
+GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab
+field team members must demonstrate to successfully deliver desired outcomes. They provide a
+common language and consistent expectations for what good looks like for the GitLab field
+organization.
+Field Functional Competencies
+What are Field Functional Competencies?
+GitLab field functional competencies provide a common language and consistent expectations for
+“what good looks like” for the GitLab field organization (inclusive of Sales and Customer Success
+roles). They are intended to complement GitLab’s values and are comprised of specific behaviors
+that GitLab team members in a field role need to demonstrate consistently to be successful.
+These critical field skills and behaviors are not meant to be role or job-specific (as each role or job
+may have additional unique requirements), and how each competency is expressed or
+demonstrated may vary by role (e.g. by technical depth, engagement in different stages of the
+customer journey, team-specific expectations, etc.).
+More specifically, functional competencies help to:
+Guide the growth and development opportunities available for GitLab field team
+members
+Build organizational capabilities when adopted and practiced across the field
+organization
+Reinforce behavior that is consistent with GitLab’s values and culture
+Enable GitLab field team members to build productive relationships and generate
+positive results
+There are three primary competencies for the field organization: Customer Focus, Solution
+Focus, and Operational Excellence. Please refer to the tables below to learn more or download
+and print the GitLab Field Functional Competencies one pager.
+Customer Focus
+Field team members should be focused on the customer and delivering a world class experience
+with every interaction.
+EXAMPLE SKILLS /
+BEHAVIORS
+DESCRIPTION
+Understanding the
+Customer’s Needs
+Leverages active listening to create mutual understanding between GitLab Team
+and customer regarding their short-term and long-term business challenges.
+• 
+• 
+• 
+•

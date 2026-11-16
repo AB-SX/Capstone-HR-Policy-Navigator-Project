@@ -1,0 +1,40 @@
+Click Install…, then click Install to confirm.
+Wait a few minutes for GitLab’s onboarding app to open the Set up your Mac window.
+Keep your Mac plugged in and connected to the internet.
+From there, setup is the same as automated enrollment. Continue with the Set up your Mac and 
+You’re all set! steps in Mac Setup, then set up Okta Verify.
+If enrollment fails, email it-help@gitlab.com.
+Linux Setup
+Follow the Linux Desktop OS Setup Guide to set up and enroll your Linux laptop.
+Set Up Okta Verify on Mac
+Okta Verify is installed automatically during Mac setup and is the primary way to authenticate to
+apps used at GitLab. The easiest way to set it up is to import the Okta Verify account from your
+mobile device.
+Before you begin:
+Keep your mobile device near your Mac, with Bluetooth turned on for both.
+8. 
+9. 
+•
+
+Open Okta Verify on your mobile device and make sure your GitLab account shows no
+warnings or errors.
+Open Okta Verify on your Mac.
+On the Welcome to Okta Verify window, click Import account.
+On your mobile device, open Okta Verify, tap your GitLab account, tap Export account,
+then tap Allow. Your mobile device shows a QR code and an 8-character code.
+• 
+1. 
+2. 
+3.
+
+On your Mac, enter the 8-character code and click Continue. Okta ends the Bluetooth
+connection after 5 minutes, so start again if the code expires.
+Your Mac shows a 6-digit PIN. Enter it in Okta Verify on your mobile device. Never enter
+a PIN that someone else gives you.
+Enable Touch ID when prompted.
+If you don’t have Okta Verify on a mobile device, click Get started instead of Import account.
+Make sure the sign-in URL is gitlab.okta.com, click Next, and sign in with your Okta username,
+password, and security method.
+4. 
+5. 
+6.

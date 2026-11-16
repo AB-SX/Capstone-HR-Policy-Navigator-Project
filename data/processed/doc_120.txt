@@ -1,0 +1,114 @@
+LinkedIn Talent Brand metrics
+Career page impressions
+Percentage of page visitors who view jobs
+Percentage of new hires who visit our page
+Team member engagement score
+Our team member engagement or net promoter (“I would recommend GitLab as a great place to
+work.”) score is measured annually in the Culture Amp survey.
+Here are samples of the statements team members were asked to consider:
+I would recommend GitLab as a great place to work
+GitLab motivates me to go beyond what I would in a similar role elsewhere
+I am proud to work for GitLab
+I rarely think about looking for a job at another company
+I see myself still working at GitLab in two years’ time
+Team member turnover
+Defined on the GitLab Offboarding page.
+Team member referrals
+Overall number of job candidate referrals from GitLab team members.
+People communications & team member engagement
+Our approach to communications and team member engagement at GitLab
+Content library - life at GitLab
+This content library is a curated list of blog posts, articles, videos, awards, and quick facts that
+help tell the story of life at GitLab.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/
+043. Talent Development
+Talent Development
+Overview
+Purpose
+Why we exist: GitLab Talent Development (commonly referred to as “Learning & Development”)
+exists to enhance team member performance, expand capabilities, and further develop skills that
+make GitLab team members the top talent in the industry. We strive to foster a culture of
+continuous growth so that GitLab remains a great place to work. Positive impact on team
+member experience leads to a positive impact on results, which leads to a positive impact on
+GitLab customers.
+Vision
+Where are we going: GitLab seeks to be recognized as a top organization for remote learning &
+development. We aim for a future where everyone contributes to a culture of curiosity.
+Mission
+What we do: We empower individual contributors and equip leaders through self-service learning.
+We accomplish a culture of development by:
+Focusing on skill-based learning
+Providing resources to improve career mobility
+Developing learning journeys for teams throughout the organization
+Principles
+Meaningful and relevant content. We deliver learning solutions that help you reach
+your professional goals.
+Values aligned. Our learning solutions reinforce GitLab’s values and foster continuous
+learning and curiosity.
+Diverse approaches to learning. We apply a blended learning model to find solutions
+to various individual needs.
+Community. L&D offerings available to the public so that everyone can contribute.
+Learning & Development Team
+We are a small team, but we’ve got a big role to play at GitLab!
+Senior Director, Talent Management and Development: Courtney Schneider
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+•
+
+Senior Learning and Development Program Manager: Jamie Allen
+Senior Learning and Development Program Manager: Lauren Cairns
+Senior Manager, Talent Management: Vacant
+Team Member Resources
+The Learning & Development team has a number of resources to help team members learn new
+skills. Click the button(s) below to learn more about each one:
+Transitioning to a Manager Role
+Growth & Development Fund
+Career Development & Mobility
+Self Paced Learning
+Level Up
+Coaching
+Elevate Leadership Training
+Mentorship
+Contact Us
+Slack: #learninganddevelopment
+Email Us: learning@gitlab.com
+Work With Us
+Available Learning and Development Support
+The Learning and Development team is available to support GitLab teams in the following
+capacities. Requests will be evaluated as they come in based on team’s capacity for support,
+business impact, correlation to company OKRs, and number of impacted users.
+Support Model When to use this process
+Creating a new learning pathway Create a new learning pathway or course for any audience
+Uploading to company learning
+platform
+Add new or existing learning content to the LXP
+Integrating external content to
+learning platform
+Add off-the-shelf learning from another provider
+Requesting content review L&D review of your learning content for handbook first, adult
+learning theory, and bias for async alignment
+Requesting new content creation You’d like the L&D team to create or host learning content for your
+team
+• 
+• 
+• 
+1. 
+2.

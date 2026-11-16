@@ -1,0 +1,109 @@
+GitLab Cares - Disaster Relief Program
+When natural disasters or unexpected emergencies create financial hardship, GitLab’s Team
+Member Relief Program is here to help. Managed through our partnership with E4E Relief, this
+program provides short-term financial assistance to team members and their families during
+times of extreme need.
+Disaster Relief Program Details
+How It Works: Whether you’re affected by fires, earthquakes, floods, or other emergencies, visit
+the GitLab Cares Portal to check your eligibility and apply for assistance. The process is designed
+to be straightforward when you’re already dealing with difficult circumstances.
+Community Support: GitLab established this fund with an initial contribution, and team
+members can choose to support their colleagues by making tax-deductible donations through
+the portal. Your contributions help ensure this safety net is available when fellow team members
+need it most.
+Get Help or Contribute:
+Need assistance? Visit the GitLab Cares Portal to check eligibility and apply
+Want to contribute? Select ‘Contribute to the Fund’ on the portal
+Tax Benefits: Donations are tax-deductible (country-specific tax laws apply)
+Bereave Support Benefits
+GitLab recognizes that navigating loss and grief are among life’s most challenging experiences.
+We’ve partnered with Bereave to provide comprehensive support for team members during these
+difficult times.
+Effective 2026-01-01, All GitLab team members have access to Bereavement Support Benefits
+through Bereave.
+Benefit Features
+For All Team Members:
+Grief Support Resources: Access to comprehensive guides on navigating various types of
+loss
+Practical Checklists: Step-by-step guides for handling logistics during bereavement
+Support Networks: Resources for supporting colleagues, friends, and family members
+experiencing loss
+Family Collaboration: Ability to invite family members to collaborate on platform
+resources
+24/7 Access: Platform available whenever you need support
+Getting Started: A Tour of the Bereave Platform
+For Managers:
+People Manager Resources: Specialized content on supporting grieving team members
+Coaching Support: Access to expert guidance during critical situations
+Communication Tools: Templates and guides for sensitive conversations
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Team Support Strategies: Best practices for maintaining team cohesion during difficult
+times
+Bereave Tour Walkthrough for Managers
+How to Access
+Log into Bereave via Okta.
+Resources
+Bereave FAQs
+Contact Details
+For support, contact Bereave directly at help@bereave.io or through the platform’s messaging
+feature.
+Contractor Benefits
+GitLab IT BV contractors are eligible for company-wide benefits but not entity-specific benefits.
+Contractors are responsible for their own health insurance, social security taxes, and payroll
+administration.
+Important Notes
+Benefits Information: This summary provides key information about your benefits. Complete
+terms and conditions are outlined in official policy documents and entity-specific materials.
+Changes and Updates: GitLab continues to evaluate and enhance benefit offerings. We’ll
+communicate any changes through official channels.
+GitLab Cares - Team Member Disaster Relief Program
+When Team Members are affected by natural disasters such as fires, earthquakes, floods, etc…,
+GitLab has established a Team Member Relief Program to assist with financial hardship from
+these disasters or other emergencies. This program is managed in partnership with E4E Relief, a
+non-profit that helps businesses establish global disaster relief programs for their Team
+Members.
+This program provides Team Members and their families with short-term, need-based assistance
+in times of extreme need. If you experience a difficult situation, please visit the GitLab Cares
+Portal to easily determine if you’re eligible for program assistance and to apply for assistance.
+GitLab started the fund with an initial contribution to support team members. Team Members
+may also choose to make donations to the fund as part of their annual giving and donation
+efforts. If you wish to make a donation, please visit the Portal and select ‘Contribute to the Fund’.
+Donations are tax-deductable (country-specific tax laws apply).
+Financial Wellness
+A summary of Financial Wellness resources available to team members at GitLab.
+• 
+• 
+•
+
+GitLab BV (Belgium) Benefits
+GitLab BV (Belgium) benefits specific to Belgium based team members.
+GitLab BV (Netherlands) Benefits
+GitLab BV (Netherlands) benefits specific to Netherlands based team members.
+GitLab Canada Corp
+GitLab Canada Corp benefits specific to Canada based team members.
+GitLab France S.A.S.
+GitLab France S.A.S. benefits specific to France-based team members.
+GitLab GK (Japan) Benefits
+Discover GitLab's benefits for team members in Japan
+GitLab Inc (US) Benefits
+GitLab Inc (US) benefits specific to US based team members.
+GitLab Ireland Ltd
+Discover GitLab's benefits for team members in Ireland
+GitLab Korea Limited Benefits
+Discover GitLab's benefits for team members in Korea
+GitLab LTD (UK) Benefits
+GitLab LTD (UK) benefits specific to UK based team members.
+GitLab PTY Ltd. Benefits - New Zealand
+GitLab PTY benefits specific to New Zealand based team members.

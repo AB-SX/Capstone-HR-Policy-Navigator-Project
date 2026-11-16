@@ -1,0 +1,136 @@
+Option to modify your coverage level if needed
+Support & Questions
+Direct BUPA Support:
+Plan Questions or need help enrolling call BUPA via Phone: 1300-662-074
+Online: Virtual chat support on the portal
+Enrollment Assistance:
+WTW Consultants: Email fred.mills@wtwco.com and cc total-rewards@gitlab.com
+Plan Comparisons: Get personalized advice comparing your current coverage with
+BUPA options
+Financial Security
+Superannuation (Retirement Savings)
+Retirement savings that builds your financial future to help secure your long-term financial
+wellbeing.
+How Your Super Works
+GitLab’s Contribution:
+Rate: 12% of your total salary (effective July 1, 2025)
+Annual MCB: $270,830 AUD
+Additional benefit: Paid on top of your salary (not deducted from it)
+Frequency: Payments made per pay period
+Your Super Fund:
+Contributions paid directly to your nominated super fund
+Freedom to choose any compliant Australian super fund
+Contributions continue building your retirement savings automatically
+Salary Sacrifice Option
+Boost Your Retirement Savings: Make additional pre-tax contributions to superannuation,
+potentially reducing your taxable income while building your retirement savings.
+How It Works:
+Choose a percentage or amount of pre-tax salary to contribute
+Combined total (GitLab + your contributions) must not exceed $32,500 per financial year
+Start from any month with next payroll processing
+Getting Started:
+Follow the instructions in the Australia section of the Internal Payroll Handbook page
+under “Updating Changes to Superannuation Fund.”
+Contributions begin on the next available payroll
+Modify or opt out anytime by following the same process
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.
+
+Important: itLab doesn’t monitor annual limits—you’re responsible for ensuring total
+contributions don’t exceed the annual limit per financial year to avoid higher tax rates. The
+employer portion, however, stops once it reaches the cap.
+Workers’ Compensation
+Comprehensive workplace injury protection across all Australian states and territories, ensuring
+you’re covered if workplace-related injury or illness occurs.
+Coverage & Regulators by State
+State Regulator
+NSW iCare Worker Insurance
+QLD WorkCover
+NT WorkCover
+SA ReturnToWorkSA
+TAS Allianz
+WA WorkCover
+VIC WorkSafe
+How to File a Claim: Contact the Payroll Team via Compass for assistance with any workers’
+compensation claims.
+Novated Leasing & Salary Packaging
+GitLab has reviewed novated leasing and salary packaging programs for Australian team
+members and has decided not to offer these benefits at this time. This is a company-wide
+position that applies across all regions. For full details on the rationale, see the Vehicle Salary
+Sacrifice & Novated Leasing Programs section on the General Benefits page.
+Life Insurance
+Australians can access government payments and services if they get ill, injured or have a
+disability. Most Australians who choose to have life insurance take out cover from their super
+fund.
+Engineering-Specific Benefits
+On-Call Support (Engineering Only)
+Recognition and support for engineering team members participating in on-call rotations,
+ensuring proper rest and work-life balance while supporting GitLab’s operations.
+Key Details
+Certain groups in the Engineering division are expected to participate in on-call for business
+continuity and/or customer support. For more details on the on-call procedure, please reference
+the on-call page. The purpose of this section is to provide an overview of time in lieu that will be
+
+offered for the Development and Infrastructure departments effective February 1, 2021. We
+will continue to review and implement to other departments within Engineering iteratively.
+With our global team, we strive for a “follow the sun” model for on-call rotation. This way, team
+members can participate in on-call during their daytime rather than their nighttime in their
+respective regions (APAC, EMEA and AMER). In APAC, the majority of the team members are
+located in Australia. We want to ensure engineers in Australia are 1) eligible for on-call shifts, and
+2) stay aligned with local laws to ensure proper rest/recovery time after on-call shifts.
+Engineers based in Australia who are part of the Development and Infrastructure departments
+will be eligible for time in lieu after on-call shifts. Time in lieu is time off from work that is granted
+to team members to work outside of standard working hours (I.E. ordinary hours).
+Time in Lieu Compensation
+Who’s Eligible:
+Development and Infrastructure department engineers
+Participating in on-call rotations outside normal working hours
+Compensation Structure:
+4-hour shift: ½ day time in lieu
+8-hour shift: 1 day time in lieu
+24-hour shift: 3 days time in lieu
+Important Guidelines:
+The full shift (state of readiness) is compensated by time in lieu - rather than only the
+“actual time worked”
+Time in lieu must be taken within 2 weeks of shift completion
+For weekend shifts please be particularly mindful about managing your time to ensure
+you are not exceeding a 38 hour work-week,
+Use flexible PTO policy for additional time off if needed
+How to Request: Request time in lieu through Workday by selecting “Time Off in Lieu” under the
+Time Offs dropdown menu.
+FAQ
+When can time in lieu be taken?
+Time in lieu should be taken within 2 weeks after completion of the on-call shift. We want to ensure
+that time in lieu is taken close to the on-call shift to ensure that team members have sufficient
+time to rest.
+Do all on-call shifts result in time in lieu?
+No, only on-call shifts outside of working hours (I.E. weekends, evenings, etc.). Please note that not
+all teams require weekend or evening on-call shifts, so this may not be applicable for all.
+How do I request time in lieu?
+Time in lieu should be requested via Workday by selecting the Time Off in Lieu under the Time
+Offs dropdown menu option.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,160 @@
+Yes it is; when pension contributions are made via Salary Sacrifice, both Employee and
+Employer contributions will show as Employer contributions on Scottish Widows
+statements.
+Pension Contribution Percentages
+The certification level that has been chosen is basic salary only and will not include commission,
+bonuses or any over time payments. The contributions will be paid monthly and will be shown on
+the pay-slips.
+From April 6, 2019 to a minimum of:
+Team Member: 5% of basic salary
+GitLab: 4% of basic salary
+As your contribution is a percentage of your pay, the amounts will automatically
+increase or decrease in accordance with your basic pay. These contributions will be
+taken from your pay and will include tax relief.
+You may increase your contribution percentage by contacting the Non-US Payroll team
+via Compass. The company contribution will remain fixed as outlined above. The
+standard Annual Allowance applies to all contributions (employer and employee) made
+to the pension plan in a tax year. Unused allowance may be carried forward for up to
+three tax years. Current rates are published on the HMRC Pension Schemes rates page.
+Your Annual Allowance may be reduced if your Adjusted Income exceeds the threshold
+limit (current rates available on the HMRC Pension Schemes rates page), or if you
+‘flexibly access’ benefits from a Defined Contribution pension arrangement. See the 
+Annual Allowance Fact Sheet for details.
+For Team Membewrs on Relief at Source Only: These percentages are gross
+percentages using the relief at source method. As basic rate tax relief is then added by
+the pension provider, the amount on your payslip will typically be the net amount, which
+is 80% of the employee’s contribution.
+These contribution percentages are in line with The Pension Regulator’s Auto-enrollment
+legislation. Should the government’s minimum contribution standards change further GitLab will
+contact you to advise the new levels to comply with legislation.
+Opting Out
+If you decide to opt out of the scheme you can do this within one month of the enrollment date
+by following the instructions in the information from Scottish Widows. The Opt Out deadlines are:
+You have four weeks from when the Scottish Widows welcome letter is dated.
+If you do opt out by this date, any contributions that have already been taken from your
+pay will be returned to you and you’ll be treated as if you had never joined the pension
+scheme.
+If you don’t opt out by this date, you can stop contributing at any time, in accordance
+with the pension scheme rules. If you do this, both your contributions and GitLab’s, up
+to that point, will remain invested in your pension pot until you take your benefits.
+You can opt-out by completing the Scottish Widows Opt-out form for Group Pension
+Scheme. The form must be completed, then returned to Total Rewards at total-
+rewards@gitlab.com
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+The pension provider will also be able to tell you when the one month opt-out period
+started, if you aren’t sure.
+An opt-out from the pension scheme normally lasts for three years. If you’ve opted out,
+or stopped contributions to the scheme, GitLab is required to automatically enroll you
+into the scheme at a later date (normally every three years).
+Re-joining
+If you decide to re-join the scheme you can do so by submitting a Compass ticket. You will be
+asked to write a letter or send an email from your personal email address. The letter will need to
+include the phrase I confirm I personally submitted this notice to join a workplace pension
+scheme. You can only re-join once in any 12 month period.
+Changing the Pension Scheme Investment Approach
+There’s a workplace pension webpage linked from this document that contains information about
+all the options available.
+When your policy is first set up, it’ll be set to:
+‘Pension Investment Approach’ (PIA)
+A lifestyle switching approach for managing your investments as you approach
+retirement.
+A default investment fund (such as ‘Scottish Widows Pension Portfolio Two Pension’)
+The policy website will tell you:
+Although you are currently invested in a Pension Investment Approach you also have other
+options such as investing in our range of individual funds or changing to a Premier Pension
+Investment Approach.
+Read about all these investment options, and the funds available, on the workplace pension
+webpage.
+Changing your investment approach or funds could adversely affect your retirement income. Get
+advice, such as from Oakley Financial.
+Selecting funds online
+This is an advanced feature that carries significant risk. For team-members comfortable with this,
+it’s not obvious how to enable it.
+To access ‘investing in our range of individual funds’ online you need to call Scottish Widows, and
+ask:
+To come out of the lifestyle approach.
+To come out of ‘Pension Investment Approach’ (PIA)
+For online access to the range of funds.
+The change may take a couple of days to come into effect, and they’ll write and confirm the
+change.
+Having enabled online fund management, you can search for and select the funds on the policy
+website. The workplace pension page also has a link to a fund list, plus a PDF which explains:
+The different groups of funds Scottish Widows offers.
+A summary of each fund.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+A fund fact sheet is provided for each fund with usual information such as previous
+performance.
+Management charges vary by fund and are not on the fact sheets: use the charges sheet tool on
+the workplace pension page.
+Bonus and Commission Contributions to UK Pension
+If you’d like to direct your bonus or Commission payments to your UK Pension, you can submit a
+request through Compass before the payroll cutoff. Please note:
+Ahead of company-wide bonus payouts (May and November), you must notify the
+Payroll team before the cutoff period for that month. This request must be submitted
+for each bonus payout period individually — it cannot be set up as a standing/
+permanent request.
+Bonus and Commission contributions will be applied as a Salary Sacrifice if you are
+enrolled in the salary sacrifice feature of the scheme. If you were hired after 13
+December 2022, you were automatically enrolled in salary sacrifice. If you are not
+enrolled under salary sacrifice, contributions will instead be made as relief-at-source
+contribution.
+Bonus contributions must be made in full — partial contributions are not permitted.
+Employer contributions are not applied to Bonus or Commission earnings.
+Individuals should consider their Annual Allowance (including any carry forward) and
+any potential tapered Annual Allowance impact. Tracking these amounts is your own
+responsibility.
+Contact Information
+Scottish Widows: 0345 755 6557 | www.scottishwidows.co.uk/gppae
+Willis Towers Watson - Rachel Haggarty: 07385 558317 | rachel.haggarty@wtw.com
+Willis Towers Watson act as employee benefit advisers to the GitLab GPPP and although cannot
+provide you with financial advice are available to explain the details of the GitLab GPPP and
+answer any questions you may have.
+Bike to Work/Tax Saver Commuter Scheme
+Purchase a bike and accessories tax-efficiently through salary sacrifice.
+Key Features
+Up to £3,000 for bike and accessories
+Tax and National Insurance savings
+Available once every 4 tax years
+Access via GitLab Travel Hub
+How to Access
+Register at GitLab Travel Hub
+Select a partner shop and get a quote
+Upload quote for approval
+Total Rewards reviews and approves
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.

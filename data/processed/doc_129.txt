@@ -1,0 +1,132 @@
+For example, if your country’s full-year entitlement is 10 days and you joined with 92 days
+remaining in the year, your balance would be 10 × (92 ÷ 365) = 2.52, rounded up to 3 days.
+I still have questions related to public holidays and/or how to categorize my time off, who can I
+ask? Please submit your question to the People Operations team via Compass.
+Sick Time
+This policy outlines GitLab’s approach to sick time for all team members. It is designed to complement,
+not replace, any statutory sick leave policies you may be eligible for in your country of residence. Team
+members are encouraged to familiarize themselves with their location’s statutory reporting
+requirements and entitlements in their respective handbook sections.
+Overview
+GitLab’s sick time policy supports team members who need time away to recover from illness.
+This policy reflects our Culture of Excellence.
+Sick time refers to time away needed to recover from short-term illness or for
+preventative care.
+This includes personal illness (such as COVID-19, cold/flu, menstrual pain, surgery).
+But what if I need to care for an ill family member? Please follow the Caregiver Sick
+Time Policy.
+Except where required by applicable local law, GitLab’s sick time does not get paid out in
+case of termination, nor does it reduce your final paycheck in case of a negative balance.
+Sick Time Eligibility and Coverage
+GitLab’s Sick Time policy is administered concurrently with any statutory sick leave for
+which you may be eligible.
+Each GitLab team member may use up to 25 paid sick days, available from their first day
+of work. Eligibility is calculated on a rolling 12-month period.
+What does a rolling 12-month period mean? A rolling 12-month calendar refers to a period
+that always spans exactly 12 consecutive months, but continuously shifts forward as
+time passes, so the start and end dates move forward together while maintaining a
+constant 12-month window.
+Reporting Procedures
+Important: Statutory reporting requirements vary depending on the country/location you reside in and
+will always supersede the reporting requirements outlined below. Please be sure to familiarize yourself
+with the reporting requirements in your location.
+For Sick Absences 1-5 Consecutive Days
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+For Sick Absences 1-5 Consecutive Days
+Notify your manager of your absence. Please note that you do not need to disclose any
+medical information (more information on communicating illness-related absence
+below).
+Enter the time away in Workday by selecting the label “Out Sick”
+Your sick time will automatically update in Time Off by Deel
+If your absence is less than 6 consecutive days, then you do not need to provide a sick
+note (unless your statutory reporting requirements state otherwise)
+For Sick Absences that Exceed 6+ Consecutive Days
+For Sick Absences that Exceed 6+ Consecutive Days
+Sick absences that are 6 days or longer are considered a leave of absence.
+USA: Please submit your Leave request to Tilt (accessed through Okta). Once your request is
+submitted, it takes 2-5 business days to build your personalized leave plan. You will receive a
+notification when it is ready.
+All other Locations: Follow the instructions below.
+Notify the Absence Management Team by submitting a Compass ticket. This allows us to
+share more about the GitLab Sick Time Policy, review statutory benefits you may be
+eligible for, and walk you through any other next steps.
+Enter the time away in Workday by selecting the label “Out Sick”.
+* Note: the Absence Management team may need to edit your entries or replace the
+entry with a Leave Type on your behalf.
+Eligibility for GitLab’s Sick Time policy will require team members to provide evidence, in
+accordance with local requirements, supporting the need for Sick Leave. Please be
+aware that the exact documentation required may vary by location (i.e. medical
+certificate, doctor’s note, fit note, etc.). Please review your employment contract or your
+country’s Sick Time policy to determine what documentation may be needed.
+Pay While on Sick Leave of Absence
+Eligible team members will receive 100% of their weekly wages for up to 25 working days through
+the GitLab Sick Time policy and any applicable statutory pay. If you live in a country or US state
+where a statutory benefit is available, you will be required to apply for statutory sick pay (if
+eligible), and GitLab will supplement your statutory sick pay to equal 100% of your weekly wages.
+You will not receive more than 100% of your wages. If your leave extends beyond 25 working
+days, it will be unpaid by GitLab (subject to local requirements).
+FAQ: I’m in a Sales role and receive commission. How is that impacted while on Sick Leave?
+For information about attainment, quota, or commissions while on non-parental leave, 
+this policy found in the internal handbook may help. If this doesn’t answer your
+questions or you have specific questions about your scenario, please submit a Compass
+ticket to the sales commission team directly, as they administer the Sales Incentives
+policies that apply to commission eligible team members on a leave of absence.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+•
+
+Communicating Illness-Related Leave
+All illness or medical related information should be handled confidentially and sensitively,
+protecting our team members’ personal information with great care.
+Should a team member have a medical concern, they will have the choice of how much
+information to share with their manager and People Business Partner. Many team members find
+it helpful to discuss their situation with their manager and PBP, as both can provide valuable
+support during the leave period and upon return, especially when additional accommodations
+may be needed. Team members should feel empowered to share what they’re comfortable with,
+knowing that any medical information will be handled confidentially and professionally.
+If a team member prefers to keep medical details private, the Absence Management Team will
+coordinate with the People Business Partner and Manager on a need-to-know basis, providing
+only essential information related to leave dates.
+Regardless of how much information is shared, managers must never disclose any illness-related
+details to other team members to ensure we respect the privacy of the affected individual. The
+goal is to create a supportive environment where team members can focus on their health while
+feeling confident their privacy is protected.
+Caregiver Sick Time
+This policy outlines GitLab’s approach to caregiver sick time for all team members who need time away
+to care for a sick family member. It is designed to complement, not replace, any statutory sick leave
+policies you may be eligible for in your country of residence. Team members are encouraged to
+familiarize themselves with their location’s statutory reporting requirements and entitlements in their
+respective handbook sections.
+Overview
+GitLab’s caregiver sick time policy supports team members who need time away to care for ill
+family members. This policy reflects our Culture of Excellence.
+Caregiver sick time refers to time away needed to care for an ill family member.
+Eligible family members include parent(s), child(ren), spouse, domestic partner,
+grandparent(s), grandchild(ren), or sibling(s).
+Except where required by applicable local law, caregiver sick time does not get paid out
+in case of termination, nor does it reduce your final paycheck in case of a negative
+balance.
+Caregiver Sick Time Eligibility and Coverage
+GitLab’s Caregiver Sick Time policy is administered concurrently with any statutory family
+care leave for which you may be eligible.
+If you live in a country or state where a statutory benefit is available, you will be required
+to apply for statutory leave pay (if eligible), and GitLab will supplement your pay to equal
+100% of your weekly wages. You will not receive more than 100% of your wages with
+statutory leave and Caregiver Leave combined.
+• 
+• 
+• 
+• 
+•

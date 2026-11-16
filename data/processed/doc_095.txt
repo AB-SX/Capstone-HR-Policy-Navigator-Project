@@ -1,0 +1,121 @@
+Source: https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/
+033. GitLab Internal Acceptable Use Policy
+GitLab Internal Acceptable Use Policy
+This policy specifies requirements related to the use of GitLab computing resources and data
+assets
+Tags:
+Security_policy
+Security_policy_caplscsi
+This is a Controlled Document
+In line with GitLab’s regulatory obligations, changes to controlled documents must be approved
+or merged by a code owner. All contributions are welcome and encouraged.
+Visibility: Audit 
+Purpose
+This policy specifies requirements related to the use of GitLab computing resources and data
+assets by GitLab Team Members so as to protect our customers, Team Members, contractors,
+company, and other partners from harm caused by both deliberate and inadvertent misuse. Our
+intention in publishing this policy is to outline information security guidelines intended to protect
+GitLab assets.
+It is the responsibility of every member of our Community to interact with GitLab computing
+resources and data in a secure manner and to that end we provide the following acceptable use
+standards related to computing resources, company and customer data, mobile and tablet
+devices, and removable and external media storage devices.
+Scope
+This policy applies to all GitLab Team Members, contractors, advisors, and contracted parties
+interacting with GitLab computing resources and accessing company or customer data.
+Roles & Responsibilities
+Role Responsibility
+GitLab Team Members Responsible for following the requirements in this procedure
+Security, Legal and PeopleOps Responsible for implementing and executing this procedure
+• 
+•
+
+Role Responsibility
+Security, Legal and PeopleOps (Code
+Owners)
+Responsible for approving significant changes and exceptions to
+this procedure
+Procedure
+Acceptable Use and Security Requirements of Computing Resources at GitLab
+GitLab-managed assets are provided to conduct GitLab business, with consideration given for
+limited personal use subject to any conflicting statements contained in any individual
+employment contracts or agreements. Our company uses global electronic communications and
+resources as routine parts of our business activities. Personal and professional use of GitLab-
+managed assets are subject to security monitoring and protection, unless prohibited under the
+local laws of a respective Team Member’s jurisdiction. It is essential that electronic resources used
+to perform company business are protected to ensure that these resources are accessible for
+business purposes and operated in a cost-effective manner, that our company’s reputation is
+protected, and that we minimize the potential for legal risk.
+Those receiving GitLab-provided assets are responsible for exercising good judgment when using
+GitLab-managed computers and accessing GitLab-managed data.
+As per the onboarding issue procedures outlined in our handbook, evidence of device encryption
+and device serial number must be provided to IT Ops prior to the completion of onboarding
+period.
+We are currently using Fleet as our endpoint management solution for Mac laptops. All macOS
+laptops procured by GitLab will come configured with Fleet. GitLab Team Members procuring and
+expensing Mac Laptops will require their Mac to be enrolled in Fleet as part of their Day 1 Security
+tasks. Upon their discretion, CorpSec may install additional security tools via Fleet.
+We are currently using Fleet as our endpoint management solution for Linux laptops. GitLab
+Team Members using a Linux laptop must enroll their device in Fleet as part of their Day 1
+Security tasks. Once a device is enrolled, Fleet automatically installs and continuously enforces
+the required security tooling, including Endpoint Detection and Response (EDR). See the Linux
+Desktop OS page for the full list of Linux endpoint requirements. Upon their discretion, CorpSec
+may install additional security tools via Fleet.
+GitLab issued assets are company property and must be treated with care and respect. If
+applying stickers to company assets:
+Ensure all content is professional and appropriate for a workplace environment
+Do not apply stickers that could damage the device or interfere with its operation
+Do not cover ventilation ports, fans, or other functional elements
+Do not apply anything to the screen or areas that could obstruct the screen when closed
+Security and Proprietary Information
+All GitLab data is categorized and must be handled in accordance with the Data Classification
+Standard. All computing assets that connect to any part of the GitLab network, or 3rd party
+services that are used by GitLab, must comply with the applicable standards.
+• 
+• 
+• 
+•
+
+Customer Support Data Exception
+While access to RED data on non-approved systems is generally prohibited as outlined in the
+GitLab Data Classification Standard, a limited exception exists for team members providing
+technical support to customers.
+Team members are permitted to migrate RED classified customer data to their GitLab-managed
+laptops solely for the purposes of providing customer support services. This exception is subject
+to the following requirements:
+Data migration is only permitted for active customer support cases
+Customer data must be promptly deleted immediately upon resolution of the support
+case
+On macOS, this must include emptying the Trash, or using the rm command-line utility
+(which skips the Trash).
+All data handling activities must be logged and documented within the ZenDesk ticket
+Important: Migrating customer data to local machines is prohibited for all other business
+operations outside of providing customer support. Team members requiring similar data access
+for other purposes must follow the Security and Technology Policy Exception Process or contact
+the Security or Privacy teams with questions before proceeding.
+Open source libraries
+Open Source libraries are allowed under this policy if its use complies with the pre-approved or
+approval requirements captured in the Product Legal Handbook.
+Freeware, Browser Extensions, Add-ons, and Plugins
+Individual Use Software (freeware, add-ons and plugins) is permitted, with the exception of
+unauthorized Google Workspace Integrations and Chrome Extensions. Individual Use Software is
+subject to retroactive removal at any time by IT, Legal and Security when it is deemed unsafe or
+insecure.
+Authorized Google Workspace Integrations and other approved Individual Use Software can be
+found on the Pre-Approved Individual-Use Software list and are permitted for use subject to any
+“Notes and Restrictions” for each respective Pre-Approved software offering.
+To request approval for new Individual Use Software, please follow the Individual Use Software
+request process.
+Note
+In order to abide by the SAFE Framework, to preempt third party processing of company data
+under permissive individual use licensing terms, or to prevent Team Member misuse of certain
+Third Party Software features, IT, Legal, Privacy and Security will generally err on the side of
+disallowing exceptions to enterprise level software, particularly if there is an enterprise option
+already in our Tech Stack Applications that achieves a similar purpose.
+Unacceptable Use
+Team Members and contractors may not use GitLab-managed resources for activities that are
+illegal or prohibited under applicable law, no matter the circumstances.
+• 
+• 
+• 
+•

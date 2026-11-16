@@ -1,0 +1,106 @@
+In addition to the suggestions for communicating when you will be away, take a look at these tips
+to increase a team member’s ability to disconnect from work:
+unsubscribe from any MRs that will likely resolve while you’re away, and then you won’t
+have to deal with all the emails from them when you return;
+set up some email filters to move emails into buckets that you can address one-at-a-time
+when you return;
+disconnect yourself from Slack and Gmail in any of these ways (*note: Workday is
+supposed to turn off Slack notifications on your phone and set DND mode):
+log out from Slack and Gmail on your phone, or
+remove Slack and Gmail from your phone, or
+pause the Slack and Gmail apps on your phone, or
+manually configure Slack and Gmail not to send notifications on your phone
+At GitLab, team members should communicate respectfully and professionally at all times, in line
+with the Company’s values, with a bias towards asynchronous communication and
+documentation-first and should assume positive intent in dealings with others (including in
+relation to the tone and timing of communications).
+In considering whether contact is unreasonable, think about:
+the reason for contact;
+how contact might be made and the level of disruption contact may cause;
+the extent to which the team member is being compensated (eg with time off after an
+on-call rotation):
+to remain available to perform work during the period in which contact is made; or
+for working additional hours outside of their ordinary hours of work;
+the nature of the team member’s role and their level of responsibility; and
+the team member’s personal circumstances.
+In case of an issue arising relating to whether a team member has reasonably (or unreasonably)
+refused to monitor or respond to contact, the team members involved are encouraged to raise
+the issue with their manager or contact Team Member Relations.
+The FWC will update all modern awards to incorporate the right to disconnect in due course and
+awards can be checked here.
+Getting Help & Support
+Resources available when you need them
+Australia Support
+Benefits Questions:
+Medical (BUPA): Phone 1300-662-074 or portal chat support
+Enrollment assistance: paul.dervan@wtwco.com (cc: total-rewards@gitlab.com)
+Workers’ Compensation: nonuspayroll@gitlab.com
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+General benefits: total-rewards@gitlab.com
+Leave & Absence:
+All leave questions: leaves@gitlab.com
+Time tracking: Use appropriate Workday categories
+This handbook provides comprehensive information about your benefits and employment with GitLab
+PTY Ltd. Complete terms and conditions are outlined in official policy documents and your employment
+contract. As part of our commitment to supporting you at every stage of your career, we continuously
+review and enhance our benefits to ensure they meet your evolving needs in Australia.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/legal/privacy/employee-privacy-policy/
+054. Team Member Privacy Policy
+Team Member Privacy Policy
+This Team Member Privacy Policy explains what types of personal data we may collect about our
+Team Members and how it may be used
+Last updated: December 12, 2025
+Team Member Privacy Policy
+This Team Member Privacy Policy (“Privacy Policy”) explains what types of personal data we may
+collect about our employees, consultants, individual contractors and contingent workers (“Team
+Member(s)”) and how it may be used.
+Before reading further, please note you have the right to object to the processing of your
+personal data where we rely on legitimate interests as our legal basis. This right is explained in
+detail below and you can exercise it by contacting us at dpo@gitlab.com.
+While this Privacy Policy is intended to describe the broadest range of our data processing
+activities globally, those processing activities may be more limited in some jurisdictions based on
+the restrictions of their laws. For example, the laws of a country may limit the types of personal
+data we can collect or the manner in which we process that data. In those instances, we adjust
+our internal policies and practices to reflect the requirements of local law.
+Who is Collecting Your Personal Data (who is the data controller)?
+For personal data collected under this Privacy Policy, the controller will be the GitLab entity that
+employs you or is a party to your employment contract or contract for services. You can find a list
+of the GitLab entities (collectively, “GitLab”) that act as a controller for your personal data here.
+If you are employed by a Professional Employment Organization (“PEO(s)”), your personal data
+may be processed according to both this Privacy Policy and any separate privacy policies
+published by your PEO as your Employer of Record or Agency of Record.
+GitLab entities may act as controllers or processors on behalf of other GitLab entities and/or
+controllers. Furthermore, GitLab Inc., its affiliate entities and its subsidiaries participate in group-
+wide Information Technology (“IT”) systems in order to harmonize GitLab’s IT infrastructure and
+its use. These systems may hold personal data on all Team Members. Insofar that these systems
+serve to improve and harmonize the People Group processes within the company, GitLab Inc. in
+the U.S. is responsible for these systems.
+Applicability of Other GitLab Privacy Policies
+The websites of GitLab (e.g., about.gitlab.com) have separate privacy policies and terms of use
+that apply to their use. If we collect, store, or process your personal data as part of the
+recruitment process, then the Recruitment Privacy Policy will apply to that processing.

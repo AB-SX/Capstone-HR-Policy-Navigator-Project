@@ -1,0 +1,126 @@
+they will follow the process outlined in the Talent Acquisition Process Framework for all
+candidates.
+If a team member moves to offer, the Recruiter will connect the Hiring Manager with the
+team member’s current manager. Please follow the steps outlined by the Recruiter in
+their message via Slack (details above).
+Hiring Manager will be provided the candidates compensation expectations from the
+Recruiter. It is up to the Hiring Manager, in partnership with the Recruiter, to propose a
+compensation aligned with budget, candidate expectations, and internal pay equality.
+If internal candidates need to be declined post interviews, it is required that the hiring
+manager connect with the team member via Zoom to inform them of the decision and
+provide constructive feedback (an outline providing feedback can be found below).
+Delivering feedback to declined candidates
+At any stage a team member needs to be declined, it is up to the Recruiter and Hiring Manager to
+connect to determine the best approach to ensure the appropriate feedback is given by the hiring
+manager. It is important to deliver transparent and honest feedback to the candidate while
+remaining constructive and focusing on growth.
+If the candidate has made it to the hiring manager screen or beyond, hiring managers can
+consider this approach:
+Condense the themes from all of the scorecards so that there is a high level, but
+anonymous summary of what they did well in the interview, and any opportunities for
+improvement
+Document your key takeaway as a hiring manager in terms of how this candidate does
+not have the right competencies for the position
+Document your key takeaways on what the candidate did well and should continue
+doing, along with improving other areas to be ready in the future
+Provide actionable, concrete steps to work on those areas
+Sync with the candidate to review these topics in a synchronous meeting
+A guideline template to prepare for this conversation might look like the following:
+What went well:
+Has good examples of making improvements to the area they were interviewing for in
+the past
+Opportunities for improvement:
+In general if experience was missing (such as XYZ) when asked a question, they were not
+able to answer it based on any lessons/training they have taken in preparation for this
+role
+Key Takeaways (to be delivered synchronously):
+They understand the day-to-day responsibilities of this role in terms of (these job
+requirements), but are not yet prepared for what this looks like long-term around (these
+other job requirements and challenges they may face). They may be coachable in these
+areas and have an exceptional history with GitLab, however this position will be
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+demanding on time which may not allow the candidate to get enough support in the
+role. I would recommend:
+Specific actions this candidate can take to get more experience at GitLab
+If you are not sure what actions they can be taking to be more qualified for your position, you
+may reference your role’s job requirements and/or the Job Framework for inspiration defining
+concrete actions.
+Internal Hiring Process Survey
+A survey will be sent out to all team members that have made it through to the team
+interview stage.
+This survey will measure:
+Expectations set
+Recruiter interaction
+Interviewer experience
+Timely experience
+Scheduling
+Feedback (for declined candidates)
+Overall experience rating
+Talent Acquisition’s goals for this survey will be determined after the base survey data is
+captured.
+Last modified October 30, 2026: Edit to SDR eligibility for Internal Mobility (94347e6a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-
+development/
+066. Growth and Development Fund
+Growth and Development Fund
+A description of programs and resources for team members to access when using the G&D Fund.
+The Growth and Development (G&D) Fund supports GitLab team members in pursuing approved
+learning experiences that strengthen their skills, support career growth, and contribute to high
+performing teams. Team members can be reimbursed for up to $10,000 per calendar year for
+eligible growth experiences, provided they meet all eligibility requirements.
+We’ve recently updated the G&D process, and are moving away from using issues for G&D
+submissions, all requests going forward should be submitted via Compass.
+Here’s a quick summary of the changes:
+All new G&D requests must be submitted through Compass.
+If you already have a GitLab issue open and it is in progress or already moving through
+approval, you do not need to resubmit it.
+The fund, budget, eligible uses, and core reimbursement rules are not changing.
+Reimbursement still goes through Navan.
+Compass gives team members clearer tracking and gives leaders better visibility into
+how G&D funds are being used across their teams.
+Easier tracking means easier to know how much money you have left!
+Processing requests via Compass allows for better tracking of requests, a clearer structure for
+submissions, and significantly improves the administration of the Fund.
+If you already have a G&D GitLab issue open and it is already in progress or moving through
+approval, there is no need to resubmit it. Existing GitLab issue-based requests can continue
+through completion under the prior process.
+Reach out to the Talent Development team if you require any assistance with submitting your
+request.
+Eligibility
+To use the Growth and Development Fund, applicants must be full-time GitLab employees who
+meet performance expectations in their role and are not on leave status.
+Process
+Here is the step-by-step process for submitting and completing a G&D request using Compass.
+Step 1 - Have a growth conversation
+Start by having a growth conversation with your manager to discuss the learning opportunity.
+• 
+• 
+• 
+• 
+•

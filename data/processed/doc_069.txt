@@ -1,0 +1,134 @@
+The DZ award details:
+The recipient of The DZ award will receive a one time cash bonus equivalent to $10,000
+USD at using the local exchange rate. This is designed to honor DZ’s 10 years of
+contributions to GitLab and the recipient’s role in continuing DZ’s legacy.
+Special designed GitLab Award and Headphone Stand
+Criteria for The DZ Award
+Potential nominees should be any team members who solved a challenging problem by creating
+and implementing a boring solution that resulted in a positive and profound impact.
+Criteria used to calibrate:
+OKR results and outcomes
+Significant business result/impact from the boring solution in this Fiscal Year.
+Contributions outside the general scope of the role (e.g. this award would not be
+granted for business as usual boring solutions)
+Criteria not used to calibrate:
+The team member holding a technical role or creating a solution to a technical problem
+is not a requirement to be nominated for this award.
+Level within the business - this award is not intended to be granted to only leaders, but
+instead available to all team members.
+Talent Assessment - while we want to ensure we continue our pay for performance
+compensation philosophy, team members can be eligible for this award regardless of
+the output of the last review cycle.
+The only criteria is that the team member would need to be in good standing (e.g. not
+on a PIP/recently received a Written warning).
+The Values Awards
+The Values Awards honor those who embody and employ the GitLab values which are fostering
+an environment where everyone can thrive. These awards specifically recognize team members
+who are inclusive with all team members in their diversity of thought and perspectives. Team
+members eligible for these awards demonstrate: no ego in the workplace, use a single source of
+truth, saying why not just what, and embracing uncomfortable ideas and conversations. The
+contributions or displays of the GitLab Value should be visible beyond the team member’s direct
+team, customers, users or investors.
+The Values Awards details:
+There are six awards, one for: Collaboration, Results, Efficiency, Diversity, Inclusion and
+Belonging, Iteration and Transparency.
+The recipient of each value award will receive a one time cash bonus equivalent to
+$5,000 USD at the exchange rate.
+Special designed GitLab Awards medal.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Values Award Descriptions
+Collaboration Award
+To achieve results, team members must work together effectively. The value award for
+Collaboration should be awarded to a team member that made helping others a priority and
+went above and beyond in ways that led to tangible results. This can come in the form of for
+example: giving feedback effectively, sharing, reaching across company departments or short
+toes.
+Results Award
+We do what we promised to each other, customers, users, and investors. The value award for
+Results should be awarded to a team member that went above and beyond to get to significant
+results for a company wide impact. This can come in different forms through for example:
+ownership, perseverance, dogfooding or disagree, commit, and disagree.
+Efficiency Award
+Working efficiently on the most important business initiatives enables us to make fast progress,
+which makes our work more fulfilling. The value award for Efficiency should be awarded to a
+team member that helped make fast progress through for example championing writing things
+down, embracing change or being a manager of one.
+Diversity, Inclusion & Belonging Award
+We aim to make a significant impact in our efforts to foster an environment where everyone can
+thrive. The value award for Diversity, Inclusion and Belonging should be awarded to a team
+member that contributed to creating an environment where people from every background and
+circumstance feel like they belong and can contribute through for example: their bias towards
+asynchronous communication, seeking diverse perspectives or embracing neurodiversity.
+Iteration Award
+We do the smallest thing possible and get it out as quickly as possible. The value award for
+Iteration should be awarded to a team member that contributed or displayed iteration that led to
+faster results through for example: setting a due date, minimal valuable change (MVC) or low
+level of shame.
+Transparency Award
+By making information public, we can reduce the threshold to contribution and make
+collaboration easier. The value award for Transparency should be awarded to a team member
+that contributed or displayed transparency through for example: determining what is not public,
+use of a single source of truth and saying why not what.
+
+Criteria for value awards
+Significant contribution or display of GitLab Value in this Fiscal year.
+The contribution or display of GitLab Value led to tangible results.
+The contribution or display was visible to team members outside of their direct team,
+customers, users or investors.
+Contribution or display was outside the general scope of their role/Job Family
+responsibilities
+Truly exceptional work. Good and great is already expected in a team member’s work
+and performance
+Team member is in good standing with the company (e.g. not on a PIP/recently received
+a Written warning).
+Nomination process for awards
+All team members can make nominations for both The DZ Award and Values Awards. When you
+submit a nomination, the People Communications & Engagement DRI will create a document
+looping in your manager and Department Head. Ultimately each Department Head can bring
+forward 1 nomination for the DZ Award and 1 nomination per value. The Department Head
+should loop in their People Business Partner to review the final nominations. The People
+Communications and Engagement DRI will coordinate the nominations for both awards and
+ultimately nominations will be calibrated at the E-Group level.
+Overview of the nomination process
+When the nomination window opens all team members can submit both Values Award
+and DZ Award nominations through this form.
+The People Communications and Engagement DRI will create a document looping in the
+nominator’s manager and Department Head to review the nomination.
+When the nomination window closes the People Communications and Engagement DRI
+will ensure all nomination documents are completed before calibration.
+The People Communications and Engagement DRI and People Business Partners will
+then calibrate between department nominations with the E-group leader to select one
+team member nomination for The DZ Award and up to one team member per Value for
+the Values Awards.
+Engineering and Sales will be able to nominate two team members for The DZ Award.
+The nominations are finalized and E-group will discuss the nominees from each group
+and select the award winners.
+The award winners will be announced.
+CTO DevSecOps Innovation Award
+The DevSecOps Innovation Award is a recognition program for GitLab team members who are
+leveraging our platform and its features to improve the productivity and effectiveness of how
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

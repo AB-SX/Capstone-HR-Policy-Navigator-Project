@@ -1,0 +1,63 @@
+Software Composition Analysis
+Software Supply Chain Security
+Vulnerability Management
+Security Scanning
+Container Scanning
+DAST
+SAST
+Secret Detection
+Last modified October 28, 2025: Changed support skill areas to derive from YAML file (a18fcc02)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/support/training/training_module_maintainer/
+145. Support Training Module Maintainer
+Support Training Module Maintainer
+Understanding the role of a Support training module maintainer
+Overview
+A Training Module Maintainer is the primary steward of a specific Support training module.
+Maintainers are responsible for keeping the module accurate, aligned with current Support
+workflows and product documentation, and effective as a learning/onboarding experience. They
+are also the default reviewers for proposed changes to the module.
+Everyone can contribute improvements to a module; maintainers provide structure, review, and
+continuity.
+Who can be a maintainer
+A Training Module Maintainer is typically any of the following:
+A Support Engineer with demonstrated expertise in the module’s area (for example,
+Product Knowledge, Troubleshooting & Diagnostics, Customer Service).
+A support stable counterpart for the relevant product group.
+Someone who has:
+Completed the module themselves (or an equivalent level of knowledge), and
+Worked a meaningful number of tickets in the module’s topic.
+Modules should have at least one active maintainer, however, it is possible for a complex
+module to have multiple maintainers. Having multiple maintainers offers several benefits: they
+can peer review each other’s changes and avoid a single point of failure. It is also beneficial to
+have maintainers spread across different regions to ensure broader availability and faster
+response times.
+If you are a training module maintainer, be sure to let your manager know in your 1:1 and share
+updates you are making to modules in your document to make your manager aware!
+Time commitment and cadence
+Approximate expectations per module:
+Baseline: ~1–2 hours per month on average.
+Reviews:
+Respond to review requests on MRs that modify the module.
+Respond to automated, scheduled or manual pings that a module review is needed.
+Refresh:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,107 @@
+The Talent Acquisition Team uses the a GitLab Service Desk to track incoming emails to the 
+referral@gitlab email. These emails will, in turn, show up as Issues.
+To set-up notifications for the Referral Service Desk Project, please do the following:
+Click on the Bell icon in the upper right corner (next to Star and Clone).
+Go to Custom Settings.
+Click New Issue.
+Close the window.
+To take action on Issues in that project:
+Click Issues in the left menu bar.
+* This is where incoming referral@ emails will be; any open Issues here will need to be
+addressed.
+Click on the new Issue.
+Assign it to yourself (upper right corner).
+Read the Issue.
+Add the appropriate label(s).
+Look-up the candidate in Greenhouse, if applicable.
+Respond to the Issue by commenting and please be sure to do so just as you would with
+any other GitLab communication.
+* e.g. “Hi, NAME. Thank you for reaching out about the status of your referral. Per our SLA,
+please allow us 5 business days to review the submission. @RECRUITER is responsible for this
+role and they’ll provide the candidate with an update soon.”
+* e.g. “Thank you for the referral. @RECRUITER is responsible for this role and will provide you
+with an update soon.”
+Please be sure to @-mention the responsible Recruiter so that they’re aware an update is
+being requested.
+If one comment addresses the entirety of the message, comment and close the Issue. If
+further information is needed, comment and leave the Issue open.
+The Recruiter will reassign the Issue to themselves once they pickup the communication.
+They may also add any applicable labels.
+The Assignee will close the Issue when communication is complete.
+Referral Roundup Sessions
+Our Talent Acquisition Team occasionally organizes Referral Roundup Sessions.
+The objective of theses sessions are to gather referrals, region-specific information about where
+you’re based, and teach you skills related to sourcing and Greenhouse.
+Each session will have a corresponding Issue linked and in that, we ask that you please add
+information regarding appropriate companies to source from, local meet-up groups,
+conferences, job boards to advertise on, and any other information you believe will be beneficial
+to our hiring efforts in your area.
+A Talent Acquisition Team Member will attend these sessions, so they be able to address any
+questions that arise on sourcing, LinkedIn, or Greenhouse.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11.
+
+Last modified July 30, 2025: Updating People Connect to People Operations references - various
+HB pages (5f8b6106)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/hiring/referral-process/
+062. Referral Program and Process
+Referral Program and Process
+While GitLab’s Referral program is fairly straight-forward, there are some nuances to be mindful
+of. Please take a moment to review the program rules outlined below before submitting a referral
+through Greenhouse to ensure eligibility.
+Defining a Referral
+“Referring” and “endorsing” are different activities. Please read each definition below and note
+that bonuses are granted to referrals only.
+Referral - Someone you have worked with in the past, or have developed a close personal
+relationship with. This person should align with our values and the requirements of the role, and
+be someone you would choose to work with based on what you know about their skills and
+values alignment.
+Endorsement - Endorsements are not referrals, but a recommendation you can make on behalf
+of a candidate who has shown interest in an open role at GitLab. Examples of an Endorsement
+include:
+Someone you’ve previously worked with reaches out about another person they know
+who has applied, and they recommend them.
+An acquaintance or friend of a friend reaches out to you about an open position here
+and you can’t speak to their character or skillset.
+To endorse a candidate, check who the Recruiter is on the Internal Job Board and contact them
+via Slack after a candidate has confirmed that they’ve applied directly. You should include:
+The candidate’s full name and the role they’ve applied to
+Please provide a description of how you know the candidate and why you think they are
+aligned with the role.
+Confirmation that the person knows you are endorsing them.
+A Referral is not
+Someone the Talent Acquisition Team has already sourced, screened, or been in contact
+with for the same requisition or job family. If you have questions about whether or not
+someone is already active in an interview process, please reach out to TA in the #talent-
+acquisition Slack channel.
+Someone you do not know and would not be able to speak about confidently.
+Someone who applied via a unique link you shared from Greenhouse on a social site.
+A former Team Member
+Contract or temporary roles, including Internships, are not eligible for referral bonuses.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

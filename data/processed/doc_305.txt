@@ -1,0 +1,122 @@
+Expectation Description
+Maintain a Growth
+Mindset
+Practice a growth mindset. Both parties can learn and grow from mentorship
+Iterate Iterate on goals throughout the mentorship. Focus on quick wins that the mentee
+can reach, then keep growing.
+Confidentiality Respect the trust built between mentor and mentee. Challenges and
+conversations shared in mentorship sessions should be kept confidential unless
+the mentor and mentee are okay with them being shared.
+Adapted from the NCWIT Mentoring-in-a-Box Mentoring Basics - A Mentor’s Guide to Success, section
+What Are the “Dos” of Mentoring and People Grove resources
+Find a mentor
+The following team members are available as mentors. Schedule a coffee chat to get the
+conversation started!
+The Expertise column comes from the team member .yaml entry and might not include all
+subjects they can help you with.
+Name | Role || Aakriti GuptaAakriti Gupta | Senior Backend Engineer, Organizations |
+| Adam HegyiAdam Hegyi | Principal Engineer, Monitor |
+| Adriano S. FonsecaAdriano S. Fonseca | Senior Customer Success Manager (EMEA) |
+| Alejandro RodríguezAlejandro Rodríguez | Senior Backend Engineer, AI Powered:AI Framework
+|
+| Alexander TurinskeAlexander Turinske | Staff Frontend Engineer, Security Risk
+Management:Security Policies |
+| Anna VovchenkoAnna Vovchenko | Staff Frontend Engineer, Verify:Pipeline Authoring |
+| Arturo HerreroArturo Herrero | Staff Backend Engineer, Global Search |
+| Bojan PuskarevicBojan Puskarevic | Solutions Architect |
+| Charlie AblettCharlie Ablett | Staff Security Engineer, Red Team |
+| David DieulivolDavid Dieulivol | Staff Backend Engineer, Developer Experience |
+| Deepika GulianiDeepika Guliani | Senior Frontend Engineer, Plan:Work Items |
+| Denys MishunovDenys Mishunov | Principal Engineer, AI-powered |
+| Andrea GrayAndrea Gray | Senior Manager, Solutions Architects |
+| Doug StullDoug Stull | Senior Staff Fullstack Engineer, Growth:Activation |
+| Eduardo BonetEduardo Bonet | Principal Engineer, AI Engineering |
+| Fabio PitinoFabio Pitino | Principal Engineer, Verify |
+| Frédéric CapletteFrédéric Caplette | Senior Staff Frontend Engineer, Plan |
+| Gregory HavengaGregory Havenga | Senior Backend Engineer, Security Risk
+Management:Security Infrastructure |
+| Igor DrozdovIgor Drozdov | Principal Engineer, AI Engineering |
+| Janis AltherrJanis Altherr | Senior Fullstack Engineer, Plan:Planner Intelligence |
+| Jannik LehmannJannik Lehmann | Senior Frontend Engineer, Agent Foundations:AI Catalog |
+| Julia GätjensJulia Gätjens | Sr. Solutions Architect |
+| João PereiraJoão Pereira | Staff Backend Engineer, Package:Container Registry |
+| Keeyan NejadKeeyan Nejad | Backend Engineer, Agent Foundations:AI Catalog |
+| Lucas CantorLucas Cantor | Staff Security Engineer, IAM |
+
+| Lorenz van HerwaardenLorenz van Herwaarden | Senior Frontend Engineer, Security Risk
+Management:Security Insights |
+| Lucas CharlesLucas Charles | Principal Engineer, Security Risk Management |
+| Luke DuncalfeLuke Duncalfe | Staff Backend Engineer, Agent Foundations:AI Catalog |
+| Mark LapierreMark Lapierre | Machine Learning Engineer, AI-powered:AI Framework |
+| Marius BobinMarius Bobin | Senior Backend Engineer, Verify:CI Platform |
+| Mark MishaevMark Mishaev | Senior Manager, Engineering |
+| Matt NohrMatt Nohr | Engineering Manager, AI Engineering |
+| Miguel RinconMiguel Rincon | Staff Frontend Engineer, Verify:CI Platform |
+| Chaoyue ZhaoChaoyue Zhao | Senior Software Engineer, Create:Source Code Hardening and
+Modernization |
+| Marc SaleikoMarc Saleiko | Staff Fullstack Engineer, Plan:Work Items |
+| Pavel ShutsinPavel Shutsin | Staff Backend Engineer, Analytics:Optimize |
+| Pedro PombeiroPedro Pombeiro | Staff Backend Engineer, Verify:CI Platform |
+| Peter HegmanPeter Hegman | Senior Frontend Engineer, Organizations |
+| Rémy CoutableRémy Coutable | Principal Engineer, Tenant Scale |
+| Rane HebdenRane Hebden | Senior Staff Engineer, Software Supply Chain Security |
+| Terri ChuTerri Chu | Staff Backend Engineer, Global Search |
+| Thong KuahThong Kuah | Principal Engineer, Tenant Scale |
+| Tomáš BulvaTomáš Bulva | Senior Frontend Engineer, Global Search |
+| Tomasz SkorupaTomasz Skorupa | Senior Backend Engineer, Cells Infrastructure |
+| Vasilii IakliushinVasilii Iakliushin | Staff Backend Engineer, Create:Change Record |
+| Ved PrakashVed Prakash | Staff Data Engineer |
+| Vitaly SlobodinVitaly Slobodin | Staff Frontend Engineer, Fulfillment:Fulfillment Platform |
+| David Teller / YoricDavid Teller / Yoric | Staff Backend Engineer |
+Become a mentor
+Indicate your mentorship availability on the GitLab team page by setting the mentor
+status to true. This will appear on the team page with a line that reads Available as a
+mentor. Example MR
+Organized mentorship programs
+Learn more about organized mentorship programs for team members:
+Women at GitLab
+Aspiring Managers
+Finance Team is running a mentorship program.
+Resources
+Resources below are designed to guide mentor/mentee relationships in both synchronous and
+asynchronous formats. Adopt what fits and leave what doesn’t.
+1. 
+1. 
+2. 
+3.
+
+Mentor and Mentee training
+Enjoy the following Google Slides presentation on finding a mentor, setting clear expectations,
+and achieving goals through mentorship.
+Mentee: What to do before your mentorship begins
+Set up a coffee chat with your mentor. Take time to get to know them and build trust.
+Discuss communication styles and preferences.
+Set a specific goal for your mentorship. It’s OK if you don’t reach 100% of your goal
+during the mentorship.
+Join the #mentoring Slack channel
+Mentee: Set your goal and purpose
+In their book Burnout: the secret to unlocking the stress cycle, authors Emily and Amelia Nagoski
+explain the difference between goals and purpose:
+Idea Definition
+Goal the what - outcome driven
+Purpose the why - value driven
+Mentees should set a foundational goal and purpose for their mentorship. Mentee goals should
+drive the relationship.. Mentors might also set a goal around their own growth objectives as a
+mentor. Both mentors and mentees bring their own original purpose to mentorship.
+What is your goal?
+Criteria Description
+Time-bound When will the goal be complete?
+Certain Is achievement of the goal within your control?
+Specific What is the desired outcome?
+Positive What positive impact will the outcome create?
+Measurable How will success be measured?
+Personal Why does achieving the goal matter? Tie goal to purpose.
+Using the matrix below, fill in each empty space based on the descriptions above to draft your
+goal:
+Time-bound Certain Specific Positive Measurable Personal
+This structure is adapted from Burnout: the secret to unlocking the stress cycle and the SMART goal
+framework. Learn more about goal setting by taking the Setting Team and Employee Goals using
+SMART Methodology LinkedIn Learning course
+1. 
+2. 
+3.

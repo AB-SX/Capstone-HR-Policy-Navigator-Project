@@ -1,0 +1,50 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/being-inclusive/
+150. Being Inclusive
+Being Inclusive
+We are all responsible for creating and maintaining an inclusive environment at GitLab.
+What is fundamental for a successful inclusive environment
+We are all responsible for creating and maintaining an inclusive environment at GitLab.
+We all need to feel empowered to contribute and collaborate.
+Diversity, Inclusion & Belonging at GitLab
+Diversity includes all the differences we each have, whether it be where we grew up, where we
+went to school, experiences, how we react, age, race, gender, national origin, things we can and
+can not see, the list goes on.
+Inclusion is understanding or recognizing all these differences and inviting someone to be a part
+of things and collaborate, etc.
+Belonging is when you feel your insights and contributions are valued. It goes back to team
+members feeling they can bring their full selves to work.
+See the Diversity, Inclusion, and Belonging page for more information.
+What inclusive behaviors look like
+Include and seek input from team members across a wide variety of backgrounds.
+Active listening - listen carefully to the person speaking and playback what they have
+said in an effort to show understanding.
+Make a habit of asking questions.
+If you have a strong reaction to someone, ask yourself why. Look inward.
+Address misunderstandings and quickly resolve disagreements.
+Make a point to understand each team member’s contribution efforts and leverage
+them as much as possible.
+Ensure all voices are heard. Include everyone as much as possible in discussions.
+Assume positive intent and examine your assumptions/judgements.
+See our values page for futher information on inclusive language.
+Inclusion Training
+In December 2019, we held 3 sessions on Inclusion Training. Below you can find a recorded
+session that follows along with the slide deck and agenda.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+
+Inclusion Knowledge Assessment
+Anyone can earn a GitLab Inclusion Certification. To obtain certification, you will need to complete
+the Inclusion Knowledge Assessment Quiz and earn at least an 80%. Once the quiz has been
+passed, you will receive an email with your certification that you can share on your personal
+LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at 
+learning@gitlab.com.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .

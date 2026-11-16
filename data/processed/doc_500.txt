@@ -1,0 +1,68 @@
+Switch to List View by clicking the button next to the word “Contacts” at the top of the
+screen.
+Search for the contact you would like to update, and click on their name.
+In their contact record, edit the GitLab Role field and select the persona(s) that apply to
+them, and then save the field by clicking the check button to the right.
+Customer Prioritization
+On the Gainsight Attributes section, the CSM can set the priority level per customer with levels 1
+or 2, with 1 being the highest. A new CSM-assigned customer coming on to GitLab will default to
+Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts,
+and Pr4 is only for our digital customers and not for the CSM-assigned segment, with the
+exception of the Public Sector that is trialing a CSM-assigned digital customer. Priority definitions
+vary by CSM segment.
+Why do we use a prioritization system?
+To enable focus on customers that have an imminent opportunity for growth or that
+require near-term risk mitigation
+To ensure that their book of business does not overburden the CSMs
+2. 
+3. 
+4. 
+• 
+•
+
+To give CSM Managers more visibility into the potential workload of their team via more
+context on the makeup of the overall portfolio
+Used to further segment customers, beyond the Sales Segmentation
+The CSM Portfolio Dashboard is used to help highlight and review each client, including their
+priority level.
+Different geos and teams may have different approaches to prioritization, for example:
+All AMER CSM customers are Priority 1.
+Scale CSE account prioritization model is TBA.
+Email Templates
+The templates provided below can be used for certain outreach efforts to customers to drive
+engagement. Please note any points in each template that should be personalized and update
+accordingly.
+Initial customer engagement
+Subject: The Value of Working with a GitLab Customer Success Manager
+Dear [CUSTOMER],
+I hope this email finds you well. I am reaching out to you today as your dedicated Customer
+Success Manager (CSM) to discuss the value of working with a CSM and how it can benefit you
+and your business.
+As you may know, our primary goal is to help you achieve success with our product or service.
+As your CSM, I am here to be your trusted advisor and advocate, ensuring that you are getting
+the most out of our product and that you are satisfied with your overall experience.
+Working with a CSM can provide many benefits, including:
+Strategic Guidance: I can provide you with insights and best practices to help you
+optimize your use of our product and get the most value out of it. We can work
+together to develop a plan to meet your business goals.
+Continuous Improvement: I am constantly monitoring your account to ensure that we
+are delivering the best possible experience. If there are areas where we can improve, I
+will work with you to identify and address them.
+Proactive Support: I am here to ensure that any issues or concerns you may have are
+addressed promptly and proactively. My goal is to minimize any disruptions and keep
+your business running smoothly.
+Increased ROI: By working closely with me, you can maximize the value you get from
+our product or service, resulting in a better return on investment.
+I am committed to being your partner in success and ensuring that your experience with
+GitLab is a positive one. If you have any questions or concerns, please don’t hesitate to reach
+out to me. I am always here to help.
+Thank you for choosing GitLab, and I look forward to working with you to achieve your
+business goals.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

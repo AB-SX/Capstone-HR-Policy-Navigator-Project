@@ -1,0 +1,113 @@
+The Internal Committee may, before initiating an inquiry and at the request of the complainant,
+take steps to settle the matter between the complainant and the respondent through
+conciliation, provided that no monetary settlement shall be made as a basis of conciliation.
+Where a settlement has been arrived at under sub-clause (I) of this clause (a), the Internal
+Committee shall record the settlement so arrived at, and forward the same to GitLab to take
+action as specified in the recommendation.
+Where a settlement is arrived at, no further inquiry shall be conducted by the Internal
+Committee.
+(b) Inquiry into the Complaint
+Where the complainant informs the Internal Committee that any term or condition of the
+settlement arrived at as part of the conciliatory proceedings has not been complied with by the
+respondent, or if the complainant does not request for conciliation, or if the conciliation process
+fails, and where the respondent is a team member, the Internal Committee would proceed to
+make an inquiry into the complaint in accordance with the provisions of this policy.
+Quorum for the inquiry proceedings shall be 3 members of the Internal Committee including the
+Presiding Officer.
+Both the respondent and the complainant (unless specifically exempted by the Internal
+Committee in writing) shall be required to attend every hearing, if so requested. If either party
+fails to attend two consecutive hearings without sufficient cause, the Internal Committee may
+terminate the inquiry or pass an ex parte order with 10 days’ notice.
+While conducting the inquiry, the Internal Committee shall call upon such witnesses as it may
+deem appropriate, and provide a reasonable opportunity of being heard to both the complainant
+and the respondent.
+On completion of the inquiry, the Internal Committee will prepare a report of its findings and
+recommendation for action to be taken by GitLab and submit the same to the VP of Team
+Member Relations.
+2.4 Interim relief
+During the course of the inquiry, on a written request being made by the complainant, the
+Internal Committee may recommend to GitLab to: (a) transfer the complainant to another
+department/division as deemed appropriate, or (b) transfer the respondent to another
+department/division as deemed appropriate, or (c) grant leave to the complainant up to a period
+of three months, or (d) restrain the respondent from reporting on the work performance of the
+complainant or writing the complainant’s appraisal/ confidential report(s). The Internal
+Committee may also recommend to GitLab to suspend the respondent during the pendency of
+the inquiry if the circumstances so merit.
+2.5 Internal Committee’s Recommendation and Action by GitLab
+In the event that the complaint is substantiated and the respondent is found to have engaged in
+sexual harassment, depending upon the gravity of the offence and without prejudice to any legal
+right(s), the Internal Committee may make any of the following recommendations of disciplinary
+action to be taken against the respondent:
+Direct the respondent to undergo training or counselling to address any specific issues.
+Direct the respondent to provide a written apology to the complainant clearly indicating
+that such behaviour will not be repeated and that no retaliatory steps will be taken by
+• 
+•
+
+them or others on their behalf against the complainant. GitLab does not tolerate 
+retaliation.
+Transfer the respondent.
+Give a verbal or written warning which will also be noted in the respondent’s record.
+Withhold increment or bonus (whether in full or part).
+Withhold promotion.
+Direct termination or suspension of employment of the respondent.
+Any other recommendations as it may deem fit.
+The Internal Committee may also recommend to GitLab to deduct a compensatory sum from the
+salary of the respondent and pay it to the complainant or the respondent may be directed to pay
+the compensatory amount to the complainant.
+In the event the Internal Committee comes to the conclusion that the complaint is not
+substantiated, GitLab shall not take any further action.
+If the complainant desires to take criminal action against the respondent, there shall be no
+objection by the Internal Committee and GitLab. In such an event, GitLab will attempt to provide
+all reasonable assistance to the complainant. GitLab may also choose to take criminal action
+against the respondent.
+2.6 Punishment for false or malicious complaint and false evidence
+Where the Internal Committee arrives at a conclusion that the allegation against the respondent
+is malicious, or the complainant has made the complaint knowing it to be false, or the
+complainant has produced any forged or misleading document, it may recommend to GitLab to
+take action against the complainant. The Internal Committee may also recommend to GitLab to
+take appropriate disciplinary action when it arrives at a conclusion that any witness has given
+false evidence or produced any forged or misleading document. These recommendations to be
+made by the Internal Committee will be similar to the recommendations of disciplinary action to
+be taken against the respondent if the complaint against them is substantiated, as discussed in
+clause 2.5(a) of this section 1.4.
+1.5 Confidentiality
+GitLab understands that it is difficult for a complainant to come forward with a complaint of
+sexual harassment and recognizes the complainant’s interest in keeping the matter confidential.
+To protect the interests of the complainant, the respondent, witnesses and others who may assist
+with the inquiry into a complaint of sexual harassment, confidentiality will be maintained
+throughout any investigatory process to the extent practicable and appropriate under the
+circumstances. The Internal Committee, GitLab, the complainant, the respondent and the
+witnesses would be bound to keep information relating to the inquiry process confidential.
+The complainant, respondent, witnesses and members of the Internal Committee who are GitLab
+team members who breach the confidentiality of the inquiry process would be liable for an
+applicable fines or disciplinary action up to and including termination.
+• 
+• 
+• 
+• 
+• 
+•
+
+1.6 Protection against Retaliation
+GitLab prohibits any form of retaliation against anyone who has raised a complaint of sexual
+harassment or has cooperated in any inquiry involving a complaint of sexual harassment.
+Any individual who believes that they are experiencing retaliation, by way of intimidation,
+pressure to withdraw the case or threats for reporting, testifying or otherwise participating in the
+proceedings, should report this to the Internal Committee or following the reporting procedure
+set out in the GitLab Anti-Retaliation Policy. GitLab will then address the concerns raised. Any
+person who is found to be guilty of retaliation may be subject to appropriate disciplinary action
+up to and including termination. Anyone who abuses this procedure (for example, by maliciously
+putting an allegation knowing it to be untrue) would also be subject to disciplinary action up to
+and including termination.
+1.7 Access to Reports and Documents
+All records of sexual harassment complaints, including contents of meetings, results of
+investigations and other relevant material will be kept confidential by GitLab, except where
+disclosure is required under disciplinary or other remedial processes.
+Current and Past Versions
+A PDF of the current version of the policy will be made available here and if/when the policy is
+updated, PDFs of previous versions will also be made available for transparency.
+Last modified October 1, 2026: India Policies Handbook Updates (e8a645dd)
+View page source
+ 
+ .

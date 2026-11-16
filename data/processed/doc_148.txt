@@ -1,0 +1,161 @@
+Time Away & Leave Policies
+Annual Leave
+Flexible time off that combines Australian statutory leave entitlements with GitLab’s Flexible PTO
+policy, ensuring you have the time you need to recharge and maintain work-life balance.
+Leave Entitlement & Key Details
+Full-time team members are entitled to 4 weeks paid annual leave in accordance with
+the Fair Work Act 2009 (Cth) per year of continuous service. This amount will be pro-
+rated for part-time team members by reference to the team member’s ordinary hours of
+work.
+Annual leave accrues progressively and accumulates from year to year.
+This leave runs concurrently with GitLab PTO. Team members should select Paid Time
+Off in Workday to ensure that leave entitlements are properly tracked. For team
+members who are not covered by a modern award or enterprise agreement, they may
+be asked to take a period of paid annual leave if such request is reasonable, such as
+when a team member has accrued an excessive amount of paid annual leave.
+Personal/Carer’s Leave
+Sick and carer’s leave (also known as personal leave or personal / carer’s leave) lets an employee
+take time off to help them deal with personal illness, caring responsibilities and family
+emergencies. Team members will be entitled to personal/carer’s leave in accordance with the Fair
+Work Act 2009 (Cth) as varied from time to time.
+Paid Personal/Carer's Leave
+Team members are entitled to 10 days of paid personal/carer’s leave for each year of continuous
+service for full-time team members and pro rata for part-time team members based on ordinary
+hours of work.
+Personal/carer’s leave is cumulative and accrues progressively.
+This leave runs concurrently with GitLab’s Sick Time policy.
+Eligibility:
+A team member can take paid carer’s leave to care for or support a member of their immediate
+family or household who is sick, injured or has an unexpected emergency.
+An immediate family member is a:
+spouse or former spouse
+de facto partner or former de facto partner
+child
+parent
+grandparent
+grandchild
+sibling, or
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+child, parent, grandparent, grandchild or sibling of the employee’s spouse or de facto
+partner (or former spouse or de facto partner)
+This definition includes step-relations (for example, step-parents and step-children) as well as
+adoptive relations
+A household member is any person who lives with the employee
+How to Apply:
+Email leaves@gitlab.com at least 1 day prior to the start date (whenever possible)
+* Include a medical certificate or statutory declaration noting you weren’t able to work
+because of an illness or injury, or needed to provide care or support to an immediate
+family or household member (because of an illness, injury, or unexpected emergency
+affecting the family member).
+Select Out Sick in Workday to ensure that leave entitlements are properly tracked.
+* If you wish to take Carer’s Leave but don’t want to change your Slack status to Out
+Sick, send your Carer’s Leave request to leaves@gitlab.com and the Absence
+Management team will manually add your leave to Workday and notify payroll.
+Unpaid Carer's Leave
+All team members are entitled to 2 days unpaid carer’s leave.
+Eligibility:
+Team Members are eligible for 2 days unpaid carer’s leave each time an immediate family
+member or household member of the employee needs care and support because of:
+Illness
+Injury or
+An unexpected emergency
+Full-time team members can only get unpaid carer’s leave if they don’t have any paid sick / carer’s
+leave left.
+An immediate family member is a:
+spouse or former spouse
+de facto partner or former de facto partner
+child
+parent
+grandparent
+grandchild
+sibling, or
+child, parent, grandparent, grandchild or sibling of the employee’s spouse or de facto
+partner (or former spouse or de facto partner).
+This definition includes step-relations (for example, step-parents and step-children) as well as
+adoptive relations.
+A household member is any person who lives with the employee.
+Unpaid carer’s leave can be taken:
+In 1 continuous period (for example, 2 working days in a row) or,
+• 
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+In separate periods as agreed between the employee and employer (for example, 4 half
+days could be taken in a row).
+How to Apply:
+Email leaves@gitlab.com at least 1 day prior to the start date (whenever possible)
+* Include a medical certificate or statutory declaration noting you weren’t able to work
+because of an illness or injury, or needed to provide care or support to an immediate
+family or household member (because of an illness, injury, or unexpected emergency
+affecting the member).
+Select Out Sick in Workday to ensure that leave entitlements are properly tracked.
+* If you wish to take Carer’s Leave but don’t want to change your Slack status to Out
+Sick, send your Carer’s Leave request to leaves@gitlab.com and the Absence
+Management team will manually add your leave to Workday and notify payroll.
+Long Service Leave
+Team members may be eligible for long service leave in accordance with state/territory based
+legislation as varied from time to time.
+Key Details
+Eligibility determined by state/territory-based legislation
+Runs concurrently with GitLab PTO
+Select “AUS Long Service” in Workday for proper tracking
+Specific entitlements depend on your state/territory and length of service
+Other Leave Types
+Family and Domestic Violence Leave
+From February 1, 2023 all team members, including part-time and casual employees, are entitled
+to 10 days of paid family and domestic violence leave each year. This leave will run concurrently
+with GitLab PTO. Team members should notify the Absence Management team
+(leaves@gitlab.com) if they need to make use of this leave.
+For more information on Family and Domestic Violence Leave, please visit the Fair Work
+Ombudsman Website.
+Resources:
+1800RESPECT
+Safe Steps
+Victims Services
+Domestic Violence Resource Centre Victoria
+JobWatch
+MensLine Australia
+Men’s Referral Service
+Compassionate and Bereavement Leave
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

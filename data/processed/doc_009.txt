@@ -1,0 +1,149 @@
+Please read our GitLab Events Code of Conduct for more information regarding team member
+responsibility during attendance at company-sponsored events.
+Job Abandonment
+When a team member is absent from work for three consecutive workdays, there is no entry on
+the availability calendar for time off, and fails to contact their supervisor, they may be terminated
+for job abandonment unless otherwise required by law. If a manager is unable to reach a team
+member via email or Slack within a 24 hour period they should contact their People Business
+Partner. The People Business partner will access the team member’s information to obtain
+additional contact methods and numbers. The manager and People Business Partner will create
+an action plan to make all attempts to contact the team member.
+Throughout this process, managers and People Business Partners must maintain detailed
+records of: dates and times of all contact attempts, methods used for each attempt, any
+responses or information received, consultation with other GitLab teams (if applicable), and
+jurisdiction-specific considerations.
+Exceptions to the Job Abandonment Policy
+GitLab understands there are extenuating circumstances that can occur. In the instance that a
+team member is absent from work for three consecutive workdays due to an emergency outside
+of the team members’ control (see examples below), the recommendation is:
+The team member should notify their manager about the situation, should a period of
+unavailability be a foreseen possibility.
+The team member and manager should consider exchanging cell phone numbers to
+stay in contact as much as possible in the case that the situation should escalate. If you
+are based in different countries, consider ensuring you and your manager both have an
+app that facilitates international communication (ex. Whatsapp, Zalo, etc.). If costs are
+incurred when trying to contact your manager, this can be considered a business
+expense and can be submitted for reimbursement through Navan Expense.
+Consider leveraging GitLab’s flexible time off policy to take the time you need.
+Examples of Potential Extenuation Circumstances
+Regional internet or telecommunications outages
+Natural disasters or severe weather events
+Sudden medical emergencies affecting the team member or immediate family
+Civil unrest, political instability, or government actions affecting communications
+Technology failures when no alternative communication means are available
+Sudden travel emergencies with no connectivity
+Unexpected legal detention or immigration issues
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Team Member Safety
+Preventing Unsafe Situations
+While GitLab is 100% remote, there may be times when team members travel for work-related
+functions or co-working events. GitLab is committed to the value of a safe, violence-free work
+environment and ensuring and exhibiting equal commitment to the safety and health of team
+members.
+In general, please consider the following recommendations to ensure safety when traveling or
+coworking:
+Do the research. Have some familiarity with the destination before you arrive. Check
+with your country’s government department that provides advice for traveling overseas:
+* United States: check the State Department’s website for country updates and enroll in
+a Traveler Program such as Smart Traveler Enrollment Program (STEP).
+* New Zealand: Safe Travel.
+Try not to draw attention. People who appear to be from out of town are more
+vulnerable to crimes. Try to respect the culture you are visiting by blending in. Consider
+protective clothing to avoid pickpockets or other theft. Do not flash money or credit
+cards unnecessarily.
+Make copies of important documents. Consider carrying hard copies of important
+documents (passport, driver’s license) in a separate location in the event your
+documents are misplaced or stolen.
+Keep friends and family updated. No matter whether you’re going on an overnight jaunt
+or a week-long international journey, it’s always a good idea to let friends or family know
+your plans. Before you leave, send a copy of your itinerary to a few trusted people who
+can keep tabs on your whereabouts. Check in regularly with your contacts so they know
+you’re where you’re supposed to be.
+Be wary of public Wi-Fi. Be aware that hackers can steal sensitive information in the
+public forum. Use a VPN or other secure access if you plan to access sensitive data. More
+information on VPN usage at GitLab.
+Safeguard your hotel. Lock and deadbolt the door while you are in the room. Ensure the
+door is locked when you leave. Keep the windows closed. Try to give the impression that
+you’re in your room even when you’re away, such as placing the Do Not Disturb sign on
+the outside of your door and keeping the blinds or windows closed. Don’t let any
+strangers into your room, even if they say they work for the hotel. You can always call
+the front desk to check whether someone was ordered by hotel staff to come to your
+room.
+Be aware of your surroundings. Always keep an eye on your personal belongings and
+use good judgment when talking to strangers. A big part of the joy of traveling is the
+opportunities it affords to meet new people and learn about their cultures. But if
+someone near you is acting suspiciously, or if you feel uncomfortable, leave the area
+immediately. Trust your instincts.
+Adhere to any recommended safety recommendations made by the GitLab group. For all
+large self-hosted events we (jointly completed by our internal security team and our
+contracted security agency) will do a full risk assessment before we converge. It will be
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+
+up to team members to read said risk assessment and adhere to recommendations
+outlined.
+If you are sick please do not come or participate in person workplace activities. This is
+for your safety and for others. We recommend that GitLab team members not travel
+while sick.
+Responding to Unsafe Situations
+The following are GitLab’s procedures in the event a team member feels threatened or unsafe:
+If at any point, a team member feels that they are in danger of physical harm, please
+contact the local authorities immediately. Local law enforcement can act quickly to
+protect the individual and neutralize any threats.
+If at any point, a team member feels like they or another team member may require
+immediate medical assistance, please contact the local authorities.
+Once the immediate threat is controlled, team members should report any safety
+concerns to People Operations.
+If you believe that a certain location, event or area presents greater risk or exposure to
+individuals, please notify People Operations. People Operations will strive to proactively
+communicate the concerns to other potentially affected team members.
+If at any point you believe you, personally, may commit an unsafe act, People
+Operations can assist in providing information about available Modern Health options.
+Workers’ Compensation
+Workers’ compensation provides benefits to team members who suffer work-related injuries or
+illnesses. If you have been injured at work, at a co-working site, or traveling to a customer
+location please follow our reporting procedures:
+Seek appropriate medical attention immediately for serious injuries. For emergency
+situations, call local emergency services (911 in the US).
+Report all injuries, regardless of severity, to your manager as soon as possible.
+Contact the Absence Management team through Compass within 24 hours of the injury.
+The Absence Management team will provide you with paperwork to file your claim and
+explain your benefits.
+Complete all required documentation as directed by the Absence Management team.
+CA Team Members Only: Complete this form and submit to the Absence Management Team in
+Compass.
+The following states are considered “monopolistic” workers compensation states, meaning
+employers must purchase workers compensation coverage directly from the state. If a team
+member in these states is injured, they may file the claim themselves or the Absence
+Management Team will file on their behalf. Team members in these States are still required to
+contact the Absence Management Team, even if they file their own claim through the State:
+Ohio
+Washington
+9. 
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+• 
+• 
+• 
+• 
+•

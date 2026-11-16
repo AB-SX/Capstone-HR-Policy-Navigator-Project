@@ -1,0 +1,128 @@
+See Accident Policy section of the GitLab Singapore Benefit Overview for complete
+details
+Full policy details: Group Personal Accident Policy
+Retirement Planning
+Singapore’s Central Provident Fund (CPF) provides comprehensive retirement security. While
+GitLab doesn’t offer supplementary private pension benefits, the CPF system ensures your long-
+term financial wellbeing. Learn more at cpf.gov.sg.
+Growing Family Leaves
+GitLab Singapore combines statutory leave with our global parental leave policy to provide
+comprehensive support for growing families.
+Maternity Leave
+Team members employed for at least 3 months before birth may be eligible for the maternity
+leaves listed below.
+Government-Paid Maternity Leave (16 weeks)
+1st and 2nd births: 8 weeks employer-paid + 8 weeks government-paid
+3rd+ births: 16 weeks government-paid
+First 8 weeks must be continuous; remaining weeks flexible within 12 months of birth
+Eligible team members receive concurrent GitLab Parental Leave
+Employment Act Maternity Leave (12 weeks)
+8 weeks paid + 4 weeks unpaid
+With GitLab Parental Leave, eligible team members receive up to 16 weeks paid
+How to Apply
+Submit “Parental Leave” request in Workday at least 30 days before leave
+Send GPML Declaration Form to leaves@gitlab.com
+GitLab handles government reimbursement claims
+Paternity Leave
+Team members employed for at least 3 months before due date may receive:
+4 weeks government-paid paternity leave
+Up to 16 weeks total when combined with GitLab Parental Leave
+for eligible team members
+How to Apply
+Submit “Parental Leave” request in Workday
+Send GPPL Declaration Form to leaves@gitlab.com
+Learn more about eligibility at the Ministry of Manpower website.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+1. 
+2.
+
+Shared Parental Leave
+Team members whose child’s date of birth, Estimated Delivery Date (EDD), or Formal Intent to
+Adopt Date (FIAD) is on or after 1 April 2026 are eligible for 10 weeks of government-paid SPL, in
+addition to the existing Maternity and Paternity Leave entitlements above.
+10 weeks shared between both parents (5 weeks each by default; reallocation available
+via the LifeSG portal)
+Fully government-paid, capped at SGD 2,500 per week including CPF contributions
+Must be used within 12 months of the child’s birth
+Learn more about eligibility at the Ministry of Manpower website.
+How to Apply
+Provide at least 4 weeks’ notice before commencing a continuous block of SPL
+Request “Shared Parental Leave” by emailing leaves@gitlab.com
+Time off Policies
+Annual Leave
+Holiday allowance: Holiday allowance: After 3 months of employment, accrual rates will
+be based on tenure. Team members are allowed to carry over unused vacation up to the
+statutory accrual limit based on tenure.
+1 year of service: 7 days/year
+2 years of service: 8 days/year
+3 years of service: 9 days/year
+4 years of service: 10 days/year
+5 years of service: 11 days/year
+6 years of service: 12 days/year
+7 years of service: 13 days/year
+8 years of service: 14 days/year
+Runs concurrently with GitLab PTO
+Enter time off in Workday using “Paid Time Off” option
+Coordinate with your team to ensure coverage
+Unused leave requires approval to carry forward
+Other Leave Entitlements
+As provided under Singapore law (Child Development Co-Savings Act and the Employment Act):
+Outpatient sick leave
+Hospitalization leave
+Adoption leave
+Childcare and extended childcare leave
+• 
+• 
+• 
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Unpaid infant care leave
+Questions?
+For any questions, reach out to our support teams:
+Benefits Questions: Compass
+Claims Support: Pacific Prime is GitLab’s broker of record and can assist with claims
+support and escalations: Email: SGServiceTeam@pacificprime.com, Telephone: +65 6346
+3781, Option 3
+Medical Claims: IHP Portal or +64 6715 9422
+Health Screening: ehs@fullertonhealth.com or +65 6333 3636 (Option 3)
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•

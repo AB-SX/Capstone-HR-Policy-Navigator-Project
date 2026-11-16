@@ -1,0 +1,150 @@
+The hotel room block’s pricing is generally within the bounds of the $300USD/night and
+in the event it is over that amount, please contact the AP team for an exception to be
+granted.
+Conference hotel room blocks or Corporate Events organized blocks will still need to be
+charged to a personal credit card and then submitted for reimbursement via Navan
+Expense.
+Always bring a credit card with you when traveling for company business if you have
+one. Hotels will generally expect you to have a physical credit card to present upon
+check-in. This credit card will be kept on file for the duration of your stay. Even if your
+lodging was pre-paid by the company or by using a company credit card, the Hotel may
+still require a card to be on file for “incidentals”.
+Additional Hotel Guidelines
+Dry cleaning is allowable if the stay is over 5 days. Room service is allowable as a meal
+for e.g. breakfast/lunch/dinner.
+Meals are to be segregated from the hotel bill and tagged under “Meals Company
+Provided” Category.
+Parking must be segregated and tagged under “Transportation”.
+Movies, mini bars are not allowed as a claim.
+Booking accommodations through Airbnb
+To be booked on the AIRBNB platform. Same restrictions in amount applies as the hotel
+expense.
+Booking through Airbnb is permitted if it is cheaper than a hotel stay for your trip
+Team Member to submit a manual expense in Navan using expense type “Lodging” and
+attach the receipt/invoice.
+Self Stay Incentive Policy
+If you decide to stay with friends or family instead of a hotel / Airbnb for a business trip,
+you may expense up to a $50 appropriate host/hostess gift.
+Coding
+Expense Type / Navan Policy Category: Lodging
+Meals: Company Provided while Traveling
+Meals while traveling on Company business are reimbursable, up to $120 USD (or local
+equivalent currency) per day.
+Each Team Member must submit their own receipts for reimbursement, so ensure to
+separate billing when going to meals with groups of Team Members. If this is not
+practicable to do due to the group size, then the most senior Team Member present
+should pay the bill and submit for reimbursement.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+To be used for team activities and food/beverages associated with travel on Company
+business. Refer to our Travel Handbook Page.
+Tips are acceptable up to 20% and should be detailed accordingly in the description box.
+This should be included in the final price to stay within the Policy limits. For US team
+members, cash tips under $50 do not need a receipt.
+Please also add a description for the trip/reason for travel.
+Coding
+Expense Type / Navan Policy Category: Traveling: meals for myself
+Traveling: Team Events and Meals
+To be used for team activities and food/beverages.
+Each Team Member must submit their own receipts for reimbursement, so ensure to
+separate billing when going to meals with groups of Team Members. If this is not
+practicable to do due to the group size, then the most senior Team Member present
+should pay the bill and submit for reimbursement.
+$80 limit per person per meal.
+Tips are acceptable up to 20% and should be detailed accordingly in the description box.
+This should be included in the final price to stay within the Policy limits. For US team
+members, cash tips under $50 do not need a receipt.
+Please also add a description for the trip/reason for travel.
+Coding
+Expense Type / Navan Policy Category: Traveling: Team Events and meals
+Mileage
+Based on Mileage driven and calculated by Navan. Team Members are prompted by
+Navan to enter their start and end locations.
+Mileage is reimbursed according to local law, e.g. US rate per mile, rate per km in the
+Netherlands, or rate in Belgium. Refer to “How Mileage Rates are Based” section below.
+Should Show Start and End point of trip in Navan.
+Please include a reason for the trip in the description box.
+Team Members cannot claim both mileage and Electric Vehicle charging fees.
+How Mileage Rates are Based
+The mileage rate is based on your legal entity’s mileage rates for the current year. These
+will be updated yearly for tax compliance.
+However, for the following entities (due to limited visibility online), the default rate is set
+at $.50/mile… so please update the rate on your mileage if needed to match your local
+compliance laws: GitLab IT BV, GitLab Korea and GitLab Japan.
+Coding
+Expense Type / Navan Policy Category: Distance Driven
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Train
+The Train policy in Navan is set up as a “Dynamic Policy” which calculates a fair market
+price for every search based on travel dates and destinations. Any purchases that are
+over 20% of the Dynamic Policy will be flagged for further review by your manager. Also
+note that anything booked outside of Navan will flag as “Out of Policy”, and will need to
+be reviewed by your manager and the AP team.
+Trains booked through Navan will be paid by GitLab travel card.
+Train rides must be standard cabin class with a 14 day booking lead time.
+If you travel more than 3 train trips (6 segments) per quarter, and they are over 5 hours
+in duration; we will allow you to upgrade one class on the train.
+Yearly or Monthly Rail Discount cards are not reimbursable.
+Coding
+Expense Type / Navan Policy Category: Train travel
+Transportation/Parking
+Parking, Tolls, Taxi, Uber pertaining to travel to/from GitLab events, clients, or
+conferences is acceptable. Team Members are not permitted to expense both fuel/EV
+charging fees and mileage.
+Full Description of Trip should be stated in the Description box.
+Ground Transportation (taxis, ubers) at $300 limit per round trip and $150 limit for
+single trip.
+Parking and tolls at $150 limit per day.
+All items booked which are over the limits set will need to have manager approval
+attached to the claim.
+Coding
+Expense Type / Navan Policy Category: Public transport, tolls & parking
+Travel (Other)
+Internal Conferences and Meetings
+If you are traveling to attend an internal GitLab conference or meeting (e.g., R&D Summit, SKO,
+President’s Club, Team Off-site), please follow the travel guidelines provided for that specific
+event rather than this general Travel Policy. Event-specific guidelines may differ from standard
+business travel policy in areas such as airfare, hotel, and class of service.
+Travel Dates - Days before and after
+The company will cover all work-related travel expenses. This includes lodging and meals during
+the part of the trip that is work-related. Depending on the distance of your travel, it can also
+include one day before and one day after the work related business. For example, if you are
+attending a 3 day conference in a jet lag-inducing location, the company will cover your lodging
+and meals those 3 days as well as one day before and one day after.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

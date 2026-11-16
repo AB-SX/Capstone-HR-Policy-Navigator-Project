@@ -1,0 +1,71 @@
+GitLab Self Managed Playground and Demo space
+Many of our prospects and customers choose the option to maintain their own Self Managed
+GitLab installation based on the reference architecture. To be able to walk in your customers’
+shoes and experience the same possibilities as well as challenges, there is a shared GitLab
+Omnibus environment for CSMAs to use.
+Follow these instructions to get access to the shared Omnibus Instances
+The Get started administering GitLab Guide is a great starting point
+You can export a Service Ping data file from the instance and explore product usage data
+via the Service ping analysis engine
+Finding Answers
+GitLab is a massive and ever-changing product — nobody can know everything. It is important to
+learn how to find answers. These handbook pages might help you with it.
+Searching GitLab like a pro
+Researching Customer Questions
+Meeting Shadowing
+View the CSM Handbook homepage for additional CSM-related handbook pages.
+To learn how GitLab CSMs …
+Last modified September 24, 2026: Rename Customer Success handbook to Customer
+Experience, delete the stale CX handbook (968e3521)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+1. 
+2.
+
+Source: https://handbook.gitlab.com/handbook/customer-experience/csm/segment/cse/team-member-
+onboarding/
+134. CSE Team Member Onboarding
+CSE Team Member Onboarding
+How new Customer Success Engineers ramp up: the learning modules and certifications, the live
+sessions, the shadow and ramp framework, and the support new hires get from their manager
+and buddy.
+Onboarding as a Customer Success Engineer (CSE) is a guided, blended journey. It combines a
+self-paced, role-based learning path, live virtual skills sessions, the
+GitLab Revenue Academy with an in-person regional graduation event, and a practical
+ramp from shadowing calls to leading them. This page explains what to expect and how your
+manager and buddy support
+you.
+The formal learning and the practical ramp run in parallel, not one after the other. You are not
+expected to finish
+every module before your first shadow call, but you are expected to have enough depth at each
+stage to be useful in
+it.
+Learning modules
+Module 1: CSE at GitLab and call shadowing
+Demonstrate understanding of GitLab basics and the DevSecOps lifecycle.
+Express the Customer Success vision.
+Describe the CSE role and how it fits in the wider Customer Experience organisation.
+Set up a GitLab demo environment. You will use it in every technical call and lab during
+your ramp.
+Certification: GitLab Certified Git Associate.
+Module 2: CSE deep dive
+Describe a CSE’s rhythm of business.
+Demonstrate a thorough understanding of CI/CD and apply it to customer scenarios. CI/
+CD is the most common topic in
+Pooled requests and central to onboarding, so complete this module before taking
+requests on your own.
+Complete a role-play exercise.
+Certification: GitLab Certified CI/CD Associate.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

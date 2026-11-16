@@ -1,0 +1,143 @@
+Module Duration Description
+GitLab-com SaaS Basics 2 Weeks Understand the basics to answer GitLab.com (SaaS)
+product related tickets
+Introduction to GitLab
+Architecture
+0.5 Day Understand GitLab architecture
+GitLab Installation &
+Administration Basics
+1 Week Understand the different ways in which GitLab can be
+installed and managed
+Self-Managed Support Basics 2 Weeks Understand the basics to answer Self Managed product
+related tickets
+GitLab Dedicated Basics 1 Week Understand the basics to answer GitLab Dedicated
+related tickets
+Role-specific Modules
+For some roles, additional modules are also required. Your manager may direct you to complete
+one or more of the following modules.
+Module Duration Description
+GitLab.com
+Administration Access
+0.5 Day Admin access is required for some tasks. Other training modules
+will direct you to complete this module.
+GitLab-com SaaS
+Account Basics
+4 Days (Associate Support Engineer only) Understand the basics to
+answer GitLab.com (SaaS) account related tickets
+License and Renewals 2 Weeks Understand the basics to answer our product’s License and
+Renewals related tickets
+Shift Engineer 3 Days (Shift Engineer only) Understand the responsibilities of the Shift
+Engineer role
+When these modules are complete:
+Let your manager know that you are ready to proceed to the appropriate on-call rotation
+training.
+With your manager, discuss how to describe your Area of Focus percentage in the 
+support-team project, removing onboarding.
+On-call rotations
+After you complete an Area of Focus, talk with your manager about joining an on-call rotation.
+Usually, you complete only one of these modules, and join only one on-call rotation.
+Module Duration Description
+GitLab.com CMOC 1 Day Understand the responsibilities of being the Communications Manager
+On Call (CMOC) for an active GitLab.com incident
+Customer
+Emergencies
+1 Week Understand the responsibilities of being on-call for Customer
+Emergencies
+1. 
+2.
+
+Support Engineer Achievable Progress - First 6 Months
+Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace
+and explore. We strongly believe in learning by doing (70/20/10 learning model), and encourage
+Support Engineers to start contributing on tickets as soon as they can.
+While your growth and skill cannot be determined by metrics, the following reference table can
+be used as a guideline on achieving comfort with ticket management in your first 6 months in
+GitLab Support. Discuss your contributions with your manager if are unsure about your progress
+or ticket volume.
+Monthly Progress Reference Table
+The table below shows the expected progression for Ticket Assignment over the first 6 months,
+along with milestones for onboarding to on-call responsibilities. These guidelines help track your
+growing efficiency and expertise in handling customer issues.
+Month Weekly Ticket
+Assignment
+Volume
+(Associate
+Engineers)
+Weekly Ticket
+Assignment Volume
+(Intermediate/Senior
+Engineers)
+On-call milestones (Intermediate/Senior
+Engineers)
+1 1-2 SM/SaaS/
+Dedicated OR 5-7
+SaaS Account
+1-2 SM/SaaS/Dedicated -
+2 1-2 SM/SaaS/
+Dedicated OR 8-12
+SaaS Account
+2-4 SM/SaaS/Dedicated -
+3 2-3 SM/SaaS/
+Dedicated OR
+10-15 SaaS
+Account
+4-5 SM/SaaS/Dedicated -
+4 2-3 SM/SaaS/
+Dedicated OR
+10-15 SaaS
+Account
+4-5 SM/SaaS/Dedicated Complete the On-call Module
+5 3-5 SM/SaaS/
+Dedicated OR
+15-20 SaaS
+Account
+5-6 SM/SaaS/Dedicated Start shadow shift
+6 3-5 SM/SaaS/
+Dedicated OR
+15-20 SaaS
+Account
+5-6 SM/SaaS/Dedicated Continue shadow shifts and target readiness for
+CEOC duty around months 7–8, in alignment
+with your manager. If additional time is needed
+to ensure confidence and capability in providing
+CEOC-level support, a later start can be agreed
+upon.
+In addition please complete all required onboarding modules by month 3 and participate in 4-5
+pairing sessions per week to accelerate your learning and knowledge sharing.
+
+Ongoing learning
+Support Engineers are expected to continuously learn after onboarding. As per the Support
+Engineer Responsibilities, Support Engineers should aim to complete a training module every
+quarter (3 months).
+You can find a list of all our current training modules and Modules in the Support Training
+project. We are continuously working on adding more modules and building out more learning
+pathways. Anyone at GitLab can contribute and create Support-specific training!
+Creating and viewing GitLab component based training
+Anyone at GitLab can contribute to creating custom Support-specific training on how to use,
+configure or debug GitLab and its various components. Within the existing Support Training
+Project there is a directory named Support Specific Trainings that provides a means for storing
+shorter non-module-based training documents and videos. The directory contains a ReadMe
+which provides specific instructions on how to add training material to the directory and where to
+upload any associated videos.
+Support Manager Onboarding Pathway
+Your primary Support Manager Onboarding Issue is based on the New Support Team Member
+Start Here template. This Issue keeps track of and completes the onboarding modules shown in
+the following table.
+It is recommended that you complete the modules in the order listed, unless an issue mentions
+that you can start something else simultaneously. Typically, for a new manager in Support,
+completion of the below onboarding modules should take 3 weeks.
+Module Duration Description
+Support Manager Basics 2 Weeks Understand support management processes and workflows,
+including on-call rotations
+Git & GitLab Basics 2 Days Understand our products and services
+GitLab Support Basics 1 Day Understand how GitLab Support operates and the most common
+workflows
+Zendesk Basics 1 Day Utilize ZenDesk to perform ticket management
+Customer Emergencies 1 Week Understand the responsibilities of being on-call for Customer
+Emergencies
+SSAT Reviewing for
+Managers
+1 Day Understand how to handle Support Satisfaction feedback results
+When this pathway is complete, let your manager know that you are ready to join the appropriate
+on-call rotations. (Your Support Manager Basics issue contains the instructions for this step.)
+As always, please submit an Issue or MR if you have suggestions on how this page could be better!

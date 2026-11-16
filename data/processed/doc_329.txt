@@ -1,0 +1,91 @@
+Source: https://handbook.gitlab.com/handbook/support/support-time-off/
+128. Support Team Member Time Off
+Support Team Member Time Off
+Guidelines for how time off applies to Support team members and what actions need to be taken.
+Page should not be moved without a Support Global Change Management issue.
+Support Team Member Time Off
+The Support Team follows GitLab’s paid time off policy.
+We balance that with the need to deliver support to our customers every day.
+This page is intended to provide all Support Team Members with an understanding
+of what we need to do to achieve that balance, making it possible for all to
+take time off as needed and desired, while we as a team continue to deliver
+amazing support and service to our customers.
+There is a special point that needs to be emphasized, and that is that time off
+for any team member only serves its purpose if that person truly takes the time
+off. Nobody should feel pressure or the need to check Slack, email, or anything
+else associated with work during their time off. Especially when you are taking
+time to be on holiday or to be with family or friends, please, in the timeless
+words of the snow queen, Elsa, “let it go.”
+One-time setup actions
+Support Time Off calendars
+Be sure you have access to the
+Support - Time Off
+team calendar.
+You should have been granted access during Support Onboarding. If you don’t have it,
+verify whether you are part of the Support Google Group (supportteam@); if you are not,
+ask to be added (as per the role-based entitlements) in the #customer_support_systems
+Slack channel (cc @jcolyer).
+Set up the Google Calendar integration with Time Off by Deel, so that you do not need
+to populate your personal and “Support - Time Off” calendars manually.
+In Slack, click the + sign next to ‘Apps’ at the bottom of the left sidebar
+Search for ‘Time Off by Deel’ and click ‘View’
+Under ‘Home’, click on ‘Your Events’ to show a dropdown
+Click on ‘Calendar Sync’ under the Settings break
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+Click on ‘Connect your Calendar’ and complete the actions to sync your calendar to Time
+Off by Deel
+You will see a ‘Success! Your calendar has been connected.’ message and
+your calendar listed under ‘Your synced calendar’ in Time Off by Deel on Slack
+NOTE: this also serves to block your availability in Calendly, and ensures your
+OOO is included in the regional capacity calendars
+After your personal calendar is linked, click ‘Add calendar’ under
+‘Additional calendars to include?’. The ‘Support - Time Off’ calendar ID is
+gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com
+Verify the following calendars are shared with you. These are shared with the Support
+Team Google Group:
+Support OOO - AMER
+Support OOO - APAC
+Support OOO - EMEA
+You can subscribe by clicking the Add to Google Calendar button at the bottm left of the
+regional calendar.
+You can also subscribe to these calendars directly by using the following ID’s
+Support OOO - AMER - 
+c_9166d2302886c4ae23f34099eeb4015e2d520e1dd4029711becd8370be996513@group.calendar.google.com
+Support OOO - APAC - c_408bhp8a8j579lqr99j552u21s@group.calendar.google.com
+Support OOO - EMEA - c_ev56c9rgjd9l1sn291i368jn78@group.calendar.google.com
+5. If you regularly handle L&R tickets, please subscribe to the global L&R calendar and
+relevant L&R regional calendar.
+L&R and USGov Calendar links
+Group
+L&R APAC EMEA AMER
+U.S. Gov Daytime Evenings Overnight
+Manager Calendar Links
+Support Managers AMER
+Choosing and recording time off
+Please take time off whenever you need it.
+A little thoughtfulness on everybody’s part will go a long way toward making it
+possible for everyone to take their desired days off. As you look to plan your
+time off, please:
+ensure you know the company wide paid time off guidelines
+8. 
+◦ 
+◦ 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+• 
+• 
+• 
+• 
+•

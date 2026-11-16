@@ -1,0 +1,102 @@
+team-csm-dach
+emea-customer-success
+team-csm-emea
+social-csm-emea
+csma-amer-team
+For all product management related questions, a CSMA should review our handbook page at 
+following location to identify the right channel for the topic they are looking to learn more. Those
+team channels should be asked if there is no documentation available for the problem/question
+and also if the CSMA did not find an issue that already discusses this question.
+A great resource to learn how to engage with GitLab product is available in the product handbook
+here
+Handbook pages and other links
+Collection of key handbook pages and other resources for CSMAs to read and focus on when
+onboarding in their first 3 months
+CSMA Onboarding Learning Path on Level Up
+GitLab Academy Handbook Page
+Customer Success Enablement Issue Board
+CSMA Onboarding Feedback Issue
+Responsibilities and Services of a CSMA at GitLab
+Using Gainsight
+Searching GitLab like a pro
+Answer client questions
+Process for CSMA lead account escalations
+STAR - Process for managing support tickets that, due to the situation that is critical for
+the customer’s business, require our attention
+Process for CSMA to CSMA Account Handoff
+Available development paths and resources for Customer Success Managers at GitLab
+DevOps - Foundations Learning
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Product Knowledge
+Collection of initial set of key product links, which can help in the first 4-6 weeks of onboarding as
+a new hire.
+Offerings: GitLab Dedicated vs. GitLab SaaS vs. GitLab Self Managed
+Self Managed: In GitLab Self-managed you will have full control over the server itself
+and the environment
+Dedicated: A single-tenant SaaS service for highly regulated and large enterprises
+SaaS: The GitLab software-as-a-service offering. You don’t need to install anything to use
+GitLab SaaS, you only need to sign up and start using GitLab straight away
+GitLab Self Managed
+GitLab Application components (details)
+Installation Methods
+Reference Architectures
+Runners (GitLab’s “worker” for CI/CD jobs - pipelines)
+Upgrade & Update of GitLab
+Upgrade Path
+Key functionality of GitLab
+AI
+CI / CD
+SCM
+GitLab Product
+Pricing
+Find responsible SLACK Channel and Team for GitLab features
+Stages - Separation inside the product - Aligned to DevOps
+Hierarchy
+GitLab Webinars
+As a new joiner to get up to speed on your technical skills and observe how more senior team
+members hold webinars find the Webinars on the Scale Webinar calendar and register/join as
+participant. You can also watch the recordings of some of those Webinars on YouTube - GitLab
+Webinars - GitLab Unfiltered - Playlist.
+GitLab.com Playground and Demo space
+For self lead training and experimentation you can setup your own playground/demo space on
+GitLab.com. Find a self-paced guide here:
+Demo Systems Initial Set Up - Project (Private project for GitLab members only)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+•

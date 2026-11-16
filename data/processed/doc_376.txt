@@ -1,0 +1,131 @@
+OKR Management
+Onboarding
+Organization
+Pages
+Pajamas Design System
+Permissions
+Planning Views
+Portfolio Management
+Quality Management
+Requirements Management
+Service Desk
+Team Planning
+Text Editors
+User Profile
+Wiki
+Import
+Importers
+License and Renewals
+Add-on Provisioning
+Consumables Cost Management
+CustomersDot and quote to cash integrations
+Fulfillment Infradev
+Plan Provisioning
+Purchase
+Seat Cost Management
+Subscription Management
+User Management
+Monitoring & Analytics
+Application Instrumentation
+Custom Dashboards Foundation
+DORA Metrics
+DevOps Reports
+Incident Management
+Observability
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+On-call Schedule Management
+Orbit
+Product Analytics
+Service Ping
+Value Stream Management
+Registry
+Container Registry
+Helm Chart Registry
+Package Registry
+Virtual Registry
+Artifact Registry
+Release Management
+Feature Flags
+Infrastructure as Code
+Release Orchestration
+Security
+AI Governance
+API Security
+Artifact Security
+Attack Emulation
+Code Quality
+Code Testing and Coverage
+Compliance Management
+Dependency Firewall
+Dependency Management
+Fuzz Testing
+GitLab Advisory Database
+Insider Threat
+Release Evidence
+Secrets Management
+Security Asset Inventories
+Security Policy Management
+Security Testing Configuration
+Security Testing Integrations
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,79 @@
+Before being able to log into Okta, the following security requirements must be met:
+Full-Disk Encryption: LUKS encryption must be enabled
+Hostname: The laptop’s hostname must match our standard naming convention. See
+the Linux Hostname Rename Script for instructions
+Fleet: Device management must be installed
+EDR: CrowdStrike Falcon or SentinelOne (Germany, the Netherlands, Italy, and Austria
+only) must be installed
+Initial Installation and Disk Encryption
+The default version of Ubuntu that ships on Dell laptops does not have disk encryption enabled.
+Encrypting a disk after OS installation is not recommended and may cause issues. You will need
+to reinstall the OS with encryption enabled.
+Download the latest Ubuntu LTS release here
+Create a bootable USB drive using balenaEtcher or similar
+Follow this guide to erase the disk and install a fresh copy of Ubuntu.
+Install third-party for graphics and Wi-Fi
+Make sure to select Use LVM and encryption when prompted
+Complete the installation and boot into your desktop
+Enable the firewall:
+Open the terminal and run sudo ufw status
+If the response is Status: inactive run sudo ufw enable
+If ufw is not installed, run sudo apt install ufw first.
+Update your system:
+Open the terminal and run sudo apt update && sudo apt upgrade
+Enable fingerprint verification for fast logins - Log in with a fingerprint
+Additional resources: fprint
+Initial Okta Login
+IMPORTANT: As a new-hire, you will be able to perform your initial Okta login without all
+security requirements being met. However, all required steps must be completed on your first
+day or you will no longer be able log in.
+Complete all required steps in Onboarding 101 before continuing.
+Device Management and Endpoint Security
+We utilize Fleet to manage all of our Linux devices. Fleet will enable you to access Okta, provides a
+central repository for some of our most commonly used applications (e.g. Zoom), and will let you
+know about any potential security issues on your laptop.
+Please use this page for the installation files and guide.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14.
+
+Enrolling your laptop in Fleet will also automatically install CrowdStrike Falcon on your machine
+unless you are based in Germany, the Netherlands, Italy, or Austria.
+SentinelOne Installation - Germany, the Netherlands, Italy, and Austria Only
+As CrowdStrike has not yet been approved for the above regions, users there will need to
+manually install SentinelOne Endpoint security in addition to Fleet.
+Please click here for the necessary files and set-up instructions.
+Additional Resources
+Linux tools and tips
+CrowdStrike - Endpoint Detection and Response
+YubiKey Self-Service Purchasing Guide
+1Password for Linux
+linux in Slack for questions and discussions
+Need Help?
+If you need further assistance with setting up your laptop please join our weekly onboarding call
+scheduled every Tuesday (Check your Calendar!) or please contact IT via the Compass app in Slack
+(type “Compass” in the top search bar to find it) or it-help@gitlab.com.
+Last modified October 23, 2026: Document macOS on Fleet and retire the Jamf pages (6fbd0c97)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•

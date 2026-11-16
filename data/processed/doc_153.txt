@@ -1,0 +1,222 @@
+dpo@gitlab.com. Further, any reporting based on sensitive personal data elements, such as
+diversity or disability metrics, will only contain anonymized or aggregated data.
+Where you have withdrawn your consent but GitLab retains your sensitive personal data, we will
+only continue to process that sensitive personal data when we have another appropriate legal
+basis, such as processing necessary to comply with legal obligations related to your employment.
+Your voluntary submission of sensitive personal data to the systems, such as the inputting of
+sensitive personal data in Workday, will be received as a manifestation of your express consent to
+process your sensitive personal data.
+How GitLab Monitors Its Team Members
+Unless legally prohibited, we monitor the use of our equipment, devices, computers, network,
+applications, software, and similar assets and resources. This monitoring may result in the
+collection of your personal data (see, What Personal Data and Sensitive Personal Data Do We
+Collect?). In full accordance with any local requirements and except where prohibited, Team
+Members should have no expectation of privacy with regard to any communications or files
+stored on GitLab owned or issued devices. Any monitoring of company devices will be based on
+our legitimate interest or, where required, your consent.
+For more information on the use of personal devices for matters related to your employment at
+GitLab, please see the Bring-Your-Own-Device section of our Internal Acceptable Use Policy.
+International Data Transfers
+Since GitLab is a global company, personal data may be collected in a Team Member’s country or
+territory of residence and then transferred to another country or territory that may not offer the
+same level of data protection, such as a country outside the European Economic Area. These data
+transfers are essential to provide our services in the employment context and to operate our
+global business.
+Your information may be transferred to or accessed from the following countries:
+The United States, where GitLab Inc. is headquartered
+Countries where GitLab has affiliate entities or operations
+Countries where our service providers operate
+Countries where we maintain data centers
+When we transfer your personal data from the European Economic Area, United Kingdom, or
+other jurisdictions with data transfer restrictions, we use specific legal transfer mechanisms
+designed to provide adequate protection for your data, such as:
+Adequacy Decisions (Art. 45 GDPR), meaning transfers to countries that the European
+Commission has decided provide adequate protection, including:
+Canada (Commission Decision 2002/2/EC)
+Israel (Commission Decision 2011/61/EU)
+Japan (Commission Decision 2019/419)
+Republic of Korea (Commission Decision 2022/254)
+United Kingdom (Commission Decision 2021/1772)
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+Standard Contractual Clauses (Art. 46.2 GDPR), meaning European Commission-
+approved model contracts that allow transfers to countries without an adequacy
+decision (e.g., the United States, Australia, Singapore), including:
+Module 1 (Controller-to-Controller) for transfers between GitLab affiliate entities and to
+third parties who act as independent controllers; and
+Module 2 (Controller-to-Processor) for transfers between GitLab affiliate entities and to
+service providers who process data on our behalf.
+United Kingdom International Data Transfer Agreement, meaning an approved
+amending agreement to the European Standard Contractual Clauses that allows for
+United Kingdom based transfers to countries without an adequacy decision (e.g., the
+United States, Australia, Singapore).
+Furthermore, GitLab will ensure that additional measures or safeguards are in place to protect
+your personal data as required by applicable data protection laws. We maintain records of our
+international transfers, including specific transfer mechanisms used for different types of
+personal data. Upon request, we can provide more detailed information about the specific
+protections we’ve used for particular personal data transfers.
+How Does GitLab Handle Personal Data After Collection?
+Sharing Personal Data
+The following table provides detailed information about the categories of recipients with whom
+we share personal data, the categories of personal data shared, and the purpose of the sharing:
+Recipient
+Category
+Categories of Personal Data
+Shared
+Purpose of Sharing
+People Team
+Applications
+Providers
+• Contact information •
+Personal identifiers •
+Household data • Systems
+administration data •
+Communications data •
+Operational data • Employment
+qualifications • Performance
+and Team Member relations
+data • Payroll and benefits data
+• Regulatory and compliance
+data • Workplace safety data
+• Identity verification • Occupational health and
+workplace accommodations • Business analytics
+and workforce planning • Facilitating internal
+communications • Paid time off, sick leave and
+other absence calculations • Personnel file
+management • Compensation benchmarking •
+Company surveys • Performance management,
+internal investigations, and disciplinary
+procedures • Company handbook and policy
+updates • Promotions and growth plans • Team
+Member safety, travel assistance, and disaster
+planning • Diversity programs and equal
+opportunity monitoring
+Payroll
+Applications and
+Benefits Providers
+• Contact information •
+Personal identifiers •
+Household data • Operational
+data • Payroll and benefits data
+• Remuneration and benefits administration •
+Occupational health and workplace
+accommodations • Paid time off, sick leave and
+other absence calculations • Tax reporting and
+withholding obligations • Social security and
+retirement contributions
+Security and
+Access
+• Facilitating internal communications • Enterprise
+application security and access • IT management,
+7. 
+8. 
+9. 
+10.
+
+Recipient
+Category
+Categories of Personal Data
+Shared
+Purpose of Sharing
+Management
+Applications
+Providers
+• Systems administration data •
+Communications data •
+Workplace safety data
+network monitoring, device backups, and
+application testing • Protection of intellectual
+property and work product
+Training and
+Learning
+Applications
+Providers
+• Contact information •
+Performance and Team
+Member relations data •
+Regulatory and compliance
+data
+• Training and learning opportunities • Schedules
+and calendaring • Company handbook and policy
+updates • Events coordination
+Productivity
+Tooling and AI
+LLM Model
+Providers
+• Contact information • Systems
+administration data •
+Communications data
+• Sales management and strategy • Facilitating
+internal communications • Training and learning
+opportunities • Schedules and calendaring •
+Performance management, internal
+investigations, and disciplinary procedures • Team
+Member safety, travel assistance, and disaster
+planning • Marketing and publicity materials •
+Social media content and external
+communications • Artificial intelligence adoption
+and efficiency reports
+Cloud Hosting and
+Datawarehouse
+Providers
+• Contact information • Systems
+administration data •
+Communications data
+• Business analytics and workforce planning •
+Facilitating internal communications • Personnel
+file management • Compensation benchmarking •
+Performance management, internal
+investigations, and disciplinary procedures •
+Company handbook and policy updates •
+Promotions and growth plans • Diversity
+programs and equal opportunity monitoring • IT
+management, network monitoring, device
+backups, and application testing • Requests from
+public authorities • Litigation and legal claims •
+Marketing and publicity materials • Social media
+content and external communications • Artificial
+intelligence adoption and efficiency reports
+Communications
+and Video
+Conferencing
+Providers
+• Contact information • Systems
+administration data •
+Communications data
+• Sales management and strategy • Facilitating
+internal communications • Training and learning
+opportunities • Schedules and calendaring •
+Events coordination • Promotions and growth
+plans • Team Member safety, travel assistance,
+and disaster planning • Marketing and publicity
+materials • Social media content and external
+communications
+Government
+Agencies and Law
+Enforcement
+Bodies
+• Contact information •
+Personal identifiers •
+Household data • Systems
+administration data •
+Communications data •
+Operational data • Employment
+qualifications • Performance
+and Team Member relations
+• Occupational health and workplace
+accommodation • Business analytics and
+workforce planning • Sales management and
+strategy • Paid time off, sick leave and other
+absence calculations • Tax reporting and
+withholding obligations • Compensation
+benchmarking • Social security and retirement
+contributions • Team Member safety, travel

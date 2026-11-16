@@ -1,0 +1,142 @@
+Brutal Honesty and Radical Candor: 6 Ways You’re Getting Radical Candor Wrong and 6
+Ways to Get It Right
+Cross-Cultural Feedback Considerations
+GitLab has 2000+ team members from diverse cultures and backgrounds. We should get to know
+our team members well enough to understand how best to share feedback. It’s important to
+adapt tone and style according to each individual and relationship. Consider:
+Do you need to build relationship before candor is comfortable?
+Consider comfort with direct vs indirect feedback
+Is their communication generally explicit or implicit?
+Influence of hierarchy in direct feedback?
+What Comes First, Honesty or Trust?
+It’s safer to give and receive feedback from those with whom you have already established trust.
+Trust makes it easier to assume good intent and to be boldly honest with each other.
+Strategy for
+Building Trust
+Description
+Start with task
+based trust
+Giving feedback can build trust. Start with task based feedback, like sharing a typo in
+something they have written. Starting with the task based feedback can lead to more
+transformational behavior feedback.
+Build relational
+trust
+Trust enables safety and productive conversations about feedback. Review the 
+building trust handbook page for guidance.
+Be candid Being candid builds trust. Willingness to give feedback shows honesty.
+Giving Feedback
+Have positive intent
+* If you have the intent to hurt someone and not to help them, reconsider giving the
+feedback.
+* Harsh feedback does not help people thrive and excel.
+Make it a frequent event and do it in real time
+* Don’t wait until performance reviews to deliver
+• 
+1. 
+2. 
+3. 
+4. 
+1. 
+2.
+
+Avoid using absolutes
+* For Example: “You always.” “You never show up to meetings on time.”
+Feedback should be both positive and constructive
+* It is recommended to use a 4:1 ratio of positive to constructive
+Use the Situation-Behavior-Impact (S-B-I) Model
+Allow the feedback receiver time to reflect
+Focus on the root cause
+* What are the behaviors you’ve experienced?
+* What would improve the relationship between you and the other person/ team?
+Understand the impact
+* What is the effect/impact of the behaviors on you/others (positive or negative)?
+* How is the behavior not aligned with GitLab’s values?
+* What are the cost/benefits to the person or team?
+Focus on actions and outcomes
+* What actions can be taken after getting feedback?
+Recognize how communication styles differ
+Could the individual’s background affect the way they prefer to receive
+feedback?
+Read The Culture Map to understand communication and feedback styles of
+different countries.
+S-B-I Model
+The Situation-Behavior-Impact (S-B-I) Model focuses feedback based on:
+Situation - Define the when and where by anchoring in time and place.
+Behavior - Describe the observable behavior and how it was applied.
+Impact - Describe how the other person’s action affected you or others experiences and thinking.
+For a more in-depth look at how to apply this model see The Situation-Behavior-Impact-Feedback
+Framework, an external blog post that has a bit more detail and some examples.
+Receiving Feedback
+Receiving all types of feedback can be difficult. Our brains want to protect us from any potential
+dangers, and receiving feedback can be perceived as a physical threat. We have outlined some
+guidelines and tips to help with this:
+Assume positive intent
+* This is likely uncomfortable for the feedback giver as well
+Be an active listener
+* This is hard because our brains want us to run away
+* Slow down and really take the time to listen to what the other person is saying so you
+can reflect on it
+Be respectful
+* Give them your full attention
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+◦ 
+◦ 
+1. 
+2. 
+3.
+
+Ask questions
+* It’s okay to take time to reflect on it and then come back with questions at a later time
+Show appreciation
+* Say thank you and mean it
+Reflect on the feedback
+* Take time to reflect on what you have heard and then think about the action
+* Pitfall: Over-engineering or overdoing the response
+Make a decision
+* What are the most impactful actions you can take - prioritize
+* Who has what responsibility in follow up (i.e. giver/receiver)? Both.
+Recognition
+While not always immediately thought of as a form of feedback, recognition is one of the most
+essential forms of providing feedback in the workplace.
+How To Recognize Team Members
+It’s important to be precise about both team member’s accomplishment and the impact of their
+accomplishment.
+Example:
+General Feedback:
+“Thank you for helping troubleshoot sessions on XYZ tickets so we could resolve them inside the SLA.”
+Precise Feedback That Includes impact:
+“Thank you for helping troubleshoot sessions on XYZ tickets so we could resolve them inside the SLA.
+This helps keep customers happy with our solutions and shows our team how to resolve similar issues
+faster in the future.”
+When and Where to Give Recognition
+When:
+Team member is excelling with respect to CREDIT
+Team member has gone through a significant challenge and remained transparent in
+explaining those challenges
+Team member completes a high impact Epic / Issue either quickly or that they 
+worked on over multiple releases.
+Team member has recently undergone a reorganization.
+Any impactful Security / Quality achievement
+Engagement with a Community Contributor
+Where:
+Post a message in the #thanks channel for team member recognition
+Share an update of the team member(s) recognition during the next team meeting
+4. 
+5. 
+6. 
+7. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2.

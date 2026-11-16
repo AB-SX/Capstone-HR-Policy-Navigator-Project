@@ -1,0 +1,119 @@
+Use this conversation to align on:
+the opportunity itself
+timing and workload impact
+how the request supports your role, career goals, or Individual Growth Plan
+whether there are any department budget implications related to travel
+All G&D applications require manager approval, so requests should come out of an ongoing
+development conversation rather than as a surprise.
+Step 2 - Submit your request in Compass
+Create a new Growth & Development Fund request in Compass using the appropriate request
+path for your opportunity type.
+Your request should be submitted at least 30 days in advance of the beginning of your
+experience when possible.
+Be prepared to provide information such as:
+the type of opportunity
+provider or vendor details
+program or event name
+relevant dates
+total cost
+whether the request includes any travel considerations
+how the opportunity supports your development goals
+Step 3 - Gain approval
+Once submitted, your request will route for approval based on cost tier.
+Current approval tiers are:
+Manager approval: $0 - $1,000
+Manager + VP approval: $1,000.01 - $10,000
+Managers should understand what they are approving and be able to explain the reasoning and
+benefit behind the request.
+Step 4 - Make your purchase and complete the opportunity
+Once all required approvals have been completed, you may proceed with payment and
+participation.
+In most cases, individual G&D requests should be paid for by the team member who submitted
+the request unless the specific opportunity type follows a different billing model.
+Step 5 - Submit for reimbursement in Navan
+In most cases, G&D costs are reimbursed after the opportunity has been completed.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+All expenses should be claimed through Navan using the G&D expense type and following the
+reimbursement requirements for the specific opportunity type.
+When submitting your reimbursement, include:
+proof of payment where applicable
+proof of completion where required
+the approved request reference or link from Compass once available in the finalized
+workflow
+Travel expenses
+Travel, lodging, and meals related to conferences or workshops must be expensed separately
+from the G&D claim and should follow GitLab’s Travel and Expense policy.
+These expenses are funded from the requestor’s department Travel & Expense budget, not from
+the G&D allocation.
+50% upfront reimbursement
+All requests may use the split disbursement option when applicable:
+50% of the approved opportunity cost can be reimbursed after payment
+the remaining 50% can be reimbursed upon completion
+This option does not apply to travel, hotel, or meal expenses.
+Step 6 - Close out and share feedback
+After reimbursement is complete, close out your request in the final system workflow and share
+feedback if the experience would be useful for other team members.
+Types of Growth and Development reimbursements
+Please review the reimbursement section above before proceeding.
+Conferences and live workshops
+Conference registration fees are eligible for G&D reimbursement.
+Travel, lodging, and meals must be expensed separately following the existing travel expense
+policy.
+Academic study
+For academic courses relevant to your GitLab career development goals, the G&D Fund can be
+used to cover tuition and enrollment.
+To be eligible, the course must:
+be from an accredited college or university
+result in a final grade equivalent to a “B” or higher
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Additional fees related to books, travel, and supplies are not covered under this category.
+A final grade report or transcript is required for reimbursement.
+Professional development, certifications, and courses
+Certifications, licenses, and shorter non-academic courses that are relevant to your development
+may be reimbursed through the G&D Fund.
+A final grade report or satisfactory certificate of completion is required for reimbursement.
+Self-service learning subscriptions
+Providers such as Coursera, LinkedIn Learning, Reforge, and similar learning subscriptions may
+be reimbursed when tied to a clear learning goal and intended course usage.
+Language courses
+Language learning may be eligible when the relevance to job performance is clear.
+Code-based learning
+GitLab will support coding-related learning opportunities regardless of department when they
+support development goals.
+Programming books
+Books related to programming, software development, and technical skills that support career
+development at GitLab can be reimbursed through the G&D Fund.
+Coaching
+GitLab is currently contracted with SoundingBoard Coaching and we have a direct relationship
+with the vendor.
+Coaching through the G&D Fund is available to team members at the Manager level and above.
+If you are seeking coaching, we strongly encourage you to use SoundingBoard Coaching.
+Because GitLab has a direct relationship with SoundingBoard, you will not need to put the cost on
+your personal credit card. The charge can be routed directly to the appropriate cost center.
+If you would prefer to use a different coaching vendor, please note that in your request so the
+team can review it as part of the approval process.
+Coaching requests should still follow the current eligibility requirements and any program-
+specific guidance documented on this page.
+Professional dues and memberships
+Professional development memberships or dues relevant to your growth and development may
+be reimbursed.

@@ -1,0 +1,49 @@
+Source: https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/
+elevate/
+168. Elevate
+Elevate
+Elevate is a live virtual leadership development program for GitLab managers, focused on
+understanding leadership competencies, building emotional intelligence, giving and receiving
+great feedback, coaching, and recognizing unconscious bias.
+Managers at GitLab enable our mission that everyone can contribute. We need to equip our
+people leaders with the skills to lead globally dispersed, all-remote teams to support our business
+growth at scale.
+The handbook provides guidance on GitLab leadership competencies and principles. Bringing
+these practices to life requires training and practice. Elevate, GitLab’s leadership development
+program, provides opportunity for people leaders to learn to lead at GitLab.
+Goal
+Our goal is for the vast majority of GitLab managers to complete Elevate each fiscal year.
+What team members are saying about Elevate
+Much more confidence handling things when they go wrong. I react completely
+differently to situations now. Also I see myself as a manager whereas I didn't
+before and felt like I was making it up as I went.
+I'm much more comfortable to give feedback using the frameworks we learned
+during the program. Also feel much more confident about my DNA as a manager by
+listening to others managers.
+I now have an actionable set of tools available which helps me navigate any kind
+of conversation.
+The different frameworks that were introduced are immensely helpful. I have been
+relying on them in numerous situations and find it to be really impactful.
+What is Elevate
+Elevate is a highly interactive, all-remote program where managers will learn with, and from, each
+other. The goal is to provide a common, well understood leadership framework which
+demonstrates GitLab values and leadership competencies.
+In Elevate, participants will:
+Practice the Manager & Leadership competencies
+Build cross-functional relationships with coaching cohort members
+Receive an Elevate Leadership Certificate of Completion (after completing the 4 learning
+modules, not including Practice Labs)
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3.
+
+How is the program structured?
+Elevate is organized into 6 learning modules, including 2 practice labs. Practice Labs are primarily
+an interactive session in which you’ll practice the concepts taught in the previous module,
+however, every module will include elements of interactivity. Each module is 60 minutes long, and
+they take place at 2 week intervals. View the infographic below for more details on what’s covered
+in each module. The session dates shown are an example of an Elevate group experience.

@@ -1,0 +1,130 @@
+and address any additional matters. Once signed, the People Operations team member
+will uplaod the letter to the team member’s ‘Contracts & Changes’ Workday folder.
+Reporting for Relocations
+Access to the ‘GitLab Team Member Relocations’ Workday report can be requested via this issue
+and automatically sent on a regular basis.
+This report will include the following information:
+Team Member Name
+Manager
+Relocation Date
+Starting Location
+Ending Location
+Steps for a Canceled Relocation Request
+In the event that the team member decides not to proceed with the relocation. Not all of these
+steps will be needed, depending on how far into the relocation process has taken place.
+Delete the respective contracts from Google Drive and Workday, if signed
+Notify stakeholder of the change. Possible stakeholders:
+* PEO
+* Payroll
+* HRSavvy
+Workday - Update fields that were changed for the relocation.
+Update relocation tracker
+Last modified October 15, 2026: Update relocation request steps and guidance (03f49b80)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.
+
+Source: https://handbook.gitlab.com/handbook/people-group/employment-solutions/
+020. Employment Solutions - Overview
+Employment Solutions - Overview
+GitLab’s Employment Solutions.
+This page contains an overview of how we have scaled team members Globally.
+The DRI for all Employment Solutions is the Employment Solutions Partner. Any changes to any
+contracts should be requested to the Employment Solutions Partner and will require approval
+from our Director of Tax & our Director of Legal, Employment.
+Country Hiring Guidelines
+GitLab has team members in countries and regions all over the world and from all walks of life.
+Diversity, Inclusion & Belonging is one of our core values. Maintaining operations in a large
+number of countries, some of which have complex rules, laws, and regulations, can affect our
+ability to conduct business efficiently. Unfortunately, this affects the employability of the citizens
+and residents of those countries. We explore hiring in new locations when business needs require
+and where we can provide a consistent and fully supported team member experience.
+Some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team
+can help answer any questions applicants may have about location after starting the recruiting
+process.
+GitLab hires in countries where we have an entity that does not carry any hiring restrictions. We
+focus on an approach that delivers three key benefits:
+Deliver consistent global team member experience (e.g. payroll, benefits, support, etc.)
+Reduce operational complexity
+Provide a stable footprint and make it easier to grow in particular countries
+Team Member Types at GitLab
+Team Member Type Abbreviation Location
+Employee Employee Global
+Contractor : IND Cont-IND Non-US
+Contractor : C2C Cont-C2C Non-US
+Employee : PEO Emp-PEO Non-US
+Contractor : PEO Cont-PEO Non-US
+Intern Intern Global
+C2C means Company to Company
+IND means Independent
+• 
+• 
+• 
+• 
+•
+
+For more information on Contingent Workers, please review the please review the 
+Procurement handbook page.
+Team Member Types by Country
+GitLab has a few different team member types. The following table shows the countries where we
+directly employ team members through a GitLab entity. For questions about PEO locations or
+other employment arrangements, please reach out to the Employment Solutions Partner.
+To ensure the accurate entry of information in Workday, we created this table as guidance of
+what is applicable in which location. When adding new team members to Workday, please ensure
+you use this terminology for accurate reporting.
+More information related to payroll processes can be found on the Payroll handbook page.
+GitLab Entities and Branches
+Note: In countries with a star (*) hiring is limited to only certain roles.
+Country Team
+Member
+Type(s)
+Entity Pay
+Frequency
+Paid By Workday
+Profile (Y/
+N)
+Australia Employee GitLab PTY Ltd 12 GitLab
+Payroll
+Dept
+Y
+Belgium * Employee GitLab BV 13.92 GitLab
+Payroll
+Dept
+Y
+Canada Employee GitLab Canada Corp 26 GitLab
+Payroll
+Dept
+Y
+Finland * Employee GitLab BV 12 GitLab
+Payroll
+Dept
+Y
+France * Employee GitLab France S.A.S. 12 GitLab
+Payroll
+Dept
+Y
+Germany Employee GitLab GmbH 12 GitLab
+Payroll
+Dept
+Y
+India Employee GitLab India Private
+Ltd
+12 GitLab
+Payroll
+Dept
+Y
+Ireland Employee GitLab Ireland Ltd 12 GitLab
+Payroll
+Dept
+Y
+Israel Employee GitLab Israel Ltd. 12 Y
+•

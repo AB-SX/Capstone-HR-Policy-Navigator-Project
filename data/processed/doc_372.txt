@@ -1,0 +1,66 @@
+Networking
+Networking issues are among the most common and complex problems in Support: DNS
+resolution failures, proxy and load balancer misconfigurations, TLS/SSL certificate problems,
+firewall rules blocking traffic and SSH connectivity issues.
+O’Reilly Learning
+Networking is covered well within the Linux books already recommended:
+How Linux Works, 3rd Edition chapters 9-10 cover TCP/IP, DNS, firewalls, DHCP, NAT and
+routing
+Learning Modern Linux chapter 7 covers the networking stack, DNS, SSH and Wireshark
+Title Type Level
+Networking Fundamentals - Kevin Wallace Course (6h) Beginner
+Google Cloud Skills Boost
+Title Type Level
+Networking in Google Cloud: Fundamentals (multi-module) Course Intermediate
+Build a Secure Google Cloud Network Skill Badge Intermediate
+Develop Your Google Cloud Network Skill Badge Intermediate
+Observability: Prometheus, Grafana and logging
+GitLab ships with built-in Prometheus metrics and Grafana dashboards. Support Engineers use
+these to diagnose performance problems, identify resource bottlenecks and understand system
+behaviour during incidents.
+O’Reilly Learning
+Learning Modern Linux chapter 8 covers Prometheus, Grafana and observability strategy
+Prometheus: Up and Running, 2nd Edition by Julien Pivotto and Brian Brazil (O’Reilly)
+Google Cloud Skills Boost
+Title Type Level
+Logging and Monitoring in Google Cloud Course Intermediate
+DevOps and SRE concepts
+Understanding DevOps and SRE principles helps Support Engineers contextualise customer
+workflows and speak the same language as the teams they support.
+1. 
+2. 
+1. 
+2.
+
+Linux Foundation
+Title Type Level
+LFS162 - Introduction to DevOps and Site Reliability Engineering Course Beginner
+LFS169 - Introduction to GitOps Course Beginner
+Google Cloud Skills Boost
+Title Type Level
+Professional Cloud DevOps Engineer learning path Course Advanced
+Part 2: GitLab-specific skills
+These skills relate directly to the technologies that GitLab is built on. They help Support Engineers
+read and understand the GitLab codebase, debug application-level issues and work more
+effectively with development teams.
+Ruby and Ruby on Rails
+GitLab’s core application is a Ruby on Rails monolith. While Support Engineers are not expected to
+write production Ruby code, being able to read Rails controllers, models and service objects is
+extremely valuable for:
+Understanding how a feature works when the documentation is unclear
+Tracing the root cause of a bug through the codebase
+Writing more accurate and useful bug reports for development teams
+Understanding error messages and stack traces in logs
+Codecademy (free courses)
+Title Type Level
+Learn Ruby Course (9h) Beginner
+O’Reilly Learning
+Title Type Level
+The Well-Grounded Rubyist, 3rd Edition - David A. Black, Joe Leo Book Beginner-Intermediate
+Agile Web Development with Rails 8 - Sam Ruby et al. Book Intermediate
+Programming Ruby 3.3, 5th Edition - Noel Rappin, Dave Thomas Book All levels
+Ruby on Rails Tutorial, 7th Edition - Michael Hartl Course (21h) Intermediate
+1. 
+2. 
+3. 
+4.

@@ -1,0 +1,89 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/tmrg-global-voices/
+179. TMRG - Global Voices
+TMRG - Global Voices
+GitLab’s Global Voices TMRG
+Mission
+Increase awareness to GitLab’s globally diverse team, the derivatives of having a global team as it
+relates to the wider GitLab team as well as the company, and improve the daily work life of our
+global team members.
+Objectives
+The Global Voices TMRG has three main objectives:
+Empower global team members to celebrate global representation and its benefits
+Inspire ideas that improve global inclusiveness in the day-to-day of GitLab employees
+Advocate for global diversity across the organization
+Leads
+Bindu Upadhyay - Co-Lead
+Rakhi Reddy - Co-Lead
+Ravi Kumar - Co-Lead
+We are open to having another Co-Lead and would love to have volunteers with ideas.
+Executive Sponsors
+Sherrod Patching - Co-Sponsor
+Namo Tiwari - Co-Sponsor
+Each goal below maps to one or more of these objectives:
+Build awareness of Global Voices TMRG (supports: Empower, Advocate)
+Create safe spaces for team members to surface opinions (supports: Inspire, Advocate)
+Ensure global perspectives are represented in company-wide decisions (supports:
+Advocate, Inspire)
+Foster cross-cultural understanding and inclusiveness (supports: Empower, Inspire)
+How to Participate
+Join the Google Group
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+1. 
+2. 
+• 
+• 
+• 
+• 
+1.
+
+Join the #global-voices-tmrg Slack channel for conversation, announcements, and
+connecting with other TMRG members. Please introduce yourself and tell us where you
+are based when you join the channel!
+Open an issue on our GitLab project, gitlab-com/global-voices-tmrg and tag the TMRG
+leads
+Process
+When a new matter/issue is raised on our portals (Slack channel or our issue tracker) the
+following process outlines how it should be handled:
+@ mention the leads TMRG leads to help triage the issue
+Ensure that a due date is set if the issue is time sensitive
+Leads triage the discussion, identify and bring in the relevant DRIs of that respective
+process/area most relating to the issue which was raised for improvement
+In case an owner is not clear, the leads will @ mention the DIB group
+The DIB group will then engage with the owner/s and ensure that the matter is being
+reviewed, progress is made and communication is transparent to the TMRG
+TMRG leads review the progress and close the issue reporting back to the channel when
+necessary
+When to raise an issue
+We can work with other relevant DRIs only when the task at hand has an improvement
+component. While this can be said for a lot of things, not every item can yield a desired outcome.
+For this reason, before you consider the following examples, it is critical to assume positive
+intent. It is not uncommon that team members you’re engaging with have never even considered
+that there is an opportunity for improvement, (e.g. non-ISO date format is confusing), so you are
+responsible for educating them of a different point of view as well.
+Below are some illustrative examples:
+A form is provided requiring a phone number in XXX-XXXX XXX format for all team
+members
+A swag choice in a company wide effort is limited to assume a certain climate
+A “global” benefit is offered to all team members but only available in large cities in 1
+hemisphere
+Finally, it is absolutely ok to feel annoyance about something that is not considered from multiple
+different perspectives. It is how you decide to express it that can make a difference between
+success and failure. Not every problem has an easy solution, but it is infinitely easier to solve
+when it is approached with kindness.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+1. 
+2. 
+3.

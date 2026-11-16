@@ -1,0 +1,136 @@
+Directory
+Navigate to career development resources located throughout the GitLab handbook:
+Resources and Tools
+Growth and Development Fund
+Goal Tracking Resources
+Career Development Conversations
+Job Frameworks
+Career Growth Opportunities
+Mentorship
+Internship for Learning
+Career Development Workshop
+Work with a Coach
+Elevate Manager Training
+Linux Foundation Courses
+O'Reilly Learning
+GCP Learning
+Professional Certifications
+Attend a Workshop/Conference
+Academic Study
+MR Coaching
+Manager Training
+Elevate
+Support your Team with Career Conversations Course
+Job Shadow Programs
+CEO Shadow
+CFO Shadow
+Security Team Shadow
+Support Team Shadow
+Roles and Responsibilities
+Role Responsibilities
+Team Member
+Owned
+- Take charge of your own development and career - Close the skill gap for current and
+future positions - Seize development and stretch opportunities - Remember there are no
+promises or guarantees of a promotion
+Manager
+Facilitated
+- Take time with team members to discuss their career aspirations - Listen and provide
+feedback, ideas and contacts - Make choices to support their development
+
+Role Responsibilities
+GitLab
+Supported
+- Communicate future direction and skills requirements - Provide information and tools
+when applicable - Communicate internal opportunities
+70-20-10 Rule for Development
+70% of your development should come from on-the-job and action learning. This can
+include development experiences like managing a project, serving on a cross-functional
+team, taking on a new task, job shadowing, job rotation, etc.
+20% of your development should come from interactions with others. This includes
+having a mentor, being a mentor, coaching, participating in communities of practice,
+providing and receiving feedback, serving as a leader in your organization, etc.
+10% of your development should come from training, including classes, seminars,
+webinars, podcasts, reading, conferences, etc. GitLab offers a growth and development
+fund to help with this.
+Career Development versus Career Mobility
+GitLab team members should not feel pressure to climb the career ladder. Skill development and
+promotion are not mutually exclusive. Unique experience influences problem solving and views of
+success.
+You are encouraged to learn and develop skills without pressure to in turn seek promotion. Team
+members will not be thought less of or penalized if they don’t view promotion as a success
+measure. If you feel you are not being supported in this way, please reach out to People
+Operations or your People Business Partner.
+Topic Definition Examples
+Development Choosing and building a career path that
+accelerates professional growth.
+Learn new skills, complete a course, be
+a mentee.
+Mobility Career mobility involves both lateral
+(promotions) and horizontal (transfers)
+movement along a career path. Mobility
+involves applying experience and skills as
+leverage for a new role.
+Mentor to learn leadership skills with
+the intention of applying for a manager
+role; Complete a job shadow or
+internship and upskill to transfer to a
+new team.
+Document your Career Development
+Individual Growth Plan
+The Individual Growth Plan (IGP) is a tool to help you, the DRI of your career, plan and action on
+your career growth. It’s a template to guide you through career goal setting and action planning.
+Think of the IGP template as a starting place, where you have the freedom to reflect on your
+career, answer and dive deeper on sections that help spark your interest and think differently
+about your career development.
+The IGP can help with:
+Setting and achieving learning goals
+1. 
+2. 
+3. 
+1.
+
+Keeping learning plans organized in one easy to share place that is used company wide
+Preparing for promotions
+Preparing for career transitions
+Looking for a step-by-step guide on filling out the IGP? Use the resources below:
+Handbook: The GitLab IGP Guide
+Workday User Guide: Individual Growth Plans
+Watch: interview with a GitLab team member who’s used the Individual Growth Plan to plan a
+career transition at GitLab.
+Start your IGP
+Launch your Individual Growth Plan in Workday: User Guide Here
+Fill out the IGP in Workday. Refer to the job frameworks and your job family to
+determine a skill and behavior focus. Give yourself time to think, plan, and fill out your
+IGP. Set learning blocks over the next 1-2 weeks rather than completing the IGP in one
+sitting.
+Submit your IGP to your manager. Schedule a career conversation with your manager
+and review your IGP in your next 1:1 or at a separate time.
+Make a plan that integrates working on your IGP during the flow of work by setting
+aside weekly or monthly time dedicated to learning. Block these times on your calendar.
+Update progress against your development goals. The IGP and development goals in
+Workday itself might work well for you, but if you need more structure, consider using 
+GitLab Epics + Issues or a health tracker in Google Sheets.
+Tracking your Progress
+Accomplishment Tracker
+Some call it a “brag sheet”. Some call it a CREDIT Tracker. Either way, it’s a great place to collect
+your accomplishments and feedback. Utilize the accomplishment tracker in conjunction with the
+IGP and GitLab Epics.
+Make a copy of the Accomplishment Tracker Template + save to your drive
+Start filling it out (check out the video below for a walkthrough) with links, notes, and
+screenshots
+Set a weekly or monthly calendar reminder to continuously add to your tracker
+Health Tracker: Growth Plan
+Make a copy of this health tracker in Google Sheets and save it to your drive. Use it to track the
+current status and long term goals you’ve set for your growth.
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3.

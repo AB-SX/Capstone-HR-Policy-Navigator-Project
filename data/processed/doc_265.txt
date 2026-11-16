@@ -1,0 +1,96 @@
+A: Generally, depending on your location, you have 30 days from your start date to enroll. Even if
+you enroll on the 30th day, coverage is backdated to your start date.
+Stock Options & Equity
+Q: When will I get access to E-Trade?
+A: After the board approves your grant, you’ll receive an email to create your E-Trade account.
+Depending on your start date, this may arrive a few months after you begin.
+Q: Is my restricted stock value based on the share price when I signed my contract?
+A: You’ll receive the dollar amount listed in your contract or amount confirmed during the offer
+process, but the number of RSUs will depend on the share price at the board meeting when your
+grant is approved.
+Q: Where can I find information about the Employee Stock Purchase Program (ESPP)?
+A: Details about our ESPP are available in the handbook under Total Rewards.
+System Access
+Q: I received an Okta access email before my start date. Should I take action?
+A: No action is needed until your first day. On day one, follow the instructions in the Okta email,
+along with the “Welcome to GitLab Onboarding” email to properly set up all your access.
+Q: Can I use my existing personal GitLab username for my work account?
+A: While possible, it’s not recommended. If you leave GitLab in the future, the account will be
+disabled per our access management policy. We encourage creating a new username to mark the
+start of your GitLab career. If you still prefer using your personal username, contact the IT Ops
+team on day one.
+Remote Work & GitLab Culture
+Q: Any tips for staying engaged and productive in a remote environment?
+A: GitLab has a dedicated team providing tools for remote work success. We recommend
+reviewing our All-Remote Playbook in the handbook. GitLab has an entire team dedicated to
+providing the best tools to be successful at an all remote company.
+Q: How can I connect with GitLab team members in my area?
+A: Join our location-specific Slack channels to find local teammates for meetups or co-working
+days. If you don’t see a channel for your area, feel free to create one!
+Q: What is Family & Friends Day?
+A: Family & Friends Day is our company-wide day off. On these days, we close our virtual office,
+reschedule all meetings, and take a visible break to prioritize well-being. The schedule is available
+in our handbook.
+Helpful Resources
+Read Aloud: A Text to Speech Voice Reader
+Rectangle App - Move and resize windows with ease
+1. 
+2.
+
+OneTab - Tab organizer for Chrome, Firefox, Edge, or Safari
+Early Career Discussion Group Slack Channel This group is for anyone, but specifically
+for helping those who are transitioning to a new or first career! Everyone is welcome,
+and all your questions that you may not know where to ask are welcome here.
+Brag Docs are a way of tracking the work you’ve done. It can be a very helpful document
+when talking with managers, leadership, or when seeking promotions. Here’s a 
+recording of an event hosted by the Early Career Team Member Discussion Group to talk
+about some advice for keeping a brag doc and more.
+To manage timezone pains:
+Clocker App
+* Find a Time in Google Calendar
+* See Other TimeZone in Google Calendar
+* Better Team Page - Okta Sign In Required
+* Every Timezone
+Acronym Dictionary
+As point 23 on our Communication Handbook page outlines, we try to avoid using acronyms at
+GitLab as much as possible however, sometimes we forget. Below you can find common
+3. 
+4. 
+5. 
+6. 
+•
+
+acronyms used here that may help you. If you come across any not in this list during your
+onboarding, feel empowered to do a merge request to add it below!
+Company Wide Acronyms
+Acronym Word/Saying/Title
+AMA Ask Me Anything
+AR Access Request
+DRI Directly Responsible Individual
+E-Group Executive Group
+EBA Executive Business Administrator
+IC Individual Contributor
+IPO Initial Public Offering
+LGTM Looks good to (me/merge)!
+KPIs Key Performance Indicators
+MECC Managing so Everyone Can Contribute
+MNPI Material Non-Public Information
+MR Merge Request
+MVC Minimal Valuable Change (not related to Model-View-Controller)
+OKRs Objectives & Key Results
+PTO Paid Time Off
+SIRT Security Incident Response Team
+TMRG Team Member Resource Group
+Customer Success Related Acronyms
+Acronym Word/Saying/Title
+VSD Value Stream Disovery
+VSW Value Stream Workshop
+L28D Short form for “Last 28 days”.
+People Group Related Acronyms
+Acronym Word/Saying/Title
+CES Candidate Experience Specialist
+PBP People Business Partner
+POps People Operations
+TA Talent Acquisition
+TR Total Rewards
+Sales/Sales Related Acronyms

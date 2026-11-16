@@ -1,0 +1,126 @@
+bien que je puisse envoyer ce courriel maintenant, je n’attends pas de réponse ou d’action en
+dehors de vos propres heures de travail »)?
+(j) Avez-vous mis à jour vos messages électroniques d’absence du bureau afin de vous assurer
+que les personnes qui ont envoyé un message savent quand vous leur répondrez ou à qui elles
+peuvent adresser leur demande en votre absence?
+7. Communications
+Nous communiquons de manière respectueuse et professionnelle à tout moment, conformément
+aux valeurs de la Société, en privilégiant la communication asynchrone et en donnant la priorité à
+la documentation, et nous partons d’une intention positive dans nos relations avec les autres (y
+compris en ce qui concerne le ton et le moment des communications). Prenez l’initiative de
+travailler de manière asynchrone chaque fois que cela est possible. Cela témoigne d’une attention
+et d’une considération pour ceux qui, entre autres, sont en dehors des heures de travail et se sont
+déconnectés du travail. Cela se traduit par la communication d’enregistrements de réunions,
+l’utilisation de « GitLab Issues » et de « Merge Requests » plutôt que de textes, d’appels ou de
+messages Slack, et la prise en compte des jours fériés locaux et des périodes de vacances.
+Encouragez les autres à utiliser la documentation par défaut plutôt que de faire pression sur les
+autres pour qu’ils soient en ligne en dehors de leurs heures de travail.
+Lorsqu’il envoie une communication, l’expéditeur doit tenir compte du moment et du fait que cela
+risque de déranger, et le destinataire doit comprendre qu’il n’est pas tenu d’y répondre avant la
+reprise de son horaire de travail. Les salariés doivent être attentifs à la quantité de
+télécommunications qu’ils ont chaque jour et savoir la gérer.
+Nous sommes conscients que de nombreux salariés sont actifs sur les réseaux sociaux mais nous
+vous rappelons que si vous choisissez de communiquer avec d’autres salariés de GitLab sur les
+réseaux sociaux, vous devez rester professionnel et prendre en compte les GitLab’s
+Communication Guidelines (« Directives de communication de GitLab ») en toutes circonstances,
+dans les limites permises par la loi. Les salariés ne doivent pas se sentir obligés de répondre aux
+messages de leurs collègues sur les réseaux sociaux en dehors de leurs heures de travail, voir la 
+Team Member Social Media Policy (« Politique des médias sociaux des salariés ») pour plus de
+détails.
+8. Réunions
+La Société vous demande de respecter le temps des autres et de tenir compte de l’investissement
+en temps demandé aux autres lorsqu’ils assistent à des réunions. Essayez d’éviter les réunions et,
+si une réunion est nécessaire, essayez de rendre la participation facultative pour le plus grand
+nombre possible de personnes. Toutes les réunions doivent avoir un ordre du jour lié à
+l’invitation, et vous devez en documenter les conclusions. Au lieu de faire en sorte que les gens
+demandent la permission, faites leur confiance et soyez disponibles s’ils ont des questions.
+9. Conseils
+En plus des conseils donnés à l’échelle globale dans la section Communicating Your Time Off 
+Communiquer sur votre temps libre, prenez connaissance des conseils suivants pour améliorer
+
+votre capacité à vous déconnecter du travail, à tirer le meilleur parti de vos congés et à faciliter
+votre retour au travail:
+Désabonnez-vous de tous les MR qui seront probablement résolus pendant votre
+absence, ce qui vous évitera d’avoir à traiter tous les e-mails qu’ils vous enverront à votre
+retour.
+Mettez en place des filtres de messagerie pour classer les e-mails dans des catégories
+que vous pourrez traiter un par un à votre retour.
+Déconnectez-vous de Slack et de Gmail de l’une ou l’autre de ces façons : REMARQUE :
+Time Off by Deel est censé désactiver les notifications Slack sur votre téléphone et
+activer le mode DND. Mais juste au cas où, vous pouvez faire l’une de ces opérations:
+vous déconnecter de Slack et de Gmail sur votre téléphone, ou;
+supprimer Slack et Gmail de votre téléphone, ou;
+mettre en pause les applications Slack et Gmail sur votre téléphone, ou;
+configurer manuellement Slack et Gmail pour qu’ils n’envoient pas de notifications sur
+votre téléphone.
+10. Engagements de la société en matière de sensibilisation et de formation au
+droit à la déconnexion
+La Société affirme que les technologies de l’information et de la communication (TIC) font partie
+intégrante de l’environnement de travail et sont nécessaires au bon fonctionnement de
+l’entreprise. Porteuses de lien social, facilitant les échanges et l’accès à l’information, elles doivent
+toutefois être utilisées à bon escient, dans le respect des personnes et de leur vie privée, afin de
+garantir l’effectivité du respect des durées minimales de repos.
+Dans ce cadre, et en plus des conseils et recommandations susmentionnés, la Société s’engage
+notamment à:
+Sensibiliser, et former si nécessaire, chaque salarié à l’utilisation raisonnée et équilibrée
+des outils numériques.
+Mettre à la disposition de chaque salarié un accompagnement personnalisé.
+Ces dispositifs seront régulièrement mis à jour pour être adaptés aux demandes et besoins des
+salariés.
+11. Signalements
+Cette charte sera réexaminée si nécessaire et nous encourageons les membres de l’équipe à
+s’adresser à leur supérieur ou à un membre ressources humaines s’ils ont des inquiétudes
+concernant cette charte, notamment en cas de violation potentielle.
+Si un membre de l’équipe:
+Considère ne pas être en mesure d’exercer correctement son droit à la déconnexion;
+estime que son supérieur hiérarchique ne respecte pas la charte ou ne se sent pas à
+l’aise pour soulever une question relative à la charte auprès de son supérieur
+hiérarchique;
+Ledit Salarié peut contacter le service des ressources humaines ou Team Member Relations au 
+teammemberrelations@gitlab.com.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Les membres de l’équipe qui ne respectent pas la présente charte peuvent faire l’objet de
+mesures disciplinaires.
+12. Traduction
+En cas de conflit entre les versions en langue française et anglaise de la Charte, le texte en
+français prévaudra en toute circonstance.
+13. Entrée en vigueur de la Charte
+La présente Charte entre en vigueur le 3 Avril 2023.
+La présente Charte est conclue pour une durée indéterminée.
+English: GITLAB FRANCE S.A.S. RIGHT TO DISCONNECT CHARTER
+1. Purpose
+At GitLab (hereinafter the “Company”), we support the safety, health and well-being of all team
+members and we operate with an emphasis on asynchronous communication and a focus on
+impact, not activity. We believe that family and friends should come first and work should come
+second. In line with company values, we understand that “disconnecting” from work is critical in
+order to foster a healthy and well-rounded life. Technological advancements, world events, and
+work demands, can, at times, cause us to forget that we need a break from work to recharge.
+The present document (hereinafter the “Charter”) has been drawn up in order to reiterate and
+reinforce team members’ right to disconnect from IT tools available within the Company.
+It is expected that team members will disconnect from work and work-related communications
+outside of their normal working hours and during PTO, and the purpose of this document is to
+encourage disconnection, and to provide guidance on how the Company is committed to
+supporting all team members to do so.
+Through this Charter, the Company therefore reaffirms the importance of proper use of IT tools in
+order to respect rest and vacation time, as well as the balance between personal and family life
+and professional life.
+2. Applicability
+This Policy applies to all team members regardless of position, tenure, and work location, to the
+extent permitted by French law, and is intended to support existing rights and obligations of
+team members and the Company under those laws. For any additional information regarding
+your specific work location, please refer to the entity-specific employment policy page.
+All team members should familiarise themselves with this Policy.
+3. Disconnecting from work
+Disconnecting from work means:
+The Company’s undertaking not to solicit team members during rest periods;•

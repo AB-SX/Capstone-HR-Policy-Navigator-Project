@@ -1,0 +1,153 @@
+Once Intern is hired into the system - they will move to the responsibility of
+People Connect who will create onboarding issues and communicate
+information about the TaNewKi call.
+If you are notified that the C2C intern requires a “youth work permit”, please
+send form over to People Connect. They will be required to fill out the
+“employer” portion and submit to the intern/guardians.
+Employment Agreements for GitLab team members located
+everywhere else (IT BV contractor agreements)
+Review the Hiring Status of the location you are working with. If the location has not
+been evaluated yet, we issue a IT BV contractor agreement.
+If the candidate would like to use their own entity for the contractor agreement update
+the offer details with the Contractor Name and Address. You will use the IT BV
+Contractor Agreement - C2C in these cases.
+Generate IT BV Contractor Agreement - Independent or the IT BV Contractor Agreement
+- C2C
+Select Send with DocuSign
+Select the “Offer through DocuSign-IT BV” email template
+Update the “To” field to include the GitLab signatory and include the hiring manager in
+CC field
+Select Preview on DocuSign
+Once in DocuSign, update the signing order as you would with other contracts and hit
+send
+Adding Relocation Verbiage to Entity Contracts
+Candidate Experience Specialist will ensure that there is verbiage clearly stating the
+terms of the compensation changes for relocation after the new hire’s start date.
+CES will ping the Total Rewards team in the Approval Notes.
+* Navigate to the bottom of the candidate’s GH profile
+* See “Approval Notes”
+* Click “Leave a Note”
+* Tag Brittany Rohde in a note to confirm that both compensation values have been
+approved
+* Tag the Recruiter as CC
+Once Total Rewards has confirmed both have been reviewed, generate the appropriate
+contract
+Download the Word version of the contract and upload into Google Drive for editing
+* Navigate to Google Drive
+* Click “New” in the upper corner of the left toolbar
+* Select “File Upload”
+* Select the contract
+6. 
+7. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+1. 
+2. 
+3. 
+4.
+
+Add lines at the top of the document for categories to include Compensation for the
+relocation
+* Example for relocation from ID to CA:
+CA Compensation: $ USD
+ID Compensation: $ USD
+Update Section 10 Location verbiage:
+* Original
+Location. Your employment with GitLab is conditioned upon your
+permanent legal residence being near Boise, ID. If your permanent
+legal residence changes from that location you must notify the
+Company prior to any such changes. Changes to your permanent
+legal residence could result in a change to your compensation,
+benefits, and in some circumstances, termination of your
+employment.
+Updated
+Location. Your employment with GitLab is conditioned upon your
+permanent legal residence being near Boise, ID and you’ve disclosed a
+planned move to San Francisco, CA on or around January 1st, 2021. If
+your permanent legal residence changes from those locations you
+must notify the Company prior to any such changes. Changes to your
+permanent legal residence could result in a change to your
+compensation, benefits, and in some circumstances, termination of
+your employment.
+Delete out all Tokens
+Save and download the contract
+Upload in GH by selecting “Upload Replacement”
+Ping the Contracts-to-sign channel in Slack and let the recruiter know that you are
+sending a contract staged for a future relocation
+Stage contract as normal
+Add tokens back in after changing signing order
+Send
+Employment Offboarding
+When team members depart GitLab, People Connect will create an offboarding issue. The CES
+team is responsible for completing tasks under the @gitlab-com/gl-ces section. Please note that
+offboarding issues are time sensitive and should be completed by the due date set on the issue.
+Completion of these tasks also ensure GitLab remains compliant.
+Go to Employment Issues where the offboarding issues can be found. In the search bar,
+filter issues by the “CES: To Do” label and work on the issues by due date. Once you open
+up an offboarding issue, navigate to the @gitlab-com/gl-ces section and complete the
+following steps.
+5. 
+◦ 
+◦ 
+6. 
+◦ 1. 
+◦ 
+◦ 1. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+1.
+
+Open Google calendar, select the “Interview Calendar”, and type in the team member’s
+name in the search bar at the top. Ensure the team member offboarding isn’t in any
+active interviews.If the team member appears in an active interview,advise the
+respective CES team member to work with their recruiters to replace the interviewer.Any
+interviews that have been grayed out on the calendar, have passed already.
+If the offboarding team member is from an engineering department, CES to check the
+hiring repo both backend,frontend and Platform POOL to remove the departing
+interviewer from the pool.
+CES can make changes through a merge request e.g “Removed John Doe from list of
+ruby on rails technical interviewers”. CES must only use the merge rights to remove
+offboarding interviewers from the hiring repo and not make any other significant
+changes to it.
+Check for reqs that the team member might be on by searching the team member’s
+name under Users in Greenhouse. When searching the team member’s name, select the
+profile with the team member’s GitLab email address; this will navigate to their
+Greenhouse profile settings.
+If you encounter a team member’s name listed as “Job Admin: Hiring Manager” with
+Open job reqs, please following steps:
+Copy and paste the job req title into a new Greenhouse window and search
+Select the correct job req by ensuring the req#s match (i.e. 7458)
+Select Job Set up and navigate to the Hiring Team section
+Please ensure that the hiring manager position has been filled by another team
+member. If the hiring manager section is empty or still shows the team member who is
+offboarding, reach out to the CES coordinator listed and advise the CES team member to
+work with the recruiter to find a replacement hiring manager & update interview plans.
+No action is required if the offboarding team member is listed as “Job Admin: Hiring
+Manager”, for a req title which is “Closed”, “Draft”, or “Template” in it.
+5. Once all steps have been completed, navigate to the right hand side of the
+offboarding issue, remove the “CES: To Do” label, disable notifications, and leave a
+comment/ notify “Recruiting Ops”. (e.g @ destinyreyes ces tasks done)
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+•

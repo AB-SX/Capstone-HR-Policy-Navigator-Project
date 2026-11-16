@@ -1,0 +1,102 @@
+FY’ 20 E-Group Focus Areas
+Taking action from areas guided by the GitLab Team Member Engagement Survey
+Results.
+Managerial encouragement of Team Member development.
+Total Compensation.
+FY’ 19 Engagement Survey
+The GitLab Team Member Engagement Survey for 2018 (FY19) ran from 2018-10-14 to 2018-11-04
+- questions and fine details can be found in the following planning issue.
+Bar those who joined on or after 2018-08-17 the survey was extended to all GitLab Team
+members for completion. Participation for the FY19 survey closed out at 94% with 308 team
+members having taken part.
+Benchmarking and Reporting
+The FY19 survey was benchmarked against 2018 New Tech Size - Large Companies (500+).
+Preliminary reports were released in the week of 2018-11-06 painting a broad overview
+afterwhich individual divisional reviews will take place in collaboration with the People Business
+Partners (PBPs) and respective Group Leaders.
+Company Results (Overall)
+Favourable Neutral Unfavourable
+83% 12% 5%
+The benchmarked favourability score for 2018 New Tech Size - Large Companies (500+) was noted
+at 70% i.e. 13% lower than that of GitLab overall.
+Top Scoring Factors
+Factor Favourability Rating
+Company Confidence 84%
+Management 84%
+Collaboration and Communication 84%
+Work / Life Balance 84%
+Question Favourability Rating
+——– ——————–
+I am proud to work for GitLab 95%
+I know how my work contributes to the goals of GitLab 94%
+GitLab is really in a position to succeed over the next three years 93%
+• 
+• 
+•
+
+GitLab was rated between 4-14% percent higher than the industry benchmark i.e. 2018 New Tech
+Size - Large Companies (500+) across all three questions detailed above.
+Bottom Three Scores
+Factor Favourability
+Rating
+Alignment and Involvement 74%
+Feedback and Recognition 63%
+Action 41%
+Question Favourability
+Rating
+——– ——————–
+I believe my total compensation (base salary+any bonus+benefits+equity) is fair
+relative to similar roles at other companies
+43%
+My manager or someone else has communicated clear actions based on recent
+team member survey results
+33%
+I have seen positive changes taking place based on recent employee survey results 32%
+GitLab scored 12% below the industry benchmark i.e. 2018 New Tech Size - Large Companies
+(500+) for the lowest scoring question surrounding positive changes however there was no
+comparative for the other two questions.
+FY’ 19 E-Group Focus Areas
+Taking action from areas guided by the GitLab Team Member Engagement Survey
+Results.
+Managerial encouragement of Team Member development.
+Total Compensation.
+People Operations Procedures
+How to add sub-departments or other demographics not found in Workday
+Open CultureAmp > Settings > Data Intergrations
+Select the blue Sync Data button
+Select Partial Upload
+Click on Export Users > Export
+Update the information on the spreadsheet
+Upload the spreadsheet into CultureAmp
+Select Next (bottom right corner)
+* If you select Sync it will only Sync with Workday, regardless if you uploaded a file.
+Select Import Data
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+
+You have now updated a demographic in CultureAmp!
+Organizational Health Surveys
+In Q3 FY'23, our Talent & Engagement team ran our first organizational health survey.
+GitLab used McKinsey & Company’s Organizational Health Index “OHI” survey to help us
+understand where we have opportunities to help our organization and team members execute
+better and increase their impact. The OHI survey is separate from our CultureAmp Engagement
+survey; learnings from the former will complement the latter and also help inform workplace
+practices beyond GitLab.
+FY'23 Q3/Q4 McKinsey OHI Survey Results
+We’ve summarized high level results of the OHI survey for all GitLab team members in this
+document.
+The document linked above is only available to GitLab team members.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .

@@ -1,0 +1,59 @@
+Best regards,
+[YOUR NAME]
+Your GitLab Customer Success Manager
+Strategies for Non-Engaged Customers
+Gainsight contains a playbook for non-engaged customers that will trigger if:
+The customer has had …
+Last modified September 24, 2026: Rename Customer Success handbook to Customer
+Experience, delete the stale CX handbook (968e3521)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/customer-experience/csm/engagement/non-engaged-customer-
+strategies/
+209. Strategies for Non-Engaged Customers
+Strategies for Non-Engaged Customers
+Gainsight contains a playbook for non-engaged customers that will trigger if:
+The customer has had no engagement (no logged calls or meetings) in over 60 days
+AND is a priority 1 or 2 customer
+The customer has an onboarding CTA that has been open for over 90 days
+This playbook is also available to be manually opened with the ‘Risk’ CTA Type.
+The playbook contains the following steps:
+Playbook
+Sync with SAE/AE on a reach-out strategy
+* CSM to day to day contacts
+* SAE to buyers /influencers/ anyone else they have relationships with
+* SDR to any contacts outside of our relationship
+Create a compelling message (s) : Review objectives of the customer and fashion
+messaging for ‘why’ the customer should engage with us. Consider the following:
+We know they are migrating from another platform, so offer training & enablement
+We know they are interested in xxx so reach out offering to discuss new feature yyy
+Review support tickets and build on any conversation that is happening to offer value
+Create Triage Issue If no engagement in step 2 (Escalation must occur if PR 1 + no
+engagement >90 days)
+Escalate via the triage issue: At this point the tracking of engagement strategies will live
+in the Triage Issue. In this issue, loop in a more senior GitLab resource (decide level
+based on size of customer with CSM Manager) to reach out to someone on the customer
+side if still no response after 1 month. Craft the email and provide any context on
+business objectives available to the GitLab senior resource.
+Additional strategies to consider
+List of sources to review
+SFDC activity history -> find any email responses from the customer about their projects
+or technical needs, and reply to those contacts asking if they were able to implement,
+and if they have questions.
+Zendesk tickets
+LinkedIn prospecting (best w/ Sales Navigator). Need to describe this process, how to
+find the right roles, and best practices for contacting them.
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+• 
+• 
+•

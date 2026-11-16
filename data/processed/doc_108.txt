@@ -1,0 +1,148 @@
+Job Family Responsibilities and Functional Competencies
+Performance against Job Family responsibilities, requirements, performance indicators, and
+functional competencies (if applicable) should be weighted at 60%.
+Review Job Families: Look at the Responsibilities section and how your team member is
+performing against those responsibilities
+Example: Backend Engineer
+Review Performance indicators per Job Family: Look at the Performance indicators.
+Example: Backend Engineer
+(if applicable) Functional Competencies
+For management roles, please also review and consider the levels outlined in the Organizational
+Structure.
+GitLab Competencies
+Performance against these competencies should be weighted at 40%.
+Values Competencies
+Remote Working Competencies
+Job Frameworks
+(If applicable) Manager and Leadership Competencies
+When completing the talent assessment form, team members and managers should reflect on
+the applicable competencies and job frameworks when filling out the achievements, strengths,
+and opportunities section. Given GitLab’s CREDIT values should be lived, with each day
+representing a new opportunity to refamiliarize oneself with said values and strive to implement
+them in every professional interaction, there is an opportunity for team members and managers
+to rate how a team member demonstrates each of the CREDIT values. The following rating scale
+is used for each value:
+Rarely Demonstrated: team member demonstrates some of the sub-values associated
+with this value on an occasional basis.
+Sometime Demonstrated: team member demonstrates most of the sub-values
+associated with this value on a regular basis.
+Consistently Demonstrated: team member demonstrates a large majority of the sub-
+values associated with the value in most interactions.
+Use the comment box at the end of the CREDIT values section to provide examples to support the
+ratings selected.
+What is “Growth Potential”?
+While performance is focused on the past and present, growth potential is focused on the future.
+Because of the nature of the future-focus associated with growth potential, it is more difficult to
+measure than performance, and inherently more qualitative than quantitative. A key element in
+determining growth potential is the manager and leadership observation and experience
+working with team members. Managers can gauge team member growth potential against the
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+expectations in their current role or their growth potential to take on different roles across
+GitLab.
+Growth potential refers to the ability and desire of a team member to successfully assume
+increasingly more broad or complex responsibilities and learn new skills, as compared to peers
+and the roles’ responsibilities outlined in their respective Job Family. This could include the
+growth potential to move up to the next level in their job family, and/or a lateral move.
+The Growth Potential assessment helps managers determine the best growth trajectory for their
+team members. The growth potential assessment will be used as input to leverage our
+engagement tools, offer lateral and upwards career opportunities, and do succession planning.
+Growth Potential can change over time as team members develop new interests, as new
+opportunities for growth arise, and as team members continue to broaden their knowledge,
+skills, and abilities.
+Measuring Growth Potential
+There are four primary pillars to consider when measuring growth potential:
+“Growth
+Potential”
+Pillar
+Definition
+Adaptability Demonstrating a willingness and ability to learn new skills and apply them to be
+successful under new, tough, or difficult conditions. Ability to navigate uncertainty and
+be flexible with change.
+Expandability Expandability outside their areas (laterally or vertically), with the willingness and ability
+to take on a role of greater complexity, impact, and scope.
+Consistency Demonstrating effective problem-solving capabilities, the consistent delivery of results
+over time in changing circumstances, and dependability in the commitments you make.
+Self-
+Awareness
+The depth to which an individual recognizes skills, strengths, weaknesses, blind spots,
+and is able to reflect and act to improve and invest in their own development. Judgment
+in decision-making is also a key element of self-awareness. Judgment can be seen
+through our level of self-awareness in several ways, including communication,
+collaboration, and results. Judgment can be defined as “The ability to make considered
+decisions or come to well thought-out conclusions”, and to do this effectively, we need
+to have a heightened sense of self-awareness in terms of how our communication will
+come across and how decisions and conclusions drawn will impact others and their
+willingness to collaborate.
+Under each pillar there are a few questions that managers should consider when assessing team
+member growth potential. Please note that the answer to all of these questions does not have to
+be yes to determine a team member is “exceeding” growth potential, the questions are here to
+help guide managers through the thought and evaluation process.
+Adaptability
+Does the team member adapt to change well? (i.e. realignments, management changes,
+company changes, etc.)
+Does the team member seek to learn new skills to further succeed in their role?
+1. 
+2.
+
+Has the team member demonstrated ability to learn new things effectively under
+pressure?
+Expandability
+Does the team member demonstrate interest in other areas outside of the immediate
+scope of their role?
+Does the team member invest time in learning new skills that will help them grow
+(laterally or vertically)?
+Has the team member volunteered for any “stretch” projects or initiatives?
+Does the team member coach, mentor, and/or influence others?
+Consistency
+Does the team member consistently deliver results?
+Does the team member follow through on their commitments?
+Is the team member dependable?
+If scope or timeline change, does the team member communicate the change and
+provide updates to stakeholders?
+Self-Awareness
+Does the team member respond to feedback aligned with our Receiving Feedback
+Guidelines?
+Does the team member acknowledge their strengths and areas of improvement?
+Does the team member work towards closing gaps for their improvement areas?
+Does the team member demonstrate sound judgment in their decision-making?
+Growth Potential Output
+After assessing team member growth potential based on the four pillars outlined above,
+managers can determine whether team member growth potential is currently developing,
+growing, or exceeding.
+Developing
+“Developing” growth potential means a team member is not currently showing readiness or
+interest in taking on significantly greater scope, complexity, or responsibility in the near term
+(next 12-18 months). This is often because:
+They are too new to the role or company to have demonstrated sustained growth
+capacity
+They have clearly communicated they are happy in their current role and don’t want
+more responsibility
+They are focused on deepening expertise in their current scope rather than expanding
+3. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+•

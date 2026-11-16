@@ -1,0 +1,84 @@
+Types of External meetings at GitLab
+Note: Depending on each use case, there may be more or less meetings involved. It’s always best
+to still implement basic principles in each meeting. It’s up to one’s own judgement to decide what
+to cover on each meeting.
+1. Discovery meeting
+Purpose: Uncover the needs and goals of the audience.
+How to: Qualification questions
+Tell me at a high level your role, your team, and what you’re currently working on
+State Objective
+Why the interest in GitLab?
+What does your current tool stack look like?
+Why are you making the change?
+What does the decision making process look like for this evaluation?
+Budget allocation
+Timeline
+Next steps
+2. Technical Evaluation
+Purpose: Answer the technical questions that was presented in the previous
+conversation. Depending on the circumstances of the situation, a Solutions Architect
+may be present.
+How to:
+During discovery meetings, technical questions may pop up that need to be written
+down and taken to SA’s to answer. The goal of this call is to answer the prospect’s
+technical questions and either have a SA on the call or answer the questions yourself. If
+they need more information, recorded demos and or trials can be leveraged at this
+point.
+3. Close Plan meeting
+Purpose: Wrap up the pre-sales cycle and negotiate contract.
+How to:
+This is a short meeting, possibly lasting from 15-20 minutes. This is where you finalize
+and set up next steps or complete the sales cycle.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+After the meeting: Personal Development Plan and Next Steps
+For your own benefit, here’s a Google form that you can make a copy of and fill out for your own
+self evaluation after every external meeting. This will help you to track your progress on key
+practices and to see where you can make improvements.
+5 Signs You’re Talking At (Not Talking To) Your Prospects
+You’d think that for a salesperson, talking a lot about their product would be the best way to win
+a deal. After all, how can prospects decide to buy (or not) unless they know what they’re paying
+for?
+Yet one of sales’ biggest ironies is that the more you talk about your product, the less likely you
+are to actually sell it. While speaking with your prospects is absolutely necessary to close sales, it’s
+all too easy to slip from talking to them into talking at them. The five signs below are easy-to-spot
+indicators that it’s time to let your prospect take center stage.
+1. You talk for more than half of each conversation
+In general, listening is more valuable to salespeople than talking. It’s the best, and in the early
+stages of a sales conversation, the only way to assess your prospect’s business pain, whether
+they’re being truthful, and their level of proficiency in implementing your product.
+And listening early on sets the stage for the rest of your sales process. Don’t know what your
+prospect’s business strengths and weaknesses are because you never asked? You won’t be able to
+sell to their strengths or bridge the gap in weaker areas.
+Can’t assess whether your prospect’s telling you the truth because you haven’t heard them speak
+enough to understand their voice tone? You won’t be able to distinguish between true blockers
+and brush-off objections.
+Haven’t fully grasped the root causes of your prospect’s business pain? You won’t be able to
+position your product in a way that gets to the heart of a solution.
+If you’re sensing a trend here, you’re right. Not listening enough severely limits your ability to sell
+successfully. It’s like trying to score a goal without knowing which team you play for.
+2. You’re telling more than asking
+But it’s not just how much you talk, but also what you say that’s important. It’s crucial to get your
+prospect talking as much as possible so you’re familiar with their personalities and problems. And
+this is hard to do if you’re not asking questions.
+Of course, eventually you’ll have to talk more than you ask. Once you get a clear sense of the
+problem your prospect is trying to solve and their priorities, you’ll take the reins. But before that
+point, err on the side of asking more than you tell.
+Dive deep into areas that are important for your prospect and make sure to clarify anything you
+don’t understand. This style lends itself to a slower sales process than showing up with a pitch
+ready, but you’ll set yourself up for success in the long run by building a foundational
+understanding of your prospect from day one.

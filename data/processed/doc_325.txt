@@ -1,0 +1,208 @@
+How to get involved
+As a current or future GitLab team member, you can:
+Join the relevant Slack channel (listed on this page and on each TMxG’s own page).
+Join the TMxG’s Google Group or follow their Loop site (for GitLab team members).
+Attend events listed on the GitLab team calendar or in TMxG announcements.
+Participate in async discussions and campaigns, not just live calls.
+If you’re interested in helping to lead or organise a TMxG, see TMxG Leadership
+Resources.
+Finding TMxGs
+TMxG Slack channels use consistent naming so they’re easier to find:
+Parent TMxGs: #group-name-tmrg / #group-name-tmag (for example, #women-tmrg)
+Pods: #pod-name-parent-tmrg (for example, #wsa-women-tmrg)
+Current TMxGs
+Ordered alphabetically to avoid the perception that any TMRG or TMAG is more important than
+any other.
+TMxG Focus Slack channel Google
+Group /
+Sign‑up
+TMxG
+leads
+Executive
+Sponsor
+Ongoing
+Agenda
+API@GitLab – Asia Pacific
+Islander
+Asian & Pacific
+Islander
+community
+#api-tmrg Sign up
+(Google
+Group)
+add Manu
+Narayan, 
+Rashmi
+Chachra
+API Agenda
+Black@GitLab Black team
+member
+community and
+advocacy
+#black-at-gitlab Sign up
+(Google
+Group)
+add TBD Black @ GitLab
+Agenda
+Caregivers@GitLab Caregiving
+community and
+support
+#caregivers-tmrg TBA
+(Google
+Group)
+add TBD Caregivers
+Agenda
+Disability &
+Neurodivergence@GitLab
+Disability,
+inclusion and
+neurodiversity
+#disability-and-
+neurodivergence-tmrg
+Sign up
+(Google
+Form)
+add Rob Allen DiversABILITY
+Agenda
+Gente@GitLab Latinx/Hispanic
+community and
+culture
+#gente Sign up
+(Google
+Group)
+add Josh
+Lemos
+Gente Agenda
+Generational
+Understanding (TMAG)
+Cross‑generational
+perspectives and
+collaboration
+#generational_understanding Sign up
+(Google
+Group)
+add Tim
+Zallmann
+Generational
+Understanding
+Agenda
+Global Voices@GitLab #global-voices-tmrg add TBD TBD
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+TMxG Focus Slack channel Google
+Group /
+Sign‑up
+TMxG
+leads
+Executive
+Sponsor
+Ongoing
+Agenda
+Team members
+outside the United
+States
+Sign up
+(Google
+Group)
+Mental Health TMAG Mental health
+awareness and
+support
+#mental-health-tmag Sign up
+(Google
+Group)
+add Lisa
+Boughner
+Mental Health
+Agenda
+Pride@GitLab LGBTQ+
+community and
+allyship
+#lgbtq Sign up
+(Google
+Group)
+add Robin
+Schulman
+Pride Agenda
+Women@GitLab Gender diversity
+and women’s
+advancement
+#women (to be standardised to 
+#women-tmrg)
+Sign up
+(Google
+Group)
+add Robin
+Schulman
+Women
+Agenda
+Intersectionality and multiple identities
+Many people live at the intersection of multiple identities and experiences (for example, Black
+and disabled; LGBTQ+ and a caregiver; a non‑US team member and a parent).
+At GitLab:
+You are encouraged to join multiple TMxGs that reflect your lived experience and
+interests.
+TMxGs regularly collaborate on intersectional programming (for example, Disability &
+Neurodivergence × Mental Health, Gente × Black × Women).
+Joint events are designed so that both communities and allies can engage and learn
+together.
+When TMxGs co‑host an event, it counts for each group’s impact tracking. Leaders can see
+more detail on the Definitions: What Counts? page.
+Pods (sub‑communities within TMxGs)
+As TMxGs grow, some develop more focused sub‑communities – for example, based on role/
+function or region. At GitLab, we call these sub‑communities pods.
+What is a pod?
+A pod is a sub‑community within a parent TMxG that:
+Focuses on a specific function or role (for example, women in a particular profession),
+or a specific region (for example, AMER members of a global TMxG).
+Uses the same colour branding and visual identity as the parent TMxG.
+Follows the same governance wrapper as the parent TMxG.
+• 
+• 
+• 
+• 
+• 
+•
+
+A pod is a pod — whether function‑based or region‑based. Same governance, same budget
+process, same reporting. Only the “slice” of the community is different.
+Relationship to the parent TMxG
+Pods:
+Do not replace the parent TMxG – pod members are still members of the parent group.
+Do not have a separate budget line – they collaborate with the parent TMxG leads on
+budget requests using the existing TMxG allocation.
+Report their activity through the parent TMxG (for example, in the shared activity
+tracker and quarterly reports).
+Use a consistent Slack naming convention: #pod-name-parent-tmrg (for example, #wsa-
+women-tmrg for a Women in Solutions Architecture pod within the Women TMxG).
+For most GitLab team members, it is enough to know that pods are additional doors into the
+same community, not separate organisations. You are welcome to participate in both a pod and
+its parent TMxG.
+Details of how pods are proposed and run are documented in the TMxG Leadership Resources
+and in the internal TMxG Leaders Resource Hub.
+Benefits of TMxGs
+TMxGs are a proven way to build cultural competency, improve retention, provide marketplace
+insights, and attract diverse talent. They give team members a way to find common interests,
+build connections, and advocate for change.
+For GitLab, TMxGs help grow the business by strengthening our DIB brand, support GitLab
+values and business goals, foster communication between GitLab and its team members, and
+provide mentoring and professional development opportunities.
+For team members, TMxGs introduce you to GitLab’s culture, build a sense of belonging, and
+offer opportunities to develop leadership skills, build relationships across the company, and raise
+awareness for underrepresented groups.
+Members and allies
+Members are active participants who identify with the community’s focus. Membership is open
+to full‑time and part‑time team members, interns, and contractors.
+Allies support, empower, and stand up for another person or group. All TMxG activities are open
+to allies unless explicitly marked as members‑only. Allies are encouraged to listen, learn, and
+engage with an open mind, while respecting the boundaries of their role – they are not expected
+to have ready‑made answers or to act as trained counsellors.
+• 
+• 
+• 
+•

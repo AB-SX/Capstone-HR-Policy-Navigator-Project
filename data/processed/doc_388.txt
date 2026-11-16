@@ -1,0 +1,70 @@
+DIB in Q2 - PBPs Only
+To ensure strong collaboration with the People Business Partner team we provide a DIB in Q2
+deck that highlights the strategic imperatives of the DIB Team and any collaborations that are
+required.
+Process
+DRI - Liam McNally, Manager, DIB
+Cadence: Quarterly
+Release for Collaboration from DIB Team: 2 weeks prior to the end of the quarter
+Delivered: First week of the new quarter
+Method of Communication: Leadership DIB Council Call DIB-PBP Slack Channel
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/leadership-dib-council/
+153. Leadership Diversity Inclusion & Belonging
+Council
+Leadership Diversity Inclusion & Belonging Council
+A strategic group of Senior leaders URG Leaders who assist the DIB team to implement the
+strategy and align the strategy to the Division’s strategic imperatives
+A strategic group of senior leaders who embed DIB strategy into business operations and provide
+critical insights on divisional imperatives. Members bring diverse capabilities including
+geographic expertise, division knowledge, and representation from underrepresented groups.
+Responsibilities
+Embed DIB strategic imperatives into business goals.
+Unblock obstacles in global DIB strategy implementation.
+Provide division and geographic insights to the DIB team.
+Represent DIB in E-group and CEO Skips syncs.
+Act as DIB Interruptors—actively advocate, challenge norms, and iterate to keep
+Diversity, Inclusion and Belonging top of mind.
+Structure & Members
+Senior leadership representative (Sr. Dir+) from each department, plus a manager+ from an
+underrepresented group where Sr. Dir+ URG representation isn’t available.
+Engineering - Two Representatives
+Product - Two Representatives
+Sales - Two Representatives
+Marketing - Two Representatives
+Finance - One representative
+Legal & Corporate Affairs - One representative
+Security - One representative
+People - Represented by DIB and the PBPs
+People Business Partners
+Office of CEO representative - One representative
+VP of DIB - Leadership DIB Council Lead
+DIB Team
+Executive Sponsors
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

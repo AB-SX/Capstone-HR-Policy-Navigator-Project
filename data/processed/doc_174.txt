@@ -1,0 +1,170 @@
+Leave all other fields as is and click “Create Project”
+* NOTE: Once the project is created, you will then be brought to a page where you can
+create an issue within that project. This is where we will provide all information about
+the disclosure and loop in HMs, TMR, the Recruiter and Director.
+Click on “Issues” on the left side of the page and select “New Issue.”
+For Issue Name - create a title using the candidates full name along with the type of
+disclosure received.
+Under the Description drop-down - select piaa_outside work_discussion template
+Fill in all pertinent information.
+Candidate Name along with the Greenhouse Link
+Copy/Paste the disclosure made by the candidate underneath the CES
+checkbox
+Assign the issue to yourself, and at the bottom, click “Create Issue”
+Once the issue is created, click on “Manage” in the left toolbar and select “Members”.
+Click “Invite Members” - type in HM’s name, Director’s name, and recruiter name; leave
+them as a Guest and click “Invite” (These will only be invited in at the “issue” level and
+therefore will only be able to see the issue they are tagged in. They will not have visibility
+into the other projects created)
+IMPORTANT NOTE: For ALL disclosures, Director Level approval is ALWAYS
+required.
+Go back into the issue, click Edit and in the info box tag the recruiter, HM & Director, then
+click save
+These team members will be notified by email when tagged.
+In the Comment section of the issue request participants review the disclosure(s) by
+using TE snippet “discreview”
+CES will remove the appropriate label once confirmed approvals are received in the
+comments.
+If Legal review and approval is required, TMR will invite the appropriate Legal member
+into the issue and request their review
+Once fully approved, please add the “Fully Approved” label and close the issue.
+Proceed to the candidate’s GH profile and select “Email (Candidate’s Name). Select the
+“Disclosure Confirmation” template, copy/paste the disclosure the candidate made into
+the blank space, and Send. The email will CC you and the recruiter.
+Download the email from your inbox and upload into the “Pre Hire Documents &
+Changes” folder in the candidate’s Workday profile.
+TMRG Conversations
+Our hiring process includes an optional step where candidates can request to meet with a TMRG
+team member. We will offer this to a candidate when they complete their interview process
+before an offer is made. Whether or not the candidate decides to take us up on this offer will
+have no impact on our overall hiring decision.
+All current TMRGs have agreed to take part in this process. You can find the group list here.
+6. 
+7. 
+8. 
+9. 
+10. 
+◦ 
+◦ 
+11. 
+12. 
+13. 
+◦ 
+14. 
+◦ 
+15. 
+16. 
+17. 
+18. 
+19. 
+20.
+
+When a candidate requests to meet with a TMRG team member via the Reference Check Form,
+the Candidate Experience Specialist will do the following:
+Reach out to TMRG volunteers for this call in the dedicated #candidate_tmrg-call slack
+channel.
+* Select Shortcuts button - looks like a plus sign with lightening bolt
+* Fill in appropriate details
+Which TMRG would this canidate like to speak with?
+Where is the candidate located?
+What role is this candidate interviewing for
+Click Submit
+Once submitted, the request will ask volunteers to reply with their Calendly link and
+LinkedIN Profile (optional) for us to share with the candidate.
+Once a volunteer has been found the Candidate Experience Specialist will email the
+candidate the ‘TMRG - Reviewed’ email template in Greenhouse. The CES will update the
+template with the Team Members name, Calendly Link and LinkedIN profile if provided
+and then send to candidate.
+If a volunteer has not been found within 24 hours the CES team member will reach out
+to the TMRG in their dedicated TMRG Slack Channel.
+If a volunteer still has not been found within 24 hours of the second request, the CES will
+reach out to the TMRG lead(s) and request assistance with scheduling. If a volunteer has
+not been found within 3 business days of the request, the CES will ask the TMRG lead to
+take part in the conversation.
+As a GitLab team member taking part in these calls, we advise you to start with a short
+introduction to you and your role here at GitLab. From here, we advise you to let the candidate
+lead the conversation as the goal is for you to answer their questions and offer insight into how
+we work.
+These calls don’t require you to submit a scorecard in Greenhouse. If a candidate mentions
+something that you see as a red flag (e.g. they outline a past action of theirs that goes against
+our values) or shares something that would help us set them up for success, we advise you to
+share the details of this with the hiring manager for the role they’re interviewing for. It will be the
+responsibility of the Hiring Manager to review this and decide whether we need to alter the hiring
+or offer process for the candidate.
+Send contract
+See Candidate Experience Specialist Contract Processes section of the handbook
+The Candidate Experience Specialists will prepare the contract. While the Candidate Experience
+Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1
+business day. If the contract is time-sensitive, please provide context for the rush. If the
+Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter and
+CES manager via Greenhouse and will provide context.
+1. 
+◦ 
+◦ 
+◦ 
+◦ 
+2. 
+3. 
+4. 
+5.
+
+Recruiters should make themselves familiar with the basic knowledge of the contract processes
+that can be found on the CES Contract Processes page and the Contracts, Probation Periods &
+PIAA page, as well as the Employment Contracts page in the internal handbook.
+Check all aspects of the offer:
+Do we have the new team members’ legal name in their profile?
+Check the candidate’s Reference Check form to confirm their legal name is correctly
+reflected in GH
+It is extremely important to enter the team member’s full legal name (as much as it is
+known before visually seeing a legal ID). Full legal name should be provided for the 
+background screening process. It is important to be as accurate as possible, including
+the person’s full legal name as well as any accents used for their name.
+Is the new team members’ address listed on the details page?
+What contract type and entity are required based upon location and offer details?
+Is all necessary information (start date, salary, location, etc.) up to date?
+Is the start date one that is not a “no start date” and provides an adequate amount of
+time for People Connect and IT to have sufficient notice? Ideally, we are providing 10
+days notice, but the teams can work with less if we let them know.
+Has the signatory been determined by the Candidate Experience Specialist and
+updated?
+Has the Entity been selected based on the New Hire’s location? If the job title has Federal
+or PubSec included, please check with the Recruiter if they set up the contract as Inc
+rather than Federal LLC to confirm.
+Generate the contract within Greenhouse using a template based on the details found in
+the offer package, paying attention to whether OTE, draw, and bonuses are included in
+the offer details.
+Contact the recruiter or new team member to gather any missing pieces of information
+(note: candidate’s address can be found in their Reference Check Form).
+If the contract was created outside of Greenhouse, ensure that the contract has been
+reviewed and approved by a member of the Legal team.
+Stage the contract in DocuSign from within Greenhouse to email the correct signing
+parties. In the “To” field, type the name and select the pre-determined signatory. CC the
+recruiter and the hiring manager in the CC field.
+Before marking the candidate as hired the Candidate Experience Specialist will reject
+the candidate from any other active roles including roles for which they are a prospect
+(without sending a rejection email). NOTE: If this step is skipped, the profile will not be
+exported to Workday when the candidate is marked as hired.
+Before marking the candidate as hired on all candidates, the CES will make sure that
+the profiles were merged (for internal candidates, this will be indicated if the candidate
+shows their original Hired inactive role). View candidate merge instructions in the
+Candidate Hygiene section. NOTE: If this step is skipped, it will create problems with privacy
+and increases the possibility of a new hire seeing their own Greenhouse profile.
+Before marking the candidate as hired the CES will ping the recruiter and give them
+24 hours to contact/reject all other active candidates. Once this is complete, the CES can
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.

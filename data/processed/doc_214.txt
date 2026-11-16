@@ -1,0 +1,120 @@
+Sick Leave
+GitLab Canada Corp Entitlement
+Annual Allowance: 10 days per year (3 days available after first month of employment)
+Usage: For illness, medical appointments, or caring for sick family members
+Reporting: Designate time as “Out Sick” in Workday for proper tracking
+Provincial Statutory Requirements
+Ontario: 3 days job-protected unpaid sick leave (after 2+ weeks employment)
+Quebec: 2 days paid absence per calendar year
+Extended Sick Leave (5+ days)
+GitLab supplements pay up to 100% of regular salary for up to 25 working days
+Additional 25 working days available for family care if not covered by provincial benefits
+Contact Absence Management team at leaves@domain.com
+Medical documentation may be required per local requirements
+Provincial Leave Types and Request
+Each province offers comprehensive leave entitlements including bereavement, family
+responsibility, critical illness, domestic violence, and specialized circumstances.
+How to Request
+Contact leaves@domain.com
+Submit request in Workday
+Provide required documentation
+For detailed provincial leave information, see:
+Ontario
+Quebec
+British Columbia
+Alberta
+Manitoba
+Personal Travel Assistance
+Emergency travel assistance including up to $5,000 trip cancellation coverage.
+Travel Assistance Brochure
+Trip Cancellation Details (see pages 20-23 of full policy)
+Managing Life Changes
+Adding Dependents
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Life Events: If you experience a qualifying life event, you have 31 days from the date of the event
+to request updates to your benefits coverage. Qualifying life events may include marriage, the
+birth or adoption of a child, or a change in a dependent’s eligibility.
+To review your options and request a change, please contact the Total Rewards team within the
+31-day window.
+Process
+Existing dependents: Add through ManuLife Portal
+First dependent: Email total-rewards@gitlab.com with full name, DOB, gender, coverage
+info
+Dependent Definition
+Legally married/common-law spouses
+Children under 21 (under 25 if full-time students with proof)
+When Coverage Ends
+Benefits cease on termination date
+Conversion options available (contact SC Insurance within 30-60 days)
+LTD coverage continues 24 months following total disability
+Quick Reference
+Key Contacts
+ManuLife: 1-800-268-6195
+Canada Life RRSP: 1-800-724-3402
+SC Insurance: info@scinsurance.ca or 416.259.1166
+Total Rewards: total-rewards@gitlab.com
+Absence Management: leaves@gitlab.com
+General Support: Compass
+Important Links
+ManuLife Portal
+Canada Life RRSP
+GitLab PTO Handbook
+GitLab Parental Leave Policy
+New Team Member Checklist
+Choose coverage level and email total-rewards@gitlab.com
+Register for ManuLife when invitation arrives
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Set up RRSP at mycanadalifeatwork.com
+Designate beneficiaries for life insurance and RRSP
+Download ManuLife mobile app
+Review provincial leave entitlements
+This summary provides key benefit information. Complete terms are in official policy documents. For
+detailed coverage, refer to linked resources.
+Need help? Contact Compass or visit the People Operations page.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+• 
+• 
+• 
+•

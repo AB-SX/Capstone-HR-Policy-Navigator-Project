@@ -1,0 +1,198 @@
+Name Description Calculation Is
+Sensitive
+Promotion A promotion is counted if the business process
+type submitted in our HRMS is “Promote
+Employee Inbound”
+Lateral
+Transfer
+A lateral move is counted if the business process
+category submitted in our HRMS is “Lateral Move”
+and there was a change in job title
+Internal
+Mobility Rate
+Internal Mobility Rate refers to the frequency at
+which team members change positions within an
+organization, indicating the internal movement
+and career progression opportunities available to
+staff, as well as the company’s ability to retain
+talent by offering growth paths.
+# Lateral Transfers
+and Promotions /
+Average Headcount
+Paid Time Off and Absence
+Information related to Paid Time Off and Absence
+Click to expand
+Name Description Calculation Is
+Sensitive
+Paid Time
+Off (PTO)
+Time off that is submitted and approved in the Absence
+Management System, does not fall on a weekend, does
+not exceed 25 days in a single request, and excludes PTO
+types like Extended Leave, CEO Shadow Program, and
+Conference.
+Average
+PTO Days
+Average number of days in period that are PTO days.
+This calculation normalizes PTO usage for all team
+members to account for those who have not worked all
+days in the reporting period.
+(# PTO Days Used /
+# Days Worked) * #
+Days in Period
+Full-Cycle
+Tenure
+Group
+Team members who have worked all days in a reporting
+period so normalized PTO matches actual PTO used
+In/Out
+Tenure
+Group
+Team members who have not worked all days in a
+reporting period so normalized PTO will reflect number
+of days used for the full period based on actual usage in
+that period
+Recruiting and Onboarding
+Data pertaining to the Onboarding process and Recruiting metrics used by Talent Acquisition
+Click to expand
+
+Name Description Calculation Is
+Sensitive
+Onboarding
+Satisfaction
+(OSAT) Score
+Average rating on a 1-5 scale for all questions in
+the Week One onboarding survey in Culture Amp.
+Usually calculated as a rolling 3-month average.
+(Average of All Month 1
+Onboarding Responses
++ Average of All Month 2
+Onboarding Responses
++ Average of All Month 3
+Onboarding
+Responses) / 3
+Starts External applicants who have accepted an offer
+with GitLab and have a start date scheduled in
+the HRMS
+External
+Applicants
+Applicants whose source is not “Internal
+Applicant”. They are not employed through
+GitLab at the time when the application is
+submitted
+Internal
+Applicants
+Applicants whose source is “Internal Applicant”.
+They are employed through GitLab at the time
+when the application is submitted
+Time to Hire /
+Candidate
+Throughput
+Days between the application submitted date and
+the date an application moved in the “Hire” stage
+if they also have an accepted offer.
+Verbal
+Accepted
+Offer %
+Applications that moved into the Offer stage and
+accepted / # Moved into the Offer stage and
+resolved
+# of Applications moved
+into Offer Stage and
+Accepted Offers / # of
+Applications moved into
+the Offer Stage and
+Accepted or Rejected
+Offers
+Written Offer
+Accept %
+Offers that resolved in a date range. # of
+accepted offers / # of resolved offers.
+# of Applications that
+Accepted Offers / # of
+Applications that
+Accepted or Rejected
+Offers
+Internal
+Mobility Rate
+%
+Offers that resolved in a date range. # of
+accepted offers from internal applicants / # of
+accepted offers
+# of Internal
+Applications that
+Accepted Offers / # of
+Applications that
+Accepted Offers
+Source Rate % of applications submitted in a date range that
+were sourced (Sourcing Strategy is “Prospecting”
+and Source is not “SocialReferral”) and candidate
+was from a diverse source (based on candidate
+tags) as a percentage of all sourced applications
+# of Sourced
+Applications submitted
+with Diverse Candidate
+Tags / # of Sourced
+Applications
+Source Mix % of accepted offers by external sourcing
+strategies (not internal applicants or acquisitions)
+with a resolved date in date range
+# of External
+Applications with
+Accepted Offers in
+
+Name Description Calculation Is
+Sensitive
+Specific Sourcing
+Strategy / # of External
+Applications with
+Accepted Offers
+Conversion
+Rate
+# of Applications submitted in a date range and
+what stages of the recruiting process that have
+gone through. It is the flow of applications
+between stages of the recruiting process showing
+what percent of applications from the previous
+step move into the next step (ex- if 10
+applications were in Initial Interview and 2 made
+it to Team Interview phase, conversion rate for
+the Initial Interview would be 20%)
+# of Applications in
+Second Stage / # of
+Applications in First
+Stage
+Pending
+Offers
+Offers that have been sent but not accepted or
+rejected
+Time to Fill Days between an Opening opened date and
+closed date for Openings that closed in a
+specified date range and list a hired application
+Time to Start Days between an Opening opened date and the
+expected start date for a hired application
+Requisition
+Aging
+Average days that Openings were open at any
+point in a date range. This calculation averages
+days open for all days in the reporting period.
+Systems
+Systems used by the People Group
+Click to expand
+Name Description Calculation Is
+Sensitive
+R (Language) A programming language and software environment used
+for statistical analysis, graphical representation, and
+reporting, popular in data analysis and scientific research.
+Tableau Primary data visualization tool at GitLab
+Workday Current Human Resource Management Systems (HRMS)
+and the SSoT for all team member related data on or after
+2022-06-16 and SSoT for all Absence data on or after
+2024-09-01
+Greenhouse Current Applicant Tracking System (ATS) at GitLab and the
+SSOT for all recruiting metrics
+Time Off by
+Deel
+Current absence management support tool at GitLab
+integrated with Workday which is the SSoT for Absence.
+Former data visualization tool at GitLab

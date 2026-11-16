@@ -1,0 +1,152 @@
+Disability Protection
+Short-term and long-term disability insurance provided at no cost, replacing up to 66.7% of base
+salary for qualifying disabilities. See the US Benefits Guide for plan details and coverage.
+Disability Protection Resources
+Disability Insurance Summary
+Short-term Disability Details
+Long-term Disability Details
+Short-Term Disability Application
+Assignment of Benefits Form
+How to apply for Short-Term Disability
+If you’re unable to work due to a qualifying disability, contact the Absence Management team at 
+leaves@gitlab.com as soon as possible. See Sick Time reporting procedures
+The process:
+The Absence Management team will guide you through the application process. This will
+include:
+a. Providing you with filing options (online portal, phone, or paper)
+b. Providing NYLife with the employer eligibility intake information
+c. Sending you the Assignment of Benefits form
+After 26 weeks (maximum benefit period), you’ll need to determine if you can return to
+work
+Returning to work: Email leaves@gitlab.com a physician’s Return to Work authorization at least
+5 calendar days before your planned return date. Include any needed accommodations.
+If you can’t return after 26 weeks: You’ll move to unpaid leave with the option to continue
+benefits through COBRA. You can also apply for long-term disability at this time.
+NYLife Claim Process for Short-Term Disability
+Step 1: Submit Your Short-Term Disability Application. Complete the claimant portion and
+have your physician finish the rest. You can either:
+Send directly to NYLife (using the mail/fax number on the form), or
+Return to leaves@gitlab.com who will submit it for you
+Let the Absence Management team know which option you choose.
+Step 2: NYLife Review Process
+Within 3 business days, NYLife will contact you if they need additional information
+They may also contact your physician (with your authorization) and verify details with
+Absence Management
+Review begins immediately once they have your information
+Step 3: Decision
+If denied: NYLife will call to explain the decision, and Absence Management will process
+any owed pay
+If approved: Both you and Absence Management receive confirmation with your
+approval date and estimated return-to-work date
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Step 4: Final Processing Absence Management files all paperwork in Workday and processes the
+final decision.
+401(k) Plan with Company Match
+Comprehensive retirement savings with immediate eligibility and vesting. See the US Benefits
+Guide for plan details and coverage.
+Enrollment: Please see the 401(k) Administration and Enrollment Guide for more
+details.
+Company Match: 50% of contributions on the first 6% of earnings (up to $1,500
+annually). Please the 401(k) Company Match and Administration Guide for more details.
+Investment Options: Full range of investment choices through Fidelity NetBenefits
+Educational Resources: Join our live financial workshops and online classes through
+Fidelity NetBenefits.
+401(k) Plan Features
+401(k) After-Tax Contributions with Automatic In-Plan Roth Conversion
+You can make after-tax contributions with automatic Roth in-plan conversions. Follow these
+instructions to set up elections. You’ll need to call Fidelity at 800-835-5097 for automatic
+conversions.
+See the Fidelity FAQ and our SageView webinar for details on benefits and considerations.
+Important: After-tax deductions take priority over ESPP contributions. Calculate carefully to
+ensure you have enough funds for both if desired.
+401(k) In-Plan Roth Conversion (Pre-Tax Source)
+Convert money from pre-tax to Roth source within your 401(k) plan. Converted amounts are
+taxable in the year of conversion. Consult your tax advisor.
+Questions & Support:
+401(k) changes, loans, conversions: Call Fidelity at 800-835-5097
+Financial planning: Schedule a complimentary consultation with SageView
+General questions: Contact Compass
+401(k) Rollover
+Rolling into GitLab: Complete this form or call Fidelity at 800-835-5097
+Rolling out of GitLab: Contact Fidelity directly for process details and find your account
+number under Settings > Accounts
+401(k) Loans
+Borrow up to 50% of your vested balance or $50,000 (whichever is less) at Prime + 1% interest.
+Request online or call Fidelity at 800-835-5097
+Repaid via ACH from your personal bank account
+Note: Repaid with after-tax dollars (double taxation)
+401(k) Committee
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Our committee meets regularly with Fidelity to review plan performance:
+Chief People Officer
+Principal Accounting Officer
+Director, Total Rewards
+Director, Treasurer
+Chief Legal Officer (observer)
+Supporting Life Transitions
+Flexible Spending & Health Savings Accounts
+Tax-advantaged accounts to help manage healthcare and dependent care costs:
+Health Savings Account (HSA)
+GitLab contributes to your HSA each month: $100 for individual coverage and $125 for family
+coverage (team member + dependents). You must be enrolled in the High Deductible Health Plan
+(HDHP) to be eligible for HSA contributions and enrollment. Please see the US Benefits Guide for
+current year contribution limits.
+HSA Details
+Your HSA lets you set aside pre-tax money for qualified medical expenses, reducing your overall
+healthcare costs.
+Key benefits:
+Tax advantages: Contributions reduce taxable income, earnings grow tax-free, and
+withdrawals for medical expenses are tax-free
+Flexible timing: Money rolls over annually and never expires—it’s yours forever
+Investment options: Once your balance reaches the minimum, you can invest in
+mutual funds, stocks, and bonds
+Future flexibility: At age 65, withdraw for any purpose without penalty (medical
+expenses remain tax-free)
+Fidelity administers GitLab’s HSA plan. If you choose an HSA-eligible medical plan election in
+PlanSource, PlanSource will guide you through the next steps to activate your HSA account with
+Fidelity.
+HSA Account Rollover & Administration
+Transferring from a previous HSA: Contact Fidelity at 800-544-3716 or log in to Fidelity
+NetBenefits to request a transfer form. Complete with your old provider’s account information,
+Fidelity will handle the rest.
+If you leave GitLab: Your HSA stays with you forever. You’ll become responsible for the monthly
+administration fee once GitLab is no longer your employer.
+Domestic Partner Coverage: If you’re not legally married, your domestic partner’s expenses
+aren’t HSA-eligible. However, if they’re covered under your family HDHP, they can open their own
+HSA. Both of you can contribute up to the full family maximum to your respective HSAs.
+Mid-Year HSA Contribution Change
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

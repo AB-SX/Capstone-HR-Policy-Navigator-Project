@@ -1,0 +1,145 @@
+proceed with hiring in GH (if candidates are still present in req, select the “keep open”
+option when setting candidate to hired. This will trigger a new opening to ensure
+candidates are still present in req)
+Before marking the candidate as hired the CES will verify if the listed Recruiter and
+Coordinator in the Details > Source & Responsibility section of the candidate’s profile
+is correct to ensure accuracy in reporting.
+The CES will mark the candidate as “Hired” in Greenhouse: when prompted, select the
+option to close the req. Please note, the new hire’s Workday profile will be generated
+automatically.
+The Candidate Experience Specialist will email the new team member the Welcome
+Email from Greenhouse with a cc to IT Ops, the Hiring Manager and the Recruiter. Send
+the appropriate Welcome Email based on the candidate’s location and whether the
+candidate will need to procure a laptop themselves.
+Instructions on the Laptop Ordering Process are included with this email.
+11. Should the start date change after the welcome email is sent please see the
+required steps here.
+12. Exception to the start date and onboarding date alignment: If a new team
+member requires a specific start date for legal reasons (cannot have break in
+employment) but onboarding on that specific day is restricted (because of
+Public Holiday, Family & Friends Day, etc.), the Candidate Experience Specialist
+can notify the People Connect Team in the private Slack channel people-
+connect_ces. The Contract, Greenhouse and Workday should reflect the same
+start date regardless of the actual onboarding date.
+The last part of the Candidate Experience Specialist’s responsibilities with a candidate is to hire
+them into the system and pass them on to People Connect. The hire-in process includes more
+complexities, so CES created the following guidelines to clarify start date exceptions and
+confidentiality around new hires.
+SETTING GREENHOUSE REMINDERS - CES make use of the due date feature in the GitLab issue
+to keep track of the start date and maintain consistent communication with the recruiters to
+ensure the candidates in the requisition are cleared completely. CES can make use of the “Need to
+hire into Workday” label and set due dates in the GitLab issue to track as well.
+The People Connect team has an SLA period of 10 working days to onboard an entity/PEO-based
+team member. In the event of an exception, the minimum notice required for the People Connect
+team is 5 working days.
+PROACTIVE COMMUNICATION- It’s essential that CES promptly notify in the #peopleconnect-ces
+slack channel when they experience a delay or issues with the contracts generated and mark a
+team member as hired. If there’s an urgent hire with less than 10 days to the start date, please
+use the TE snippet “Itlaprequest” in the people-connect_ces channel to confirm that a laptop can
+be delivered on time. Only after receiving this confirmation can we confirm the start date with the
+recruiter.
+NEW HIRE EXCEPTIONS - For any confidential hires that necessitate a public announcement,
+please inform Alissa Meeks or Melody Patel about the specific scenario. Additionally, loop them in
+any communication related to the role to keep them in the loop. This will also be considered as an
+exception.
+8. 
+9. 
+10. 
+◦
+
+VERIFYING GLOBAL HOLIDAYS - CES should verify whether the proposed start date coincides
+with a holiday in the new hire’s location. It is the responsibility of the recruiter to check with the
+Hiring Manager to ensure that the new team member has a support/ onboarding buddy on the
+first day of onboarding.
+START DATE EXCEPTION EMAIL FOR URGENT HIRES - This email seeks a required explanation
+and business justification for the proposed changes in the start date. The People Connect team
+will review this on a case-by-case basis. Urgent hires refer to situations where the HM requests an
+earlier start date than the previously agreed upon one, and the new start date does not adhere to
+the standard 10 working day SLA period for candidate onboarding. Important: an exception will
+not be made without a minimum of 5 working day notice to the People Connect team.
+Prominent reasons for urgent hires are Critical Skill Gap / New business opportunities, Equity
+vesting grant options and Unexpected departures or backfills. CES can access this email under
+the “Email the team” option in the candidates’ Greenhouse profile.
+CES Contract Processes
+Assuming that the hiring process went smoothly, now it is time to prepare the applicable
+contracts. Once the verbal offer is made, an issue will be created via the “email team” option in
+Greenhouse. The CES will send the contract to the applicant, using DocuSign in Greenhouse. On
+rare occasions, the CES may have to create the contract outside of Greenhouse using Google
+Docs; if this is the case, the CES needs to have a manager review the contract for accuracy before
+sending it out for signature.
+First, be sure to validate the following:
+The candidate has been moved to the “offer” stage before sending the contract. CES can
+adjust this, but it’s important to inform the Recruiter because this is a step that should
+be done when they are ready to make their verbal offer.
+The start date is not a no-start day, and is more than 10 days from your sent date.
+People Connect requires at least 5 days to process a new hire, but requests 10 days
+when possible. Recruiters need to be prepared for the time it takes for both parties to
+sign the contract as well as reject all remaining candidates and should prepare for this.
+The candidate lives in a country we are able to hire in. The SSOT for all country hiring is 
+here.
+The currency listed in the offer package in Greenhouse should normally be the local
+currency of the new team member unless approved by Total Rewards. This needs to be
+confirmed and approved by Total Rewards prior to making the offer, as any changes to
+the currency will require complete reapproval in Greenhouse, regardless if it is the same
+amount just in a different currency.
+Confirm through which entity the team member would be employed or contracted. If
+the title of the position includes “Public Sector” and they are located in the US, they may
+need a Federal contract. The Recruiter should confirm with the PBP if there’s any
+questions.
+If the candidate is located in Belgium the CES or Recruiter should be aware of two
+further things to address: i. there are strict language/translation requirements in
+Belgium so the CES or Recruiter should confirm which region of Belgium the candidate
+is located in and let legal know, to ensure the right contract, in the right language is
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+used, and so that a translation can be arranged if necessary; and ii. if the role is not
+Grade 9 or higher, the CES or Recruiter should send a link to the role and the job
+requisition to the legal team via the #legal Slack channel once the candidate is at offer
+stage (before anything is sent out!) to determine whether or not the role is a position of
+trust.
+The recruiter should select “Email the team” and send the “CES Start Contract Request”
+email to CES* to initiate the offer letter and background check processes after the verbal
+offer has been made.
+Entity Contract Signatories
+This chart reflects the available signatories for each of GitLab’s entities. They are listed in order of
+preferred signatory first. This chart should only be used for new hire contracts where GitLab has
+entities. This is not for internal moves such as contract renewals, job change letters, or 
+relocations.
+Entity Signatory
+GitLab Inc All Recruiting Leads (Jake Foster, Marissa Farris), Jess Dallmar, Rob Allen, Other
+People Group Team Members who are employed by Inc. and of the appropriate
+grade to sign the document. JCLs can be signed by Morgan Wilkins
+GitLab Federal LLC Bob Stevens
+GitLab BV Belgium,
+Dutch & English
+Marissa Farris, Jake Foster
+GitLab BV,
+Netherlands
+Marissa Farris, Jake Foster
+GitLab Canada Corp Simon Mundy, Rich Song
+GitLab France S.A.S. Jake Foster, Rob Allen
+GitLab GK, Japan Jess Dallmar, Rob Allen & Jack Connors Backup: Simon Mundy
+GitLab GmbH Marissa Farris, Rob Allen
+GitLab Iberia S.L
+(Spain)
+Jake Foster, Rob Allen. Backups: Jim Gladen & Simon Mundy
+GitLab Ireland LTD Marissa Farris, Rob Allen, Jake Foster, Jack Connors
+GitLab Israel LTD Jim Gladen, Simon Mundy
+GitLab IT BV Marissa Farris, Jake Foster, Jack Connors
+GitLab PTY Ltd,
+Australia
+Jess Dallmar & Rob Allen, Jack Connors. Backup: Jim Gladen
+GitLab PTY Ltd, New
+Zealand
+Jess Dallman & Rob Allen, Jack Connors. Backup: Jim Gladen
+GitLab South Korea Jess Dallmar, Jack Connors & Rob Allen
+GitLab Singapore
+PTE. LTD.
+Jess Dallmar, Jack Connors & Rob Allen. Backup: Simon Mundy
+GitLab UK Ltd Marissa Farris, Jake Foster, Rob Allen
+7.

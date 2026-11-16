@@ -1,0 +1,61 @@
+Field Marketing
+Session Name Presentation Video
+Account Based Strategy & Marketing for Customers slides (GitLab
+internal)
+video (GitLab
+internal)
+Field Marketing Goals for FY22 slides (GitLab
+internal)
+no video
+Building Pipeline with Your Partners - MDF and Marketing
+Campaigns
+slides (GitLab
+internal)
+video (GitLab
+internal)
+SKO 2021 Wrap Up
+SKO 2021 Wrap Up presentation (public)
+Last modified August 16, 2024: Replace aliases with redirects (af33af46)
+View page source
+ 
+ .
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/training/sko/2020/
+195. Sales Kickoff 2020
+Sales Kickoff 2020
+GitLab Sales Kickoff 2020
+Overview
+In February 2020, the entire sales organization and their supporting teams gathered in
+Vancouver, BC Canada for the inaugural GitLab Sales Kickoff with the theme of Level Up. This
+page includes slide decks, videos, and pictures from the event.
+SKO 2020 Day 1 Sessions
+Session Name Presentation Video
+Welcome & FY21 Overall GitLab Strategy & Vision slides (GitLab internal) video (GitLab internal)
+Product Strategy & Vision with Q&A slides (public) video (public)
+FY21 Sales & Marketing Strategy & Vision with Q&A slides (GitLab internal) video (GitLab internal)
+CRO Staff Level Up Panel Discussion no slides video (GitLab internal)
+Leveling Up with Partners at GitLab slides (GitLab internal) video (GitLab internal)
+Keys to Winning panel discussion slides (GitLab internal) video (GitLab internal)
+Sales Kickoff Awards Ceremony slides (GitLab internal) video (GitLab internal)
+SKO 2020 Day 2 Sessions
+Session Name Presentation Video
+Day 2 Welcome no slides video (GitLab
+internal)
+Articulating and Selling the GitLab Vision & Customer
+Journey
+slides (GitLab
+internal)
+video (GitLab
+internal)
+Getting Into Accounts That Say They Don’t Have a
+Problem
+slides (public) N/A (not recorded)
+Proactively Competing Against Microsoft slides (GitLab
+internal)
+video (GitLab
+internal)
+Customer Expectations and Storytelling slides (public) N/A (not recorded)
+Finding and Defining the Customer’s Problem slides (public) video (GitLab
+internal)
+One Lab, One Story: Leveling Up Our Demo Labs slides (public) N/A (not recorded)

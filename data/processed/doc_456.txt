@@ -1,0 +1,50 @@
+Last modified March 24, 2026: TMxG Handbook pages rebuild (8874d8f8)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/leaders/executive-
+sponsorship/
+184. Executive Sponsorship for TMxGs
+Executive Sponsorship for TMxGs
+How Executive Sponsors partner with TMxGs, and what leaders should expect and ask for.
+Every GitLab‑recognised TMxG has an Executive Sponsor – an E‑Group, Functional Leader, or VP
+who provides strategic support, advocacy, and visibility.
+This page summarises what Executive Sponsors do and how TMxG leads can work with them
+effectively. For the full sponsor onboarding materials and engagement process, see the internal
+Executive Sponsor resources and the TMxG Leaders Resource Hub.
+What an Executive Sponsor is (and isn’t)
+Executive Sponsors:
+Champion TMxG initiatives and surface successes/challenges to senior leadership.
+Provide strategic guidance on annual and quarterly plans.
+Help remove organisational barriers that limit impact.
+Provide visibility opportunities (for example, speaking at events, amplifying work in
+leadership forums).
+Commit to a minimum engagement cadence (typically 1–2 hours per quarter).
+Executive Sponsors are not:
+The DIB team – they don’t own day‑to‑day event logistics or budget approvals.
+Expected to design programming or run the group – that remains with TMxG leaders,
+supported by DIB.
+Sponsor commitments (summary)
+Executive Sponsor expectations include:
+Time commitment: ~1–2 hours per quarter.
+Engagement plan: Co‑create and maintain an Executive Sponsor Engagement Plan
+with your TMxG and DIB.
+Quarterly touchpoints: Participate in regular syncs (live or async) with TMxG leaders.
+Event engagement: Attend and, where appropriate, speak at key TMxG events.
+Advocacy: Use their influence to support TMxG goals, escalate issues, and secure
+visibility.
+The detailed role definition and two‑pager for sponsors is maintained internally and linked from
+the TMxG Leaders Resource Hub.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

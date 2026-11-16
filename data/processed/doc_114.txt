@@ -1,0 +1,133 @@
+stay close to the situation so you are in a position to deliver more timely feedback if the behavior
+is ongoing.
+How do I assess team members in acting or interim roles?
+For team members who have assumed an Acting or an Interim role, we will assess team
+members aligned with their permanent positions (i.e. not the Acting or Interim position).
+As the Talent Assessment impacts compensation, and Acting/Interim periods are not permanent,
+in the instance that a team member does not end up moving into the Acting/Interim role
+permanently, we would not want to have their compensation impacted by a temporary position.
+My team member is performing at a high level in terms of results, but they struggle with
+behavioral alignment to one or more of our values. How do I take the “how” into account
+when I am assessing their performance and growth?
+Review the handbook content on how we measure Performance and how we measure Growth
+Potential. When a high output/results-oriented team member is struggling with soft skills and/or
+behavior, this is oftentimes related to improvement areas in terms of alignment to our values
+competencies, and/or our Growth Potential pillars (particularly, but not limited to, Self-
+Awareness). Considering our measurement guidelines for Performance and Growth Potential
+holistically, and be sure that your assessment takes all of our competencies, job family
+responsibilities, and pillars into account.
+My team member has the skills to perform, but there are will-based performance issues
+that are impacting their ability or the team’s ability to succeed. How should I think about
+this in terms of assessing their performance?
+First, act early. Do not wait for a formal performance and growth potential assessment
+conversation to deliver feedback about your concerns. Be specific, and document your
+conversation. Loop in a TMR specialist for support as these conversations can be challenging.
+Review the definition of “Developing” performance. Note that one criteria that applies to this
+category is a team member who is struggling to perform in a way that is aligned to our values
+and competencies. Think about the specific behaviors or impacts of their work or how they are
+working that have led you to assess that they are not fully engaged. Despite having the skills, if
+your team member is not contributing at the level they are expected to be, you should consider
+that a performance issue in the way you would a skill based performance issue. Keep in mind that
+not addressing these challenges may be affecting your other team members, especially those
+who may be picking up the slack. We encourage to review the handbook page on 
+Underperformance.
+Mid-Year Check In
+Great managers share feedback with team members year-round in 1:1 meetings and ad-hoc. A
+dedicated Mid-Year check-in is a useful tool to support a holistic discussion between team
+member and manager about how things are going as we approach the second half of the fiscal
+year. During the Mid-Year check in, we assess how things are going from both the team member
+and managers’ points of view, and share feedback to help inform performance and development
+plans. Leaning into where things are going well, as well as uncovering blind spots or
+improvement areas early are the keys to delivering great results. A Mid-Year check in
+complements weekly, on-going feedback, so we recommend documenting your discussion in
+your 1:1 doc to support frequent updates on action items and development goals.
+
+Goals of the Mid-Year check in are:
+To provide a dedicated space for questions/clarification about performance and growth
+opportunities at GitLab
+Team members share a cumulative self assessment of their performance against
+expectations and progress on development goals
+Managers respond, and provide their own cumulative update to the team member on
+how things are going. This should build on the regular performance feedback they
+should be delivering weekly in 1:1s and ensure no surprises at the end of the year
+review.
+Eligibility
+To participate in the mid-year check in we recommend that team members have at least 3
+months of tenure so accomplishments and improvement areas are able to be clearly outlined
+with examples.
+Process
+Recommended process for our Mid Year check-in will be as follows:
+Team Member Led: Team member provides a self-assessment on their own performance in
+their 1:1 document
+A Google docs template is available to guide the self-assessment process. Team members are
+encouraged to author a document based on this template, share it with their manager and link it
+to the top of their 1:1 document. Team members should reflect on their achievements, strengths,
+and opportunity areas since the last formal Talent Assessment in Q4. It is the team member’s
+responsibility to provide the self-assessment and bring it to the conversation with their manager
+to discuss and align on. Linking the document to the 1:1 agenda ensures the self-assessment is
+available to come back to throughout the rest of the year.
+The template contains an agenda for the Mid-Year check-in as follows:
+Achievements
+List your 3 most significant achievements since the last formal Talent Assessment,
+aligned with the job responsibilities and expectations of the role. This can include
+significant impact to the department or company, customer-impact, community-
+impacting, etc. Feedback can also be included in this section if applicable.
+* Strengths & Opportunities in Role
+In this area the goal is to determine 2-3 strengths and 2-3 opportunity areas in
+accordance with your role, job family, and job framework. Include examples when
+necessary to provide clarity or context. Ensure there are actionable takeaways.
+* Support Needed
+A place to outline any support needed from your manager for your ongoing success and
+development at GitLab.
+* Manager Feedback
+Managers will provide additional feedback or response to the self-assessment outlined
+above. Managers should be sure to reference the Achievements (3) and Roles &
+Responsibilities (Strengths and Opportunities) outlined by the team member above, and
+• 
+• 
+• 
+1. 
+•
+
+to any additional thoughts or feedback (2-3 points).
+* Next Steps
+A space for the team member and manager to document any relevant next steps
+stemming from this conversation. This could be a full Individual Growth Plan or a couple
+of key actions or development opportunities for the individual.
+2. Manager Feedback: Team members let their manager know when they have provided their
+self-assessment overview in their 1:1 document
+Team members should share their Mid-Year Check In document with their manager at least one
+week prior to the live discussion to ensure managers have time to review the content, and to add
+in their own feedback in the Manager Feedback section.
+3. Live Discussion
+Team members and managers use a dedicated 1:1 to discuss the Mid Year check in.
+4. Align on actions/next steps
+Team member and manager align on action items stemming from the conversation to best
+support team member development and alignment to their goals. You are encourage to leverage
+our Career Development and Mobility) handbook page for ideas and inspiration.
+Timeline
+Mid-Year Check-In Timeline (FY2027): (to be updated)
+Succession Planning
+Succession planning is an important step in our Talent Assessment process. Completing the 
+Performance/Growth Potential Assessment gives leaders a fresh overview of the top performers
+and the highest growth team members in their respective organizations. Particularly for
+individuals in Senior Leadership roles and above (the Senior Directors and VPs and E-Group), a
+recommended next step following the Performance/Growth Potential assessment is to do
+succession planning.
+Succession planning ensures we are identifying and developing future GitLab leaders to ensure
+business continuity in the event of an unforeseen change, and providing the current leadership
+team the opportunity to grow and scale. It may provide an opportunity to diversify our leadership
+team by developing our internal bench of talent. Note, potential alone does not determine who
+will be a successor. Strong succession candidates should demonstrate sustained exceeding
+performance and growth, aspire to have a role at the next level, and be ready for a much larger
+role in the near term.
+Questions we should ask ourselves when thinking about succession planning (and the
+individual(s) identified) are:
+What are our current and upcoming business goals?
+Does the successor candidate have a track record of delivering strategic results, working
+in alignment with our values, and demonstrating high growth potential?
+Does our successor candidate have skill gaps that must close before they are ready to
+deliver on the business goals identified?
+1. 
+2. 
+3.

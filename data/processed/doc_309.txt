@@ -1,0 +1,123 @@
+Charts in videos should utilize patterns and textures ( such as lines, dots, or crosshatching)
+instead of relying solely on color. Here, as an example, is a chart that uses patterns and textures:
+This helps viewers distinguish different segments or lines in a chart, even if they cannot
+differentiate the colors. During the video, consider highlighting or enlarging specific areas of the
+chart when discussing them to focus attention and help all viewers, particularly those who might
+struggle with smaller, detailed graphics. Provide a verbal description of the key elements of the
+chart as they appear in the video. This description should accompany the visual display,
+explaining what is being shown, including any patterns or textures used.
+Considerations
+A text alternative should always be provided for audio and video media.
+Do not autoplay video or audio content. Doing so can be confusing if a screen reader is
+also making announcements.
+Captions and transcripts should accurately reflect the original content.
+Use tools like the WebAIM Contrast Checker to ensure sufficient contrasting colors for
+text and graphics in video.
+When using charts, use patterns and labels along with colors to convey information.
+Avoid flashing content, which is content that flashes or blinks rapidly.
+Guidelines
+The following success criteria from WCAG 2.2 apply to images:
+1.1.1 Non-text Content (Level A): All non-text content that is presented to the user has a 
+text alternative that serves the equivalent purpose, unless otherwise noted in the
+criterion.
+1.2.1 Audio-only and Video-only (Prerecorded) (Level A): All non-text content): For 
+prerecorded audio-only and prerecorded video-only media, an alternative for time-
+based media is provided that presents equivalent information for prerecorded audio-
+only content and/or an alternative for time-based media or an audio track is provided
+that presents equivalent information for prerecorded video-only content.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+1.2.2 Captions (Prerecorded) (Level A): Captions are provided for all prerecorded audio
+content in synchronized media, except when the media is a media alternative for text
+and is clearly labeled as such.
+1.2.3 Audio Description or Media Alternative (Prerecorded) (Level A): An alternative for
+time-based media or audio description of the prerecorded video content is provided for 
+synchronized media, except when the media is a media alternative for text and is clearly
+labeled as such.
+1.2.5 Audio Description (Prerecorded) (Level AA): Audio description is provided for all 
+prerecorded video content in synchronized media.
+1.4.2 Audio Control (Level A): If any audio on a Web page plays automatically for more
+than 3 seconds, either a mechanism is available to pause or stop the audio, or a
+mechanism is available to control audio volume independently from the overall system
+volume level.
+2.2.2 Pause, Stop, Hide (Level A): There is a mechanism for the user to pause, hide, or
+stop blinking, scrolling, or continuously updating activity, under the right circumstances.
+2.3.1 Three Flashes or Below Threshold (Level A): Web pages do not contain anything
+that flashes more than three times in any one second period, or the flash is below the 
+general flash and red flash thresholds.
+Interactive content
+If content is interactive (separately from the learning management system controls), ensure that
+all actions and content can be accomplished using a keyboard alone. Examples might include
+elements that flip to reveal information or that open embedded windows with more content.
+Many assistive technologies emulate keyboard behavior, so ensuring that all interactions can be
+done with a keyboard is critical for a wide variety of users who take advantage of a wide variety of
+input methods.
+Considerations
+All content and interaction should be able to be done with only a keyboard.
+There should be no keyboard traps that a user can’t get out of, which happens when a
+keyboard user can’t move focus away from an interactive element.
+Focus order (the order that a keyboard traverses interactive elements) should match
+visible reading order.
+When an element has focus, there must be a visible focus indicator, which is a visual
+marker that shows which interactive element on a web page is currently focused and
+ready for user input.
+Elements that can receive focus can’t be obscured by other elements.
+Guidelines
+1.4.13 Content on Hover or Focus (Level AA): Where receiving and then removing pointer
+hover or keyboard focus triggers additional content to become visible and then hidden,
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+the additional content remains visible until the additional content is dismissed or the
+pointer is moved.
+2.2.1 Keyboard (Level A): All functionality of the content is operable through a keyboard
+interface without requiring specific timings for individual keystrokes, except where the
+underlying function requires input that depends on the path of the user’s movement
+and not just the endpoints.
+2.1.2 No Keyboard Trap (Level A): If keyboard focus can be moved to a component of the
+page using a keyboard interface, then focus can be moved away from that component
+using only a keyboard interface, and, if it requires more than unmodified arrow or tab
+keys or other standard exit methods, the user is advised of the method for moving focus
+away.
+2.4.7 Focus Visible (Level AA): Any keyboard operable user interface has a mode of
+operation where the keyboard focus indicator is visible.
+2.4.11 Focus Not Obscured (Minimum) (Level AA): When a user interface component
+receives keyboard focus, the component is not entirely hidden due to author-created
+content.
+Summary
+Web accessibility is becoming increasingly important as more and more business, learning, and
+communication takes place online. Accessibility is especially important for GitLab and its mission,
+as universal access to information (especially learning content) helps ensure that everyone can
+contribute. When we start by considering accessibility, we are also more likely to deliver a more
+inclusive and engaging experience for all users.
+By doing a bit of learning ourselves, we hope that GitLab and its team members will be better
+prepared to consider the various ways that people consume the information we provide, and
+whether or not we’re creating the best experience possible. In addition to these guidelines, which
+should be used by team members to create more accessible learning experiences, we also
+encourage team members to explore the links provided throughout this document in order to
+better understand and comply with the underlying WCAG guidelines.
+Last modified August 11, 2025: Update 4 files - Updating broken links (9c6f650f)
+View page source
+ 
+ .
+• 
+• 
+• 
+•

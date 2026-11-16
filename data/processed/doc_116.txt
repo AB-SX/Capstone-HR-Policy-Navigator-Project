@@ -1,0 +1,115 @@
+NOT Key Talent
+A Principal Engineer who is the only expert in a critical system but performs at
+“Performing” level with no demonstrated growth potential (This may signal a ‘single
+point of failure’ issue requiring succession planning, not Key Talent)
+An Account Executive with deep, hard-to-replace customer relationships but performs at
+“Performing” level with no interest in increased scope (retention issue, not Key Talent)
+A Manager with 10+ years and institutional knowledge but performs at “Performing”
+level and is content with current scope (retention strategy needed, not Key Talent)
+Note: “Exceeding” performance alone doesn’t automatically qualify someone as Key Talent. They
+must also demonstrate ability and desire for broader responsibilities, outsized business impact,
+and significant impact on critical functional areas.
+Single Point of Failure
+A Single Point of Failure (SPOF) is any person whose failure or absence would cause significant
+operational disruption, prevent critical work completion, or result in substantial knowledge loss
+that cannot be readily covered by others.
+CRITICAL DISTINCTION: Being a SPOF does NOT automatically make someone Key Talent. Key
+Talent requires surpassing performance expectations AND readiness for greater scope, not only
+possessing unique knowledge, relationships, or capabilities critical to operations.
+Process to Determine Key Talent
+Direct managers make initial Key Talent recommendations in Workday during talent
+assessment (also indicating Performance and Growth Potential assessment and SPOF
+status)
+Leaders discuss and calibrate recommendations during divisional calibration sessions
+E-Group member provides final approval at the divisional level
+Organizational Value
+A team member’s organizational value should not be determined solely by Key Talent
+designation. While Key Talent represents ~10% of our workforce, approximately 60-65% are core
+performers (“Performing”) who keep things consistently moving forward. This group is essential
+to organizational success.
+Impact of Being Identified as Key Talent
+We use several engagement tools to retain Key Talent:
+Learning & Development: Support Key Talent growth by providing tools and
+opportunities for personal and professional development.
+Growth Opportunities: Discuss motivation and ambitions with Key Talent.
+Opportunities include expanding scope within current role, lateral moves, or
+promotions.
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+•
+
+Compensation: Our market-based approach differentiates pay based on performance
+through Annual Compensation Review Cycle and Annual Equity Refresh programs.
+Succession Planning: Identify successors for Key Talent roles to mitigate organizational
+risk.
+Note: Key Talent designation in one year does not guarantee designation in subsequent
+years.
+Individual Growth Plans (IGPs)
+Key Talent Engagement Discussions can be a great starting point to start thinking through
+Individual Growth Plans, which is the recommended next step. Some ideas for our Key Talent
+population to consider when thinking through Individual Growth Plans (IGPs) include:
+Stretch project (Cross functional, and an opportunity to be DRI)
+Mentor (leader to help identify internal or external mentor)
+Coach or Coaching program (e.g. Coaching Right Now
+Management development (if applicable)
+Cross-functional/leadership exposure plan
+Cross learning plan with other roles within their division
+Key Talent Engagement Discussions can be done at any point during the year, it is not necessary
+that they are coupled with our Mid year check-in process.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-group/employment-branding/
+042. Talent brand
+Talent brand
+Our ambitions as an employer, the steps we take to achieve and communicate those ambitions,
+and the measures in place to ensure we live up to them.
+Introduction
+At GitLab, our mission is simple: to enable everyone to contribute to and co-create the software
+that powers our world. Our platform doesn’t just bring people together—it unites teams and
+organizations, breaking down barriers and redefining what’s possible in software development.
+As GitLab grows, our Talent Brand team ensures our external reputation as an employer aligns
+with our internal culture giving candidates a transparent view into what it’s like to be a part of our
+team.
+We partner across the organization to define our employer value proposition, build strong talent
+pipelines, and support Talent Acquisition in attracting values-aligned candidates.
+Through strategic branding and storytelling, we position GitLab as the place to grow, innovate,
+and co-create the future.
+Defining our talent brand vision
+At GitLab, we empower people to co-create the future; of software, innovation, and their own
+careers. Our platform unites teams, breaking down barriers to redefine what’s possible in
+DevSecOps.
+Here, you’re not just contributing to a tool, you’re shaping the future of secure, scalable software
+delivery. Our high-performance culture values collaboration, ownership, and impact, accelerating
+careers while driving global innovation.
+This is more than a job, it’s your opportunity to build something that matters.
+There are three pillars to achieving this vision:
+Candidate Education to Support Conversion: Empowering candidates with clear insights
+into our culture, values, and opportunities improves engagement and conversion—
+accelerating time-to-hire and strengthening our employer brand.
+Evolved Brand Messaging: We’re moving from a remote-first story to a bold, impact-
+driven vision—Co-Create the Future—to attract talent aligned with our culture of
+innovation, collaboration, and global flexibility.
+Elevated Candidate Journey: We create a seamless, authentic experience that mirrors life
+at GitLab—building trust, strengthening engagement, and helping candidates see
+themselves in our culture from the very first touchpoint.
+To achieve our vision, we need to ensure that we’re building a workplace that fits this description
+by implementing these three strategic pillars in our strategy.
+1. 
+2. 
+3.

@@ -1,0 +1,71 @@
+comfortable and have capacity - from meeting attendance to leading initiatives and anywhere in
+between!
+Contribute to a TMRG key initiative
+We use our GitLab issue board to coordinate and prioritize projects on a quarterly basis.
+Contribute to the issue board by:
+Open a new issue to propose an idea or project.
+Assign yourself or the TMRG leads to the issue.
+@mention the TMRG leads in an issue comment.
+Comment on an open issue, with priority 1 or priority 2 labels with questions, input, or
+feedback.
+Contribute to an open issue that is assigned a ~"Black@::Priority::1" or 
+~"Black@::Priority::2" label.
+Events
+Note: We’re currently planning recurring events for the upcoming year. Watch this space for
+more info.
+Past events
+Review past events in the Black@GitLab TMRG issue tracker or watch asynchronously through the 
+Black@GitLab - Knowledge Sharing Sessions playlist on GitLab Unfiltered.
+Black@GitLab Marketing Design
+Zoom Backgrounds
+Black@GitLab stickers/banners/logo
+Last modified April 30, 2026: Remove team shortcode and replace urls (02172f8f)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+4. 
+5. 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/erg-gitlab-diversability/
+176. TMRG - GitLab Disability & Neurodivergence
+TMRG - GitLab Disability & Neurodivergence
+Helpful resources, support, and activities for differently abled team members or who are caring
+for a differently abled loved one.
+Mission
+The GitLab Disability & Neurodivergence TMRG is a resource group to aid team members through
+their lived experiences at GitLab. Whether these experiences are seen or unseen, present
+themselves as a physical or a mental diversity, or directly impact you or a loved one, our goal is to
+intentionally build inclusive practices throughout the company as well as to act as a support
+system to team members who may want to be in a community with others who share similar
+experiences.
+The Disability & Neurodivergence TMRG advocates for every team member for physical
+conditions related to sight, sound, and/or mobility or for mental health concerns like ADHD,
+anxiety, depression and so much more. These are just a few examples of the lived experiences
+our team members could have at GitLab that can be better positioned with consideration and
+inclusion as part of the hiring, onboarding, and day-to-day processes as well as before, during,
+and after a project, a meeting, a conference, or even when we have big company-wide changes.
+How we accomplish our mission
+First, we work with teams to intentionally consider how changes and experiences could impact
+team members, helping to ensure team members receive the support and tools necessary to be
+successful, whatever that may be. This helps to reduce the volume of “reactive” updates that need
+to be made. Think of our team experience at Contribute. We’ll be planning ahead of our time
+together to make sure we’re considering our lived experiences and that our onsite time at
+Contribute is as inclusive as possible.
+Also, we act as a support group. Whether it’s async in Slack or live during a meeting or panel
+conversation, we’ll present members of our community, both from inside and outside of GitLab,
+to transparently discuss their experiences. Not just how they cope, but how they thrive.
+Leads
+Dominique Top
+Chris Williams
+Jess Perry
+Executive Sponsor
+Rob Allen - VP of People
+• 
+• 
+• 
+•

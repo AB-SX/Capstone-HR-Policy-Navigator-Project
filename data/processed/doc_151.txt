@@ -1,0 +1,153 @@
+Additionally, some of our third-party products and services may have separate privacy policies
+that apply to their use. Any personal data collected in connection with your use of those websites
+or products and services are not subject to this Privacy Policy. If you are unsure how or if this
+Privacy Policy applies to you, please contact our Privacy Team at dpo@gitlab.com.
+Third-Party Services
+In some cases, you may provide personal data to third-parties that GitLab works with or that
+provide services to GitLab. This includes those parties or systems identified in the Tech Stack
+Applications.
+The Tech Stack is updated periodically to ensure accurate, up-to-date disclosures of Team
+Member and customer third-party applications used at GitLab. This particular Privacy Policy
+applies to those applications identified as relating to Team Member applications, provided such
+applications are not provided by entities legally designated as independent Controllers of your
+data (e.g., Modern Health).
+The use of some third-party websites and applications may be governed by separate terms of use
+and privacy policies which are not under our control and are not subject to this Privacy Policy.
+Please contact such third-parties for questions regarding their privacy practices, as well as if you
+would like to have them correct, delete, port, or provide access to your personal data. Please
+understand that there are exceptions to rights surrounding personal data relating to
+employment. For example, third-parties may be required to maintain certain employment
+information by law (e.g., E-Trade).
+What is Personal Data?
+Personal data for the purposes of this Privacy Policy means any information that (i) directly and
+clearly identifies an individual; or (ii) can be used in combination with other information to
+indirectly identify an individual. Personal data that has been made anonymous or aggregated,
+meaning it has been rendered irreversibly de-identified by removing personal identifiers, legally
+ceases to be personal data and is no longer subject to this Privacy Policy.
+Examples of personal data include:
+An individual’s name
+Employee ID number
+Home address
+Home phone number
+Personal email address
+Names of family members
+Date of birth
+What is Sensitive Personal Data?
+Sensitive personal data is a statutorily defined subset of personal data that may be more
+sensitive in nature for the individual concerned.
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Examples of sensitive personal data include:
+Race and ethnicity
+Sexual orientation or sex life
+Political or religious beliefs
+Health or medical information
+Criminal records
+Genetic and biometric information
+What Personal Data and Sensitive Personal Data Do We Collect?
+GitLab, either directly or through our service providers, will collect and maintain the following
+categories of personal data about you in accordance with applicable law:
+Contact information, such as name, email, phone number, physical address,
+emergency contact information, and social media handles.
+Personal identifiers, such as photograph, gender, date of birth, residency, gender,
+gender identity, employee number, passport information, visa information, driver’s
+license, veteran status, and identification cards.
+In addition, we may collect (where allowed by local law) Personal Identifiers that are
+considered sensitive personal data, such as race, ethnicity, sexual orientation, and
+disability status.
+Household data, such as emergency contact information, marital status, family
+member and dependent names, and family member and dependent contact
+information.
+Systems administration data, such as usernames, passwords, login and authentication
+records, device location, network activity data, IP address, application usage data,
+browser and operating systems data, browsing history (where allowed by local law),
+download history, and related metadata.
+Communications data, such as emails, meeting agendas, voicemails, video conference
+recordings, calendar events, work schedules, access requests, and other
+communications created, stored or transmitted for professional or job-related purposes
+using our networks, applications, devices, or communications equipment.
+Operational data, such as survey responses, engagement metrics, accommodation
+requests, headcount, and turnover metrics.
+Employment qualifications, such as employment history, employment agreements, job
+titles, resumes, language capabilities, professional certifications, job applications,
+interview notes, references, background checks, training records, identity verification,
+work permits, and government identification numbers.
+Performance and Team Member relations data, such as performance reviews,
+performance metrics, project contributions, improvement plans, promotion documents,
+claims documentation, growth plans, meeting minutes, grievances, investigation
+records, disciplinary records, and other personnel records.
+Payroll and benefits data, such as salary, bonuses, stock plan compensation,
+compensation benchmarking, bank details, sick or family leave, paid time off, retirement
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+plans, insurance policies, benefits enrollment, benefits selections, beneficiary selections,
+and taxpayer information.
+Regulatory compliance data, such as policy acknowledgements, insider status,
+mandatory training records, equal opportunity metrics, and other information required
+for us to comply with laws.
+Workplace safety data, such as criminal records (where allowed by local law), requests
+for assistance, phishing or malware investigations, and other security related claims.
+How is Your Data Collected?
+Primarily, we collect personal data directly from you in the ordinary course of your employment,
+such as during the onboarding process. For Team Members in jurisdictions subject to the General
+Data Protection Regulation (“GDPR”), we are required to collect certain personal data from you to
+fulfill your employment contract or to comply with local regulations, such as personal data
+related to tax reporting and withholding obligations, social security and benefits administration,
+employment eligibility verification, and health and safety compliance requirements. If we do not
+collect this personal data, we may be unable to comply with local regulations or your
+employment agreement, resulting in limited access to IT systems, the inability to participate in
+company programs or career development opportunities, delayed salary or benefits
+administration, and a reduced ability to provide workplace accommodations or support. In some
+cases, our inability to collect required categories of personal data may result in termination of the
+employment relationship.
+In certain circumstances, we may collect personal data from you indirectly, including through
+third-parties. When we collect your personal data from third-parties, we do so on the basis of
+your consent where required under applicable law. In addition, we may also collect your personal
+data from third-parties when you voluntarily submit your personal data to a third-party Team
+Member service made available to you by us, or where such collection of this personal data is
+required by applicable law or regulatory requirements.
+The following table outlines the categories of personal data we may obtain from third-parties:
+Category of Personal
+Data
+Third-Party Source
+Systems administration
+data
+• Corporate Security and IT administrators • Application providers
+Communications data • Your Managers • Team Members • Customers • Application providers •
+Corporate Security and IT administrators
+Employment
+qualifications
+• Previous employers • Educational institutions • Professional references and
+referrals • Application providers • Credit reporting agencies • Government
+agencies
+Performance and Team
+Member relations data
+• Your Managers • Team Members • Customers • Application providers •
+Corporate Security and IT administrators • Sales reports • Previous
+employers • Educational institutions • Professional references and referrals
+Payroll and benefits data • Family members or beneficiary designees • Government agencies •
+Application providers
+Workplace safety data
+• 
+•

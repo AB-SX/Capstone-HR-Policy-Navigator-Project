@@ -1,0 +1,119 @@
+Source: https://handbook.gitlab.com/handbook/people-policies/inc-usa/
+046. People Policies - GitLab Inc (USA)
+People Policies - GitLab Inc (USA)
+GitLab’s USA-specific People Policies list the mandatory US people-related policies for our US-
+based team members.
+All policies on this page apply to US-based team members who are employed by GitLab Inc. or
+GitLab Federal LLC. If a policy specifically states that it applies to federal contractors, it applies
+only to team members who are employed by GitLab Federal LLC.
+Equal Employment Opportunity Policy
+GitLab, Inc. is an equal opportunity employer. In accordance with anti-discrimination laws, it is the
+purpose of this policy to effectuate these principles and mandates. GitLab prohibits
+discrimination and harassment of any type and affords equal employment opportunities to team
+members and applicants without regard to race, color, religion, sex, sexual orientation, gender
+identity or expression, marital status, pregnancy, age, national origin, disability status, genetic
+information, protected veteran status, or any other characteristic protected by law. GitLab
+conforms to the spirit as well as to the letter of all applicable laws and regulations.
+Scope
+The policy of equal employment opportunity (EEO) and anti-discrimination applies to all aspects
+of the relationship between GitLab and its team members, including: Recruitment, Employment,
+Promotion, Transfer, Training, Working conditions, Wages and salary administration, and Team
+member benefits and application of policies.
+The policies and principles of EEO also apply to the selection and treatment of independent
+contractors, personnel working on our premises who are employed by temporary agencies and
+any other persons or firms doing business for or with GitLab.
+Dissemination and Implementation of Policy
+The officers of GitLab, Inc. will be responsible for the dissemination of this policy. Directors,
+managers and supervisors are responsible for implementing equal employment practices within
+each department. The People Group is responsible for overall compliance and will maintain
+personnel records in compliance with applicable laws and regulations.
+Procedures
+GitLab administers our EEO policy fairly and consistently by:
+Posting all required notices regarding employee rights under EEO laws in areas highly
+visible to team members.
+Advertising for job openings with the statement “We are an equal opportunity employer
+and all qualified applicants will receive consideration for employment without regard to
+• 
+•
+
+race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy,
+age, national origin, disability status, genetic information, protected veteran status, or
+any other characteristic protected by law.”
+Posting all required job openings with the appropriate state agencies.
+Forbidding retaliation against any individual who files a charge of discrimination,
+opposes a practice believed to be unlawful discrimination, reports harassment, or
+assists, testifies or participates in an EEO agency proceeding.
+Requiring team members to report to a member of management, an HR representative
+or the Director of Legal - Employment any apparent discrimination or harassment. The
+report should be made within 48 hours of the incident.
+Promptly notifying the Senior Director of Legal - Employment of all incidents or reports
+of discrimination or harassment and takes other appropriate measures to resolve the
+situation.
+Remedies
+Violations of this policy, regardless of whether an actual law has been violated, will not be
+tolerated. GitLab will promptly, thoroughly and fairly investigate every issue that is brought to its
+attention in this area and will take disciplinary action, when appropriate, up to and including
+termination of employment.
+Harassment
+Please refer to the GitLab Anti-Harassment Policy for more information.
+Individuals with Disabilities Policy
+GitLab Inc. (“The Company”) complies with the Americans with Disabilities Act (ADA) and all
+applicable state laws, which make it unlawful to discriminate in employment against a qualified
+individual with a disability. The Company prohibits discrimination against team members and
+applicants with disabilities in all aspects of employment. Our company’s commitment to this
+policy includes making reasonable accommodations to otherwise qualified persons with
+disabilities to enable them to perform the essential functions of their jobs, unless doing so would
+pose an undue hardship on our business, would pose a direct threat of substantial harm to the
+team member or others or is otherwise not required by applicable law.
+Our Commitment
+A team member or applicant in need of a reasonable accommodation should make the Company
+aware of their request by notifying the Team Member Relations (TMR) via a ticket in Compass;
+applicants should communicate their need to Talent Aquisition. The Company will work with each
+individual to define their job-related or application-related needs and to try to accommodate
+those needs.
+• 
+• 
+• 
+•
+
+Roles and Responsibilities
+Applicant: May request reasonable accommodations to assist them in the application process or
+to enable performance of the essential functions of the position for which they are applying and
+are otherwise qualified to perform.
+Team Member: Must let the manager and Team Member Relations Team know that they need an
+accommodation or adjustment at work due to a medical condition, in order to perform their job.
+Manager: The manager will act as the SME (subject matter expert) as it relates to the essential
+functions of the team member’s job, order any equipment needed as it relates to the
+accommodation, ensure the team member is trained properly on any equipment and it is
+regularly serviced (if applicable), and follow up with the Team Member Relations Team if the
+accommodations are not helping the team member perform their job or their performance is not
+meeting expectations.
+People Business Partner (PBP): Partner with the Manager to evaluate the essential functions of
+a team member’s job, and possible accommodations.
+Team Member Relations Team (TMR): Will serve as a liaison between manager, team member/
+candidate, and the team member’s or candidate’s physician and will provide input to the team
+member’s or candidate’s request for a medical restriction and/or accommodation as it relates to
+the job requirements and working conditions, when appropriate. The TMR team will verify and/or
+clarify the team member’s claim of a medical and/or medical restriction, when necessary, once an
+accommodation is requested. They will also monitor the need for the restriction beyond the
+expiration date of the restriction.
+Talent Acquisition: In situations where a team member cannot perform their original role with/
+without reasonable accommodation, TA will assist the Team Member Relations team in
+identifying whether open roles exist for which the team member is qualified that could serve as a
+reasonable accommodation. They will also ensure accommodations are made available for the
+application process.
+Qualified Individuals with Disabilities
+Qualified individuals with disabilities are defined as individuals with disabilities who can perform
+the essential functions of the job in question with or without reasonable accommodation. Per the
+Americans with Disabilities Act (ADA), a disability means, with respect to an individual: a physical
+or mental impairment that substantially limits one or more of the major life activities of such
+individual; a record of such an impairment; or being regarded as having such an impairment as
+described in Section 36.105, paragraph (f) of the ADA. So to clarify, you may have been or
+currently be diagnosed by a disability as per the ADA and not feel that it substantially limits your
+life activities and still self-identify as having a disability status.
+And not all disabilities are obvious to the eye. These are known as invisible disabilities. An
+invisible disability is a physical, mental, or neurological condition that can’t be seen from the
+outside. But it can impact someone’s movements, senses, or activities, according to the Invisible
+Disabilities Association. Some examples of invisible disabilities include autism spectrum disorder,
+depression, diabetes, and learning and thinking differences such as ADHD and dyslexia. Invisible
+disabilities can also include symptoms such as chronic pain, fatigue, and dizziness.

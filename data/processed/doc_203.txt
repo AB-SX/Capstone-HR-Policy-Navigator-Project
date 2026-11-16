@@ -1,0 +1,131 @@
+Date Holiday Replacement Day
+Wednesday, November 11th Armistice
+Friday, December 25th Christmas
+* GitLab is providing you with flexibility to choose when you’d like to take these replacement days
+throughout 2026.
+Sick Leave
+30 days full salary continuation, runs concurrently with GitLab’s global Sick Time policy.
+Sick Leave Details
+30 days full salary continuation (regardless of seniority)
+Runs concurrently with GitLab’s global Sick Time policy
+Designate as “Out Sick” in Workday
+Consecutive illnesses within 14 days count as one period unless medical certificate
+proves new illness
+Parental Leave
+Maternity Leave Details
+Maternity Leave
+15 weeks total (6 prenatal, 9 postnatal)
+For team members with 6+ months tenure: 100% salary for up to 16 weeks
+Runs concurrently with GitLab Parental Leave
+Request via Workday 3 months before start date
+Paternity/Co-Parent Leave Details
+Paternity/Co-Parent Leave
+20 days leave (15 days for births before January 1, 2023)
+Use within 4 months of birth
+100% salary for up to 16 weeks (minus statutory entitlements)
+Runs concurrently with GitLab’s 16-week Parental Leave policy
+GitLab tops up mutual insurance fund payments to 100% salary
+Vacation Leave
+20 statutory vacation days annually, runs concurrently with GitLab PTO.
+Vacation Leave Details
+20 statutory days, front-loaded annually for full-time team members and does not carry
+over to the next calendar year
+Vacation certificate provided for job transitions
+Runs concurrently with GitLab PTO
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Circumstantial Leave (Klein Verlet)
+Paid leave for personal matters per klein verlet regulations.
+How to Request Circumstantial Leave
+How to Request
+Navigate to “Request Absence” in Workday
+Select “Belgium Circumstantial” under Leaves
+Choose appropriate reason and submit
+Government Benefits Integration
+Belgian employees receive comprehensive state benefits. GitLab’s benefits supplement these
+protections.
+Government Benefits Details
+Belgian employees receive state benefits including sickness, medical, disability, pension, and
+unemployment coverage. GitLab’s benefits supplement these protections.
+Current Approach
+No additional pension benefits planned due to comprehensive government coverage
+Ongoing review of life insurance options based on budgetary availability
+Important Notes
+GitLab maintains a global flexible paid time off policy applicable worldwide. Local statutory
+requirements ensure compliance while maintaining our comprehensive global approach.
+People Operations consults with Vistra to ensure statutory compliance.
+Can’t find what you’re looking for? Try the main People Operations page.
+Questions? Contact total-rewards@gitlab.com
+GitLab retains the right to replace the provider or policy at any time and is not required to offer this
+benefit to those that may be ineligible. Any benefits provided under the plan do not impact the Team
+Member’s or GitLab’s rights to end the employment relationship.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+1. 
+2. 
+3. 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/people-policies/leave-of-absence/us/
+074. United States Leave of Absence Policies
+United States Leave of Absence Policies
+GitLab’s United States Leave of Absence policies.
+These GitLab and US-specific leave policies are intended to provide team members time away
+from work to care for themselves as they recover from a serious health condition, care for a
+family member recovering from a serious health condition, or to bond with a newborn or a newly
+placed child for adoption.
+This page is designed to educate our team members about the different US-specific leave types
+available, how a team member can expect to be paid, and if their job is protected. These leave
+programs are coordinated and run concurrently with the Family Medical Leave Act or (FMLA), and
+other State leave programs team members are eligible for.
+How to Request Leave (Effective 2026-02-02)
+All US leave requests are administered through Tilt, our Third Party Administrator. Tilt provides
+comprehensive leave management support, streamlining processes, answering questions, and
+facilitating communication throughout your leave journey.
+To request leave or get support:
+Access Tilt through your Okta account
+Contact Tilt directly at LeaveSupport@ourtilt.com, through the contact form, or text via
+(970) 449-0178. Team members can also reach out to the Tilt team to schedule a call and
+a Leave Specialist will send a scheduling link to set up time to chat live
+Explore resources, practical checklists, and step-by-step guides available 24/7 on the Tilt
+platform
+Taking time away can be confusing, so Tilt’s leave specialists are here and available to help
+before, during, or after your leave. If you have any questions related to your time away after
+reviewing this page, please contact Tilt directly.
+Which leave is right for me?
+Below are the GitLab and US-specific leave policies available to US team members, as well as
+common examples of how each leave may be used. This list may not be all inclusive, so if you
+have questions regarding which leave may be right for you please contact Tilt.
+Leave
+Program
+Description Eligibility
+Parental
+Leave
+I am expecting a child My partner is expecting a child My
+family is adopting a child
+All team members as long
+as their child was born or
+newly adopted during their
+employment at GitLab
+• 
+• 
+•

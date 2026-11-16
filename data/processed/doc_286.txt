@@ -1,0 +1,18 @@
+Sign in to Okta when prompted. Use the password you created during Okta account
+activation.
+On the Verify it’s you with a security method screen, select either Get a push
+notification (Okta Verify) or Security Key or Biometric Authenticator (for example, a
+7. 
+8.
+
+YubiKey), then complete the verification.
+The Mac enrolls in MDM and installs required settings. When that finishes, setup moves
+on to account creation.
+Set up your computer account. Your full name and username are automatically prefilled.
+Create a password for your local Mac account that meets the GitLab Password
+9. 
+10.
+
+Standards. You can use the same password as your Okta password.
+Choose your look: Light, Dark, or Auto.
+11.

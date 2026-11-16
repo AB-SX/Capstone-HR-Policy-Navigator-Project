@@ -1,0 +1,94 @@
+How to propose a new TMxG
+Most inclusion needs at GitLab can be met by joining existing TMxGs, creating pods within
+them, or running joint programming. New TMxGs should be rare and intentional, created when
+there is a clear, long‑term need that can’t be met in other ways.
+1. Start with a conversation
+Before writing anything down, talk with your DIB partner (or the DIB team via 
+#diversity_inclusion_and_belonging) and leaders of any existing TMxGs adjacent to the
+community or topic. Together, you’ll explore whether the need could be met by expanding an
+existing TMxG, creating a pod, or running a series of intersectional events first.
+2. Draft a short proposal
+If DIB agrees a new TMxG is worth exploring, prepare a short written proposal (2–3 pages max)
+covering:
+Community and purpose – who the group is for and why it needs its own space.
+Initial leadership and structure – proposed leads and rough time commitment.
+Size and sustainability – approximate member base and evidence of interest.
+Programming vision – example activities for the first 2–3 quarters across the three
+pillars (Career Development, Community Engagement, Allyship).
+Partnership and risk – any known overlaps with existing TMxGs or external brands.
+DIB can provide a template.
+3. DIB and People Team review
+DIB and the People Team will review for strategic fit, overlap or duplication, and sustainability.
+They may suggest starting with a pod or a time‑boxed pilot before granting full TMxG status.
+4. Executive Sponsor and leadership alignment
+If the proposal moves forward, DIB will work with you to identify a potential Executive Sponsor.
+Only after alignment on mission, fit, and expectations will the group be confirmed as a new
+TMxG.
+5. Naming, channels, and launch
+Work with DIB (and Brand, if needed) on a name and visual identity that is clear, inclusive, and
+does not conflict with external partners or brands. Create Slack channels following the naming
+conventions (#group-name-tmrg / #group-name-tmag), set up Google Groups using the same
+pattern, and plan a thoughtful launch tied to your early programming.
+6. Review and adjust
+New TMxGs will be reviewed with DIB after their first few quarters to ensure the structure is
+working, the workload is sustainable, and there is a clear ongoing role alongside existing TMxGs
+• 
+• 
+• 
+• 
+•
+
+and pods. Adjustments – including renaming, merging, or restructuring into pods – are always
+possible.
+Executive Sponsorship
+Every GitLab‑recognised TMxG has an Executive Sponsor – an E‑Group, Functional Leader, or VP
+who provides strategic support, advocacy, and visibility. An Executive Sponsor does not have to
+be a member of the community but must have the capacity and commitment to act as an ally to
+the group.
+Key sponsor commitments include a minimum of 1–2 hours per quarter, co‑creating an
+engagement plan with TMxG leads, participating in quarterly touchpoints, attending key events,
+and championing TMxG work in leadership forums.
+Research consistently shows that Executive Sponsorship has a direct impact on business
+performance. It also drives team member belonging – and the gap between how sponsors and
+ERG leaders perceive that impact is something we actively work to close at GitLab.
+For full details on how to work effectively with your Executive Sponsor – including how to
+structure asks, use data, and manage the relationship – see the Executive Sponsorship for TMxGs
+page.
+TMxG leadership
+TMxG leads are volunteer team members responsible for the strategic direction and day‑to‑day
+operations of their group. Selection criteria include at least 6 months’ tenure at GitLab, active
+membership in the TMxG, manager approval, and a minimum one‑year commitment.
+For everything you need to lead a TMxG effectively – planning, events, budgets, impact tracking,
+and onboarding – see TMxG Leadership Resources.
+GitLab Mental Health Team Member Advocacy Group (TMAG)
+We are the Mental Health Team Member Advocacy Group (TMAG) founded in the Summer of
+2024. Learn more!
+TMAG - Generational Understanding
+We are the Generational Understanding Resource Group (TMAG) founded in the summer of 2020.
+Learn more!
+TMRG - API (Asian-Pacific Islander)
+An overview of our API TMRG
+
+TMRG - Black@GitLab
+An overview of our TMRG Black@GitLab
+TMRG - Caregivers
+Gathering place for the caregivers of GitLab!
+TMRG - Gente
+An overview of our TMRG Gente
+TMRG - GitLab Disability & Neurodivergence
+Helpful resources, support, and activities for differently abled team members or who are caring
+for a differently abled loved one.
+TMRG - GitLab Pride
+We are the GitLab Pride Team Member Resource Group (TMRG) founded in the fall of 2019. Learn
+more!
+TMRG - GitLab Women
+An overview of our remote TMRG GitLab Women
+TMRG - Global Voices
+GitLab's Global Voices TMRG
+TMxG Leadership Resources
+Central hub for TMRG/TMAG leaders at GitLab, including expectations, planning guides, event
+support, and impact measurement.
+Last modified July 20, 2026: Fix broken TMxG table in handbook (7771f169)
+View page source
+ 
+ .

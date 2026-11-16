@@ -1,0 +1,63 @@
+2022 Women’s History Month Celebrate - Interview with Christie Lenneville, VP
+of UX
+Literature Parties
+In the following 2 sessions, team members read Good Bones & Hope is the Thing With Feathers.
+Session 1 Recording
+Session 2 Recording
+TMRG Member-Led Sessions
+Managing Social Media for Mental Health
+How to live your best life! Networking and negotiating to get what you want
+Additional Resources
+Women TMRG logo
+Download the GitLab Women TMRG logo here.
+Activate your Agile Career
+An overview of our remote TMRG GitLab Women
+The GitLab Mentorship Program hosted by the Women TMRG
+Mentorship opportunities for those that identify as women at GitLab first and is open to all
+pending mentor participation. The program is sponsored by a partnership between the Women
+TMRG, other TMxGs and the GitLab DIB team
+Last modified November 3, 2026: Update monthly meeting section to reflect the current schedule
+(756c8a63)
+View page source
+ 
+ .
+1. 
+2. 
+1. 
+2.
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/leaders/definitions/
+183. Definitions: What Counts?
+Definitions: What Counts?
+Clear definitions and examples so TMxG leaders can confidently plan and track activities.
+One of the most common questions from TMxG leaders is:
+“Does this count?”
+This page provides clear definitions so you can plan and track with confidence, without
+over‑engineering your programs.
+TMxG types
+Team Member Resource Group (TMRG)
+Identity‑based communities organised around shared characteristics or life experiences (for
+example, race, ethnicity, gender, LGBTQ+, disability, caregiving, global location).
+They:
+Provide community, advocacy, and leadership opportunities for underrepresented
+groups.
+Are open to members and allies, unless an event is explicitly marked as members‑only.
+Team Member Advocacy Group (TMAG)
+Cause‑based groups organised around inclusion topics that benefit the whole company (for
+example, Mental Health, Generational Understanding).
+They:
+Focus on awareness, education, and advocacy.
+Are also open to members and allies.
+In practice, TMRGs and TMAGs follow the same expectations and governance; the distinction
+clarifies focus, not workload.
+Members vs allies
+Member – A team member who identifies with the group’s focus (identity or topic).
+Ally – A team member who supports the group’s mission and wants to learn.
+Unless clearly marked as a members‑only safe space, TMxG activities are open to both
+members and allies.
+• 
+• 
+• 
+• 
+• 
+•

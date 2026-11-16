@@ -1,0 +1,144 @@
+When a Referral is from a Referring Manager they:
+May choose to move the candidate on in the interview process, even if the candidate
+received a “no” from a fellow Interviewer - we don’t operate on a single-veto basis
+Will review all information and feedback about the Referral (giving both positive and
+negative feedback fair consideration) and will make the final hire or no hire decision
+based on all team feedback.
+Expectations of Hiring Team
+Although we place special emphasis on Referrals, we treat Referral interviews the same as we do
+non-Referrals. Referral interviews should not be more or less demanding than any other
+interview. To prevent wrongful hires, Referrers need to keep their bar high. Interviewers and
+Hiring Managers should avoid bias based on the Referrer’s status. There should be no favoritism
+based on previous experience working with a Referral after the candidate is hired.
+Referral Bonus Eligibility
+All GitLab team members are eligible for the Referral Bonus, except in certain circumstances.
+Referral Bonus Payout and Processing
+For details regarding the Referral Bonus Payout, please visit this page.
+For process instructions on how to process referrals, please visit the Referral Operations page.
+For any additional questions, please post in the talent-acquisition Slack channel.
+Cold LinkedIn Outreach
+If someone you do not know and/or you have not worked with reaches out requesting to be
+referred for an open role, please let them know you are unable to refer them due to our referral
+policy, but encourage them to apply directly to any open roles via the Jobs page. The appropriate
+recruiter will then review their application as soon as they can!
+Last modified October 14, 2025: Remove trailing spaces (3643eb9e)
+View page source
+ 
+ .
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/
+063. Candidate Experience Specialist Responsibilities
+Candidate Experience Specialist Responsibilities
+This page is an overview of the processes, and systems that the Candidate Experience Team is
+responsible for.
+The CES team utilizes GitLab Service Desk and ModernLoop to track all incoming requests to the
+CES team. If you are a GitLab team member and you have a request or question for the
+Candidate Experience team, email ces@gitlab.com and an issue will automatically be created
+within the CES Service Desk. Please see the alignment page to learn more about which CES team
+member will be working on your requests. Our team leverages ModernLoop for interview
+scheduling, seamlessly connecting with our existing calendar and ATS.
+How the CES Team will run the Service Desk
+Under this CES Service Desk Project set up the proper notifications
+* Click on the bell icon on the top right next to Star and Clone
+* Go to Custom Settings
+* Check “Issue is Created”
+* Close out the window
+On the left-side menu bar click Issues
+* This is where all our incoming CES emails will create an issue. You’ll get an alert when
+someone sends an email to the CES email alias. Any “emails” that need to be addressed
+will be an open issue listed within this project.
+Each CES will begin their workday by triaging issues within the Service Desk and their
+personal Board by adding the appropriate label to the issue.
+Click on the new Issue
+If unassigned, assign it to yourself or the responsible CES on the right-side toolbar
+Read the Issue message
+Labeling - each issue will need to be labeled with at least one appropriate label.
+If you need to respond to the “email” by adding comments to the issue, be sure to enter
+comments as you would an email to the candidate. Always assume that a candidate
+could be included in any email.
+If no action is needed and the issue has been solved, you may close it. Do not close
+issues until you have resolved the problem you are solving.
+Board Creation - to view and manage assigned issues in one place
+Under “Plan” on left hand menu, click “Issue Boards”
+Click name of Team Member that is the current board view (e.g. “Alice”)
+Click “Create new Board”
+Title new board as the name of the new team member or appropriate board label
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14.
+
+Uncheck “show closed list”
+Next to “Scope” click “Expand”
+Under “Assignee” section, click “Edit” and choose the appropriate assignee
+Click “Create Board” to create the board
+To add columns/specific label list, click “+ New List” next to open issues column
+Under “Scope”, ensure that “Label” is selected”
+Under “Value,” choose the appropriate label for the desired list
+To change the order of the lists on the board, click and drag the lists
+Team Interviews
+When a candidate is ready for a team interview, the recruiter will request availability in
+ModernLoop. Once availability is requested, it will create a task for CES to schedule.
+If there are shorter timelines for roles as defined by the hiring team, CES needs to be
+made aware of those timelines for when interviews need to be scheduled. We will
+default to scheduling interviews at a minimum of 48 hours out to leave time for
+interviewer prep.
+Reminder: When tagging @ces in Greenhouse, do not tag anyone other than the team in
+the same ping as it will add those users to the Service Desk project.
+If no response is received within 24 hours, CES will send a follow up request for
+availability and set the due date of the issue to 24 hours after the next email to check for
+availability again.
+After the 2nd email to the candidate with no response, the CES will make the Recruiter
+aware of the no response and no longer attempt to receive availability.
+After availability is received, CES will schedule interviews based on the interview plans in
+Greenhouse/ModernLoop.
+CES will be using the Zoom integration with ModernLoop for interviews
+After the candidate has provided the availability, as an optional step the CES team
+members can send the Candidate First Touch Email from Greenhouse if there are
+scheduling challenges.
+This email is sent to inform the candidates that their interview scheduling is in the
+process and to ensure better engagement with the candidates.
+If CES sees an alert to merge applicant profiles, and those profiles are a match
+(candidates’ email address, phone number, or resume matches), they will merge the
+applicant profiles. Visit the Candidate Hygiene section of the home page for instructions.
+CES will send interview confirmations via ModernLoop
+CES will not automatically schedule next interviews based off of scorecards
+The Recruiter or Hiring Manager will need to follow the same scheduling procedures as
+above in ModernLoop to request scheduling assistance on the next round of interviews.
+Any candidates who receive a no or definitely not scorecard should be discussed with
+the Recruiter and the Hiring Manager before declining.
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

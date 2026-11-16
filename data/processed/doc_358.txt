@@ -1,0 +1,126 @@
+Marketing Materials Repository (Material - GitLab.com - 10 Minutes)
+Check out the GitLab marketing materials repository to see all of our best and most
+relevant sales collateral. Please be careful to only view or download these files, and feel
+free to send copies to your clients to help them understand GitLab value. If you would
+like to share one of these assests on social media please be careful to only use the gated
+links to content.
+Our Portfolio
+4. Our Portfolio
+Our Portfolio
+Please click on the link below and go through the course modules.
+Our Portfolio (no longer available)
+QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)
+Please write one thing you learned or found interesting from watching the GitLab Pitch
+Deck video.
+GitLab Features & Functionality
+GitLab is a complete DevOps platform, delivered as a single application, fundamentally
+changing the way Development, Security, and Ops teams collaborate. GitLab helps
+teams accelerate software delivery from weeks to minutes, reduce development costs,
+and reduce the risk of application vulnerabilities while increasing developer productivity.
+Check out this reference guide to learn more about what is included in each of the
+different stages of GitLab.
+Product Tiering Quiz (Assignment - 25 Minutes - 10 Points - Pre Work)
+Take a moment to complete this short knowledge check quiz
+GitLab Security Solutions (Material - Slides and Video - 30 minutes)
+Security is one of the biggest differentiators to Ultimate. In this course, you will learn
+detailed information about GitLab security capabilities with a click through demo.
+Using GitLab for Software Security Video
+GitLab Secure Doc
+GitLab Security and Compliance Capabilities Deck
+Selling Professional Services (Material - Video - 30 Minutes)
+Our Professional Services team is made up of not only GitLab subject matter experts but
+seasoned DevOps professionals who have experience in deploying and maintaining
+both large-scale applications as well as creating and teaching best practices throughout
+the SDLC. Our experts help lead Concurrent DevOps Transformations, providing direct
+support to our customer’s strategic business initiatives. GitLab’s Professional Services
+team exists to enable your clients realize the full value of their GitLab installation. We
+can provide direct implementation support to ensure the GitLab installation is resilient
+and secure. We also offer migration services to facilitate the transition to GitLab by
+delivering a clean dataset to resume operations at once. Our education and specialized
+training provide training in best practices, such as CI/CD, version control, metrics, and
+more.
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+You can also watch the Sales Enablement Session about how to sell services
+GitLab Direction & Latest Releases
+Our vision is to replace disparate DevOps toolchains with a single application that is pre-
+configured to work by default across the entire DevOps lifecycle. We aim to make it
+faster and easier for groups of contributors to deliver value to their users, and we
+achieve this by enabling:
+Faster cycle time, driving an improved time to innovation
+Easier workflows, driving increased collaboration and productivity
+Our solution plays well with others, works for teams of any size and composition and for
+any kind of project, and provides ongoing actionable feedback for continuous
+improvement. You can read more about the principles that guide our prioritization
+process in our product handbook.
+Be sure to review the information from our latest release!
+GitLab Direction
+GitLab Releases
+Product Maturity
+GitLab has a broad scope and vision, and we are constantly iterating on existing and
+new features. Some stages and features are more mature than others.
+Additional Resources
+The below are resources you might want to review or bookmark for later.
+GitLab Terms & Conditions
+GitLab Marketing Materials Repository: Check out the GitLab.com marketing
+materials repository to see all of our best and most relevant sales collateral.
+Please be careful to only view or download these files, and feel free to send
+downloaded copies to your clients to help them understand GitLab value.
+GitLab Pricing: Check out the pricing page to understand our pricing model.
+Field Roles & Expectations
+5. Field Roles & Expectations
+Sales Roles (Material, - Handbook - 30 minutes)
+Review the sales roles based on the customer segment you will cover.
+Read the Handbook
+Read the Strategic Account Executive (Enterprise) Role Description
+Read the Account Executive (Mid-Market) Role Description
+Read the Customer Advocate (SMB) Role Description
+Read the Sales Development Representative Role Description
+Solutions Architects (Material - Handbook - 15 minutes)
+GitLab’s Solutions Architects (SAs) are trusted advisors to GitLab prospects and
+customers during the presales motion, demonstrating how the GitLab application and
+GitLab Professional Services address common and unique business requirements.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

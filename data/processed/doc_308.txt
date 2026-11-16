@@ -1,0 +1,141 @@
+1.3.2 Meaningful Sequence (Level A): When the sequence in which content is presented
+affects its meaning, a correct reading sequence can be programmatically determined.
+1.3.3 Sensory Characteristics (Level A): Instructions provided for understanding and
+operating content do not rely solely on sensory characteristics of components such as
+shape, color, size, visual location, orientation, or sound.
+1.3.5 Identify Input Purpose (Level AA): The purpose of each input field collecting
+information about the user can be programmatically determined under the appropriate
+circumstances.
+1.4.3 Contrast (Minimum) (Level AA): The visual presentation of text and images of text
+has a contrast ratio of at least 4.5:1., unless an exception described in the criterion
+applies.
+1.4.4 Resize Text (Level AA): Except for captions and images of text, text can be resized
+without assistive technology up to 200 percent without loss of content or functionality.
+1.4.10 Reflow (Level AA): Content can be presented without loss of information or
+functionality, and without requiring scrolling, within the dimensions/pixelation
+described in the criterion. 1.4.12 Text Spacing (Level AA): No loss of content or
+functionality occurs by setting the appropriate text style properties.
+2.4.4 Link Purpose (In Context) (Level A): The purpose of each link can be determined
+from the link text alone or from the link text together with its programmatically
+determined link context, except where the purpose of the link would be ambiguous to
+users in general.
+2.4.6 Headings and Labels (Level AA): Headings and labels describe their topic or
+purpose.
+3.1.1 Language of Page (Level A): The default human language of each web page can be
+programmatically determined.
+3.1.2 Language of Parts (Level AA): The human language of each passage or phrase in
+the content can be programmatically determined.
+Images
+A text alternative for images is important for conveying non-text content to a user who may not
+be able to see or understand the image for any variety of reasons. There are three types of
+images; simple, complex, and decorative.
+Simple Images
+A simple image is one that can be described in a few words or a short sentence. Examples might
+include a product screenshot or a photograph of people having a conversation. Simple images
+are most commonly described with “alt text,” which gets its name from the alt image attribute in
+code. Alt text looks like this: . The “text alternative” describes the image in a text-based
+format that screen readers can read out loud, which helps the user understand what the image is
+meant to convey. Writing the text alternative can be challenging and sometimes subjective.
+Compare the following examples to understand how to make alt text more descriptive:
+Poorly-written alt text: <img src="/images/legal/ethics-compliance-program/team.jpg"
+alt="image">
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+“text
+•
+
+Well-written alt text: <img src="/images/legal/ethics-compliance-program/team.jpg"
+alt="Four team members discussing a project around a conference table.">
+In both examples, the alt text alerts the user to the use of an image but the first does not
+describe the image, while the second describes what the image is meant to convey (“four team
+members discussing a project … “). Here is another example:
+Poorly-written alt text: <img src=”dog.jpg” alt=”dog”>
+Well-written alt text: <img src=”dog.jpg” alt=”My golden retriever dog, Scully,
+posing for a photo in the living room”>
+Both examples mention a “dog” but the poorly-written alt text does not describe the dog in any
+way, while the well-written alt text describes the dog in enough detail to provide the user helpful
+context. Read this Alternate Text guide from WebAIM to learn more about how to craft
+meaningful alt text.
+Complex images
+A complex image is a visual that is more informational in nature and requires more than just a
+simple explanation. Examples might include a flow chart or data visualization. Similar to a simple
+image, a complex image requires alt text, which serves as a brief description, but also a long
+description that explains, in more detail and using more text (aka “long text”), the essential
+information contained in the image. If the complex image consists of data, consider using a text
+table of the data rather than long-form text. Learn more about the W3C’s long description
+methods here.
+Data visualization, which is the graphical representation of information and data, should use
+colors with sufficient contrast and labels within the chart, so that the user does not have to rely
+solely on color to understand what is being conveyed. Look at the data visualization color palette
+documented in the Pajamas Design System for GitLab or read An Accessibility-First Approach To
+Chart Visual Design, by Kent Eisenhuth and Kai Chang, to understand other ways to consider data
+visualization while creating accessible learning experiences.
+Decorative images
+A decorative image has no meaningful content value and doesn’t need to be announced by a
+screen reader. Examples might include background patterns or an icon that is used as a visual
+anchor. Use an empty alt attribute for decorative images so that they are not unnecessarily
+announced.
+Considerations
+All images should have an alt attribute, even if the alt attribute is empty (alt=””).
+Use longer text and/or tables to describe complex images.
+Leverage high-contrast colors, labels, and other data visualization techniques, when
+visualizing data.
+Try to avoid text within an image, but if present, make sure it’s also available in plain
+text, which is text consisting of characters without special formatting.
+Avoid using animated GIFs since a user can’t control the playback.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Guidelines
+The following success criteria from WCAG 2.2 apply to images:
+1.1.1 Non-text Content (Level A): All non-text content that is presented to the user has a 
+text alternative that serves the equivalent purpose, unless otherwise noted in the
+criterion.
+1.4.5 Images of Text (Level AA)): If the technologies being used can achieve the visual
+presentation, text is used to convey information rather than images of text, unless
+otherwise noted in this criterion.
+Video and audio
+Video and audio recordings should have an alternate way to obtain the content. This allows a
+user who is hard of hearing or deaf to read the content using captions or text transcript while a
+user who is visually impaired may use a screen reader or other assistive technology.
+Captions
+Captions are the text version of spoken audio and sounds and should be provided for all videos,
+when possible. Closed captions can be turned on and off by the user, where open captions are
+always present. There is no size requirement for captions (sometimes they will scale with the
+player), but they must be readable and have sufficient contrast. A caption benefits someone who
+can see the video, but either by impairment or choice can’t use the audio. If using automated
+captioning, review them to ensure they accurately reflect the spoken content; especially for
+technical terms like ‘DevSecOps’ or Kubernetes.’
+Audio descriptions
+Audio descriptions provide information about visual elements in a video. For example, describing
+the scene, actions and gestures, or expressions. They are announced between dialogue. Watch an
+example. An audio description benefits someone who can listen to the video audio, but either by
+impairment or choice can’t use the video.
+Transcripts
+A text transcript should be provided for audio-only media and prerecorded video. The transcript
+can be included on the same page, linked to, or available as an accessible document. A transcript
+benefits a variety of users, from those who prefer to read, to those who obtain the text content
+through a screen reader or other assistive technology.
+Text and data visualization
+Since both text and data visualization (charts) are essentially embedded in a video with no way for
+a user to control their appearance, ensuring they are clear and discernable at the outset is key.
+Discernable means text or data visualization that can be seen, perceived, and understood by
+users.
+Text should have sufficient contrast against the background. If it’s meaningful content, the text
+content should also be included in the audio track.
+• 
+•

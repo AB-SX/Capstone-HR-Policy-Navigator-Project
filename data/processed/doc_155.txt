@@ -1,0 +1,123 @@
+When requesting access to your personal data, please note that we may request specific
+information from you to enable us to confirm your identity and right to access, as well as to
+search for and provide you with the personal data that we hold about you.
+We reserve the right not to grant access to personal data that we hold about you if access is not
+required by applicable law. There are also instances where applicable law or regulatory
+requirements allow or require us to refuse to provide some or all of the personal data that we
+hold about you. In addition, there are instances where the personal data may have been
+destroyed, erased or made anonymous. In the event that we cannot provide you with access to
+your personal data, we will inform you of the reasons why, subject to any legal or regulatory
+restrictions.
+Correction of Collected Personal Data
+We endeavor to ensure that personal data in our possession is accurate, current and complete. If
+an individual believes that the personal data about them is incorrect, incomplete or outdated,
+they may request the revision or correction of that data or they may correct the data themselves
+through the self-serve capabilities within Workday. We reserve the right not to change any
+personal data we consider to be accurate.
+Deletion of Collected Personal Data
+You may request that we delete the personal data that we hold about you, provided that we
+reserve the right not to grant such a request if we are not required to delete personal data under
+applicable law. There are instances where applicable law or regulatory requirements allow or
+require us to refuse to delete certain personal data. In the event that we cannot delete your
+personal data, we will inform you of the reasons why, subject to any legal or regulatory
+restrictions.
+To request deletion of your personal data, please submit your request via this Deletion Request
+Form.
+Data Portability
+Depending on our lawful basis for processing, you have the right to request that GitLab transmit
+such personal data to another controlling organization in a commonly used machine readable
+format, provided this is technically feasible.
+Right to Restriction of Processing
+You have the right to restrict our processing of your personal data where:
+You contest the accuracy of the personal data until we have taken sufficient steps to
+correct or verify its accuracy
+Where the processing is unlawful, but you do not want us to erase the information
+Where we no longer need the personal data for the purposes of the processing, but you
+require them for the establishment, exercise or defense of legal claims
+Where you have objected to processing justified on legitimate interest grounds (see
+below) pending verification as to whether GitLab has compelling legitimate grounds to
+continue processing
+• 
+• 
+• 
+•
+
+To the extent required by applicable law, and where personal data is subjected to restriction in
+this way, we will only process it with your consent or for the establishment, exercise or defense of
+legal claims or regulatory obligations.
+Right to Withdraw Consent
+Where we are relying upon your consent to process data, you have the right to withdraw such
+consent at any time. Many of our systems offer self-service capabilities where you can remove
+optional data fields, thereby withdrawing consent. You can also request our assistance in your
+withdrawal by contacting GitLab’s People Operations Team at people_operations@gitlab.com or
+the Privacy Team at dpo@gitlab.com.
+Please note that in limited circumstances, the withdrawal of your consent may result in our
+inability to provide you a certain service. For example, if you withdraw your consent to process
+secondary emergency contact information, we may not be able to contact your next-of-kin in an
+emergency, unless we have a legal obligation that supersedes your withdrawal of consent. In this
+event, we will inform you if withdrawal would affect any services or benefits.
+Withdrawal of consent does not affect the lawfulness of processing before the withdrawal, and
+certain processing might continue under a different legal basis.
+Right to Object to Processing Justified on Legitimate Interest Grounds
+Where we are relying upon legitimate interest to process your personal data, you have the right
+to object to such processing, and we must stop such processing unless we can demonstrate
+compelling legitimate grounds for the processing that override your interests, rights and
+freedoms. Normally, and where we rely upon legitimate interest as a basis for processing, we
+believe that we can demonstrate such compelling legitimate grounds, but we will consider each
+case on an individual basis. To object, please contact GitLab’s People Operations Team at 
+people_operations@gitlab.com or the Privacy Team at dpo@gitlab.com.
+Right to Not be Subject to Automated Decision-Making
+Depending on your jurisdiction, you have the right not to be subject to a decision based solely on
+automated processing that produces legal or similarly significant effects. At this time, we do not
+believe we use Team Member personal data in any automated decision-making processes that
+meet this definition. However, we will continue to assess our processing of Team Member
+personal data and if we engage in this type of automated decision-making, we will update this
+provision accordingly.
+Right to Lodge a Complaint
+Depending on your jurisdiction, you have the right to lodge a complaint with a supervisory
+authority in your country of residence, in your place of work, or where the alleged infringement
+occurred. Some relevant supervisory authorities include:
+France: Commission Nationale de l’Informatique et des Libertés (CNIL)
+Germany: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+(BfDI)
+Netherlands: Autoriteit Persoonsgegevens (AP)
+• 
+• 
+•
+
+United Kingdom: Information Commissioner’s Office (ICO)
+For information on how to submit a complaint, please visit the relevant authority’s website or
+contact our Privacy Team at dpo@gitlab.com for assistance.
+Resolving Concerns
+Team Pages or Recordings
+Despite GitLab being public by default, Team Members can opt-out of most public exposure, as
+long as there is no requirement within their job description to be public-facing. For example, on
+the team page, Team Members can remove themselves from the page, they can modify the
+content that is available, or they can use their initials or an alias instead of their name. To enable
+an asynchronous working environment, we aim to record the majority of meetings at GitLab and
+post many of them on GitLab Unfiltered. Thus, the only way to limit unwanted exposure from
+these videos is to have the camera turned off and an alias or initials added to the Zoom profile,
+and even then, you may still be identifiable through your voice and alias. If a Zoom call is being
+recorded, there will be a recording icon in the top left hand corner of the screen. For any GitLab
+live streams through YouTube, a Team Member can watch and comment through YouTube
+instead of through the internal video link.
+Other Inquiries or Concerns
+If you have any questions or concerns regarding the handling of your personal data, please
+contact GitLab’s People Operations Team at people_operations@gitlab.com or the GitLab Privacy
+Team at dpo@gitlab.com. Alternatively, you may report concerns or complaints to the Legal and
+Corporate Affairs Team.
+You may also anonymously report violations of policy or law using our third-party managed
+Compliance & Fraud Prevention Hotline. You can access the Hotline by going to Questions,
+Reporting, and Effect of Violations section of the Code Business Conduct and Ethics.
+Changes to Privacy Policy
+We may change this Privacy Policy from time to time. When we do, we will update the date at the
+top of this Privacy Policy and actively communicate changes through direct email notification, an
+internal announcement on Slack, or a required acknowledgment in People group systems.
+Material changes will not be implemented without appropriate notice and, where required,
+consultation with works councils or other employee representatives.
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+View page source
+ 
+ .
+•

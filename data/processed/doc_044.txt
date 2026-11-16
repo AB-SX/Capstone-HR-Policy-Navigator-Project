@@ -1,0 +1,132 @@
+Office of Foreign Asset Control’s Specially Designated Nationals and Blocked Persons List. In
+jurisdictions where criminal records may be reviewed, criminal records will be requested.
+Additional screenings may include, where applicable and in accordance with local law, digital or
+document-based identity verification, a search against the U.S. Department of Health and Human
+Services Office of Inspector General’s List of Excluded Individuals/Entities and/or screening for
+financial related offenses and credit checks, when relevant to the position. GitLab may use the
+returned background information to make decisions regarding employment, where allowed by
+local law. No background screening will be run until a conditional offer has been made, unless
+local law explicitly requires otherwise.
+Candidate’s are required to complete their background screening before onboarding at GitLab.
+All necessary steps will be taken to ensure background screenings are completed before a
+candidate begins their employment and a candidate’s start date may be adjusted to satisfy this
+requirement. Circumstances beyond GitLab’s control may serve as exceptions to this requirement
+such as exigent circumstances that affect access to background information such as natural
+disasters, public emergencies, significant outages, and other potentially unforeseen
+circumstances. All exceptions will be reviewed on an individual basis. GitLab will ensure each
+background screening is completed and satisfactory should a candidate need to onboard before
+their background screening has completed due to any exception.
+GitLab does not currently require subsequent background screenings, or re-screenings, for
+current team members beyond onboarding/pre-hire requirements. Current team members may
+opt-in for additional background screenings if requested to work with specific customers.
+The Candidate Experience Specialists will initiate all background screenings for candidates. The
+Senior Background Check Specialist will initiate any applicable retroactive background screenings
+or requested enhanced background screenings for current team members.
+Please contact the Senior Background Check Specialist at backgroundchecks@gitlab.com or submit
+a request in Compass for additional assistance or questions.
+Contractors, Contingent Workers, & Temporary Service Providers
+Background screenings will be completed or verified for contractors, contingent workers, and/or
+temporary Service providers when requiring access to orange or red data and/or utilizing a
+GitLab laptop unless the vendor is an approved sub-processor or has valid Third Party Risk
+Management review. GitLab will complete these background screenings in accordance with local
+law and at minimum, criminal record information (or local equivalent) will be required. However,
+GitLab may also review similar criteria as mentioned above. GitLab will first request proof of
+completed background screenings from a vendor before completing one internally. Contractors,
+contingent workers, and/or temporary service providers must also have a completed background
+sceening or have provided proof of a completed background screening before onbaording and/or
+provisioning any access at GitLab.
+Disclosure and Authorization
+Candidates (and, as applicable, current team members) will receive an email to fill out the
+background screening application. The application will ask for personal and professional
+information. The application process includes signing disclosure and consent forms which explain
+
+the rights of an individual undergoing the background screening. The application process is
+designed to take less than fifteen minutes to complete.
+Candidates should gather each previous employer’s name, address, position title held,
+employment start and end dates, manager’s name, and contact information. Details for a Human
+Resources contact can be entered instead of a manager’s contact details. Occasionally, and where
+permitted by law, Sterling (currently migrating to First Advantage) will reach out to the candidate
+to retrieve additional documentation to act as proof of previous employment. Proof of
+employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs,
+LLC documentation, official company registrations, etc. In certain circumstances, the Senior
+Background Check Specialist may also reach out to candidates and/or team members for
+additional documentation.
+Background screenings will act as an additional mechanism of transparency and will help to build
+trust with our clients.
+Review Criteria for Candidates and Team Members
+Reviews of background screenings are conducted by the Senior Background Check Specialist in
+accordance with the applicable law of the candidate’s jurisdiction. The Senior Background Check
+Specialist will first review the report for omissions, inaccuracies, and/or discrepancies with
+employment, including, but not limited to, dates of employment, employer names, and/or
+positions held. If the report includes discrepancies related to employment, the Senior
+Background Check Specialist will take the necessary steps to investigate and adjudicate the
+discrepancies. The Senior Background Check Specialist may escalate the report, as necessary, to
+the Legal Employment team. Employment decisions based on the employment verification
+portions of the background screening report shall be finalized before any review of the criminal
+records information takes place.
+If criminal record information has been provided, then it will be adjudicated in accordance with
+applicable local law. Generally, and subject to local law, criminal records are reviewed to
+determine if criminal convictions have a direct connection with an applicant’s ability to fulfill the
+job duty with competence and integrity, while also considering the safety and/or security of
+GitLab team members, customers, vendors, and/or overall business. Decisions are made that are
+job related and consistent with business necessity. Arrest records are not considered during the
+adjudication process, nor is any criminal conviction information that is prohibited from being
+reviewed by applicable local law.
+Probation Period
+Upon joining GitLab, some team members (location-dependent, see the below table for detail
+about each location) will have a probationary period between 1 and 9 months. Common practice
+is for contracts in each country to have the maximum allowable probationary period. In case of
+relocation to a different country or change of contract, if a team member has continued service
+with GitLab (tenure with GitLab has been uninterrupted) and they have already passed the
+probationary period of their original location or contract, they do not need to go through the
+probation period of their new location or contract.
+As per the onboarding process, the probation period status is added to Workday.
+
+The People Operations Team is responsible for managing the probationary period process
+internally (communication with the team member, their manager, confirmation of probationary
+period completion, and updating Workday). In some instances, the People Operations Team may
+also be responsible for managing relationships with legal counsel externally on a global scale to
+ensure compliance and iteration.
+If an exception request is made to end a probation period early, this should be escalated by the
+team member’s manager to a skip-level and the People Business Partner/Team Member
+Relations Specialist via email. We will then evaluate the risk, performance and overall reason for
+the request. Further escalation to Legal might be necessary as well as decision making on how to
+proceed. There should be no expectation of approval.
+Important steps during the Probation Period
+For Managers
+Managers are responsible for monitoring and specifically reviewing performance
+halfway through the probation period of their direct report.
+If underperformance is an issue, or there is any hesitation regarding the successful
+completion of a probation period, this should be discussed immediately with Team
+Member Relations.
+28 days prior to the end of their direct reports’ Probation Period, the manager will
+receive an email from Workday reminding them that their direct reports’ probation
+period is coming to an end, and that there is a task in Workday for the manager to
+submit the outcome of the probation period.
+* Note: For team members located in the Netherlands or Austria, the manager will
+receive an email from Workday, 14 days prior to the end of the probation period.
+The Hiring Manager will select the appropriate probation outcome in Workday based on
+the team member’s performance. A helpful job aid can be found here on this process.
+For Team Members
+If you have successfully passed your probation period, in addition to receiving the good
+news through your manager, you will also receive a probation period confirmation letter
+in Workday.
+In your inbox, you can review this letter and then select Submit. This letter will then be
+saved in your Workday documents for future reference if needed.
+Current Locations With Probationary Periods
+Country Probation Period Notice during
+probation
+Notice after probation
+Australia 6 months 1 week In accordance with the Fair Work Act
+2009 (Cth)
+Austria 1 months No notice Less than 2 years is 6 weeks notice. 3-5
+years is 2 months.6-15 years is 3
+months. 16-25 years is 4 months. 25
+years and above 5 months.
+Austria 1 months No notice
+1. 
+2. 
+3. 
+4. 
+1. 
+2.

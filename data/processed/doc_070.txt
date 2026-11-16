@@ -1,0 +1,141 @@
+they approach their day-to-day work. Dogfooding our product is critical to learning how to
+improve the product, not just for ourselves but also for our customers. By understanding our
+internal use of the product, we can enhance both our productivity and our ability to market and
+promote the platform to others.
+More details about this award can be seen on the internal handbook page.
+Referral Bonuses
+Chances are that if you work at GitLab, you have great friends and peers who would be fantastic
+additions to our Team and who may be interested in joining our team. To help us grow with
+exceptional people, we have a Referral Bonus that work as follows:
+We offer a referral bonus once the new team member has been employed with the
+company for 3 months.
+In the past, we had a tiered system of referral bonuses, but we’ve simplified the
+structure to add a flat bonus amount.
+$1,500 base referral bonus for a new hire.
+Q4 Account Executive Referral Incentive (December 8, 2025 - February 23, 2026)
+During this limited period, referral bonuses for Account Executive positions will be increased to:
+$7,000 for referrals hired to Commercial or New Business Account Executive roles
+$10,000 for referrals hired to Strategic or Major Account Executive roles
+These enhanced bonuses apply to any Account Executive referral with a hire date
+between December 8, 2025, and February 23, 2026, and will follow all company referral
+and payout policies.
+We encourage and support diversity on our team and in our hiring practices and encourage team
+members to consider whether there are potential candidates in their networks who identify as
+members of underrepresented groups in tech.
+Please note if the team member has a hire date effective before 2025-12-07, then the previous
+mentioned referral bonus amounts apply.
+How to make a referral
+For information regarding the program details and team member eligibility and understanding,
+please visit our guide in the Hiring section of GitLab’s handbook.
+Exceptions
+no bonus for hiring people who report to you directly or are in your direct reporting
+chain,
+no bonus if you refer current team members,
+no bonus for referring a Boomerang Team Member (returning team member),
+no bonus if the referring Team Member is a part of the Talent Acquisition team - they are
+not eligible given the nature of their position is to engage candidates.
+no bonus if there’s a perceived conflict of interest.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+no bonus for VP level or the Executive Group.
+no bonus if the referral is an intern. You will be paid a referral bonus if the
+referral(intern) is converted to a full-time, intermediate-level team member.
+no bonus for a referring team member will be applicable if the team members
+employment is terminated prior to the referral bonus payout date. You need to be an
+active team member.
+In the event that more than one GitLab employee refers the same team member for the
+same role the People Ops team will ask the new team member to confirm who they
+were referred by (who should get the credit). If they mention two or more people then
+the bonus will be split between them.
+In the event that someone wants to refer another candidate to GitLab before they have
+started, the referring party must have a signed contract at the time of the new
+candidate’s application.
+In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter
+screens the candidate a referring party cannot be added to their profile after. The
+candidate source would be Prospecting by the GitLab sourcer.
+Referral Bonus Processing
+The People Operations team processes referral bonuses weekly out of the GitLab
+Referral Bonus Audit Workday report
+One Time Payments are added to Workday after reviewing the report and ensuring all
+qualifications have been met
+Payroll is notified of the completed bonus and can begin processing
+Temporary Add-on Campaign additional tracking for payout
+Talent Acquisition Manager will track all referrals set to hired in the time period of Add-
+on campaign.
+Talent Acquisition Manager will notify People Operations by Compass or email, the first
+of the month that aligns with the referred new hire’s 3 month employment at GitLab.
+People Operations will follow the steps outlined above
+GitLab Anniversaries
+At 10:00 UTC on Thursday of every week, PeopleOps Bot slack bot will send a shout out on the 
+#team-member-updates channel congratulating all team members who celebrates a hire date
+anniversary that week.
+Visit our GitLab Anniversary Gift section for more information about the gifts.
+GitLab Ultimate with Duo Enterprise
+Every GitLab team member can request the Ultimate tier for GitLab.com.
+In case a team member has separate private and work accounts on GitLab.com, they can request
+it for both. This incentive does not apply to groups owned by GitLab team members (Group-level
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+1. 
+2. 
+3.
+
+Ultimate features such as epics will not be available for Ultimate GitLab team-member personal
+accounts, for instance).
+In order to request Ultimate, please submit this form. Your account(s) will be upgraded to the
+Ultimate tier within 2 hours of submission.
+Note
+There isn’t an easy way to confirm you’re on the Ultimate plan from your GitLab profile nor
+account info page. To confirm you have the Ultimate Plan for a particular account:
+sign in to Gitlab.com with your account
+browse to https://gitlab.com/api/v4/namespaces/{username} (replace {username} with
+your actual GitLab username)
+in the page contents you should see the text below if your account is on the Ultimate
+plan:
+"plan": "ultimate",
+If you have questions about this process or don’t see this upgrade after 2 hours (after having
+checked using the steps above), please contact IT via the Compass app in Slack (type “Compass”
+in the top search bar to find it) or it-help@gitlab.com.
+Additionally, GitLab team members can request a single seat Ultimate plan group with Duo
+Enterprise for a single group on their personal account (the same account used for the Ultimate
+tier request above) by using the GitlabCom_Licensed_Demo_Group_Request issue template.
+These options are provided to encourage using all our features whenever possible as part of
+dogfooding our product.
+Ultimate and Duo Enterprise will be removed from all relevant namespaces as part of
+offboarding.
+The ownership of intellectual property (IP) created during your time as a GitLab team member is
+governed by your employment agreement. Choosing to develop and host this IP on a personal
+GitLab account that benefits from this incentive does not determine whether the IP is subject to
+your employment agreement’s invention assignment provisions.
+Corporate Bonus Plan
+The new corporate bonus program is a cash bonus opportunity for eligible GitLab team members
+who are not already on the Director+ bonus plan or a sales/incentive plan.
+The target bonus is 10% of base salary. This is a target bonus, which means payout is not
+automatically 10% of base salary.
+This program is effective June 1, 2026. Starting in 2027, it will follow our standard fiscal year cycle,
+running February 1 – January 31.
+What This Means
+Eligible team members will have a target bonus opportunity equal to 10% of base salary, paid out
+twice per year - half for each six-month period of the bonus cycle. This keeps recognition tied to
+performance throughout the year, while staying aligned with our broader performance processes
+and ACR (annual compensation review) timeline. While the target is 10% of base salary, payout is
+commensurate with performance rating and budget and may pay between 80% - 120% of target.
+• 
+• 
+•

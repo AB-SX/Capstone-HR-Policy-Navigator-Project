@@ -1,0 +1,149 @@
+There is an unbalanced power relationship during the interview, and interviewers should
+be mindful of this fact. The interviewer is in a powerful position: they provide input that
+could decide if the candidate will move forward or not. Be as friendly and approachable
+as you can. This has the added value of getting people comfortable (over time) and
+allows you to get much better data.
+Interview for soft skills. Pick some behavioral questions to get data on what the
+candidate has done before and how their behavior aligns with the company values. You
+will be asked to evaluate how the candidate’s values align with our own in your feedback
+form, and asking behavioral questions is the best way to assess this.
+If a candidate discloses outside project(s) or activity(ies), please notify the Recruiter.
+Always encourage the interviewee to ask questions at the end, and be frank in your
+answers.
+Be willing to discuss what went well and any concerns you may have.
+Manage expectations - Don’t make promises on what they can expect, but tell them that
+their Recruiter will be in touch with the next steps
+Thank the candidate for their time.
+Inclusive Interviewing
+As an interviewer, it’s crucial that you create an inclusive interview environment. This not only
+ensures a fair and equitable assessment of candidates, it also enhances your ability to recognize
+diverse strengths and contributions from each individual.
+The section below outlines questions and topics that are not allowed to be discussed during an
+interview and offers guidance on steering conversations back to job-related topics.
+Illegal Interview Questions
+Be aware of the kinds of questions you can and can’t ask by attending or revisiting
+LevelUp training. It’s important to adhere to legal guidelines and avoid discriminatory
+inquiries.
+It’s important to focus on the candidate’s ability to perform the job responsibilities
+rather than personal characteristics or background.
+Refrain from any personal, icebreaker-type questions that may inadvertently lead to
+discrimination or reveal protected information about a candidate. For instance, asking a
+candidate about a particular holiday could elicit information about the candidate that an
+employer finds undesirable yet is still legally protected.
+Refrain from asking any questions related to protected classes such as age, race, gender,
+gender identity, religion, sexual orientation, marital or family status, pregnancy status,
+national origin, ancestry, physical or mental disabilities. These questions are not only
+illegal, but irrelevant to assessing a candidate’s qualifications for a role.
+Protected classes may differ by country, so it’s important to adhere to the strictest
+country definitions to ensure compliance regardless of a candidate’s location.
+To find out more about discrimination laws specific to the country of a candidate you’re
+interviewing, you can reach out to the legal-employment and/or talent acquisition team.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+
+If a candidate brings up personal information related to a protected class, acknowledge
+their comment and steer the conversation to job-related topics. Do not include this in
+your interview notes, as it is not relevant to the job.
+Examples of illegal interview questions include inquiries about marital status, age or any
+other protected characteristic.
+Avoid discussing compensation, equity, country hiring guidelines, availability or
+confidential company information during the interview. These topics should be
+redirected to the Recruiter to discuss with the candidate.
+Security Awareness for Interviewers
+Understanding the Concern
+We’ve identified increased risks from malicious actors attempting to gain employment under
+false identities. These individuals pose a significant security threat to GitLab as they may:
+Attempt to access sensitive company information
+Engage in extortion if discovered
+Use our systems to launch attacks against other organizations
+What We’re Doing About It
+Our Talent Acquisition team is partnering with Security to address these threats through:
+Working with the Digital Experience team to implement website-level filtering
+Creating spam logic to block submissions from suspicious email addresses and IP
+addresses
+Your Role as an Interviewer
+All interviews following a recruiter screen should take place on camera for both the candidate
+and interviewer. If the candidate is unable to use their camera because of technical issues, please
+indicate this in your interview notes. Seeing candidates on camera helps identify challenging
+interview situations, such as AI Deepfake avatars and multiple users interviewing as one
+candidate. If you have concerns about filters and odd behavior during an interview, please take a
+screenshot to send to the recruiter for reference who will then compare to other sources, such as
+LinkedIn or their recruiter screen. Trust your instincts- if something feels off or out of place, let
+your Talent Acquisition partner know.
+What to Watch For
+Candidates who refuse to turn on their camera without reasonable explanation
+Visual glitches that might suggest deepfake technology
+Multiple voices or people appearing to coach the candidate
+Inconsistent responses compared to written materials
+Reluctance to discuss background details that were in their application
+7. 
+8. 
+9. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+How to Respond
+Complete the interview professionally
+Document your concerns in detail in your interview notes
+Notify your Talent Acquisition partner immediately
+Share any screenshots or specific examples of concerning behavior
+If you have questions about this process, please contact your Recruiter who will connect you with
+the TA Enablement team.
+Competencies
+As mentioned, 80-85% of the interview should be for you to ask relevant job-related questions.
+Behavioral and situational interview questions are designed to assess a candidate’s past
+experiences and potential future actions through real-world examples and hypothetical
+scenarios.
+Remember that good interviews are consistent for everyone to ensure an objective and unbiased
+assessment of candidates throughout the process.
+Behavioral Interview Questions
+The goal of behavioral questions is to get the candidate to share data on past experiences.
+Previous behavior is considered the most effective indicator of how a person is going to act in the
+future. It is important to remember that skills and knowledge can be learned easier than habitual
+behaviors can be changed, especially when candidates are unaware of the impact of the
+undesired behaviors.
+The questions are usually in the form of: “Can you tell me about a time when…?”
+The kind of answer that we are looking for is to get a story that is structured following the 
+Situation, Task, Action, and Result (STAR). Ask for an overview, an executive summary, of the
+case at hand. In order to avoid lengthy answers from the candidate at this stage consider briefly
+explaining the STAR structure before asking your first behavioral question. Stating something like
+- “These questions are behavioral, so try and structure your response by briefly outlining the
+situation, describing the task to be performed, outlining the actions you took and explaining the
+results.”
+Some things to pay attention to:
+What the candidate chose to highlight in their response is important. Are you able to get
+enough specific information out of their explanation and your follow up questions to
+sufficiently evaluate their behavior?
+Is it clearly explained? Are you able to follow the information? If it is a technical story and
+you are a non-technical interviewer, are things being explained in a way that is easy to
+understand?
+Is there a result or was the story left unfinished? Is it still going on?
+Was the result measured in any way? How does the candidate validate the result and
+match the expectation? Was there an expectation set to begin with?
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+•

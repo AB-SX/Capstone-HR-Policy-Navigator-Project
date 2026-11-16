@@ -1,0 +1,144 @@
+Team Members in Brazil are entitled to three consecutive days of paid leave when they get
+married. Team members needing more time away should refer to our PTO policy.
+Please enter the time away in Workday and select the Paid Time Off option.
+Statutory Sick Leave
+In the event a team member in Brazil is unable to work due to illness, their pay will be
+supplemented up to 100% of their base salary until the 15th day of absence. After the 16th day of
+absence, team members are eligible to receive compensation paid by the Social Security
+Authorities.
+To ensure all statutory sick leave is tracked appropriately, please email the Absence Management
+Team (leaves@gitlab.com) to report your leave. Then enter the dates into Workday by selecting
+the Out Sick option.
+Statutory Cancer Screening Leave
+Effective April 2, 2026, team members in Brazil are entitled to three days of paid leave per 12-
+month period to attend preventive cancer screenings (HPV, breast, cervical, and prostate). This
+leave is separate from your standard PTO allotment and will not be deducted from your
+contractual vacation entitlement.
+To ensure this leave is recorded correctly, please email the Absence Management Team
+(leaves@gitlab.com) to report your leave. Proof of the exam will be required to justify the paid
+absence per Brazilian law.
+Sweden 🇸🇪
+Contact: help@remote.com
+Platform: Remote.com Sweden Portal
+All benefits listed below are administered and managed by Remote, providing comprehensive
+healthcare and retirement planning with Sweden’s social systems.
+Sweden Medical Coverage
+Enhanced healthcare options through Allianz private insurance to complement Sweden’s public
+healthcare system.
+Key Features
+Team Member Only: Included coverage through Remote
+Dependent Coverage: Effective 1 May 2026, $133.91 USD per month for a partner and
+$66.96 USD per month for children under 18.
+Enrollment Window: 30 days from start date, however if this window is missed team
+members can connect with remote, to check if the option can be unlocked. This may
+depend on circumstances.
+Management: Through ThanksBen platform
+Sweden Pension
+Mandatory enrollment in comprehensive pension plan with Nordnet Hållbar/SPP.
+Contribution rates are:
+Pensionable Salary between 0 and 7.5 x the Income Base Amount (IBA*) = 4.5%
+• 
+• 
+• 
+• 
+•
+
+On Pensionable Salary between 7.5 and 30 x the IBA = 30% No contributions are payable
+on Pensionable Salary above 30 x the IBA.
+The company pays all the contributions and no contributions are required from
+employees.
+Pensionable salary is defined as Basic Salary only.
+Membership of the pension scheme is open to employees aged 18 to 65.
+2024 Example: For 800,000 SEK salary with IBA of 76,200 SEK (2024 amount)
+7,5 IBA x 76 200 is= 571 500
+Up to a salary of 571 500 the employee has 4,5% contribution (coming from the
+employer), and above 571 500 (up to 800 000) they have a 30% contribution.
+There is also a roof of 30% IBA, so if an employee has an annual salary over 30 IBA (2
+286 000 SEK), there would be no contribution beyond that level.
+To the top of that amount, 24,26% taxes should be added.
+Voluntary Pension Contributions
+Team Members have the option to enroll in additional voluntary contributions (AVC) starting 1
+November 2025. This benefit is funded by voluntary contributions through salary exchange. Team
+Members who participate in this program will benefit from a tax reduction and increase in overall
+savings.
+Sweden Life Insurance
+Automatic group life insurance coverage for all Sweden-based team members.
+Key Features
+Lump sum benefit: 352,800 SEK for deaths before age 55 (or later with children under
+17)
+Benefit decreases with age
+Tax-free benefit payment
+Sweden Statutory Leave Policies
+Below is information related to Sweden’s statutory leave policies. Please note that team members
+hired in Sweden are hired via Remote (PEO) and you should always check with Remote first for
+the most up to date information.
+Parental (föräldraledighet) Leave
+Sweden’s Parental (föräldraledighet) Leave affords parents 480 days of leave; 390 of these days
+paid at a rate of 80% of your salary up to a capped limited of 1006 SEK a day. If you have twins,
+you are eligible for an additional 180 days. Parents are encouraged to split these days equally
+between them. However, it is possible for one parent to take up to 390 days of the 480 days. To do
+this the other parent has to ’transfer’ these days to the other parent.
+Eligibility As long as you are a legal resident of Sweden you are entitled to the basic parental
+leave payment which is 250 SEK a day. To claim your benefit and find out how much you are
+entitled to, employees should contact your local branch of Försäkringskassan.
+Holiday Leave
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Part-time and full-time employees are entitled to 25 days of paid time off per year. Employers are
+required to enforce the use of their employees’ vacation time. Employees may roll over vacation
+days for up to five years, but employers should not let employees fail to take time off.
+Sick Leave
+Employers in Sweden must compensate employees at 80% of their salary for the first 14 days of
+sick leave. For any sick leave beyond 14 days, employees must apply for long-term illness benefits
+with the Swedish Social Insurance Office.
+Italy 🇮🇹
+Contact: help@remote.com
+Platform: Remote.com Italy Portal
+All benefits listed below are administered and managed by Remote, providing enhanced
+healthcare coverage and comprehensive leave policies.
+Italy Medical Coverage
+Comprehensive healthcare coverage through multiple options designed to meet your family’s
+needs.
+Allianz Private Insurance
+Team Member Coverage: Available through Remote
+Dependent Coverage: Effective 1 May 2026, $196.00 USD per month for a partner and
+$98.00 USD per month for children under 18.
+Enrollment Window: 30 days from start date, however if this window is missed team
+members can connect with remote, to check if the option can be unlocked. This may
+depend on circumstances.
+Management: Through ThanksBen platform
+Resources: Remote Benefits Directory
+Government-Subsidized Healthcare
+Remote Benefits Directory
+Team members also have access to government-subsidized supplementary healthcare,
+either Fondo Est or Qu.AS, depending on their role. The annual cost for Fond Est is 24
+EUR paid by the team member and 120 EUR paid by the company. There’s more
+information on the Fondo Est website. The annual cost for Qu.AS. (available for quadro
+level only) is 56 EUR paid by the team member and 350 EUR paid by the company.
+There’s more information on the Qu.AS website.
+Pension and Life Insurance - As part of Remote payroll, mandatory contributions are
+made towards social security funds. Remote currently does not offer a supplementary
+pension but will be reviewing this in the upcoming year. The GitLab Life Insurance plan
+still applies.
+Italy Pension & Life Insurance
+Pension: Mandatory contributions to social security funds through Remote payroll.
+Supplementary pension options under review.
+Life Insurance: Access to GitLab’s company-wide life insurance policy.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

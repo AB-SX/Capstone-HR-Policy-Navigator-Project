@@ -1,0 +1,146 @@
+Navan will be implementing a Batched Payment system for team members who are
+reimbursed directly through Navan. If you submit multiple expenses during the week,
+Navan will batch these expenses into one single weekly payment that will be paid out on
+Mondays. These payments will include all approved expenses up until the Sunday
+evening prior, and should hit the team member’s bank accounts on Tuesday or
+Wednesday.
+PEO (Professional Employer Organization/ Employer of Record and not a GitLab entity
+or Branch)
+PEO Locations
+The list of locations under a PEO can be found on the payroll page.
+Team Members must submit their expenses through Navan.
+All expenses must be submitted and approved by the Accounts Payable team (for out of
+policy expenses) on or before the 3rd of each month to ensure it is included in the
+current month’s payroll.
+Papaya Italy
+Team members hired in Italy under the Dirigente classification submit expenses via GitLab’s
+expense system, Navan, but Papaya also requires their own template to process business
+expenses through payroll. Navan does not automatically pay out expenses for PEO workers, so
+manual submission to Papaya is required in addition to Navan.
+Expense Submission Process for Business Travel
+Team member downloads & completes Papaya’s expense template for each trip or
+expense. Note: Each trip must be submitted on a separate template; multiple trips
+cannot be combined into one.
+Team member saves the completed template as a PDF.
+Team member uploads the PDF to Navan alongside their receipts, as normal.
+Payroll adds the approved expenses to that month’s payroll changes and submits them
+to Papaya for processing by the agreed cut-off for the relevant month.
+Business Travel vs. Day-to-Day Expenses
+Business travel expenses (flights, accommodation, etc., typically for trips of more than 1 day)
+must be submitted separately from day-to-day expenses.
+For business trips, each entry in the template must include: location, duration, purpose, and
+supporting screenshots/receipts.
+iiPay
+Team Members must submit their expenses through Navan.
+All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by
+the 22nd of each month. All expenses must be submitted and approved by the Accounts
+Payable team (for out of policy expenses) by the 3rd of each month to be included in the
+current month payment. For contractors with C2C status, be sure to contact the Payroll
+team via Compass and submit a request under the Expenses -> General Expenses page
+of Compass if you need to set up a separate bank for your expense reimbursement.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+• 
+•
+
+CXC Global
+The list of CXC countries can be found here.
+Team Members must submit their expenses through Navan.
+All expenses must be submitted and approved by the Accounts Payable team (for out of
+policy expenses) on or before the 3rd of each month to ensure it is included in the
+current month’s payroll.
+GitLab Payroll Team will send the approved expense amount to CXC EMEA Payroll to
+include with the monthly salary.
+Team Members must include the approved expense amount on their monthly invoice as
+well.
+4.5 Submitting Expenses on Behalf (or Requested By) Team Member’s Manager
+A Team Member submitting expenses on behalf of their manager is a violation of our
+Expense policy and GitLab’s internal controls. The AP team will review these on a
+quarterly basis during their review of the quarterly Manager issue. If this is found during
+the expense review process, the following actions will take place:
+AP Admins to notify the Team Member, the Team Member’s manager, the Team Member
+manager’s manager, and Finance leadership team of the violation.
+The expense is to be repaid to GitLab immediately and the Team Member’s manager will
+need to resubmit the expense themselves.
+5. Physical Cards
+Please see Navan Physical Card policy here.
+6. Purchase Cards
+Navan Purchase Card
+These virtual cards within Navan are only utilized by the AP team, and they are used solely for
+providing new Team Members with a $1,500 USD (or local currency equivalent) stipend for their
+home office set up. These cards were set up to ensure that Team Members do not spend outside
+of this amount, as well as ensuring the stipend is only available during their first year of
+employment. Within the controls in Navan, these cards are only accessible to the AP Admins
+team, and are not accessible to Team Members.
+7. OTHER
+Setting up your Navan Account
+Below is some more information to help you get set up with your Navan account.
+Log into Okta and click the Navan tile.
+Once you are in your dashboard, make sure to set up your info in your profile (see link
+from drop down menu under your name).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Add your passport information to your profile (only passport information is accepted),
+this will populate your info directly when booking a flight.
+Team members can view if their reimbursements have been processed successfully or
+failed on both mobile and desktop versions. If the reimbursement fails, the team
+member will receive a notification and how to fix it in Navan.
+Now let’s start booking!
+Navan End Users Guide
+Please refer to the Navan End Users Guide for instructions on how to use the Navan
+Expense Tool. Any related questions can be directed to the team via Compass.
+Navan Loyalty Program
+Travelers earn Navan Loyalty Points when booking hotels in Navan.
+Users who book hotels for others will also earn loyalty points.
+The Navan Loyalty Program is visible in the platform, with a new loyalty program profile
+page to track your earn and redemption activity. Team members are able to redeem
+loyalty points for personal travel hotels. Users can redeem as little or as many loyalty
+points as desired - they can pay partially with loyalty points and partially with a personal
+credit card if team members don’t have enough loyalty points to cover the full cost of
+the booking. Loyalty Points will be a form of payment on checkout when selecting a
+prepaid hotel rate.
+All loyalty points can be retained by a user when they leave their company by activating
+a personal-only account. Companies cannot take back earned rewards.
+Sustainable travel considerations
+Even as an all-remote company, GitLab recognizes that some travel is necessary. These
+considerations aim to reduce the environmental impact of travel:
+Prefer virtual meetings and attendance over personal meetings, except when the event’s
+objective is enhanced by meeting in real life.
+For short-distance travel, consider ground travel over air travel for information on short
+distance travel recommendations visit these examples from the University of Bern, 
+University of Lund.
+Select trips with lower carbon emissions. When booking travel through Navan
+Tripactions you can view the total CO2 footprint for at the checkout screen.
+If you organize an in-person meeting, aim for a location that allows as many people as
+possible to travel in a sustainable way.
+Carbon offsets offered by airlines have dubious value, so aim to avoid air travel where it
+makes sense.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

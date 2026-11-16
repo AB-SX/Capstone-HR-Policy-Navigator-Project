@@ -1,0 +1,95 @@
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/engagement/
+032. Engagement Surveys and Employer Awards
+Engagement Surveys and Employer Awards
+GitLab uses engagement surveys to allow team members to provide feedback and leadership to
+gain insight.
+Surveys Overview
+As an all-remote company, there are several surveys we run to better understand the GitLab
+culture, team member engagement, and overall health of the organization.
+Seeking inputs from team members by surveying people is a key part of GitLab’s engagement
+strategy and helps the People Group to align our priorities to the areas team members care
+about most.
+There are different survey types that we run at different times throughout the year, each with
+different intended outcomes:
+Employer Award surveys: we ask team members to complete employer award surveys (i.e.
+Great Place to Work) to understand how GitLab compares against our talent competitors
+and to give future candidates insight into what it would look like to work here. The
+process for selecting and participating in employer award surveys is outlined in the
+Talent Brand section of the handbook.
+Engagement survey: We partner with CultureAmp to host and run our engagement
+surveys. We ask all team members to complete this survey at least once a year to
+understand how engagement is tracking over time.
+Organizational Health survey: we will sometimes run a survey to understand our company
+and culture more fully (i.e. McKinsey OHI survey) and classify these efforts as
+Organizational Health surveys.
+Employer Award surveys
+Great Place to Work
+Great Place to Work recognizes companies for their outstanding workplace culture, benefits and
+performance through successful completion of a regional team member survey and culture brief
+application. They partner with Fortune to produce the Fortune 100 Best Companies list annually.
+The survey is based off of the following components:
+US-based respondents only
+Surveyed over a 2-week period
+61 Statements
+14 On-Survey Demographic Questions
+2 Open-Ended Questions
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5.
+
+FY26 Great Place to Work Survey Results
+GitLab received Great Place to Work Certification for the 5th year in a row in the US in April 2025
+and was recognized as a top employer where team members are proud to work.
+87% average of all statements
+92% of team members say GitLab is a Great Place to Work
+Read more about the survey results.
+FY25 Great Place to Work Survey Results
+GitLab received Great Place to Work Certification for the 4th year in a row in the US in May 2024
+and was recognized as a top employer where team members are proud to work.
+87% average of all statements
+93% of team members say GitLab is a Great Place to Work
+Read more about the survey results.
+FY24 Great Place to Work Survey Results
+GitLab received Great Place to Work Certification for the 3rd year in a row in the US in May 2023
+and was recognized for our outstanding company culture.
+85% average of all statements
+89% of team members say GitLab is a Great Place to Work
+Read more about the survey results.
+FY23 Great Place to Work Survey Result
+GitLab received Great Place to Work Certification for the 2nd year in a row in the US in December
+2021 and was recognized for our outstanding company culture.
+93% average of all statements
+96% of team members say GitLab is a Great Place to Work
+Read more about the survey results.
+CultureAmp Engagement Survey Overview
+Team Member Engagement is important to the continued success of GitLab making the
+Engagement Survey an important element within the annual People Group calendar. Engagement
+strategies have been shown to reduce attrition; improve productivity and efficiency; further
+embed the company values and ultimately enhance role satisfaction.
+We partner with CultureAmp to run our Engagement Surveys. CultureAmp provides a platform to
+gather feedback confidentially, benchmark against external comparables, and uses algorithms to
+highlight which areas matter most to our team members.
+Engagement surveys are geared toward giving team members an opportunity to provide
+feedback in terms of their experience within GitLab touching on pertinent elements such as 
+Company Culture, Teamwork, Management and Inclusion among others.
+Feedback from the survey in turn allows Leadership within GitLab to gain insight into what is
+most important to team members, in particular what the business is doing well and what may
+need future iteration with the intention of improving the underlying team member experience
+and ensuring healthy levels of attrition are maintained.
+1. 
+2. 
+1. 
+2. 
+1. 
+2. 
+1. 
+2.

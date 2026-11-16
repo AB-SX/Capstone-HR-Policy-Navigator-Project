@@ -1,0 +1,168 @@
+Topic Resource(s)
+should be able to
+answer?
+Where can I learn
+about GitLab High
+Availability, Data
+Resiliency and
+Performance?
+- Check out the Operational Efficiencies & Flexible Hosting Options with Gitaly
+Cluster video. (Dec 2021, 30 minutes)
+Where can I learn
+about GitLab Cloud
+Licensing?
+- Check out the GitLab Cloud Licensing Update video. (Mar 2022, 30 minutes)
+Functional and Technical Skills & Processes
+To optimize productivity, GitLab field team members must be able to consistently demonstrate
+the skills and behaviors (including adherence to standard processes and use of tools like
+Salesforce, Gainsight, and others) that lead to desired outcomes. These functional and technical
+skills and processes are complementary and in addition to GitLab’s Values and Remote Working
+competencies.
+Topic Resource(s)
+GitLab Sales Plays - FY23-Q3 Revenue Play: Winning with Ultimate (Aug 2022, 17 minutes) - Sales Play:
+GitLab Runner & CI (Feb 2022, 30 minutes) - Sales Play: Infrastructure Automation
+with GitOps (May 2021, 30 minutes) - GitLab Premium to GitLab Ultimate Sales
+Playbook Launch (Apr 2021, 25 minutes)
+Qualification Best
+Practices
+- Figuring out if you truly have an opportunity (Dec 2020, 25 minutes)
+What are the
+critical skills and
+behaviors needed
+to succeed in a
+field role at GitLab?
+- Field Functional Competencies
+What is social
+selling?
+- Social Selling Handbook page - Social Selling Basics presentation
+How do I find out
+what version of
+GitLab my
+customers are
+using? How do I
+find organizations
+in my patch using
+GitLab CE?
+- Version.GitLab.Com Walk-Through (Jul 2019, 8.5 minutes)
+What does a good
+discovery call look
+like?
+- Anatomy of a Successful Discovery Call (Jul 2019, 21 minutes)
+
+Topic Resource(s)
+How do I lead with
+insights?
+- Working with Analyst Relations (Jan 2023, 30 minutes) - Pipeline Creation - Leading
+with Insights (Nov 2019, 10 minutes)
+How can I
+successfully
+engage with
+Channel / Alliance
+Partners?
+- FY24-Q1 Channel Program Update (Apr 2023, 30 minutes) - Co-Selling with Oracle
+Cloud Infrastructure (Mar 2023, 20 minutes) - CDW & Arctiq - Partner Solution
+Showcase (Feb 2023, 21 minutes) - VMWare Partnership and Go-to-Market
+Approaches (Sep 2022, 31 minutes) - Q3 FY23 Channel Update (Aug 2022, 30
+minutes) - Alliance Technology Partner Solutions (June 2022, 24 minutes) - Q1 FY23
+Channel Update (February 2022, 30 minutes) - GitLab on IBM Power -
+Modernization (January 2022, 30 minutes) - GitLab & Service Now: Better Together
+(August 2021, 30 minutes) - Q3 FY22 Channel Update: Overview of Partner Program
+& Sales Systems Changes (August 2021, 30 minutes) - Q2 FY22 Alliances Update:
+The Importance of Ecosystem Partners (July 2021, 12 minutes) - Q2 FY22 Channel
+Program Update (May 2021, 30 minutes) - Co-selling with AWS (Apr 2021, 30
+minutes) - Co-selling with GCP (Mar 2021, 30 minutes) - GitLab & IBM - Better
+Together (Mar 2021, 30 minutes) - The GitLab / RedHat Partnership (Jan 2021, 30
+minutes) - Deal Registration Program and Working with Partners (Dec 2020, 30
+minutes) - Maximizing Value of Partners in a Deal (Nov 2020, 30 minutes) - Channel
+Partner Success for GitLab Sellers (Jul 2020, 30 minutes)
+How can I
+accelerate my
+pipeline with AWS?
+- AWS Alliances: New AWS Marketplace listing and upcoming Credit Promotion (May
+2022, 33 minutes) - Best Practices for Co-Selling with AWS (Feb 2022, 25 minutes) - 
+Accelerating Your Pipeline with AWS for GitLab Sellers (Sep 2020, 30 minutes)
+What is DocuSign
+and how do I use
+it?
+- Q2 FY22 Docusign Rollout (May 2021, 18 minutes)
+How do I forecast
+at GitLab?
+- Sales Forecasting at GitLab
+What is Chorus.ai
+and how do I use
+it?
+- Chorus Native Zoom Recent Changes - Zoom Desktop client vs. Browser client
+when using Chorus - Chorus FAQs: Stop & Start a Recording - Chorus.ai is a leading
+conversation intelligence platform - How to find a call in Chorus (Jul 2019, 4
+minutes) - How to review a call in Chorus (Jul 2019, 7 minutes) - How to comment
+and share moments in Chorus (Jul 2019, 5 minutes) - How to gain compliance on
+recorded calls (primarily for NA) (Jul 2019, 6 minutes)
+Where do I learn
+about quarterly co-
+terms?
+- Quarterly Co-Terms May 2020 Update (May 2020, 27 minutes)
+How do I find
+customer
+references?
+- Q1 FY23 Customer References Update (Mar 2022, 17 minutes) - Reference Edge -
+Customer Reference Process video (Jan 2020, 25 minutes)
+Presentation skills - How to Avoid Death by PowerPoint (20 minutes)
+How should I work
+with the GitLab
+Legal team?
+- Basics of Legal Subscription Agreements (Sep 2022, 27 minutes) - Sales Guide:
+Collaborating with GitLab Legal
+What are sales
+negotiation and
+closing best
+- Co-Selling Executive Business Reviews (September 2021, 30 minutes) - Negotiate
+to Close Handbook page - Closing Best Practices (27 minutes, July 2020) - Deal
+Structure Best Practices (28 minutes, October 2020)
+
+Topic Resource(s)
+practices at
+GitLab?
+Proof of Value for
+SAs
+- Proof of Value Review
+Customer
+Onboarding for
+Customer Success
+Managers (CSMs)
+- Customer Onboarding Custom Object Video (Nov 2019, 17 minutes) - Customer
+Onboarding Custom Object Deck - Customer Onboarding SalesForce Dashboard
+Gainsight for SAEs - Office Hours for Gainsight & Account Planning (May 2021, 25 minutes) - Gainsight
+Overview (May 2020, 6.5 minutes) - Gainsight Overview for Sales (Aug 2020, 27
+minutes) - Gainsight View Only Licenses (July 2020, 9 minutes)
+Gainsight for CSMs - Using Gainsight within Customer Success Handbook page Success Plans
+Handbook page - Gainsight Foundations (overview of the Gainsight NXT Platform
+and a brief demo of key capabilities) (26 minutes) - Gainsight Reports and
+Dashboards (overview of how to leverage dashboards within the tool to make
+better decisions on managing your accounts) (19 minutes) - Calls to Action (CTA),
+Playbooks, and the Cockpit (overview of Calls to Action (CTAs) in the Cockpit, the
+tool to manage customer outreach, as well as playbooks) (23 minutes) - 360 View,
+Health Scores, and Timeline (overview of the 360 feature for research and call prep,
+Timeline for centralized note-taking, and an overview of health scores and trend
+insights) (34 minutes) - Sally Bot in Slack (overview of what Sally is and how to use it)
+(15 minutes)
+Other - Things I Wish I Knew During My First Few Quarters at GitLab video (Aug 2019, 25.5
+minutes) - Sessions (presentations, videos) from GitLab Sales Kickoff 2021 - Sessions
+from GitLab Sales Kickoff 2020
+Where can I go to
+learn more?
+- Bookmark the GitLab Sales Handbook - Upcoming and past Level Up sales
+enablement webcasts - Technical Skills Exchange GitLab Unfiltered playlist on
+YouTube - Check out past Customer Experience meetings where new features from
+recent product releases are discussed and/or demo’ed
+Field Enablement Spotlight Sessions
+Live sales enablement sessions are held every Thursday from 12:00-12:30pm ET with the
+exception of the last two weeks of every quarter. Sessions are recorded and published to 
+Highspot, made available for on-demand playback, and added to the inventory above. Learn
+more here.
+Additional Notes
+Learn about GitLab customer training on the GitLab Training Tracks site
+Learn about the weekly GitLab Field Enablement Spotlight series
+Learn about the weekly GitLab SDR Enablement webcast series
+• 
+• 
+•

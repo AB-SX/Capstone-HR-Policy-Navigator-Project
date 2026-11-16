@@ -1,0 +1,155 @@
+Class of Service
+One class of upgrade is permitted with Manager approval for team members over 6'5"/
+2m in height.
+Domestic Flights
+Flights over 5 hours of consecutive flight time - For domestic flights with a duration
+greater than 5 hours of consecutive flight time (each segment must be 5+ hours), team
+members are authorized to book the next class up from standard economy as long as it
+is below business class.
+International Flights
+Flights greater than 5 hours of consecutive flight time - For international flights with
+a duration greater than 5 hours of consecutive flight time (each segment must be 5+
+hours), team members are authorized to book the next class up from standard economy
+as long as it is below business class.
+Flights exceeding 8 hours of consecutive flight time - For those who travel frequently,
+defined as 3 or more trips per quarter internationally on flights of 8 hrs+ continuous
+flight time (minimum 6 flight segments with 8+ hours per segment), business class is
+permitted when traveling for any of the following reasons:
+Meeting with customers
+Speaking engagement
+Representing GitLab at a conference
+Frequent Flyer Programs
+Participation in frequent flyer programs must not influence airfare selection if it results
+in an out-of-policy option.
+Team Members may use personal frequent flyer miles or points for upgrades on
+business travel, however, Team Members will not be reimbursed for any respective
+charges.
+Cancellations, Unused Tickets and Exchanges
+Team Members are responsible for canceling trips that they will no longer be able to
+attend.
+Flight cancellations typically result in flight credit/unused tickets that can be used going
+forward.
+Unused tickets must be used for future business travel whenever possible. If the Team
+Member knows they won’t be able to use the ticket, please submit a request under the 
+Expenses -> Travel Related Expenses page of Compass.
+Team Members may not personally benefit from any unused airline tickets.
+Please reach out to Navan Support if you need to change a flight.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Common Out-of-policy Airfare Flags in Navan
+The system automatically flags the following as out-of-policy:
+Flight price selected is more expensive than the cheapest option + our buffer
+Out-of-policy air class is selected
+Flights booked less than 14 days in advance
+If the flight selected triggers any of these criteria, an email will automatically be sent to
+your manager for approval. Please provide sufficient reasoning to make approval easier
+and faster.
+After 24 hours without any manual action (approved/denied) the booking will
+automatically be accepted.
+Coding
+Expense Type / Navan Policy Category: Airfare
+Car Rental
+Rental Cars are reimbursable and should be booked through Navan, up to the
+intermediate car class, with a 7 day booking lead time.
+Please note that anything booked outside of Navan will flag as “Out of Policy”, and will
+need to be reviewed by your manager and the AP team.
+Navan Confirmation should be attached to the claim along with the Car Rental Receipt.
+Team Members can claim gas expenses but not mileage, when renting a car.
+Fuel at $300 limit per day.
+Additional Car Rental Guidelines
+A. Third Party Liability
+Purchase the liability insurance that is excess of the standard inclusion of State minimum
+coverage in the rental agreement at the rental agency. GitLab’s insurance policy provides liability
+insurance for rental cars while conducting company business, but it may be excess over any
+underlying liability coverage through the driver or credit card company used to purchase the
+rental.
+Purchase the liability offered at the rental counter if there are Non-US Team Members renting
+autos in the US or Canada. While workers’ compensation would protect an injured US Team
+Member, other passengers may have the right to sue. To ensure that GitLab has protection when
+a Non-US Team Member invites another person into the car we recommend the purchase of this
+insurance when offered at the rental counter.
+B. Physical Damage - Collision Damage Waiver
+Do Not purchase the Collision Damage Waiver offered at the rental counter. GitLab purchases
+coverage for damage to rented vehicles. If travel to Mexico is required, purchase the liability
+insurance for Mexico offered at the rental counter. You should verify that the rental agreement
+clearly states that the vehicle may be driven into Mexico and liability coverage will apply.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Countries other than the US and Canada:
+Third Party Liability
+Purchase the liability insurance offered at the rental counter when traveling outside the
+US and Canada. Automobile Bodily Injury and Property Damage Liability insurance are
+required by law in almost every country. Please verify this coverage is included with the
+rental agreement.
+Physical Damage - Collision Damage Waiver
+Purchase the Collision Damage Waiver or Physical Damage Coverage offered by the
+rental agency when traveling outside the US and Canada.
+In the event of an accident resulting in damage to the rental car, the Non-US rental agency will
+charge the credit card used to make the reservation with an estimated amount of repair costs if
+insurance is not purchased. If this happens, GitLab does not purchase Foreign Corporate Hired
+Auto Physical Damage Coverage to reimburse for damages.
+Coding
+Expense Type / Navan Policy Category: Rental cars
+Hotels
+When you book Hotels through Navan Travel, hotel room charges and the applicable
+taxes will be paid directly by GitLab through a central virtual card - the same way the
+company handles flights and train travel. The virtual card details will appear in Navan,
+our travel and expense platform, 24 hours before check-in and the hotel will
+automatically charge your room and taxes to this card.
+If you do not incur any additional hotel charges, there will be no need to submit an
+expense report for your stay.
+You will still be required to provide a personal credit card at check-in for any potential
+charges, such as room service, parking, minibar, or other extras.
+Incidental expenses that are business-related and within policy still are required to be
+submitted through an expense report.
+Further information can be found on Navan Help Centre
+When hotel rooms are booked outside Navan - approval required by Manager and AP
+Admin.
+Hotel stays are reimbursable up to $300 USD (or equivalent local currency) inclusive of
+tax per night for standard rooms, with a 7 day booking lead time.
+However, the lodging policy in Navan is set up as a “Dynamic Policy” which calculates a
+fair market price for every search based on travel dates and destinations. This allows for
+some room in price in case the $300 USD limit is really not applicable to that area. And
+similar to airfare, any purchases that are over 20% of the Dynamic Policy will be flagged
+for further review by your manager.
+Always choose the refundable room booking unless the only available option is a non
+refundable room.
+The exception is the Corporate Events hotel room blocks organized by the internal team
+or if the conference hotel room block has better pricing than Navan.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

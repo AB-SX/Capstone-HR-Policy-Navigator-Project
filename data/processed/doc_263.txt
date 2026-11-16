@@ -1,0 +1,112 @@
+External Training Recommendations
+Recommended courses, learning paths and certifications from external training partners for
+Support Engineers
+Support Hybrid Learning Path Checkpoint
+Checkpoints for new starters who are working through their support hybrid learning path. This is
+a guide only, progress is not linear.
+Support Onboarding Buddy
+How to be an onboarding buddy to a new Support Engineer
+Support Team Skill Areas
+Single source of truth (SSoT) for GitLab Support's skill areas based on the product categories.
+Support Training Module Maintainer
+Understanding the role of a Support training module maintainer
+Support Training Specialised Domain Tracks
+Structured learning pathways grouping related training modules into domain tracks for building
+deep expertise
+Transition training module to LevelUp
+How to transition a support training module to LevelUp
+Last modified September 21, 2026: Add using ai in support to onboarding (77bc68d9)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/general-onboarding/tanewki-tips/
+099. TaNewKi Tips
+TaNewKi Tips
+New Hires Guide to Starting at GitLab
+Welcome to the Team
+We’re thrilled that you will be joining GitLab! This guide will walk new hires through what to
+expect before and during your first few weeks with us.
+Meet the People Operations team
+The People Operations team will be your primary guide throughout onboarding and your journey
+at GitLab. A team member from the People Operations team will be assigned to your Onboarding
+Issue to provide guidance as you begin.
+Your Onboarding Journey
+Before Your First Day
+Equipment Setup
+Watch for your Welcome Email from the Candidate Experience Specialist team with
+instructions for ordering your laptop
+Please note that your laptop will be locked and will only be unlocked on your official first
+day (start date). You will then be able to complete the necessary onboarding steps and
+relevant access per the below.
+Documentation
+US new hires: Complete your I9 via LawLogix (email arrives one week before start date)
+Belgium/Japan new hires: Look for an email from People Operations regarding payroll
+documents
+Team Members in certain countries: Watch for communications from our external
+partners:
+France, Germany, Singapore, UK, New Zealand, Australia, Ireland, Spain, India, Israel:
+Papaya
+Netherlands: HR Savvy
+South Korea: Global Upside/Safeguard
+PEO locations: The PEO will contact you for necessary documentation
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Pre-Start Communications
+Join our TaNEWki call to meet other new team members (invite sent 1-2 weeks before
+start).
+You will receive an email from Okta (our SSO/security application portal) with an invite to
+register. Please do not take action on this email until you receive your onboarding
+welcome email on your first day with us. This will ensure that no issues are experienced
+with your access levels on your first day.
+Your GitLab email address will be created using your first name initial and full last name
+@gitlab.com. If you have a preferred first name or preferred last name, please send the
+People Operations team an email to people_operations@gitlab.com to let us know your
+preferred name. Please note that some security restrictions may apply.
+First day
+Getting Started
+Begin your workday whenever feels comfortable—we embrace non-linear workdays.
+Our welcome email is sent at around 6am local time.
+Check your personal email for onboarding instructions:
+1. Go back to the Okta email you received the day before your start date. This email will
+allow you to activate your Okta account and also links you to the respective laptop
+setups and the steps to follow:
+macOS
+Linux OS
+2. Once you have activated your Okta account and setup your laptop, proceed
+with checking the welcome email to register your GitLab username (via
+accessing your GitLab email).
+3. You will then be able to access your personalized GitLab onboarding issue.
+4. You will also receive an invite from 1Password (for secure password
+management), please be sure to activate your account and store any
+passwords in your personal vault.
+Navigating Onboarding
+The onboarding process is self-paced, but items marked with 🔴 should be completed
+on the assigned day. For the other tasks, the breakdown of days are there as a guideline,
+please do not work beyond your working hours to feel you need to complete the tasks.
+Take your time—you have two full weeks dedicated to onboarding. You also have the
+support of your manager, onboarding buddy and the whole of GitLab to help you along
+your journey.
+Reach out to the People Operations team or IT Ops via Compass or Slack whenever you
+need assistance.
+There is plenty of helpful content in the onboarding issue and, applicable Handbook
+pages to read. Consider enabling one of the helpful text to speech tools in the Helpful
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+•

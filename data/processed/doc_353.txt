@@ -1,0 +1,40 @@
+Feedback
+Your feedback on onboarding helps us improve it. Share it with your manager, in the onboarding
+feedback issue
+linked from the internal handbook, or in #field-enablement-team on Slack.
+Last modified October 9, 2026: Restructure the public CSE handbook pages (c92d6b20)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/solutions-architects/sa-enablement/sa-onboarding/
+135. Solutions Architects Onboarding
+Solutions Architects Onboarding
+Onboarding Program for Solutions Architects (SA).
+View the SA Handbook homepage for additional SA-related handbook pages.
+Overview
+The SA onboarding program is designed to get new Solutions Architects (SAs), Associate SAs
+(ASAs), and SA Managers up to speed quickly and confidently. Onboarding combines self-paced
+learning, live virtual sessions, and on-the-job support from your manager and SA buddy.
+Questions? Join #sa-onboarding-hub in Slack.
+Who This Program Is For
+New Solutions Architects — full onboarding program
+New Associate Solutions Architects (ASAs) — onboarding track mirrors the SA
+program
+New SA Managers — manager-specific onboarding track in development; see your
+manager for interim guidance
+Program Components
+GitLab Academy
+All new SAs participate in GitLab Academy — GitLab’s GTM onboarding program. GitLab Academy
+includes a self-paced learning paths, virtual role-based workshops (SA Bootcamp), and a
+mandatory in-person certification that culminates in a graduation ceremony.
+SA-Specific Courses
+New SAs complete two role-based courses in LevelUp covering the SA role, GitLab’s sales
+methodology, how SAs work day to day, and the GitLab platform and key use cases.
+SA Role-Based Certification
+A certification completed as part of onboarding that validates readiness to engage with
+customers independently.
+For full details, see the GitLab Academy handbook page.
+• 
+• 
+•

@@ -1,0 +1,149 @@
+If the promotion is considered an exception, please follow the steps outlined in the How
+to Process an Exception: Submitting an out-of-cycle Promotion request in Workday.
+Things to consider before you start the process:
+There will be situations when a team member is ready to move to the next level through
+a promotion, however, due to the nature of the business, that particular role or next
+level may not be available. For example, the team member is ready for a Manager or
+Director role, however, the business does not have the need, budget or scope for an
+additional manager/director at that time. The position may or may not become available
+in the future.
+If the vacancy is being advertised via the jobs page the individual must submit an
+application for the role. Similarly, if there is no vacancy posting, one must be created
+and shared on the #new-vacancies Slack channel so that everyone has the opportunity to
+apply and be considered.
+Recommending a Compensation Increase
+At GitLab, we ensure that promotions are impactful from the compensation perspective and are
+equitable to peers in the same role. Managers propose a recommended increase in cash
+compensation for their direct report. If you have any questions feel free to reach out to your
+People Business Partner or the Total Rewards Team.
+Promotion Compensation Guidelines
+When a team member is promoted from one level to the next in the same job family, it is
+typical to be brought between the minimum and median of the compensation range.
+The Total Rewards Team typically recommends a 5%-10% increase as part of the
+promotion to cash compensation. Additional equity is fixed based on equity for
+promotions.
+Benchmarking data relays that typically 4-8% of your population will be promoted
+annually with an average of a 4.1% increase to base salary.
+Any promotions with the following conditions will require additional justification to the
+Total Rewards team and executive approver. Please add the business justification as a
+comment in the promotion worksheet.
+1. An increase of more than 10%
+Transfer Compensation Guidelines
+When reviewing compensation for a transfer in Greenhouse, the Total Rewards team will ensure
+internal equity among like roles ahead of approving the offer details using the following general
+guidelines:
+Lateral Transfer (different or same job family, same grade): Typically we expect a
+team member to receive no increase for a lateral transfer. This includes team members
+receiving a change in territory, segment, or specialty with no change in grade or job
+level.
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+1.
+
+Promotional Transfer (different or same job family, higher grade): Typically we
+expect team members to receive a 5-10% increase (aligned to the promotional expected
+increase).
+Other Transfer types: There are other transfers that can be reviewed on a case by case
+basis. For example, if someone is transferring to a lower grade in a different or same job
+family, compensation may be adjusted down to ensure alignment to market rates for
+the role. Please tag the Total Rewards team in Greenhouse to conduct a review.
+Workday Out-of-Cycle Promotion Approval Process
+This section describes the approval chain after the People Business Partner submits a promotion
+request in Workday.
+The changes will route for approval to the manager, next level manager, and e-Group
+leader.
+If the request is approved, the People Operations Team will stage the Job Change Letter
+in DocuSign.
+DocuSign will prompt the manager to discuss the promotion with the team member. The
+Manager will communicate the change to the team member in their 1-1 meeting by
+sharing the job change letter on the call. The Manager and the team member will
+process/sign the letter. Following the signatures, the manager will announce the
+promotion on the slack #team-member-updates channel. In the announcement the
+manager will describe how the individual met the promotion criteria and offer
+congratulations.
+For change of departments and managers, People Operations Team members will
+create a Organization Change Checklist Issue.
+For People Operations Team: Processing Promotions, Internal Transfers &
+Compensation Changes
+If the request is approved through Workday, the People Operations Team will create the 
+Job Change Letter, whereas if the request is through Greenhouse the People Operations
+Team will be notified via the People Operations team email inbox that the Job
+Change Letter has been created by the CES team and signed.
+Job Change Letter
+Review the Signature requirements per country and process the job change letter
+accordingly. Please note not all entities and country locations require Job Change Letters
+(for example team members in the US will not receive a Job Change Letter).
+Make a copy of the applicable Job Change Letter template and enter all applicable
+information based on the Workday request and add the applicable Signatory or 
+Company Signature Stamp. The effective date is as follows:
+* For sales personnel with a variable change, the effective date is always the 1st of the
+month regardless of their entity.
+* If the team member is making a lateral move where there is no change in
+compensation, then the start date can be any Monday.
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+1. 
+1. 
+2.
+
+* For US team members, the effective date should be either the 1st or the 16th. If the 
+payroll cut off date has passed for the current pay period, the effective date should be
+made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar
+should be referenced when determining the effective date.
+* For example, if the change is being processed on June 22, since this date is before the
+payroll cut off date of June 23, the effective date should be June 16.
+* If the change instead is being processed on June 25, the effective date should be July 1
+since this is after the payroll cut off date.
+* For Canada team members, the effective should be the start of the pay period closest
+to, but not after the payroll cut off date depending on when the change is processed.
+The GitLab Canada Corp Payroll calendar should be referenced when determining the
+effective date.
+* For example, if the change is being processed on June 15, since the payroll cut off date
+of June 6 has passed, this would go to the next pay period with a cut off date of June 20.
+The corresponding start of the pay period for the June 20 cut off date is June 21 so June
+21 should be the effective date.
+* For all other changes, the effective date should be the first of the current month if
+processed on or before the 8th of the month and the first of the next month if processed
+after the 8th of the month.
+* For example, if a GitLab Ltd team member has a change being processed on June 7,
+this would be effective June 1.
+* If the change was instead being processed on June 15, this would be effective July 1.
+Equity compensation should not be included in job change letters for anyone outside of
+the US. Please ensure that a separate letter with the RSU information is included with
+the job change letter.
+If the team member is employed in France please share the Job Change Letter with the
+Legal Employment team so they can confirm the classification in the letter.
+If only the company stamp is required the letter should get emailed to the team
+member’s manager to communicate the change
+If e-signatures are required stage the letter in DocuSign and add the following team
+members to sign via their GitLab email addresses:
+* Add radio button (Delete the additional one) for the Manager to communicate the
+change to the team member by sharing the job change letter during the 1:1 Zoom call
+and then again add one radio button to (Delete the additional one) announce on the 
+#team-member-updates Slack channel.
+* Add signature field for the team member
+* Add sign date field for the team member
+* Note: Make sure that a) “Set signing order” option has been selected while preparing
+the doc, and b) Select radio button instead of checkboxes as only radio button allows
+you to select the required field/mandatory field option. This prohibits the Manager to
+process the letter without checking the tasks on the letters.
+Save the signed letter to the respective team members Documents Tab within their
+Workday Profile.
+If the here mentioned criteria for an Organization Change Checklist is met the People
+Operations Specialists will receive an alert from Workday and ensure that an issue is
+opened for the transitioning team member.
+3. 
+4. 
+5. 
+6. 
+7. 
+8.

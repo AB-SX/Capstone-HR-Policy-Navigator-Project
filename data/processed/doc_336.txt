@@ -1,0 +1,70 @@
+Mission
+“To build a community for parents, parents to be, caregivers, and family life allies that promotes
+the advancement, cultural awareness, and professional development of navigating the
+challenges of workplace and family life balance.”
+Leads
+Charlie Ablett [Co-Lead]
+Andy Schoenen [Co-Lead]
+Executive Sponsors
+TBA
+Events and Information
+Please see the Caregivers TMRG page on the Loop
+Caregiver Resources at GitLab
+Flexible PTO
+Financial Wellness
+Care Concierge Pilot
+Family Planning
+Parental Leave
+caregivers-tmrg Slack channel
+caregivers-of-neurodiversity Slack channel - for
+those caring for neurodiverse people
+motherhood - for mothers (private channel)
+Last modified November 14, 2025: Moving TMRG/TMAG pages under DIB TMRG/TMAG new
+structure on Handbook (2717bc48)
+View page source
+ 
+ .
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+
+Source: https://handbook.gitlab.com/handbook/company/culture/all-remote/remote-benefits/
+131. A complete guide to the benefits of an all-
+remote company
+A complete guide to the benefits of an all-remote
+company
+This guide provides a full overview of all the great benefits of a all remote company for both the
+organization and employees. Learn more here!
+A brief history of remote work
+1973: Jack Nilles creates the terms “telecommuting” and “teleworking”
+1979 Frank Schiff, VP and chief economist of the Committee for Economic Development
+states that “If 10 percent of those who commute to work each weekday were to start
+working at home two days each week, this would reduce the volume of such travel by 4
+percent” in the Washington Post.
+1983: IBM runs an experiment and allows 5 employees to work from home. 4 years later
+nearly 2,000 of its employees were telecommuting.
+1987: 1.5 million Americans work remotely
+1991: Wi-Fi boosts the availability of remote work
+2015: GitLab, Inc. launches with 9 all-remote FTE’s
+2020: COVID-19 accelerates the validity of all-remote work
+What is the difference between “remote” and “hybrid”?
+Remote: a work arrangement in which employees do not commute to a central place of work
+Hybrid: when workers split their time between conventional in-office work and working remotely
+Read more about the ten models of remote and hybrid teams.
+In this video, GitLab Director of Global People Operations Carol Teskey shares her view on the
+many benefits of all-remote, and the competitive advantages that come along with it.
+• 
+• 
+• 
+• 
+• 
+• 
+•

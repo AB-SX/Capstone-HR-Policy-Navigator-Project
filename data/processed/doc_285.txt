@@ -1,0 +1,7 @@
+Choose accessibility options, or click Not Now.4.
+
+Select your Wi-Fi network.5.
+
+On the Device Management screen, wait for the enrollment profile to load, then click 
+Enroll.
+6.

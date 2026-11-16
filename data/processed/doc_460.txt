@@ -1,0 +1,81 @@
+Source: https://handbook.gitlab.com/handbook/customer-experience/csm/onboarding/
+186. Customer Onboarding
+Customer Onboarding
+View the CSM Handbook homepage for additional CSM-related handbook pages.
+Customer Onboarding is the beginning phase of the customer lifecycle.
+Overview
+The customer onboarding phase is critical to getting a customer started on a successful journey
+with GitLab. This is our opportunity to ensure the customer achieves value and success from the
+start of their GitLab usage.
+Onboarding steps
+The onboarding process should begin when the customer opportunity reaches stage “5-
+Negotiating” for Booked ARR in order to introduce the CSM while we have high-touch
+engagement to close the opportunity. Once an opportunity that will newly qualify a customer for
+CSM alignment reaches stage 5, a Gainsight CTA will be created for the CSM Manager to assign
+the customer to a CSM. The assigned CSM should then start the onboarding process with the rest
+of the account team.
+⚠️ 
+NOTE: Please review the time to value metrics for target completion timeline.
+Internal transition
+The first step is completing the handoff from pre-sales to post-sales. This will ensure the entire
+account team is clear on the customer’s status, and the CSM can be properly introduced to the
+customer. This sync on the background of the account is essential and must happen before the
+CSM is on a call with the customer, so the CSM has the full background and the account team
+approaches the call as a united front, already understanding the customer goals and working
+towards achieving them.
+If a customer will be on Dedicated, the CSM should familiarize themselves with the best practices
+for CSMs of Dedicated Customers.
+CSM intro email and onboarding
+Digital programs will automate the Intro to GitLab CS program outlining what a CSM does,
+followed by the onboarding enablement emails for all CSM assigned customers, excluding
+PubSec. This will trigger for a customer when the onboarding playbook has been created. All
+emails come from a generic Customer Enablement GitLab email address, and each email is
+tokenized with the CSM name. Customers have the option to reply directly to the email which will
+
+email the CSM to schedule a call or ask questions. Each CSM will also be cc’d on all emails sent to
+their customers for visibility.
+Email 1: Introduction to GitLab CS Experience (what a CSM does)
+Email 2: Onboarding Email - Intro, first steps, how to get help
+Email 3: Onboarding Email - Security, backup and restore
+Email 4: Onboarding Email - Monitor GitLab, API and rate limits
+Email 5: Onboarding Email - Additional training and support
+These emails will automatically be sent to any customer contacts who are labeled as a GitLab
+Admin, and at least one contact should have been labeled as part of the pre-sales process. It is
+recommended to label multiple contacts if possible as a GitLab Admin so they receive the emails
+as well, ensuring the enablement content is received.
+Review email copy here (internal only).
+Kickoff call
+⏰ 
+Target time: within 14 days of customer start date
+The kickoff call is the first conversation between the CSM and the customer. This is when the CSM
+describes their role to the customer, and starts their own discovery process to fill in details they
+don’t have from the internal transition in order to start an effective engagement and create a 
+success plan.
+The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones,
+and create clarity on our partnership as CSMs.
+Which Deck Should I use for the Kickoff call?
+CSMs select from the following templates for their kick off call, depending on the customer
+handover:
+If a strategy roadmap was completed with the SAs, use this kickoff slide deck (internal
+only). Please click here for a video overview of how to best utilize the deck (private video
+on GitLab Unfiltered).
+If not, use this kickoff slide deck (internal only), and is available as part of the 
+onboarding CTA.
+The CSM should review and revise this deck in advance of the kickoff call based on what they
+already know about the customer and what they are still looking to understand.
+What should I know coming out of the Kickoff call?
+Ideally, the following information has been collected in the presales process and we use the
+kickoff to confirm and build upon this knowledge. In the times that these questions are not
+known, we always seek to leave the kickoff with an understanding of the following?
+Why did you buy GitLab? Ideally you’ve already answered this question in your handoff
+from pre-sales, so if that’s the case, reframe the question to validate that you
+understand they purchased GitLab for X reason and confirm your understanding of
+what challenges the customer is looking to solve.
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+1.

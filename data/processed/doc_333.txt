@@ -1,0 +1,42 @@
+Specific instructions or checklists to be followed.
+Access to Resources: Ensure that the delegate has the necessary access to tools, files,
+and systems to perform tasks effectively.
+Communicate
+The manager will inform the team and relevant stakeholders about the temporary delegation of
+responsibilities.
+After PTO
+Conduct a Debriefing: The manager will meet with the team member to review the progress
+made, any challenges encountered, and the outcomes of decisions made in their absence.
+For more tips, check returning from pto.
+Shift Engineer Time Off
+Planning Coverage for Time Off
+Before their time off, Shift Engineers should find coverage for their weekend shifts. The following
+people should be considered first for covering shifts:
+Other Shift Engineers.
+Support Engineers in the CEOC role leading up to the weekend.
+Other Support Engineers, or ask a Manager for assistance finding coverage.
+Coverage is only required for weekends days being taken off. All other days can follow the normal
+time off recommendations.
+Sick Time
+If you are sick, page the on-call Support Manager as soon as you know you will be out on a
+weekend.
+Guidelines for Covering a Weekend Shift
+If you are covering for a Shift Engineer, be mindful of what tickets are allowed to have public
+replies posted during a weekend.
+Holidays as a Shift Engineer
+If a holiday occurs on a weekend, and you’d like to take it off, follow the guidance to plan
+coverage for your time off.
+You are also welcome to work the holiday, and float the holiday time to another day of your
+choosing. It’s recommended that you float the holiday to any day within one month before or
+after the holiday.
+Last modified November 5, 2026: Support Handbookathon: Use #customer_support_systems on
+Support pages (9b5041c4)
+• 
+• 
+1. 
+2. 
+3.
+
+View page source
+ 
+ .

@@ -1,0 +1,128 @@
+Candidate Handbook Page
+This page outlines what hiring looks like at GitLab. We share the latest information about our
+processes and practices to ensure you have the information you need to feel confident during the
+interview process.
+Conducting a GitLab Interview
+Helpful information about how to prepare and conduct interviews for GitLab
+Internal Hiring Process
+This page discusses the Internal Hiring Process
+Interviewer Prep Requirements
+Learn more about the tools required to prepare you for interviewing at GitLab
+Job Description Library Overview
+Job descriptions are organized by function at GitLab and we use them to inform candidates of
+roles and current team members to evaluate their performance.
+Referral Operations
+This page is for information regarding the backend process of the Referral Process.
+Referral Program and Process
+While GitLab’s Referral program is fairly straight-forward, there are some nuances to be mindful
+of. Please take a moment to review the program rules outlined below before submitting a referral
+through Greenhouse to ensure eligibility.
+Last modified March 4, 2026: Rename Job Familes page to Job Description Library (9c64717f)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/finance/expenses/
+005. Global Travel and Expense Policy
+Global Travel and Expense Policy
+This is a Controlled Document
+Inline with GitLab’s regulatory obligations, changes to controlled documents must be approved
+or merged by a code owner. All contributions are welcome and encouraged.
+1. POLICY
+GitLab’s Global Travel & Expense Policy is meant to provide guidance to all Team Members to
+ensure that we act in the best interest of our Company at all times. The purpose of this policy is
+to:
+Provide guidance around allowable reimbursable expenses.
+Ensure the best utilization of our Team Member’s time.
+Drive transparency across all business travel related spend.
+Help Team Members understand that a centralized travel program results in improved
+safety, visibility, support and savings.
+Prevent violations of applicable anti-bribery and corruption laws.
+2. Responsibilities
+Team Members:
+As a public company, GitLab has an obligation to act in the best interests of the
+corporation and its shareholders. This obligation is shared by all Team Members and is
+the basis of our global travel and expense policy as a public company; Team Members
+must be thoughtful in spending the company’s money.
+Use best judgment to ensure that all travel is business critical and all expenses are
+deemed “ordinary and necessary”. Team Members should consider conducting meetings
+via audio or video conferencing when appropriate.
+Read, understand and adhere to GitLab’s Global Travel & Expense policy.
+Team Members are also expected to inform their direct manager of all business trip
+plans prior to booking to ensure that the proposed trip is within their departmental
+budget. Team Members must receive Manager approval for any proposed business
+critical trips.
+Submit all expenses timely. All Team Members should submit expenses by the end of the
+fiscal quarter in which the expense was incurred. GitLab’s fiscal quarter end dates are
+January 31, April 30, July 31, October 31.
+Follow-up with your manager or the AP team if they haven’t approved your expense
+report.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Managers and/or Budget Owners:
+Ensure that Team members’ expenses are in compliance with GitLab’s Global Travel &
+Expense policy.
+We ask that managers set pre-trip awareness expectations within their teams to ensure
+that trips are business critical and budgeted for.
+Please work with your respective Finance Partner to know your specific team’s budget
+and amount spent to date.
+Managers are expected to review their team’s expenses in their entirety every month,
+and must flag any concerns immediately to the Accounts Payable team. Potential
+violations of GitLab’s Gifts & Entertainment Policy should also be flagged to the Legal
+department, as necessary.
+Managers will be held accountable for any unreported abuse by their Team Members.
+AP will flag Managers if further information is required for their direct reports.
+Please see the attached Manager Policy for more details.
+Accounting:
+Maintain and communicate the Global Travel & Expense Policy out to the Company on a
+regular cadence as updates occur.
+Ensure that expense reports are in compliance with the Global Travel & Expense Policy.
+Provide clear and timely feedback to Team Members and managers regarding missing
+information, general questions, or “out of policy” issues, and escalate potential
+violations of the gifts and entertainment expense rules to the Legal department in a
+manner consistent with GitLab’s Whistleblower Policy.
+Review and process all expense reports that require AP Admin review, within 7 working
+days from the date submitted.
+Finance:
+Maintain departmental budgets for Travel and Entertainment and Offsites.
+Work with respective Business Partners to provide specific team budgets and amounts
+spent to date.
+3. General Guidelines
+Team members should submit receipts for every business expense. For Non-US Team
+Members, receipts are required for all expenses. US Team Members are required to only
+submit receipts for any expenses over $50 USD. Receipts must contain vendor name,
+date of purchase, listing of what was purchased, and contains a full breakout of the
+subtotal and tax amounts. Snapshot from phone/computer screen of Applications, Card/
+Bank Statements are not an acceptable form of receipt.
+Team Members are not allowed to expense items on behalf of their managers.
+Expenses for gifts and entertainment must be incurred and reimbursed in accordance
+with GitLab’s Gifts & Entertainment Policy and Antibribery Policy.
+Expense claims for a single item up to $5,000 can be expensed via Navan. >$5,000 needs
+to go through the procurement process in Zip.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

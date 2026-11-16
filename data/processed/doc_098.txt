@@ -1,0 +1,66 @@
+Rails Girls
+On multiple occasions, GitLab has supported Rails Girls an organisation geared toward providing
+tools and creating a sense of community for women in the technology space - enabling them to
+grow their knowledge base and build out their ideas. The most recent event supported was the 
+Rails Girls Kumasi Ruby on Rails Workshop - be sure to check out this GitLab Unfiltered video to
+see GitLab alumni Abubakar Siddiq Ango in action!
+Recent Team Member Participation
+GitLab encourages team members to set time aside to take part in local volunteer initiatives
+within their respective communities. Here are a few of the of projects our team members have
+lent hands or resources to of late:
+Operation Warm providing warmth, confidence and hope to children in need through the gift of
+brand-new winter coats. Over the last 20 years, Operation Warm and our partners have used the
+coat as a bridge for families in need to access everything from flu shots to new books.
+Fontanus Research Center which aims to create new, efficient and interdisciplinary educational
+methodologies.
+National Charity League a multi-generational philanthropic organization of mother and
+daughters who volunteer close to three million hours annually to over 6,000 charities in the
+United States.
+Hack for She, a completely virtual hackathon aimed to find solutions to Women’s problems.
+Return to the People Group Handbook.
+Last modified March 4, 2026: Rename job-families to job-description-library (6f520606)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/people-compliance/
+035. Global People Compliance at GitLab
+Global People Compliance at GitLab
+The Global People Compliance team at manages all compliance-related initiatives across People
+Operations processes.
+Global People Compliance
+The Global People Compliance team safeguards GitLab’s most valuable asset—our people—by
+implementing robust compliance frameworks that protect team member data while enabling our
+innovative all-remote culture to thrive across global jurisdictions.
+We collaborate strategically with the entire People Group, Legal, Payroll, and other organizational
+teams to develop compliant processes throughout the team member lifecycle—from sourcing
+and screening to offboarding. Our work ensures GitLab meets both regulatory requirements and
+stakeholder expectations in an increasingly complex global landscape.
+We proactively identify, assess, and mitigate compliance risks that could impact GitLab’s
+operations. Our team develops policies that protect GitLab from potential regulatory penalties,
+and ensures adherence to all applicable employment laws across multiple jurisdictions. Our
+compliance expertise directly supports GitLab’s strategic priorities by:
+Enabling confident expansion into new markets with clear regulatory guidance
+Streamlining compliant hiring processes to secure top talent globally
+Providing decision-making frameworks that balance innovation with compliance
+Contact the Compliance Team
+Please create a case in Compass for the team to review
+Meet the People Compliance team
+Meet the People Compliance team
+Cassiana Gudgenov
+Title: Senior People Compliance Program Manager
+GitLab handle: @cgudgenov
+Slack handle: @cassiana gudgenov
+Last modified September 13, 2026: Rename HelpLab to Compass across handbook content
+(bee431b5)
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+View page source
+ 
+ .

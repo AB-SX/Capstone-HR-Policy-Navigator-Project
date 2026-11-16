@@ -1,0 +1,107 @@
+Source: https://handbook.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/people-
+tableau/
+087. People Analytics Tableau Dashboard Overview
+People Analytics Tableau Dashboard Overview
+Helpful places to start
+Tableau Handbook Page - This is the SSOT for all Tableau usage and is managed by the
+Data Team. This will give an overview of the most up to date roadmap and workflows
+regarding Tableau at GitLab.
+Tableau People Folder - This is the main folder to find all People Dashboards. This is
+currently in our Development project but will be moving to our Production location in
+the future.
+Tableau Workshops - Held by the People Analytics team as an introduction to using
+Tableau and navigating the current dashboards available.
+People Group Dashboard Inventory
+We’ve created several People Analytics dashboards in Tableau, with data refreshed daily from
+source systems like Greenhouse and Workday. Below you’ll find an overview of these dashboards
+and their locations. For detailed information about our underlying data models, see our data
+guide and for more information about metric definitions, see our data dictionary.
+General project
+These dashboards are safe for general use by the Tableau User population here at GitLab.
+Attrition Dashboard - This dashboard gives turnover metrics for the organization. Rates
+can be filtered by Rolling 12 Months, Fiscal Year to Date,Month to Date, or Quarter to
+Date and different time periods can be selected. Dimensional breakouts of the data that
+result in small counts are hidden to protect Team Member identity.
+DIB Identity Dashboard - This dashboard shows diversity metrics as a percentage
+compared to the same date in the prior year. This dashboard is used for handbook
+embedding on the identity page in the handbook.
+Discretionary Bonus Dashboard- This dashboard tracks discretionary bonuses over time
+showing bonus counts, bonus rates as a percentage of headcount, or bonus rates as a
+rolling 3 month average relative to headcount.
+Elevate Completions Dashboard - This dashboard tracks the percentage of leaders
+assigned to the Elevate training program and completion progress of participants.
+Headcount Dashboard - This dashboard is used to get headcount metrics by different
+categories in the company. The user can filter to specific dates and time periods to
+evaluate changes in headcount.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+People Group Dashboard Activity - This dashboard tracks usage of all dashboards owned
+by the People Group over the last 90 days.
+People KPIs - This dashboard shows key performance indicators that are tracked by the
+People Group to determine organizational health.
+PTO Dashboard - This dashboard tracks PTO activity for team members (excluding
+extended leaves) over a selected date range.
+Span of Control Dashboard - This dashboard allows for users to identify the current (and
+past) span of control by different departments, divisions, etc.
+Talent Acquisition Productivity Dashboard - This dashboard is used by the Talent
+Acquisition department to track internal team metrics by recruiting teams and business
+area relative to quarterly goals.
+People Restricted project
+This project contains sensitive dashboards that only a small subset of users can view.
+Attrition Dashboard - Same use case as the one in General without hiding results for
+small groups and includes additional filters.
+DIB Dashboard - This dashboard gives views and metrics of starts, turnover, and
+representation by different DIB categories.
+People Dashboard - Intended for our People Business Partners, this dashboard is meant
+to be a way for PBPs to drill into the People Data for their stakeholders and identify
+various trends around group proportion sizes, URG representation, and metrics like
+turnover in one place.
+Talent Flow Dashboard - This is a tableau version of the People Weekly Overview Report
+shared with leaders. This version has sensitive data and is only available in the
+Restricted folder for now.
+People Metrics Executive Dashboard - This dashboard gives People Leadership a
+consolidated view of key metrics, with filters for division, department, and current
+supervisory hierarchy that apply to all visuals. KPIs are each displayed with a year-over-
+year trend. Below, users can slice headcount by a variety of variables, and at the bottom
+of the dashboard trends for turnover rates and promotion rates can be broken out by
+the same variables. This dashboard is designed for quick reference as well as ad-hoc
+exploration.
+Requesting Tableau Access
+Tableau access can be requested through Lumos. For detailed role descriptions, see the Tableau
+Handbook Page.
+For People Group team members:
+Log into Okta
+Open Lumos from the Okta tile
+Select the appropriate permission level:
+* Tableau Access with Viewer permission - if you don’t work with sensitive People
+metrics
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.
+
+* Tableau Special Permissions with People - Restricted Access permission - if you’re a
+People Business Partner or work with sensitive People metrics
+Important: Your license will deactivate after 90 days of inactivity. You’ll need to request access
+again if this occurs.
+Last modified May 13, 2026: add people group specific tableau access request instructions
+(2db5b378)
+View page source
+ 
+ .

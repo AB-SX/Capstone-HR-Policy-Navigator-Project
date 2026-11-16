@@ -1,0 +1,117 @@
+Example of dual Interview process outline
+Application Process
+Screening Call
+Assessment (required for certain roles)
+Technical Interview (required for certain roles)
+Team Interviews
+Discussion with your recruiter on which role you’re interested in
+References
+Offer sent for role discussed in step 6 & Background Screen
+For internal candidates only (in addition to the above guidelines)
+If you are interviewing for two roles within the same job family and job level, the offers
+will be the same.
+If you are interviewing for two roles in different job families the offers may be different.
+I've been rejected, when can I reapply?
+If your application is rejected because you are insufficiently qualified for the role, you are
+welcome to reapply to the same position once 6 months have passed. If you gain the skills,
+experience, or knowledge we outlined in our feedback to you, you are welcome to reapply at any
+time.
+I already passed the technical interview, will I need to repeat that stage if I reapply?
+If you are reapplying to a role in R&D and have already completed interviews following a technical
+interview, your technical feedback also remains valid for up to 6 months as long as you are
+applying to the same job family. The recruitment team will aim to run a reduced interview process
+in this scenario, however, if you are reapplying outside of the 6 month window or applying to a
+different job family, you will be required to restart the interview process with us again.
+Inclusive interviewing
+The GitLab team understands the importance of inclusive interviewing, and we strive to ensure
+our hiring team is well versed in every aspect of diversity, inclusion, and cultural competence. A
+positive and comfortable candidate experience is our priority.
+How we conduct remote interviews on a global scale
+How we work during holidays
+As
+an all-remote, global company, GitLab gives all team members the flexibility to determine their 
+time away from work, including the holidays they observe.
+There will likely be holidays that our candidates observe that a Recruiter, Hiring Manager, or CES
+may not.
+If there’s a time during the year when a significant portion of the company will be taking time off,
+we’ll be sure to send a communication to all active candidates to let them know of a possible
+delay in communication.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+1. 
+2.
+
+Please note that not every member of the team will be observing that holiday, so you may still
+receive emails from them.
+How we schedule interviews on a global scale
+Once you have completed a screening call with the recruiter and are ready to be
+scheduled for the Team Interview stage, you’ll receive an email requesting availability. To
+move through this process as quickly as possible, please give us many different days
+and times spread across at least 2 weeks. This will prevent us from having to reach out
+again asking for more availability, as some interviewers could be across many different
+time zones. Sometimes if the interviewer has a schedule that is difficult to fit interviews
+into, we’ll suggest specific times and dates via your availability link.
+After receiving your availability, we will compare it to the interviewers’ working hours. If
+we find a match, we will schedule an interview and send you a link to a Guide and invite
+in your time zone to download to your computer. If we do not, we will reach back out
+and work with you to find an alternative. Sometimes there is a very small overlap
+between time zones, so we appreciate your patience as we identify alternatives!
+If you need to reschedule, follow the special instructions in your confirmation email if
+the interview is within 24 hours. You can also email ces@gitlab.com anytime.
+References
+How references are conducted
+References will be collected towards the end of the interview stage and they must be checked
+before or as an offer is made. The Hiring Manager or hiring team will contact your references.
+These reference checks will be performed in accordance with the applicable law of the
+jurisdiction. Where applicable, a reference check can also be used in the final decision for making
+an offer. The reference check is not the sole factor for a decision to hire or not hire an individual.
+However, in conjunction with the interview scores and the interview team feedback, all of these
+factors go into the hiring decision.
+Three references will be requested and at least one needs to be a past manager. If you have only
+had 1 manager, and it is at your current company, it is okay to skip the manager reference
+(though at least two total references will still be required).
+Offer & Background Screening
+Depending on your location, a background screen will be initiated at the same time as references
+or once an offer has been extended.
+Where does GitLab hire people?
+GitLab is a fully remote, global workforce with team members in over 50 countries. Diversity,
+Inclusion & Belonging is one of our core values and our global footprint is one of the many ways
+this shows up in our workforce. We have employment infrastructure in the following countries
+that supports GitLab’s global footprint.
+1. 
+2. 
+3.
+
+Please refer to a specific job listing to see if the position is hiring in the country where you are
+located. You check our handbook for more in-depth information
+What’s it like to work at GitLab?
+Our mission makes it clear that we believe in a world where everyone can contribute. We make
+that possible at GitLab by running our operations on our product and staying aligned with our
+values.
+Explore the resources below for a deeper understanding of working at GitLab — one of the
+world's largest all-remote companies
+Life at GitLab
+How We’re Changing the Look of DevOps and Remote Work, One Iteration at a Time
+GitLab’s guide to starting a new remote role
+Life at GitLab Content Library
+What our team members are saying
+Interested in hearing about life at GitLab straight from our team members? You can hear right
+from them by checking out our careers page and clicking on the “See How” button under each
+team member feature or by heading to our Builtin page.
+Recruitment Privacy Policy
+This Recruitment Privacy Policy describes GitLab Inc. and its affiliates (GitLab) practices for
+collecting, storing, and processing your personal data as part of the recruitment process.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+• 
+• 
+• 
+•

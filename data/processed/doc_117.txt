@@ -1,0 +1,135 @@
+Achieving our talent brand vision
+To work toward our defined vision, we believe that continually improving on, highlighting, and
+sharing the following things about GitLab put us on a path toward realizing this vision.
+This will require close collaboration with all parts of the People and Marketing Groups as we’ll
+want to ensure that we promote and communicate the things that move us closer to fulfilling our
+vision.
+As we build GitLab into one of the world’s best workplaces, we will look to increasingly educate
+candidates and team members about 3 themes that set us apart from other workplaces.
+GitLab is a place where
+Everyone can contribute
+* We’ve got big ambitions to make GitLab the top AI-Powered DevSecOps platform and
+need skilled contributors to get us there.
+* Our mission makes it clear that we believe in a world where everyone can contribute.
+We make that possible at GitLab by running our operations on our product. This means
+everything is read-write by default.
+* We operate around the world. We welcome people of all backgrounds to contribute to
+our success and have built DIB programs and practices into all parts of our company.
+Anyone can thrive
+* Building a company where anyone can thrive means putting in place the programs
+needed for our team members to manage their health, wealth, and well-being
+regardless of location.
+* Career development,
+clarity in expectations by having defined performance indicators, learning &
+development, and access to opportunity are all things that are top of mind as we grow
+GitLab.
+We foster a values-led, remote culture
+* Our CREDIT values drive a culture that’s built to operate in an all-remote environment.
+* Our Handbook-led approach and async working style highlight our values-led, remote
+culture.
+Key ways we bring this vision to life
+Talent brand marketing: Aligning our value proposition with a go-to-market plan so
+that key candidate audiences are aware of GitLab. Matching the look & feel of recruiting
+materials with the GitLab brand, and creating external campaigns.
+Content development: Creation and distribution of candidate & careers content that
+further our talent acquisition and talent attraction goal.
+Education & Enablement: Maintaining the internal & external sources that inform and
+engage candidates from pre-apply to hired.
+Partners & Sponsorships: Identifying and building relationships with digital & events
+partners that can help us reach new audiences
+1. 
+2. 
+3. 
+• 
+• 
+• 
+•
+
+Team member engagement: Bring team members along on the journey through
+storytelling, empower team members to become GitLab ambassadors, and share
+information transparently so that the company we’re building reflects the company
+we’re promoting.
+We use a number of tactics to bring GitLab’s value proposition to life. Using talent brand
+marketing and content development we’ll create candidate-facing materials that show GitLab as
+an employer of choice. Additionally, candidate and public engagement & education alongside
+partnerships & sponsorships will provide added evidence that our value proposition is an
+accurate reflection of who we are as a company. Lastly, internal communication will bring team
+members on the journey with us and help engage team members so that our culture remains
+strong.
+As we consider the ways in which we will bring our value proposition to life, we’ve also landed on
+several design principles to help guide the tactics we choose to deploy within the key areas
+mentioned above.
+Design principles that underpin our strategy
+Do less, but go bigger: We’re currently spread too thin given the amount of context
+shifting across tactics; we’ll decide which tactics look most promising and put our focus
+there.
+Measure & analyze to continually improve over time: We need to choose tactics that
+can be measured and understood so that we can align on ways to improve.
+Nail the basics: We need to do a better job of getting the basics right (i.e. how we post
+jobs, what our job ads look like, social media sharing).
+Invite GitLab team members to be a part of the journey: Bring team members along
+on the journey through storytelling, empower team members to become GitLab
+ambassadors and seek input from across the company to continually iterate.
+How this translates to OKRs and our roadmap
+We strive to be as transparent as possible, but this section is only for GitLab team members.
+FY26 Talent Brand Go-to-market strategy and roadmap
+Talent brand resources
+Content library
+The life at GitLab content library is a curated list of blog posts, articles, videos, awards, and quick
+facts that help tell the story of life at GitLab.
+• 
+• 
+• 
+• 
+•
+
+GitLab talent ambassadors
+Spread the word about life at GitLab by becoming a GitLab talent ambassdor.
+Share with your social media network when your team is welcoming a new team
+member and have your new team member share with their networks as well by
+leveraging this template!
+Share with your social media network that your team is hiring by posting one of these
+job ads (don’t forget to include a link to the job)!
+Sales managers, celebrate your sales team’s quota achievements by posting one of 
+these Sales Quota Acheivement Social Cards to recognize their achievement.
+Include the #LifeatGitLab hashtag and the link to our careers page in your posts.
+Whether you’re a hiring manager or an individual contributor, this page outlines additional steps
+you can take to help represent our talent brand and attract more great people to join the team.
+Additional talent brand resources
+As we create campaigns, post jobs, sponsor events, and attract top talent to GitLab, it’s often the
+case that we create new resources that are intended to educate candidates about careers with
+GitLab. Many of the resources we create can be repurposed for other use cases. Use the following
+dropdowns to discover how to contribute to these resources.
+Animated Videos
+Animated short-form video for social media or event usage: Using a google slide deck as a
+starting point and animating those slides into an .mp4 video is an easy way to create an
+engaging social media or event asset.
+Start by creating a slide deck that includes high-level info about careers at GitLab. This
+sample deck is a really simple example using only 4 slides.
+Using the Creator Studio add-on, you can choose to “create video” from the existing
+slides
+To help with conversion, you can also request a custom QR code be created using QR.io
+by creating an issue in the talent acquisition project and tagging @cchiodo or
+@drogozinski
+The final result will look something like this and can be shared through various social
+media sites or presented in video format at in-person events.
+Team Member Videos
+Whether you’re looking to embed video in a job ad, or create an asset to leverage in
+outreach, team member spotlight videos are an excellent way to provide first-hand
+perspectives. With a partnership with Cinebody, we’re able to build video projects and
+collect team member sentiment in one central place.
+Send @cchiodo a Slack with more details about your video project including topic, use
+case, team members to include, and specific questions that featured team members will
+be answering. The recommended list of questions for a hiring manager video are
+included below:
+1. Provide a short explanation about the role you’re hiring for. What would someone in
+this role do?
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,91 @@
+Use the TMRG Issue Board to Create or Contribute to a TMRG key initiative
+We use our GitLab issue board to coordinate and prioritize projects on a quarterly basis.
+Contribute to the issue board by:
+Open a new issue to propose an idea or project using the key-initiative-proposal
+issue template (please note that you don’t have to be available to lead the project -
+opening a topic for discussion is great!)
+Apply labels as necessary to track the TMRG focus areas. The labels are: Awareness &
+Education, Diversity - Inclusion and belonging, Recruiting & Retention, and 
+Outreach & Business Development
+Contribute to an open issue that is assigned to a quarterly milestone. These milestones
+outline the current focus projects of the TMRG
+Attend or notify others of upcoming events using the Events - Womens TMRG label and
+consider using the event-or-conference-fyi issue template. Assign event issues to the
+relevant milestone based on event date.
+Participate in a Candidate TMRG Call
+The hiring process at GitLab includes an optional step where candidates can request to meet with
+a TMRG team member. As a TMRG member, you can volunteer to speak with candidates to
+answer questions and share your experience at GitLab.
+Join the #candidate_tmrg-call Slack channel to participate.
+Related Performance Indicators and Goals
+Women at GitLab
+GitLab Women in Management - 40% Goal
+GitLab Women in Senior Leadership and Executive Roles
+Career Development Resources
+Women at GitLab looking for career development resources can use this list to explore both
+opportunities available to the entire GitLab team for career development and helpful resources
+that have been shared in the #women Slack channel
+If you have a resource you’d like to include, please open a merge request and contribute to this
+page!
+Resource Description
+Women at GitLab Mentorship
+Program
+FY22 Q2-Q3 program opportunity for mentorship at GitLab
+WISE: Women in Sales
+Everywhere Memberships
+In calendar year 2022, GitLab has allocated 15 licenses for women in
+the Sales organization to acceses memberships with WISE including
+mentorship, events, and training. Reach out to TMRG leads if you are
+interested in a membership
+GitLab Internship for Learning
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+•
+
+Resource Description
+If your manager has coverage, you can spend a percentage of your
+time working (through an ‘internship’) with another team
+Growth and Development
+benefit
+This benefit is available for GitLab team members and can be used to
+cover professional development costs associated with external
+resources
+CEO Shadow Program The goal of the CEO Shadow Program is to give current and future
+directors and senior leaders at GitLab an overview of all aspects of the
+company
+Women in the Workplace Study
+Webinar
+A webinar from Lean In discussing the unique impact that COVID-19
+has had on women of different races and ethnicities, working mothers,
+women in senior leadership and women with disabilities
+The Harvard Gazette - Women
+less inclined to self-promote
+than men, even for a job
+Study finds female workers’ deep discomfort over touting skills,
+experience adds to gender gap in promotions, pay
+Stanford Continuing Studies
+Department
+Standford offers many continuing education programs in multiple
+diciplines including leadership, writing, and professional/personal
+development
+Book Suggestions
+The following are books suggested by GitLab team members in the #women Slack channel.
+Please open an merge request to add books to this page, and consider including a short review of
+the book from your perspective!
+Book Title and Author Optional Book
+Review
+WolfPack by Abby Wambach
+Radical Candor by Kim Scott
+Lean In by Sheryl Sandberg
+The Memo by Minda Harts
+Burnout - The Secret to Unlocking the Stress Cycle by Amelia Nagoski and Emily
+Nagoski
+Invisible Women - Data Bias in a World Designed for Men
+Past Events
+Talking Confidently about your Accomplishments - Live Speaker Series with
+Michelle Carrizosa
+Michelle Carrizosa•

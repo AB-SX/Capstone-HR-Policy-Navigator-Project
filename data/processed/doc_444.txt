@@ -1,0 +1,81 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/tmrg-gitlab-gente/
+177. TMRG - Gente
+TMRG - Gente
+An overview of our TMRG Gente
+Bienvenidos, bem-vinda and welcome to the Gente space! We are a TMRG that was started in
+early 2021. Join us in our slack channel #gente to be notified of our upcoming calls and feel free to
+check out what we’ve been up to so far below.
+Gente TMRG Overview Slide Deck
+Gente Project in GitLab
+Slack Channel: #gente
+Join our Google Group here
+Purpose of the TMRG
+The GitLab’s Gente TMRG provides a safe space for every GitLab Team member within GitLab to
+raise awareness and celebrate Latin American culture, and to understand how the diversity of this
+region can be leveraged to contribute to GitLab’s strategic objectives. This group is not
+exclusionary and is open to anyone who is a GitLab employee and interested in learning more
+about Latin culture.
+Mission
+To promote advancement, cultural awareness, talent recruitment, retention, and professional
+development for Latinx individuals by giving a voice to the diverse backgrounds of the Latinx
+community in order to ensure the GitLab messaging continues to reflect its core values of
+Diversity, Inclusion & Belonging.
+Leads
+Pilar Mejia
+Romer Gonzalez
+Previous Leads
+Chris Cruz
+Hugo Azevedo
+Samara Souza
+• 
+• 
+• 
+• 
+•
+
+Executive Sponsors
+Jessica Ross
+Andy Ramirez
+Recurring Events
+Gente TMRG Monthly Call: Monthly on the first Thursday 6:00pm – 6:25pm UTC Notes
+To get all the Gente events on your calendar, join our Google Group here!
+Past Events
+Hispanic Heritage Month 2023
+Security with GitLab’s CISO Josh Lemos
+GitLab Gente TMRG - Arepas tutorial
+Take professional photos even with your cellphone: Issue Doc Slides
+Latinas in Tech Virtual Summit: Issue
+Hispanic Heritage Month 2023: Issue
+Hispanic Heritage Month 2022: Video
+Book Club: Issue
+Look through our youtube playlist to find other past events
+Language specific channels
+Within GitLab’s Slack, there are language-specific channels for those who want to converse with
+people in their native tongue or practice learning a new language.
+#lang-es
+#lang-pt
+Community Outreach
+Our Gente members are proud to be contributing externally to the following charitable
+organizations dedicated to supporting the Latinx community
+GitLab Community meetups globally – EN ES PT
+Techqueria – Techqueria is a nonprofit that serves the largest community of Latinx
+professionals in tech.
+Latinitas – Empowering all girls to innovate through media and technology
+Latinas in Tech – We are a non-profit organization with the aim to connect, support, and
+empower Latina women working in tech. We work hand in hand with top technology
+companies to create safe spaces for learning, mentorship and recruitment..
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

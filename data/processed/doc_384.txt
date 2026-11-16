@@ -1,0 +1,22 @@
+Suggest improvements by opening an issue in the GitLab DIB repository.
+Next Steps
+We will continue updating this page as programs and initiatives are finalized. Our goal is to
+ensure that inclusion and accessibility remain integral to our engineering processes and culture.
+For questions or suggestions, please contact the DIB team.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+•
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/advisory-group-members/
+149. Advisory Group Members
+Advisory Group Members
+This page lists the members of the Diversity, Inclusion & Belonging Advisory Group.
+Name | Role || Lis VinuezaLis Vinueza | Analytics Engineer |
+| Romer GonzalezRomer Gonzalez | Regional Sales Director, LATAM |
+| Sherrod PatchingSherrod Patching | Vice President, Customer Success Management |
+Last modified October 22, 2025: Removes invalid layouts from markdown files (2e97f281)
+View page source
+ 
+ .

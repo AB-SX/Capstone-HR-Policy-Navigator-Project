@@ -1,0 +1,24 @@
+Additional Enablement Resources
+The GitLab Partner Portal - provides Partners with easy access to additional sales
+resources, webcast replays, competitive analysis, event calendar, Marketing campaigns,
+support and more.
+Newsletter - sign up Partner Flash Newsletter
+GitLab Handbook - start your Handbook search on the Channel Partner Handbook
+Page
+Last modified July 23, 2025: Fix dead partner portal link (5e074e16)
+View page source
+ 
+ .
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/
+201. Go to Market Rules of Engagement
+Go to Market Rules of Engagement
+Rules of Engagement
+This page has been moved to the Internal Handbook, which can be found here.
+Last modified June 27, 2024: Fix various vale errors (46417d02)
+View page source
+ 
+ .

@@ -1,0 +1,65 @@
+Go
+Gitaly (the Git RPC service) and GitLab Runner are both written in Go. Support Engineers
+encounter Go stack traces in Gitaly logs and Runner debug output. Being able to read Go code
+helps with:
+Understanding Gitaly error messages and behaviour
+Debugging GitLab Runner executor issues
+Reading and understanding Gitaly and Runner source code when investigating bugs
+Codecademy (free courses)
+Title Type Level
+Learn Go Course (6h) Beginner
+Learn Go: Fundamentals Course (2h) Beginner
+Learn Go: Functions Course (1h) Beginner
+Learn Go: Loops, Arrays, Maps, and Structs Course (4h) Beginner
+Learn Go: Interfaces Course (2h) Beginner
+O’Reilly Learning
+Title Type Level
+Learning Go, 2nd Edition - Jon Bodner Book Beginner-
+Intermediate
+The Go Programming Language - Donovan and Kernighan Book Intermediate
+Concurrency in Go - Katherine Cox-Buday Book Intermediate-
+Advanced
+Golang: Hands-on Programming for Beginners - KodeKloud (Priyanka
+Yadav)
+Course Beginner
+PostgreSQL
+PostgreSQL is GitLab’s primary datastore. Support Engineers regularly help customers with
+database performance issues, migration failures, replication problems, Patroni/PgBouncer
+configuration and backup/restore procedures.
+Codecademy (free courses)
+Title Type Level
+Learn SQL Course (5h) Beginner
+Learn SQL: Multiple Tables Course (1h) Beginner
+Learn SQL: Aggregate Functions Course (1h) Beginner
+1. 
+2. 
+3.
+
+O’Reilly Learning
+Title Type Level
+PostgreSQL: Up and Running, 3rd Edition - Regina Obe, Leo Hsu Book Beginner-Intermediate
+Learn PostgreSQL, 2nd Edition - Luca Ferrari, Enrico Pirozzi Book Beginner
+High Performance PostgreSQL Book Advanced
+PostgreSQL Essentials: Leveling Up Your Data Work - Haki Benita Course Intermediate
+Python and Bash scripting
+Python and Bash are useful for writing automation scripts, parsing logs, interacting with the
+GitLab API and building internal tooling.
+Codecademy (free courses)
+Title Type Level
+Python for Programmers Course (3h) Intermediate
+Intro to the Command Line Course (1h) Beginner
+Cloud platforms (GCP focus)
+Many GitLab customers deploy on GCP, AWS or Azure. GitLab Dedicated runs on GCP and AWS.
+Understanding cloud fundamentals helps Support Engineers advise customers on infrastructure-
+related issues.
+Google Cloud Skills Boost
+Title Type Level
+Google Cloud Fundamentals: Core Infrastructure Course Beginner
+Associate Cloud Engineer learning path Course Intermediate
+Develop Your Google Cloud Network Skill Badge Intermediate
+Getting Started with Google Kubernetes Engine Course Beginner
+Networking in Google Cloud: Fundamentals Course Intermediate
+Logging and Monitoring in Google Cloud Course Intermediate
+O’Reilly Learning
+Title Type Level
+Terraform: Up and Running, 3rd Edition - Yevgeniy Brikman Book Intermediate

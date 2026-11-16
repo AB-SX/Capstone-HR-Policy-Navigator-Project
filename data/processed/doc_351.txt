@@ -1,0 +1,101 @@
+The shadow and ramp framework
+No amount of reading prepares you for running a customer call. The shadow and ramp
+framework gives you a structured
+path from observing to leading, with feedback at every stage.
+Stage What you do Typical
+timing
+1. Observer and
+note taker
+Join calls on mute, take structured notes using the debrief template,
+and discuss them with your buddy afterwards
+Modules 1-2
+2. Co-lead Own one defined section of the call, such as the introduction, the
+Q&A or one agenda item, while your buddy leads the rest
+Modules 2-3
+3. Reverse
+shadow
+Lead the full call while your buddy observes silently and gives
+structured feedback afterwards
+Modules 3-4
+4. Solo lead Lead on your own, with occasional announced spot-check joins
+from your manager or buddy
+Module 4
+onwards
+The timing is a guide, not a deadline. You move to the next stage when your buddy and manager
+agree you are ready.
+If you need more time in a stage, ask for it.
+Observer. Shadowing is not passive. Before the call, ask your buddy what type of call it
+is, what the customer’s
+context is, and what a good outcome looks like. During the call, notice the structure as
+well as the content: how
+your buddy opens, moves between topics, handles questions they cannot answer, and
+closes with clear next steps.
+Co-lead. Your buddy tells the customer up front that you will cover a topic. Pick
+something you can prepare
+thoroughly, aim for 10 to 15 minutes, and brief your buddy beforehand so they can step
+in cleanly if needed.
+Reverse shadow. This is the most important stage. Your buddy is visible on the invite
+but says nothing unless
+there is a factual error or a genuine emergency. Prepare exactly as you would for a solo
+call.
+Solo lead. Spot checks continue throughout your time on the team; every CSE has their
+calls reviewed from time
+to time. If a solo call goes sideways, debrief it anyway and bring it to your next one-to-
+one.
+A rough guide to how the modules and the ramp line up:
+Ramp stage Module depth expected
+First shadow call Module 1 complete
+First co-lead segment Module 2 complete
+Reverse shadow Module 4 complete
+Revenue Academy Module 5 complete
+• 
+• 
+• 
+•
+
+Post-call debrief template
+Use it after every shadow session, whatever the stage. Fill it in straight after the call, while the
+detail is
+fresh. It takes five minutes.
+What was the customer’s primary goal coming into the call? Not what was on the
+agenda: what did they actually
+want?
+What technique or approach did you observe, or use, that you want to adopt? Be
+specific.
+What would you have done differently, and why? From stage 2 onwards, focus on
+your own segment or lead.
+What follow-up was committed to, and who owns it? If ownership is unclear, that is a
+learning point in itself.
+How feedback is structured
+After co-lead and reverse shadow sessions, feedback covers four areas. Knowing them in advance
+means you can assess yourself first.
+Value articulation: did you connect GitLab to the customer’s stated goals and business
+context?
+Technical accuracy: were your recommendations correct, current and practical, and
+within CSE scope? When you
+were unsure, did you commit to follow up rather than guess?
+Relationship and risk management: did you read the room, notice when something
+the customer said was worth
+probing, and manage the pace of the call?
+Follow-through: were the next steps clear, owned and realistic, and did you set
+expectations for the follow-up
+email?
+Webinars
+The same progression applies to webinars, with one change: you start as co-pilot, working the
+chat and Q&A while
+another CSE presents, usually from Module 2. Your first solo presentation typically comes after
+your first successful
+reverse shadow, around Module 4. See webinars and hands-on labs.
+What your manager does
+Month 1
+Schedule recurring one-to-ones and confirm you have access to all role-specific tools
+and channels.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+•

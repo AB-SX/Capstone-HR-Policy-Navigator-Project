@@ -1,0 +1,142 @@
+contractor conversion process. You can confirm this by checking that the “source” says Contractor
+Conversion, which will show up on the requisition. CES team members will follow the same steps
+as a regular contract, however there are a few nuances to note:
+Reference Check Forms: You will need to ensure the candidate has completed the
+reference check form. You may need to remind recruiters that this is required when
+contractors transition to a permanent position. The candidate does not need to provide
+references again however, they will need to disclose outside work and PIAA.
+Start Dates: You may find that start dates with contractor conversions have quicker
+turnaround times so there are no gaps between a contract end date and a new hires’
+start date (i.e. a request to start in less than 10 business days, or to start on a non-start
+date).
+Background Checks: Please check with the Senior Background Check Specialist in the
+backgroundcheck-ces Slack channel to confirm if you need to initiate a new background
+check. If there is no gap between the contract and the permanent position, you may not
+need to initiate a new background check.
+Mark as Hired: After you mark a candidate as hired in Greenhouse, you will need to
+leave a comment notifying People Connect in the peopleops-alerts Slack channel that it
+is a contractor conversion.
+Laptop/IT: For all contractor conversions, CES will need to confirm with IT Ops via the 
+people-connect_CES Slack channel whether the candidate will need a new laptop or not.
+* If they do not need a new laptop, CES will remove the “Ordering your laptop” section
+from the Welcome email to the candidate.
+Rehires
+In the event that a former team member is rehired with the company, they will still go through
+the normal interviewing process and standard onboarding. Once the contract is signed, CES
+should ensure that there are no profiles left to merge and that Former Team Member is selected as
+a candidate tag on the right hand side of their profile. They should have their old hire record on
+their Greenhouse account.
+Please let People Connect know in #peopleops-alerts-private if a rehire is happening.
+Process for GitLab team-members in the Netherlands
+In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined
+end date. A dismissal procedure is not required to terminate a temporary contract at the end of
+its duration. However communication about the extension of the contract must happen at the
+latest 1 month before the actual contract end date (aanzegtermijn).
+It is common for Dutch employers to offer a second temporary contract when the first expires,
+but it’s not guaranteed. As a Dutch employer, this is standard procedure for GitLab. As of
+2015-07-01, employees who have worked with an employer on temporary contracts for at least
+two years are entitled to an indefinite contract if the work agreement continues, and this is
+known as the chain rule (ketenregeling).
+1. 
+2. 
+3. 
+4. 
+5.
+
+The process for New Hires is as follows:
+The offer is made by the recruiter per the hiring process.
+If the date of birth is not filled out and cannot be found in a reference check form, the
+Candidate Experience Specialist can use the emails the email template Contract Info
+Request - the Netherlands from GreenHouse and send to the candidate.
+Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday
+date is legally required.
+The Candidate Experience Specialist will stage the contract for signature via DocuSign,
+CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll
+provider in this location can start their onboarding, well ahead of ours.
+Please note that you should not be running a criminal background check for the
+Netherlands, because they’ll be doing a different process (Certificate of Good Conduct/
+VoGS) instead. Please select the Netherlands background check package which only
+includes employment verification and an extended global sanctions search.
+The People Operation Specialist are in charge of contract renewals. The process the end of the
+first 12-month GitLab BV Netherlands temporary contract is listed in their Netherlands
+Renewal Process section of the Contracts, Probation Periods & PIAA handbook page.
+GitLab IT BV contracts should only be used for contractors. All Netherlands employees should be issued
+the GitLab BV contract.
+Process for GitLab Team Members in Australia or New Zealand
+GitLab has an entity in this location. All team members in this location are employees.
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date
+is legally required.
+Process for GitLab Team Members in Ireland, the UK or Singapore
+GitLab has an entity in this location. The UK, Ireland and Singapore payroll are now processed
+through Papaya. There is an updated “Offer Through DocuSign” email templates to group these
+countries together.
+Papaya will follow up with the team members in these locations regarding their payroll.
+Please note that Northern Ireland is under the United Kingdom, so if you see an address that
+includes UK you should hold and verify on google maps where the candidate is located and
+whether a different contract and background check are needed.
+Process for GitLab Team Members in South Korea, or France
+GitLab has entities in Singapore, South Korea, and France. All team members in this location are
+employees, but payroll will be processed through Global Upside. Please be sure to select the
+correct docusign email template so they will be CC’ed as the final step of the offer process.
+Reminder: France requires contracts to be individually drafted by the Legal team. There is a SSOT
+document where we keep track of these requests.
+1. 
+2. 
+3. 
+4. 
+5.
+
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date
+is legally required.
+Creating a French and Spain Offer
+You will receive a req to create a French or Spain Offer.
+In Greenhouse, click on Job setup, then hiring team, then add Sarah Rogers & Darren
+Burr to the job granting them the Job Admin: FPA and Legal permissions, then save.
+Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday
+date is legally required.
+Send a Slack message to the Legal Team in ces_legal_contracts requesting assistance
+with the offer. When making the request in the channel, please indicate the candidate’s
+name and include the link to the GH profile
+One of the Legal Team members will respond with the following information:
+* The GreenHouse Offer Template that you should use
+* The wording that should be added to the template (including information on where
+the wording should be placed). This wording will be placed as provided by Legal on both
+the English & French sides in English.
+* If the offer does not include draw language, Legal will confirm which part of the offer
+template should be removed.
+Once this information has been received, please go onto GH and follow the steps below:
+Click on the settings icon
+Select ‘Offer Templates’ on the left-hand side
+Search for the Template as advised by Legal
+Click on the three dots on the right-hand side of the template you will be using and
+select the ‘download’ tab
+Open the document in Google Docs
+Make all the changes as advised by the Legal Team and save the document
+Go back to the offer templates page on GH
+Click on ‘Upload New’ on the right-hand side
+Upload the amended document
+Then follow the normal offer creation process in GH and select your uploaded document
+as the offer template for this offer.
+Please remember to delete this template once you have completed the process and the
+offer has been signed by the signatory & the candidate
+Creating an Israel offer
+When you receive a request to make an offer in Israel, please take the following steps.
+In Greenhouse, click on Job setup, then hiring team, then add Sarah Rogers & Darren
+Burr to the job granting them the Job Admin: FPA and Legal permissions, then save.
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+1.

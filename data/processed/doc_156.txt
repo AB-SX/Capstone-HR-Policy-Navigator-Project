@@ -1,0 +1,124 @@
+Source: https://handbook.gitlab.com/handbook/people-policies/india-ltd/india-sexual-harassment-policy/
+055. GitLab India Private Limited Policy Against
+Sexual Harassment
+GitLab India Private Limited Policy Against Sexual
+Harassment
+GitLab India’s Prevention of Sexual Harassment Policy
+This is a Secure Document with an effective date of 1 November 2025
+Per the stated Roles & Responsibilities, changes to this page must be approved or merged by a
+code owner. All contributions are welcome and encouraged.
+Roles and Responsibilities
+Role Responsibility
+GitLab India Private Ltd Team Members Responsible for following the requirements in these policies
+People Ops Responsible for implementing and executing these policies
+Legal & People Ops Management (Code
+Owners)
+Responsible for approving significant changes and exceptions
+to these policies
+POLICY AGAINST SEXUAL HARASSMENT
+1.1 Introduction
+GitLab India Private Limited (GitLab) is committed to providing a safe and healthy work
+environment for all its team members, and does not permit any form of sexual harassment in the
+workplace. GitLab and its team members have a shared responsibility in contributing to a
+respectful work environment. In accordance with the provisions of the Sexual Harassment of
+Women at Workplace (Prevention, Prohibition and Redressal) Act 2013 (the ‘SH Act’), GitLab has
+provided a framework to specifically deal with acts of sexual harassment at work.
+1.2 Scope
+This policy is applicable to all ‘employees’ of GitLab, which for the purpose of this policy shall
+include all permanent and temporary team members (including during any probation period),
+interns, and also contract workers or vendors/consultants providing services for GitLab and the
+policy applies to any allegations of sexual harassment made against an ‘employee’, if the conduct
+occurred during the course of their work for GitLab.
+Working remotely means that the majority of our interactions are by video call or written
+communication, such as email or shared documents, although there are exceptions to this,
+including customer meetings, company summits, attending conferences, and team meetups. This
+
+policy is applicable to all instances where individuals covered by this policy have occasion to
+interact on a work-related basis (e.g., in vehicles, third party premises, off-site meetings and
+public venues). GitLab will not tolerate any form of sexual harassment, if engaged in by its team
+members, customers or suppliers or any other business associates, if such conduct occurs
+whether in-person, or from any other place from which a team member may be working
+remotely.
+1.3 Sexual Harassment
+Sexual harassment may be one or a series of incidents involving unsolicited and unwelcome
+sexual advances, requests for sexual favours, or any other verbal or physical conduct of sexual
+nature (whether directly or by implication).
+Sexual harassment at the workplace includes:
+physical contact and advances; or
+a demand or request for sexual favours; or
+making sexually coloured remarks; or
+showing pornography; or
+any other unwelcome physical, verbal or non-verbal conduct of sexual nature.
+The following circumstances, among other circumstances, if they occur or are present in relation
+to or connected with any act or behaviour of sexual harassment may amount to sexual
+harassment:
+Implied or explicit promise of preferential treatment in employment; or
+Implied or explicit threat of detrimental treatment in employment; or
+Implied or explicit threat about present or future employment status; or
+Interference with work or creating intimidating or offensive or hostile working
+environment; or
+Humiliating treatment likely to affect health or safety.
+It is unlawful to engage in sexual harassment, and sexual harassment in the workplace is
+prohibited whether it involves co-worker harassment, harassment by a manager, applicants for
+employment, temporary agency personnel and contractors, customers or vendors, or
+harassment by or of persons doing business with or for GitLab.
+1.4 Process of dealing with Sexual Harassment complaints
+Complaint Procedure for Sexual Harassment:
+1 Internal Committee
+GitLab will constitute a committee for redressal of sexual harassment complaints and for
+ensuring time bound treatment of such complaints (the ‘Internal Committee’) and the contact
+details for the committee members will be linked in the Handbook from the GitLab India Enity
+page. GitLab shall have the right and absolute discretion to remove or replace any member of the
+Internal Committee where necessary or appropriate.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Once established, the Internal Committee will be responsible for investigating every formal written
+complaint of sexual harassment, and making recommendations to GitLab on the actions to be taken
+against the respondent. This policy will be updated once the Internal Committee has been appointed,
+and the intended processes are set out below.
+2 Procedures for Resolution, Settlement or Prosecution of Acts of Sexual Harassment
+GitLab is committed to providing a supportive environment to resolve concerns of sexual
+harassment.
+2.1 Complaints
+Any individual who is a complainant of sexual harassment, may make a formal complaint by
+writing to the Internal Committee or by contacting the Presiding Officer or any member of the
+Internal Committee individually (contact details are set out in the Handbook). In certain special
+circumstances, where a complainant is unable to make the complaint, the Internal Committee
+may allow an authorized person to make the complaint in accordance with applicable law. The
+complaint must be in writing, and can be in the form of a letter or an email. The complainant is
+required to disclose their name and contact details, and where the complainant is a team
+member, the department and division they are working in, to enable the Internal Committee to
+contact the complainant and take the matter forward. Any supporting documents and the names
+and address of witnesses (if applicable) must also be submitted along with the complaint.
+The complaint should be made within 3 months from the date of occurrence of the alleged
+incident and in case of a series of incidents, within a period of 3 months from the date of the last
+incident. The Internal Committee may, at its sole discretion, extend this time limit by up to 3 more
+months if it is satisfied that the circumstances were such which prevented the complainant from
+filing of the complaint within the period of 3 months.
+2.2 Processing the Complaint
+The Internal Committee will hold an initial meeting with the complainant, as soon as practicable,
+but not later than 10 working days from receipt of the complaint in any case. At this meeting, the
+Internal Committee shall hear the complainant, record their allegations and encourage them to
+submit any corroborative material with documentary proof, oral or written material etc. to
+substantiate the complaint.
+The Internal Committee shall normally forward a copy of complaint to the respondent, within 10
+working days from the initial meeting, or within such time-period as it may deem reasonable, and
+give them an opportunity to submit a written explanation if they so desire.
+The respondent shall file their reply to the complaint along with their list of documents and
+names and addresses of witnesses within a period of ten working days from the date they receive
+a copy of the complaint from the Internal Committee or such other period that the Internal
+Committee may specify.
+In the event the Internal Committee concludes that prima facie the complaint does not fall within
+the purview of Sexual Harassment, the Internal Committee will forward the complaint to the
+relevant GitLab team or department, or adjudicating body, that can look into the complaint.
+2.3 Further action on the complaint
+(a) Conciliation

@@ -1,0 +1,74 @@
+Source: https://handbook.gitlab.com/handbook/sales/training/sales-enablement-sessions/enablement/
+collaborating-community-programs/
+164. Collaborating with Community Programs
+Collaborating with Community Programs
+Note
+The Community Programs team is now Developer Relations Programs. The information from the
+original session has been preserved but links have been updated.
+🌎 Overview
+This enablement material is for GitLab team members seeking to collaborate with the Community
+Programs team in order to identify and assist customers who might benefit from GitLab’s
+community programs.
+🎯 Learning outcomes
+By the conclusion of this session, participants will be able to:
+Describe GitLab’s community programs and their functions
+Identify potential members of the GitLab for Education, GitLab for Open Source, and
+GitLab for Startups programs
+Connect program members with the appropriate resources/processes for those
+programs
+Identify opportunities for collaborating with the Community Programs team to assist
+GitLab customers
+Employ processes and best practices for engaging with the Community Programs team
+while working with GitLab customers
+Locate and utilize resources for interacting with the Community Programs team
+📼 Recording
+A recording of this session is available for on-demand playback. Note that this video is private.
+👋 Introduction
+The Community Programs team supports communities that align with GitLab’s CREDIT values by
+executing specific programs that help these communities grow and thrive. Our mission is to help
+these communities experience GitLab’s vision of a world where everyone can contribute. Learn
+more about Community Programs in the GitLab handbook.
+• 
+• 
+• 
+• 
+• 
+•
+
+❓ What is a community program?
+GitLab’s community programs aim to put GitLab’s most powerful features in the hands of
+communities who may not otherwise have the means to access to them. Each program is unique
+in its organization and execution; however, in general, community programs offer GitLab
+customers benefits like:
+Complimentary subscriptions to GitLab Ultimate
+Direct lines of communication to GitLab team members
+Opportunities to partner with GitLab for presentations and events
+Through these programs, we seek to raise awareness of GitLab in specific markets. We do this by
+partnering with members of these communities to spotlight (via case studies, articles, webcasts,
+and videos) ways they’re using GitLab to achieve success.
+🔎 Meet the programs
+Learn more about GitLab’s community programs and their respective DRIs in the Community
+Programs handbook pages.
+📃 Rules of engagement
+Account and Opportunity Ownership
+See point 13 on the Go to Market Rules of Engagement Handbook page for details on handling
+accounts with a Community Programs-related opportunity.
+Please note that even if there is not a sales related opportunity on an account, all accounts must
+remain in the AE/SAE name. If a Community Programs-related opportunity is incorrectly in the AE/
+SAE name, please chatter @Sales-Support in SFDC for assistance with changing the owner to the
+proper Community Programs team member.
+Lead routing
+If you are routed a lead that has contacted GitLab about a Strategy program (GitLab for Education
+or GitLab for Open Source), please reply directly to the lead to connect them with the appropriate
+program team. To know what email address customers can use to contact us, check the Active
+Programs information. Replying directly provides the optimal experience for the customer and
+the most efficient path for everyone.
+Please do not forward leads or emails from individual program members to GitLab team
+members’ individual email addresses. If you have any questions, please reach out to the
+“Community Program Owner” for that Salesforce account.
+♻️ Community program application cycle
+In Q3FY23, Community Programs launched an automated system which allows wider community
+members to apply, receive verification, and obtain new or renewed subscriptions directly through
+• 
+• 
+•

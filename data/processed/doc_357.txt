@@ -1,0 +1,115 @@
+Source: https://handbook.gitlab.com/handbook/sales/onboarding/sales-learning-path/
+137. Sales & Customer Success Quick Start Learning
+Path
+Sales & Customer Success Quick Start Learning Path
+Core curriculum for GitLab’s Sales & Customer Success onboarding
+Sales & Customer Success Learning Path - Core Curriculum
+Welcome to GitLab Sales!
+1. Welcome to GitLab Sales
+ACTIVITY: Let’s Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)
+Please complete this brief google form to introduce yourself.
+What is GitLab? (Material - Video, 31 Minutes)
+GitLab is a single application for the entire DevOps lifecycle. Watch the video.
+GitLab customers buy GitLab for 3 primary reasons: 1) Increase Operational Efficiencies,
+2) Deliver Better Products Faster, and 3) Reduce Security and Compliance Risk. Check out
+the GitLab Customer Deck and watch the video.
+Company Infomercial (Material - Video, 5 Minutes)
+Check out our company infomercial!
+GitLab Culture (Material - Video, 3 Minutes)
+Every year, our entire remote workforce gets together in one location for the GitLab
+Summit. We use this time to bond, build community, and get a bit of work done. It’s an
+essential part of the GitLab experience—watch the video to learn more about our
+culture, and what it’s like to be on our globally distributed team.
+Watch the video
+Read the Handbook
+Everyone Can Contribute (Material - Video, 3 Minutes)
+Learn more about how we live out our Contribute value! Watch the video.
+Short Toes (Material - Handbook - 15 minutes)
+Learn about how we live the collaboration value at GitLab.
+Read the Handbook
+Org Chart (Material - Handbook - 10 Minutes)
+You can see more information about team members and who reports to whom on the
+team page. Throughout the course you will be asked to schedule a few brief meetings
+with your peers. Keep in mind that it is always ok to put a meeting on someone’s
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+calendar, if they can’t make it and decline it is not a problem. We hope you enjoy getting
+to know your super cool co-workers!
+Check out the org chart and the Team Page
+DevOps Technology Landscape
+2. DevOps Technology Landscape
+DevOps Technology Landscape
+Please click on the link below and go through the course modules.
+DevOps Technology Landscape
+GitLab SDLC Quiz (Quiz - 9 Points - Pre Work)
+Take a look at the handbook page on the SDLC and take this short quiz
+Increase Operational Efficiencies (Material - Video - 5 Minutes)
+Compare the traditional DevOps Daisy Chain of disparate tools to an integrated solution
+for Complete DevOps. GitLab delivers a seamlessly integrated platform for developers
+and operators to collaborate in real-time and move ideas into production faster.
+YouTube - Traditional DevOps Daisy Chain
+Manage Your Toolchain Before It manages You! white paper (gated link) (internal link)
+YouTube - You’re Living Like This?
+QUIZ: Increase Operational Efficiencies (Assignment - 25 Minutes - 6 Points - Pre
+Work)
+GitLab is a single application for the entire DevOps lifecycle! Please read the “Manage
+Your Tool Chain Before it Manages You” white paper from Forrester (see link above) to
+answer the questions in the Google Form Quiz.
+Our Customers
+3. Our Customers
+Our Customers
+Please click on the link below and go through the course modules.
+Our Customers
+QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)
+Please take a moment to complete this short quiz based on information in the 
+handbook.
+QUESTION: Personas & Pain Points (Assignment - 1 Point - Pre Work)
+Please share your thoughts on the question below. This is a classroom discussion board,
+let’s crowdsource some knowledge! Why is it important to understand different buyer
+personas as a salesperson?
+Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)
+References are an age old tenet of sales pros! Your prospective clients will definitely be
+impressed by the positive business outcomes of our customers. Check out our customer
+case studies and proof points on GitLab value.
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

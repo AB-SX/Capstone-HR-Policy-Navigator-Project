@@ -1,0 +1,129 @@
+GitLab values all team members for their strengths. We offer team members with disabilities —
+whether visible or invisible — an equal opportunity to succeed, to learn, to be compensated fairly,
+and to advance. True inclusion is about embracing differences.
+Pregnancy Accommodation
+Pregnancy accommodation is governed by the Pregnancy Discrimination Act, the Americans with
+Disabilities Act, the Family and Medical Leave Act, and numerous state and local laws. If you need
+a temporary change to how, when, or where you work due to pregnancy or related conditions,
+you may request an accommodation under this policy. A team member in need of a reasonable
+accommodation should make GitLab aware of their request by notifying the Team Member
+Relations Team via Compass.
+Reasonable Accommodation
+A reasonable accommodation is any change or adjustment to a job, the work environment or the
+way things usually are done that enables a qualified individual with a disability to perform the
+essential functions of the job and that does not pose an undue hardship for the Company or
+create a direct threat to health or safety. When requesting an accommodation, team members
+should notify the Team Member Relations Team via Compass of the need for the accommodation.
+The Company may ask for medical documentation supporting the need for an accommodation
+and all supporting documentation should be returned as quickly as possible to prevent a delay in
+the accommodation process. Requests for a reasonable accommodation for a medical condition
+and any supporting documentation, will be treated as confidential, maintained in a file separate
+from an employee’s other personnel documents and disclosed only as permitted by applicable
+law.
+Determining Appropriate Accommodations
+When a team member requests a change in the job or working conditions and relates the need to
+a medical condition, or notifies GitLab “the company” of medical restrictions, the manager or
+supervisor should direct the team member to open a ticket in Compass or notify the Team
+Member Relations Team (teammemberrelations@gitlab.com) of the request. The Team Member
+Relations Team will then follow the steps outlined below.
+Frequently, when a qualified individual with a disability requests a reasonable accommodation,
+the appropriate accommodation is easily agreed upon. The individual may recommend an
+accommodation based on their life or work experience. The ultimate decision as to whether a
+particular accommodation will be made rests with the Company. When the appropriate
+accommodation is not obvious, the Company may assist the individual in identifying one. If more
+than one accommodation will enable the individual to perform the job, the Company reserves the
+right to choose which accommodation it will make. If you feel that you have been unreasonably
+denied an accommodation request, please speak with the Team Member Relations Team by
+emailing teammemberrelations@gitlab.com. If you have any questions concerning this policy you
+should speak with the People Operations team.
+Members Requesting Accommodations
+
+Please submit your request for an accommodation by opening a ticket in Compass. Your ticket
+will only be viewed by the Team Member Relations Team, and only the requested
+accommodation(s) will be shared with your Manager/PBP as needed.
+While you are under no obligation to provide GitLab with a diagnosis, you may be asked
+questions related to how your condition impacts your ability to perform the essential functions of
+your job, in accordance with applicable law. The Team Member Relations Team will provide you
+with any necessary paperwork, and assist you with your request.
+US Access to Personnel Records
+Current and former team members may request a copy of their personnel file in writing to 
+dpo@gitlab.com. Additionally, team members can access certain records at anytime via Workday.
+Leave Policies
+Please review our US-specific Leave of Absence page.
+Pay Transparency Non-Discrimination Provision
+GitLab will not discharge or in any other manner discriminate against team members or
+applicants because they have inquired about, discussed, or disclosed their own pay or the pay of
+another team member or applicant. However, team members who have access to the
+compensation information of other team members or applicants as a part of their essential job
+functions cannot disclose the pay of other team members or applicants to individuals who do not
+otherwise have access to compensation information, unless the disclosure is (a) in response to a
+formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action,
+including an investigation conducted by the employer, or (c) consistent with the GitLab’s legal
+duty to furnish information. 41 CFR 60-1.35(c) If you believe that you have experienced
+discrimination contact OFCCP.
+OFCCP Makes it Safe for People to Ask About, Discuss, and Disclose Their Pay
+1. What is employment discrimination based on inquiring about, discussing or disclosing
+my pay or that of other team members?
+This type of discrimination generally exists where an employer takes an adverse employment
+action against team members or job applicants because they inquired about, discussed, or
+disclosed their own compensation or the compensation of other team members or applicants.
+One example is an employer firing a team member because they discussed their salary with
+another team member. Another example is an employer decreasing a team member’s work hours
+because they asked their coworkers about their rates of overtime pay.
+2. What are my rights?
+Under Executive Order 11246, employees of a federal contractor have the right to inquire about,
+discuss, or disclose their own pay or that of other team members or applicants. Employees of a
+federal contractor cannot be disciplined, harassed, demoted, terminated, denied employment, or
+otherwise discriminated against because you exercised this right. However, this right is subject to
+certain limited exceptions.
+3. Are federal contractors prohibited from having formal and informal pay secrecy policies?
+
+Yes. Federal contractors are generally prohibited from having policies that prohibit or tend to
+restrict team members or job applicants from discussing or disclosing their pay or the pay of
+others. For example, a government contractor’s policy that prohibits team members from talking
+to each other about end of-the-year bonuses would be considered a violation, as it prohibits team
+members from discussing their compensation.
+4. What is considered pay?
+Pay generally refers to any payments made to a team member, or on behalf of a team member, or
+offered to an applicant. This includes but is not limited to salary, wages, overtime pay, shift
+differentials, bonuses, commissions, vacation and holiday pay, allowances, insurance and other
+benefits, stock options and awards, profit sharing, and retirement.
+5. Does the protection include employer defenses or exceptions?
+Yes. The Executive Order provides federal contractors with two ways to justify or defend actions
+taken that might otherwise be seen as discriminatory and prohibited: the “essential job functions”
+defense, and the general, or “workplace rule” defense.
+6. What are “essential job functions” under the Executive Order?
+The term “essential job functions” means the fundamental job duties of the employment position
+an individual holds. A job function may be considered essential if:
+The access to the amount of pay provided to team members or offered to applicants,
+salary structures and market studies related pay and policies related to setting or
+changing employee pay are necessary in order to perform that function or another
+routinely assigned business task; or
+The function or duties of the position include protecting and maintaining the privacy of
+team member personnel records, including amounts and types of pay provided to team
+members, salary structures, market studies related to pay, and policies related to setting
+or changing a team member’s pay.
+7. What is the “essential job functions” defense?
+Under the “essential job functions” defense, a federal contractor can defend against a claim of
+discrimination by showing that it took adverse action against a team member because they (a)
+had access to the compensation information of other team members or applicants as part of
+their essential job duties and ( b) disclosed that compensation information to individuals who did
+not otherwise have access to it. However, even team members who have access to compensation
+information as part of their essential job functions may discuss, disclose, or inquire about
+compensation in some instances. For example, they can:
+Discuss or disclose the pay of applicants or team members in response to a formal
+complaint or charge; as a part of an investigation, proceeding, hearing, or action,
+including an investigation conducted by the employer; or in accordance with the
+contractor’s legal duty to furnish information.
+Discuss their own pay with other team members.
+Discuss possible pay disparities involving other team members with a contractor’s
+management official or while using the contractor’s internal complaint process.
+Discuss or disclose amount or types of pay of other applicants or team members based
+on information received through means other than access granted through their
+essential job functions.
+• 
+• 
+• 
+• 
+• 
+•

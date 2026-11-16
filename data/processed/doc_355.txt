@@ -1,0 +1,93 @@
+Attendance and/or recording completion is mandatory and tracked as part of Academy
+measurement.
+Component 3: Role-Based Skills Development and Shadowing
+New hires must:
+Attend all role-based skills workshops scheduled for their cohort and role (AE, xDR, SA,
+CX, etc.), or complete the full recording and associated exercises when live attendance is
+not possible and their manager has approved the exception.
+Complete assigned shadowing and field practice, using the guided shadow plan with
+their manager and buddy to apply Academy learning in real scenarios.
+This component focuses on practical application (discovery, demos, pipeline generation, success
+planning, forecasting, etc.) and is a key input into the manager’s view of field-readiness.
+Component 4: In-Person Graduation Summit and Stand-and-Deliver Assessment
+New hires are expected to:
+Attend their assigned in-person Academy Graduation Summit, a 2 to 2.5 day regional
+event (AMER, EMEA, APJ) featuring cross-functional workshops and role-specific
+certification activities.
+Participate fully in the stand-and-deliver capstone assessment, demonstrating their
+ability to apply the GitLab value selling methodology in a realistic prospect or customer
+scenario.
+Achieve a “Pass” rating on the stand-and-deliver rubric for their role.
+The formal checkpoint for this component is: “Attend the in-person event and pass the role-
+specific capstone assessment.”
+Default rule: Attending the regional Summit and passing the stand-and-deliver assessment is
+required to graduate from GitLab Revenue Academy.
+2. How Graduation Is Assessed
+Data Sources Used in Graduation Decisions
+Academy graduation decisions are supported by:
+Course completion and knowledge checks (Component 1)
+Attendance and/or recording completion for CoM and role-based skills workshops
+(Components 2–3)
+Shadowing and on-the-job practice and application between the new hire, manager,
+and onboarding buddy (Components 1–3)
+Performance in the stand-and-deliver capstone assessment during the in-person
+Graduation Summit (Component 4)
+These inputs are consolidated into Academy progress reporting and shared with hiring managers
+to provide clearer readiness signals and make coaching and forecasting easier.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Stand-and-Deliver Assessment Outcomes
+The stand-and-deliver capstone is scored using a standardized rubric tailored to each role group.
+While the exact rubric may vary, outcomes will be recorded at a minimum as:
+Merit — The new hire meets all Pass criteria and significantly exceeds expectations on
+key dimensions (e.g., exceptional clarity of value narrative, advanced objection handling,
+and strong executive presence). Merit can be used to recognize top performers and is
+still considered a full Pass for graduation purposes.
+Pass — The new hire demonstrates field-ready mastery of the Academy learning
+objectives for their role (e.g., clear value narrative, effective discovery, differentiation,
+and linking to customer outcomes).
+Needs Development — The new hire has meaningful gaps in applying the methodology
+or role-specific skills in a prospect or customer scenario and requires additional
+coaching, practice, or re-assessment before graduation.
+Role-based exercises may apply varying score bands to the rubric (e.g., Merit = ≥90, Pass = 80–
+89, Needs Development <80). Merit and Pass are both treated as “passing” outcomes for
+graduation, with Merit serving to highlight top performers.
+3. Manager Discretion and Exceptions
+Manager’s Role in Graduation Decisions
+While Academy provides the structured program, checkpoints, rubrics, and reporting, hiring
+managers remain accountable for role readiness and core onboarding, including the new
+hire onboarding issue, buddy assignment, and protecting time for Academy work.
+Consistent with our program design, passing criteria for the Academy (including the stand-
+and-deliver panel assessment) are ultimately at hiring manager discretion, within
+standardized guidance and this framework.
+Managers should use Academy data as the default signal, then apply judgment based on:
+The new hire’s actual performance in the field
+Timing and logistics constraints (e.g., illness, travel issues, regional conflicts)
+The broader context of ramp expectations for their role and region
+Default Expectation vs. Exceptions
+Default expectation
+By default, a new hire graduates when all of the following are true:
+Component 1: Required GitLab Foundations and role-based eLearning courses are
+completed and knowledge checks are passed by the Week 3 checkpoint (or within an
+agreed extension window).
+Component 2: CoM / methodology class is fully completed (live sessions and/or
+approved recordings) within the cohort’s schedule.
+Component 3: Role-based skills workshops and required shadowing are completed with
+active participation.
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3.

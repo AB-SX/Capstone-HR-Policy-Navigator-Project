@@ -1,0 +1,127 @@
+Read the Solutions Architect Role Description
+Read about the Proof of Value Deliverable
+Customer Success Managers (Material, - Handbook - 15 minutes)
+GitLab’s Customer Success Managers serve as trusted advisors to GitLab’s customers.
+This section outlines to CSM role and their key deliverables: Health Checks, Sucess Plans,
+and Executive Business Reviews.
+Read the CSM Handbook
+Read about Customer Health Scores in the Handbook
+Read about Success Plans in the Handbook
+Read about Executive Business Reviews in the Handbook
+Professional Services Engineers (Material - Handbook - 10 minutes)
+-Professional Services Engineers (PSEs) provide professional services on-site or remote
+deployment of GitLab technology and solutions as well as training. The PSE will act as
+the technical representative leading the direct interaction with the customer’s personnel
+and project teams by rolling out best practices.
+Read the PSE Role job description
+Read the Handbook
+Customer Success Handbook (Material - Handbook - 10 minutes)
+Skim and bookmark the Handbook
+Sales Process
+6. Sales Process
+Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre
+Work)
+Please complete the Command of the Message learning path.
+Time to complete is approximately 1.5 hours
+MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)
+Please review the MEDDPPICC handbook page. The full elearning is optional.
+Time to complete is approximately 1.5 hours
+GitLab Value Framework (Material - Sales Collateral - 35 Minutes)
+The GitLab value framework (internal only) is one of the most useful tools available for
+salespeople. Take a look to understand our value drivers, how to uncover customer
+needs, and how to articulate value and differentiation. A framework summary (internal
+only) is also avaliable for quick reference.
+Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)
+Please read this short document by Force Management to prepare for the Command of
+the Message training in Sales Quick Start.
+Co-Selling with Partners (Course - 30 Minutes - Pre Work)
+Social Selling 101 ( Material - Video - 20 Minutes)
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Social selling is the art of using social networks to find, connect with, and nurture your
+customers and prospects. Watch the video and use this guide to learn how to make a
+profile that will resonate with your prospects.
+QUESTION: Business Development (Assignment - 15 Minutes - 10 Points - Pre Work)
+Business development is hard… because not everyone gets marketing qualified leads or
+has a big referral network. Take a look at the Sales Development handbook page to
+understand more about your XDR partners and their processes. Please share 1-2
+insights on strategy or best practices from your experience. How do you consistently
+keep the pipeline full of leads? Let’s crowdsource some best practices!
+QUESTION: Account Development (Assignment - 15 Minutes - 10 Points - Pre Work)
+One of the most important parts of a salesperson’s job is account development. Your
+clients bought from you once, and they are very likely to do it again! Please share 1-2
+insights on strategy or best practices from your experience. How do you keep your
+clients buying more and sending referrals? Let’s crowdsource some experience!
+Our Competition
+7. Our Competition
+The Industry In Which GitLab Competes (Material - Video - 11 Minutes)
+Sid Sijbrandij, co-founder of GitLab, discusses the overall industry where GitLab
+competes.
+You Tube - The Industry GitLab Competes In
+ACTIVITY: Review & Subscribe: Industry Insights (Assignment - 1 Point - Pre Work)
+Review and subscribe to the following blogs recommended by Sid to get the latest
+industry insights.
+https://news.ycombinator.com/
+https://thenewstack.io/
+https://martinfowler.com/
+https://about.gitlab.com/blog/
+Competitor Overview (Material - Handbook - 30 Minutes)
+There are a lot of DevOps tools out there. As a single application for the entire DevOps
+life cycle, GitLab can remove the pain of having to choose, integrate, learn, and maintain
+the multitude of tools necessary for a successful DevOps tool chain. However, GitLab
+does not claim to contain all the functionality of all the tools listed here. Click on a
+DevOps tool to compare it to GitLab. Last thing dont forget to log into Crayon, our
+competitive intelligence platform to view all of our latest competitive advantages.
+GitLab vs. GitHub (Material - Video - 3 Minutes)
+No… we are not the same company! This short YouTube video on GitLab vs. GitHub
+covers some basic differences.
+Check out the GitLab vs. GitHub
+Azure DevOps
+Check out the GitLab vs. Azure DevOps
+• 
+• 
+• 
+• 
+• 
+1. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

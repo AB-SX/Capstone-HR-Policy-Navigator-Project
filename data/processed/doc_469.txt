@@ -1,0 +1,104 @@
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/neurodiversity-and-neuroinclusion/
+neuroinclusion-in-practice/
+190. NeuroInclusion in Practice
+NeuroInclusion in Practice
+Learn about GitLab’s NeuroInclusion in Practice programme — supporting every way of thinking
+through inclusive design, communication, and leadership.
+NeuroInclusion in Practice
+Design for every way of thinking
+At GitLab, neuroinclusion is part of how we live our CREDIT values.
+When we design our systems and communication for every way of thinking, everyone benefits —
+collaboration improves, innovation strengthens, and all team members can thrive.
+This page introduces the NeuroInclusion in Practice learning series and connects you to related
+resources, community spaces, and support.
+About NeuroInclusion in Practice
+Purpose
+NeuroInclusion in Practice helps build confidence, shared language, and practical skills so every
+GitLab team member can work effectively in our async-first, global environment.
+The programme combines lived experience, research, and practical guidance for everyday
+collaboration and leadership.
+Learning Path
+Module Audience Focus Release
+Date
+Intro Module – Why
+NeuroInclusion
+Matters at GitLab
+All team
+members
+GitLab values, the business and human case,
+and why this matters
+November
+Course 1 – Working
+Inclusively
+All team
+members
+Understanding neurodiversity, building inclusive
+practices in everyday collaboration, supportive
+colleague behaviours, and creating
+psychologically safe async work environments
+November
+Course 2 – Leading
+NeuroInclusive Teams
+People
+managers
+and leaders
+Communication skills, neuroinclusive
+management practices, creating inclusive team
+cultures, and building high-performing
+neuroinclusive teams
+December
+
+Module Audience Focus Release
+Date
+Course 3 – Embedding
+NeuroInclusion
+HR, Talent &
+Senior
+Leaders
+Designing neuroinclusive systems, processes,
+and policies across the employee lifecycle—from
+recruitment and onboarding to performance
+management and organizational strategy
+January
+Each course is practical and self-paced.
+➡️ 
+Visit the NeuroInclusion Loop Site (Internal Only) for videos, templates, conversation
+guides, and manager tools.
+Key Principles
+These principles align with GitLab’s CREDIT values — especially Collaboration, Diversity, Inclusion
+& Belonging, and Results.
+Design for every brain — everyone benefits
+Designing systems and processes that consider different ways of thinking supports
+collaboration and innovation across all teams.
+Barriers live in systems, not people
+Inclusion focuses on improving environments and processes rather than expecting
+individuals to adapt to systems that don’t work for them.
+Clarity and flexibility enable success
+Clear expectations combined with adaptable approaches help people work effectively in
+a global, async environment.
+Different thinking styles are strengths
+Cognitive diversity drives creative problem-solving, innovation, and better outcomes for
+both teams and customers.
+Community & Support
+Disability & Neurodivergence TMRG
+A community for connection, lived-experience sharing, and influencing inclusive practice.
+Slack: #disability-and-neurodivergence-TMRG
+Executive Sponsor: Rob Allen, VP People
+Disability & Neurodivergence TMRG Handbook Page
+Disability & Neurodivergence Loop Page
+Mental Health TMAG
+Focused on emotional, social, and psychological wellbeing.
+Slack: #mental-health-tmag
+Mental Health TMAG Handbook Page
+Mental Health TMAG Loop Page
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

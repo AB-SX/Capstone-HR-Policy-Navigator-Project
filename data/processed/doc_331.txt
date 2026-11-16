@@ -1,0 +1,96 @@
+How Support Handles Family and Friends Days
+During Family and Friends Days GitLab Support continues
+to operate as normal. In FY26, you are free to take off a total of 4 days at your convenience, to
+celebrate and record as Family and Friends day.
+Please follow the same guidelines as you would in Choosing and Recording Time Off.
+How Support Handles Holidays
+During Holidays, GitLab Support continues to operate as normal. Always book holidays as
+required by your locality. For
+non-statutory holidays, please follow the same guidelines as you would in Choosing and
+Recording Time Off.
+From late November through the first week of January, “the holiday season,”
+each Support region takes additional steps to coordinate time off so that they
+will maintain sufficient staffing levels to meet customer needs.
+APAC
+APAC plans for several high-impact holiday periods. Details of these dates are noted in the APAC
+support page.
+For end of year coverage, planning begins in September-October.
+This typically involves determining the appropriate coverage based on both the volume of
+incoming tickets during the holiday period the previous year, and the general ticket volume trend
+since then.
+The team then sign up in the planning issue to provide the necessary coverage by the end of
+October. This allows time for discussion if anything is at risk.
+Other factors taken into account for coverage include:
+L&R expertise
+CEOC, CMOC & Support-Manager on-call coverage - we prefer people covering on-call
+roles to be working rather than doing it while they are on PTO, so we’ll generally seek to
+swap shifts with those providing coverage
+region coverage - as a wide region, we need to ensure we have sufficient people on in
+both the first and second halves of the APAC day
+shift coverage for 24/7 support
+Previous planning issues can be seen in this epic.
+EMEA
+The EMEA Support Team plans coverage for several high-impact holiday periods throughout the
+year, with the two primary planning periods being Easter and the End of year Holiday season.
+For each of these periods, EMEA Support Managers will create planning issues such as:
+EMEA Year End Coverage 2025 - 2026 - planning usually begins 6-8 weeks in advance
+• 
+• 
+• 
+• 
+•
+
+EMEA Coverage Planning - Easter Long Weekend and the surrounding 2 weeks -
+planning usually begins in October
+These planning issues include an associated spreadsheet where Support Engineers can share
+their holiday plans and coordinate coverage. This approach ensures:
+Adequate coverage across all EMEA time zones during holiday periods
+Visibility of team availability well in advance
+Fair distribution of holiday time off
+Sufficient expertise coverage (L&R, CEOC, CMOC, and on-call roles)
+Team members are encouraged to add their plans to the spreadsheet as early as possible to
+facilitate better coordination. While the team aims to accommodate all requested time off,
+Support Engineers should avoid making firm commitments (such as purchasing nonrefundable
+travel) until coverage has been confirmed by the management team.
+AMER
+AMER Support Managers will create and publish an issue in late September, using
+this template.
+In that issue they will invite everyone in AMER Support to use a specified Google
+Form to indicate their preferences for days off during the holiday season. Once
+the form has closed, around the 15th of October, the AMER Support managers will
+quickly determine whether any changes need to be made to anybody’s requested
+days off.
+While it’s not very likely that anyone will be asked to work on a day that they
+would like to take off, it is possible. For that reason, please don’t make any
+firm commitments (such as purchasing a nonrefundable travel itinerary) until
+the management team sends out notice that the schedule is confirmed.
+Holiday time off ticket management
+Guidance around ticket handling over global holiday time off is slightly different, because of the
+potentially increased impact on the Support team.
+The following peak holidays have the greatest potential to affect coverage:
+Australia Day (26-January)
+Republic Day (26-January)
+Anzac Day (25-April)
+International Workers Day (1-May)
+Memorial Day (last Monday in May)
+Independence Day (1-July to 4-July)
+U.S. Thanksgiving Day (4th Thursday of November)
+Immaculate Conception Day (8-Dec)
+Christmas Day, St Stephens Day, Boxing Day, New Years Day and Day After New Years
+(Period between 24-Dec to 2-Jan)
+Holidays that vary in dates each year that are celebrated in multiple countries:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

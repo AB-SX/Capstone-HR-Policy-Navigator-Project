@@ -1,0 +1,125 @@
+If a candidate is interested in employment at GitLab in a country where they require a Blue Card
+for work authorization, GitLab may move forward with their candidacy under the following
+circumstances:
+The candidate understands that GitLab will not assist with their Blue Card application or
+any associated fees. GitLab can only provide company information and a signed
+employment agreement. GitLab will not adjust offered compensation in order to meet
+Blue Card salary minimum requirements.
+The candidate understands that their employment in that country is contingent upon
+them securing proper work authorization before they begin working for GitLab. If their
+authorization is denied or lapses during the term of employment, they will be required
+to immediately cease working and GitLab will not be able to assist with pursuing a new
+work permit or sponsorship.
+Their employment agreement includes wording stating that their employment in that
+country is contingent upon them securing proper work authorization and if such
+authorization is denied or lapses the offer is rescinded.
+The hiring manager understands all of the above and acknowledges the risk that this
+candidate may not end up being authorized to work for GitLab, or that their visa may
+expire during the term of their employment and they will be unable to continue
+working. In the event that a visa is denied or expires GitLab will not be able to make any
+exceptions to the visa and sponsorship policy for any team members or candidates.
+More detailed links on the process:
+Schengenvisainfo.com/EU-Blue-Card
+EU Immigration portal
+Other visas GitLab may be able to accept
+GitLab’s acceptance of a visa depends on many factors. The following visas may make a candidate
+eligible to work at GitLab. The following list is not exhaustive.
+Australia Employer Nomination Scheme visa (subclass 186)
+This is an employer-sponsored permanent resident visa. GitLab cannot support a new application
+for this visa, but may be able to hire a candidate who (1) has been granted this visa while working
+at a former employer, and (2) worked at that employer for at least 2 years after the visa was
+granted. This visa is valid for 5 years and cannot be renewed, but the visa holder is able to apply
+for permanent residency or citizenship upon expiration. Candidates and hiring managers must
+be aware that if the subclass 186 visa expires without securing a new form of work authorization
+the team member will need to stop working immediately upon expiration and GitLab will not be
+able to assist with or sponsor new work authorization.
+India Employment Visa
+Grants work rights for the duration of an employment relationship and does not require
+employer sponsorship. GitLab can assist with providing a local employment agreement and a
+copy of the company registration for the application, but will not apply for the visa on a team
+member’s behalf. Valid for up to one year and may be extended for up to five years. When hiring
+• 
+• 
+• 
+• 
+• 
+•
+
+candidates who hold a this visa, emphasize that GitLab will not be able to assist with sponsorship
+of a new pass once their visa expires. Hiring managers should also understand that a candidate
+will only be able to work for GitLab until their visa expires and GitLab will not be able to make
+exceptions to our sponsorship policy at that time.
+Japan Engineer Visa
+GitLab can provide company information for this visa application. The employee is responsible for
+their own application and all fees associated with the visa. May be valid for 1 year, 3 years, or 5
+years depending on the visa approval, and may be extended/renewed. GitLab cannot assist team
+members with obtaining a Certificate of Eligibility (COE).
+For People Operations internal processing:
+When receiving these requests from team members via Compass, provide the following
+documents to the team member:
+Company Registration Document
+Current Year Financials (which can be found in this folder). If the current/previous years
+financials are not available, reach out to the Tax team to assist with providing this.
+Save a copy of this template and complete all fields that are marked with {}. Once you
+have all the information completed, send the document to Simon Mundy for signature.
+Netherlands Partner Visa
+Sponsored by partner, no employer involvement required. This visa is valid for up to 5 years
+depending on the sponsoring partner’s citizenship or work permit status. When hiring candidates
+who hold a this visa, emphasize that GitLab will not be able to assist with sponsorship of a new
+pass once their visa expires. Hiring managers should also understand that a candidate will only
+be able to work for GitLab until their visa expires and GitLab will not be able to make exceptions
+to our sponsorship policy at that time.
+Korea F5 Permanent Resident Visa
+Long-term visa that does not require employer sponsorship. Typically valid indefinitely.
+Singapore Personalised Employment Pass
+This is a visa for high earners that does not require sponsorship. Valid for 3 years and cannot be
+renewed. When hiring candidates who hold a PEP, emphasize that GitLab will not be able to assist
+with sponsorship of a new pass once their PEP expires. Hiring managers should also understand
+that a candidate will only be able to work for GitLab until their PEP expires and GitLab will not be
+able to make exceptions to our sponsorship policy at that time.
+Singapore Employment Pass
+This is an employer-sponsored temporary employment visa. GitLab can support the transfer of
+this visa from another employer to GitLab Singapore PTE Ltd. To be eligible for the Singapore
+Employment pass, The candidate must be (1) currently based in Singapore; (2) applying for a
+• 
+• 
+•
+
+quota-carrying role; and (3) meet the relevant requirements under the Ministry of Manpower
+(MOM).
+This visa is initially granted for up to 2 years and subsequent renewals are valid for up to 3 years.
+Renewal assessments are based on three factors: individual & company performance, business
+need at time of renewal, and compliance with MOM obligations. The visa holder may be able to
+apply for Permanent Residency and would be responsible for their own application and all fees
+associated with Permanent Residency.
+Once the selected candidate has accepted the employment offer, we will initiate the Employment
+Pass (EP) visa application process. The candidate will supply their personal details and specified
+information to the immigration partner in order to complete the visa application. Each EP visa
+application is assessed by our immigration partners to ensure it meets the minimum
+requirements per MOM standards. Once the application is submitted, it will be under review with
+the visa authorities for a minimum of 10 business days before adjudication. Costs for obtaining
+the Employment Pass visa are absorbed by the department hiring the candidate.
+UK Global Talent Visa
+This visa is for people who are considered leaders in various fields and does not require employer
+sponsorship. GitLab can likely employ anyone who has been awarded this visa but is unable to
+provide support with visa applications or fees. This visa is valid for five years and may be
+renewed.
+UK India Young Professionals Scheme Visa
+Grants full work rights without employer obligations. Valid for up to 24 months. When hiring
+candidates who hold a this visa, emphasize that GitLab will not be able to assist with sponsorship
+of a new pass once their visa expires. Hiring managers should also understand that a candidate
+will only be able to work for GitLab until their visa expires and GitLab will not be able to make
+exceptions to our sponsorship policy at that time.
+UK Ancestry Visa/British National (Overseas) Visa
+Grants full work rights without employer obligations. Valid for up to 5 years. When hiring
+candidates who hold a this visa, emphasize that GitLab will not be able to assist with sponsorship
+of a new pass once their visa expires. Hiring managers should also understand that a candidate
+will only be able to work for GitLab until their visa expires and GitLab will not be able to make
+exceptions to our sponsorship policy at that time.
+USA TN Visa (USMCA)
+This visa is available to Canadian or Mexican nationals in eligible roles. TN Visas are tied to a
+specific employer but do not place compliance obligations on the employer and so are not
+typically considered “sponsored.” GitLab will not submit the Form I-129 application on a candidate
+or employee’s behalf–they will need to submit their visa application at a Port of Entry instead.
+GitLab will only assist with providing company information and an employment contract or letter
+of employment. A candidate working at another company on a TN Visa will need to wait for their

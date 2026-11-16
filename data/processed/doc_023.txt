@@ -1,0 +1,94 @@
+Domain Name Registration and Maintenance Policy
+Scope and Purpose
+This policy applies to all GitLab team members registering, or maintaining a registration for,
+GitLab-related Domain Names, including GitLab-related Domain Names registered or used for
+sandbox or testing purposes.
+Domain names are key assets in GitLab’s intellectual property portfolio. Centralizing the
+registration and maintenance of domain names under the Infrastructure Shared Services group
+using GitLab’s approved domain name registrar helps us track and protect these valuable assets.
+Please refer to the Domain Names and DNS Records Handbook Page.
+“GitLab-related Domain Names” when used in this policy means any domain name:
+registered or used for any purpose related to a team member’s role at GitLab;
+containing the GitLab trademark (GITLAB) or one of its derivatives (like, amongst other
+things, git, glab, gtlb, gl); and/or
+containing any GitLab key messaging term (like, amongst other things, DevOps, DevOps
+platform, all remote).
+Registration of new GitLab-related Domain Names
+All GitLab-related Domain Names must be registered using the process outlined in the 
+dns-domain-purchase-request issue template maintained by IT Operations.
+Expense reports submitted by team members for expenses incurred on or after 
+2022-03-01 in registering new GitLab-related Domain Names will be rejected.
+Transfer of existing GitLab-related Domain Names
+All GitLab-related Domain Names currently registered in the name of team members, or
+registered with unapproved registrars, should be transferred to GitLab using the
+process outlined in the dns-domain-transfer-request issue template as soon as possible.
+Expense reports submitted by team members for expenses incurred on or after 
+2022-08-01 in maintaining registrations of GitLab-related Domain Names in the name of
+team members, or with unapproved registrars, will be rejected.
+Team Member Expense Temporary Advances
+This relates To Laptop Advances only - If more information is required please email the AP team
+on AP@gitlab.com
+Expense Reimbursement for Terminated Team Members
+If a team member whom you manage has left GitLab and comes to you with final expenses that
+are valid for reimbursement, please verify that they were not already processed in Navan and
+then contact Accounts Payable. You must submit valid receipts and a completed copy of the 
+Expense Reimbursement template along with your approval. Please note that we may also ask
+• 
+• 
+• 
+• 
+• 
+•
+
+the terminated team member to provide valid banking details in order to process the payment to
+them. AP will do their best to process and pay the reimbursement to the individual within 1 week.
+Last modified November 4, 2026: Remove broken image references from Travel and Expense
+policy (b12f2a78)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/hiring/interviewing/
+006. Interviewer Prep Requirements
+Interviewer Prep Requirements
+Learn more about the tools required to prepare you for interviewing at GitLab
+As an interviewer, you play a significant part in creating a seamless, candidate-centered
+experience for all applicants here at GitLab. Keeping an up-to-date calendar and setting up your
+specific interviewer preferences is essential to help reduce interview cancellations or declines and
+the need for rescheduling. This page will provide links and examples on how to adjust your
+calendar and interviewer preferences as well. We urge you to visit this Handbook page for a
+deeper understanding of how GitLab candidates are moved through the interview process. DRI:
+Candidate Experience Team
+To provide you with the knowledge and skills necessary to conduct effective and equitable
+interviews and to make informed hiring decisions, please visit this handbook page.
+Inclusive Interviewing
+At GitLab we strive to ensure our hiring teams are well versed in every aspect of diversity,
+inclusion, and cultural competence. A positive and comfortable candidate experience needs to be
+our priority. As an interviewer at GitLab, we urge you to be committed to creating a welcoming
+and inclusive environment for all candidates.
+We do not ask for the candidate’s pronouns in the application form. This information is “sensitive
+information” according to GDPR and other applicable privacy acts. We encourage our
+interviewers to utilize Zoom’s Pronoun feature and you’re welcome to disclose your pronouns in
+any way you feel comfortable doing so.
+Tips for keeping your Google Calendar up to date
+Ensure your working hours are documented correctly. Update your OOO in a timely manner.
+Communicating with the recruiters in advance about anything that impacts your availability to
+interview candidates is appreciated. This can include:
+Public holidays
+Friends and family days
+PTO/ vacation time off
+Company offsites/ travel
+Block the time you are “On Call”
+Special business needs (QBRs/SKO)
+Please make adjustments to the timezone in Google Calendar when you are traveling
+outside the country.
+Set a free calendar appointment for 1-2 days after you return from vacation indicating
+“No Interviews” if you would prefer not to interview during that time.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

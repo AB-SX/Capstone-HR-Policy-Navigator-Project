@@ -1,0 +1,81 @@
+Component 4: The new hire attends the in-person Graduation Summit and earns a
+“Pass” (or “Merit”) rating on the stand-and-deliver assessment.
+Manager-approved exceptions
+Managers may exercise discretion when:
+The new hire misses a live virtual session but completes the full recording and any
+associated exercises within the required timeframe, with written manager approval.
+There are minor gaps in LMS progress (e.g., one or two overdue micro-courses) but the
+manager has strong evidence of field-ready performance in the field.
+There are meaningful gaps in required coursework (e.g., multiple missing modules or
+knowledge checks) — the expectation is that they do not attend an Academy Summit.
+They should first complete a targeted make-up plan (see “Handling Below-Passing
+Performance or Non-Completion”) before attendance is approved. In edge cases where
+the manager believes the new hire is clearly field-ready despite these gaps, attendance
+may be approved only with a documented exception and clear remediation plan.
+The new hire’s assessment score is at or just below the formal passing threshold,
+but panel feedback and manager observations indicate they are performing at the
+expected level in actual prospect or customer conversations.
+In these cases, the manager may approve graduation, paired with a targeted coaching plan
+(e.g., additional practice sessions, deal reviews, or focused shadowing).
+Handling Below-Passing Performance or Non-Completion
+When a new hire does not meet the Academy requirements — for example:
+Significant portions of the eLearning path are incomplete (including cases where
+Summit attendance was approved and the stand-and-deliver result is “Pass” but required
+learning is still missing)
+Multiple required workshops are missed without approved make-ups
+The stand-and-deliver result is “Needs Development”
+There are ongoing concerns about field-readiness despite Academy participation
+…the expectation is that the new hire does not graduate yet and instead follows a remediation
+and re-assessment path, owned by the hiring manager and supported by Enablement.
+Recommended options include:
+1. Make-up coursework and workshops
+Complete all missing asynchronous courses and knowledge checks.
+Attend future live skills workshops (or complete the recording and exercises) to close
+gaps specific to their role.
+2. Re-attending an in-person Graduation Summit
+In some cases, the manager may determine that the new hire should repeat the in-
+person Summit to re-do the stand-and-deliver exercises and benefit from the full in-
+person experience before granting graduation.
+4. 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+3. Virtual stand-and-deliver re-assessment
+For cases where waiting for the next in-person Summit is not practical, the manager can
+schedule a virtual stand-and-deliver assessment using the same rubric, with a panel
+that includes at least the hiring manager and an Enablement Lead or Enablement
+Consultant.
+A “Pass” on this virtual re-assessment can satisfy the capstone requirement for
+graduation.
+Decisions between these paths should factor in role expectations, timing, and regional Summit
+cadence (AMER/EMEA approximately every other month, APJ quarterly).
+Documentation and Communication of Exceptions
+To maintain consistency and transparency, all exceptions (graduating with partial completion,
+virtual re-assessment, or requiring a re-do at a future Summit) should be documented by the
+hiring manager, including:
+Which requirements were not met
+Rationale for the decision (e.g., demonstrated field performance, unavoidable conflict,
+health issues)
+Any required remediation or follow-up plan
+Managers should share exception decisions with their regional/functional VP/AVP/Director and
+Enablement Lead so we maintain consistent standards across cohorts and roles.
+This approach preserves standardized graduation gates and accountability while honoring
+manager judgment on whether a new hire is truly field-ready at the end of Academy.
+Last modified May 5, 2026: update graduation pass thresholds (0aa86be3)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,104 @@
+Sub-Team Responsibilities Key Collaborators
+Registration - Run of show - Event check-in - Signage -
+Mobile app - Ancillary events (if applicable)
+Content - Mainstage content - Non-mainstage content - Partner
+Summit content - Awards & Compensation - Production
+Video ** see additional details in the Content Sub-Team
+Deeper Dive section below
+** see additional details in
+the Content Sub-Team
+Deeper Dive section below
+Communications - Comms plan - Event copy - Slack channels - Survey
+planning & execution - Post-event content sharing -
+Event summary / wrap-up
+Events
+Content Sub-Team Deeper Dive
+Content Type Responsibilities Key Collaborators
+Mainstage - Keynote content - Customer and/or partner
+speaker sessions - Motivational speaker
+- Events - Corp Comms -
+Execs
+Non-mainstage - Role-based breakouts - Birds of a Feather sessions - Events - Portfolio Marketing
+- Field org
+Partner Summit - Partner Summit sessions - Partner sponsorships - Events - Portfolio Marketing
+- Field Enablement
+Awards &
+Compensation
+- Tracking final results - Awards - President’s Club
+winners - Comp Overview
+- Events - CRO leaders
+Production Video - Video for mainstage sessions - Video content
+production for SKO and Partner Summit, Event
+recording, and Other
+- Events - Digital Production -
+Field Enablement - Channel
+Managing SKO Work
+Scheduling and logistics are managed in a Sales Kickoff (SKO) 2023 Agenda & Logistics Google
+sheet, while actual work is managed in GitLab.
+SKO work within GitLab is managed in epics and issues (see SKO 2023 meta epic). Sub-team DRIs
+are empowered to manage their child epics and issues as they see fit.
+The Sales Kickoff (SKO) 2023 Agenda & Logistics Google sheet contains:
+SKO Mainstage Agenda
+SKO Breakout Schedule
+Partner SKO schedule
+Ancillary Events schedule
+SKO Planning Timeline
+Due Dates
+SKO Planning GitLab Directory (links to the relevant Epics & notes docs for SKO planning
+for ease of use)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+The sub-team DRIs are responsible for maintaining the efficacy of this document unless there is a
+core team member directly responsible for all of the contents of a tab (i.e. Partner Summit,
+Ancillary Events, Breakouts).
+SKO Planning Meetings & Cadence
+The SKO planning team has one 50-minute planning meeting that includes ALL DRIs and sub-
+DRIs + team members leading planning and content for keynote sessions.
+SKO Core Team Weekly Meeting
+Q2: Monthly
+Q3: Weekly
+Q4: 2x weekly (consider making one occurrence 25 min)
+In addition, the SKO planning team delivers CRO Leader Status Updates in the following cadence:
+Q3 (September 2022): SKO 2022 planning overview, high-level objectives, theme, and
+draft agenda discussion
+Q3 (October 2022): SKO theme confirmation and messaging hierarchy kickoff (detailed
+goals & objectives)
+Q4 (Nov-Jan): Bi-weekly progress reviews
+SKO “Call for Content”
+In order to drive relentless prioritization based on GitLab Sales Kickoff (SKO) theme/sub-themes/
+goals, gather content in a timely manner and secure executive consensus early, the SKO Core
+Team implements a “Call for Content” for SKO breakout sessions. A secondary benefit of this
+process is that it gives Field Enablement a strong backlog of well-rounded training and
+enablement topics for topic submissions not selected or prioritized for SKO (e.g. webcast topics,
+etc.) in future months/quarters to support continuous education initiatives for the field
+organization. There are two types of breakout sessions:
+Role-Based Breakout Sessions: Teaching skills and behaviors aligned to specific role(s)
+within the organization.
+Submit a role-based breakout session idea using this issue template
+“Choose Your Own Adventure” Breakout Sessions: Allow attendees to step out of the
+role-based breakout experience and select from a list of breakout topics for the final
+breakout. These topics can be a deep-dive into a keynote topic (ex. diving into a feature
+that Product discussed in their keynote) or a broader topic or soft-skill (ex. DIB in Sales,
+Project Management, etc.).
+Request a topic or focus for a “Choose Your Own Adventure” breakout using this issue
+template
+Note that we will also use the Call for Content submission form for Mainstage sessions to tease
+out the learning objectives and outlines, but we will not implement a formal selection process as
+there is already a prescriptive “formula” for which speakers/teams give keynotes.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.

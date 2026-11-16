@@ -1,0 +1,142 @@
+Source: https://handbook.gitlab.com/handbook/people-group/
+001. People Group
+People Group
+The People Group at GitLab supports all GitLab team members through the complete team
+member lifecycle.
+Welcome
+Welcome to the People Group handbook! You should be able to find answers to most of your
+questions here.
+People Group Vision
+The People Group works together to establish a high performance and results driven culture
+where a diverse and inclusive team can experience a meaningful career.
+We support a culture that enables people to do their best work and advance their careers while
+fully contributing to advancing GitLab’s business results. We hire, promote, and recognize team
+members who best live our Operating Principles.
+The People Group strategy is aligned with GitLab’s Company Strategy through a focus on
+supporting GitLab’s ability to deliver on our FY27 Plan while setting the foundations to build a
+generational company.
+Connect with us
+You can also check out pages related to People Group in the section below. If you can not find
+what you are looking for please do the following:
+The People Group holds several subprojects to organize the people group; please
+create an issue in the appropriate subproject or general if you’re not sure. Please use
+confidential issues for topics that should only be visible to GitLab team-members.
+Similarly, if your question can be shared please use a public issue. Tag @gl-people-ops-
+team or @gl-hiring so the appropriate team members can follow up.
+Please note that not all People Group projects can be shared in an issue due to
+confidentiality. When we cannot be completely transparent, we will share what we can in
+the issue description, and explain why.
+Employment Issue Tracker: Only Onboarding, Offboarding and Transition Issue
+Templates are held in this subproject, and they are created by the People Operations
+Team only. Interview Training Issues, are held in the Training project and created by the
+Talent Acquisition team. Please see the interviewing page for more info.
+People Operations; Please create a case for the People Operations team with any
+questions that do not seem appropriate for the issue tracker within Compass - choosing
+the applicable template/category applicable. For access requests regarding Google or
+• 
+• 
+• 
+•
+
+Slack groups, please create an issue here: https://gitlab.com/gitlab-com/team-member-
+epics/access-requests. For questions that relate to Payroll, Expenses or Equity, please
+direct your question to the respective teams in Compass. Regarding questions for our
+recruiting team, including questions relating to access, or anything to do with
+Greenhouse, referrals, interviewing, or interview training please use the #talent-
+acquisition channel.
+If you need to discuss something that is confidential/private (including sensitive matters
+surrounding your team), you can open a Compass Case the Team Member Relations
+team. Any team member, regardless of location, can use this form to discuss a private
+sensitive matter.
+If you need help with any technical items, for example, 2FA, please contact IT via the
+Compass app in Slack (type “Compass” in the top search bar to find it) or it-
+help@gitlab.com.
+The People Group is here to support GitLab’s mission by bringing top talent into GitLab, and then
+enabling team members to make meaningful contributions in alignment with our Operating
+Principles. Please don’t hesitate to reach out with questions or ask for support!
+Need Help?
+In Case of Emergency
+If team members need emergency support from GitLab’s People team, please create a case in 
+Compass. Compass is monitored during most working hours and is the centralized support
+platform for all people-related queries. Read more about our People Operations methods of
+engagement.
+We trust team members to always use their best judgement when facing any emergency. Team
+members are encouraged to dial their country’s emergency services number for any critical and/
+or medical emergency. In the case that other team members are aware of a team member’s
+emergency (during a Zoom call for example) and wish to call that country’s emergency services
+on the original team member’s behalf, we do not recommend this as only certain People Ops
+team members have access to team member addresses and we would take on the role of
+communicating with emergency services, should this extremely rare situation arise.
+In the event a team member is in an unsafe situation due to a natural disaster, please see the 
+Disaster Recovery Plan page.
+How to Report Violations
+As stated in the Code of Business Conduct and Ethics, we have a section related to reporting
+violations. GitLab has engaged Ethico (https://www.mycompliancereport.com/report?cid=GTLB), a
+comprehensive and confidential reporting tool, an anonymous ethics hotline for all team
+members. The purpose of the service is to insure that any team member wishing to submit a
+report anonymously about conduct addressed in the Code of Business Conduct and Ethics can do
+so without the fear of retaliation.
+In addition to Ethico, GitLab has engaged Lighthouse Services to provide an anonymous
+reporting hotline for all team members to submit reports regarding team member relations.
+Reports may cover but are not limited to the following topics: wrongful discharge or disciplinary
+• 
+•
+
+action, sexual harassment, discrimination, conduct violations, alcohol and substance abuse,
+threats, improper conduct, violation of company policy.
+Please note that the information provided by you may be the basis for an internal and/or external
+investigation into the issue you are reporting and your anonymity will be protected by Lighthouse
+to the extent possible by law. However, your identity may become known during the course of the
+investigation because of the information you have provided. Reports are submitted by
+Lighthouse to a company designee for investigation according to our company policies.
+Lighthouse has a toll free number and other methods of reporting are available 24 hours a day, 7
+days a week for use by team members.
+Website: https://www.lighthouse-services.com/gitlab
+USA Telephone:
+English speaking USA and Canada: 833-480-0010
+Spanish speaking USA and Canada: 800-216-1288
+French speaking Canada: 855-725-0002
+Spanish speaking Mexico: 01-800-681-5340
+All other countries telephone: +1-800-603-2869
+E-mail: reports@lighthouse-services.com (must include company name with report)
+Fax: (215) 689-3885 (must include company name with report)
+In addition to Ethico and Lighthouse, please review the Team Member Relations page. GitLab also
+offers a Harassment Complaint Form that any team member may use to document any instance
+of any type of workplace harassment. Simply copy the form, fill it out with your information and
+send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
+How to reach the right member of the People Group
+This table lists the aliases to use, when you are looking to reach a specific group in the People
+Group. It will also ensure you get the right attention, from the right team member, faster.
+Subgroup GitLab handle Email Slack Group handle/
+channel
+Greenhouse Issue
+tracker
+People
+Business
+Partners
+@gl-
+peoplepartners, 
+Please add the pbp-
+attention label to
+any issue or MR that
+requires PBP review,
+collaboration, or
+feedback
+peoplepartners@ gitlab.com @peoplepartners n/a
+Total
+Rewards
+@gl-total-rewards total-rewards@ gitlab.com Compass n/a
+People
+Compliance
+Partner
+TBA Compass TBA n/a
+Compass @people-ops-team n/a
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

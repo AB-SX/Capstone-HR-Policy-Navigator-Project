@@ -1,0 +1,182 @@
+Once the additional information is received, The Candidate Experience Specialist will
+generate the PEO form out of GreenHouse.
+* Click “Generate”
+* Select “PEO New Hire Template” from the dropdown
+* Click “Generate”
+The Candidate Experience Specialist will choose template Offer through DocuSign -
+Remote.com and will copy gitlab@remote.com on the email.
+In DocuSign, the CES will update the signing order to CES/Signatory as number 1 to sign
+and all other copied individuals as number 2, to receive a copy.
+CES will send PEO template and sign once it is received in their inbox.
+Once PEO template is signed, CES can upload candidate into the Remote.com platform
+(see more details instructions on how to do so, below).
+Remote will prepare the New Employee Contract and will inform the Candidate
+Experience Specialist when the contract is sgined.
+Once CES receives confirmation that the candidate has signed the Remote.com contract
+(can be viewed in portal), they will continue steps as normal - send Welcome Email and
+mark the candidate as hired.
+The CES will adjust the ‘Accepted’ date to match the ‘Sent’ date.
+How to add the New Hire to the Remote platform
+Log into the Remote platform
+Click the onboarding tab on the left side of the page
+Click ‘add new employee’ on the top right corner of the page
+Click ’employee’
+You be will be on the ’employment eligibility’ page - fill in the candidates details and click
+continue
+You will now be on the ‘basic information’ page - fill in the candidates details and click
+continue
+You be will be on the ‘contract details’ page - fill in the contract details
+Kindly note the following when filling in this section:
+Contract Duration: Most contracts will be indefinite, unless specified by the Recruiter
+* Probation Period: Use the default or minimum options specified by Remote. Please
+utilize the Probation Section of the handbook to determine probation.
+* For Mexico: When adding a team member to the Remote platform you should select
+30 days as a Christmas bonus, not 15.
+Type of employee: Full time
+Annual Gross salary: as stated in the offer details in GH
+Annual leave: Is usually the statutory minimum. You can also utilize the General & Entity
+Specific Benefits page
+* Mexico you can input 20 days
+Is this employee approved for outside employment: No
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+1. 
+2. 
+3. 
+4. 
+5.
+
+Signing bonus: as stated in the offer details in GH
+Other Bonus: Do not include guaranteed draw. If asked, please loop in Marissa. Remote
+does not currently have enough of an in-depth understanding of our bonus structure to
+be able to include this information.
+Commission: No
+Equity Compensation: Do not include.
+Number of paid time off days: Select the statutory minimum recommended days as
+mentioned by Remote, if there is an option, select the lowest number (this should be the
+statutory minimum)
+Role Description: Copy/paste the job description within the job family. Make sure you’re
+only including the specific role they have, and you can skip the fillers at the beginning
+and end.
+Training requirement: Leave blank
+Supervisor Name: as stated in the offer details in GH
+Experience level: There will be different versions of these choices based on the country
+you are selecting. Choose the one that most closely matches your position, and ask the
+recruiter for recommendations if you’re unsure.
+Work Address: Select Yes
+Benefits - Select the following per country:
+Country Benefit plan
+Denmark Standard
+Hungary Standard
+Luxembourg Premium
+Brazil Omint Plan (should be added for you)
+Italy Premium
+Switzerland None
+Sweden None
+Life Insurance Coverage - For Mexico Hires, Please select “Life/ADD Insurance of 350
+MXN (~18 USD)”. For more details on benefits for team members who are contracted
+through Remote. Click here.
+If there are any questions, these should be directed to help@remote.com.
+Click on the benefits acknowledgement and continue
+You be will be on the ‘billing cycle’ page.
+Click on monthly billing cycle and click continue.
+You will now be able to review all the candidate and contract details, you are able to edit
+them should you wish.
+Once you have reviewed, and everything is in order, click ‘invite now’.
+Please select the option to “add this employee to a single employee plan”
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+Your candidate has been submitted successfully. You are able to see the progress on the
+Remote homepage.
+How to add the New Hire to the Papaya platform
+Log into the Papaya platform
+Click the ‘add worker’ tab on the top right side of the page
+Click ‘create new request’ under the EOR worker block
+Select the candidates country on the drop down
+Click next
+You be will be on the ‘worker details’ page - fill in the candidates details
+Please ignore the following: Company ID
+Click next
+You will now be on the ’employment terms’ page - fill in the details
+Please ignore the following: expected end date in the case of an indefinite contract & the
+organizational attributes
+Click continue
+You will be on the ‘contract compensation’ page - fill in the contract details
+Please ignore the following: allowances & miscellaneous
+Under contract terms, select the mandatory requirements by local law tabs for all
+Click next
+You will be on the ‘initial employment terms letter’ page - fill in the contract details
+Should papaya send the candidate the initial employment terms letter prior to the
+contract - click ‘yes’
+Click next
+You will now be able to review all the candidate and contract details, you are able to edit
+them should you wish.
+Select all the term of the consent clause
+When should papaya contact the worker - select ‘as soon as possible’
+Click submit
+Your candidate has been submitted successfully. You will be redirected to the papaya
+homepage
+Once you submit the candidate, an alert will be sent to Papaya to inform them of the
+new project
+Amit Bengal - AmitBe@papayaglobal.com (Customer Success Manager at Papaya who
+looks after GitLab) will reach out to the CES to confirm that they have received the alert.
+Amit should ask for permission to contact the candidate directly - please confirm this
+ASAP. Papaya will validate the information submitted into the platform and reach out to
+CES or the candidate should there be any immediate questions regarding the contract
+information shared
+8. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25.

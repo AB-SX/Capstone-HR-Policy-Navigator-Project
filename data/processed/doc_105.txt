@@ -1,0 +1,82 @@
+Setting your pronouns in applications
+If you choose to share your pronouns, you can add them in various tools we use at GitLab. This
+can help others refer to you correctly and model inclusive behavior.
+GitLab.com
+You can add your GitLab.com pronouns on your GitLab profile.
+Your pronouns might be visible in places like your profile and certain UI elements, depending on
+configuration.
+Google Mail (Gmail)
+You can add your pronouns in your email signature. This can be especially helpful when
+communicating externally.
+Slack
+You can add your Slack pronouns on your Slack profile.
+Team members may also choose to include pronouns in their display name or custom fields,
+depending on workspace settings.
+Zoom
+You can add your Zoom pronouns through the Zoom web portal.
+In Zoom, you can also control when your pronouns are shown (for example, always, or only when
+you choose to display them).
+Additional resources
+These external resources offer more context and deeper learning on pronouns, gender identity,
+and inclusive language.
+Reference: Pronouns.org
+Article: A Guide To Gender Identity Terms
+Article: ‘She/They’ and Other Pronouns You Might See on Candidate Profiles
+Book: Gender: A Graphic Guide
+Book: What’s Your Pronoun? Beyond He and She
+Book: A Quick & Easy Guide to They/Them Pronouns
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+• 
+• 
+• 
+• 
+• 
+•
+
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/people-group/talent-assessment/
+041. Talent Assessment
+Talent Assessment
+Our talent assessment process is how we recognize and grow the people who make GitLab
+successful. By evaluating performance, identifying growth potential, and spotlighting key talent,
+we create clarity on where you stand, where you’re headed, and how we’ll support you getting
+there.
+This page is currently under review and construction as we launch the FY27 Check-In cycle in
+August 2026.
+For the most up to date information, please go to The Loop to learn more about the FY27 Check-
+In cycle.
+Note: In France and Germany, implementation is subject to works council processes required by
+local law, and no final decisions will be made in those countries until those processes are
+complete. The Netherlands works council has already approved this pilot.
+This page is designed to be a comprehensive resource, which means there’s a lot here. Rather
+than reading start to finish, use the navigation below to jump directly to the questions you’re
+asking or the tasks you need to complete. Each link takes you straight to the information that
+matters to you.
+Quick Start: What You Need to Know Now
+What’s happening this Talent Assessment cycle?
+What are the key dates I need to remember?
+Who participates in this process?
+Understanding How We Evaluate Talent
+Why does GitLab do talent assessments?
+How do we look at performance at GitLab?
+What does “growth potential” actually mean?
+What is the 9-box?
+What if I’m new here (Too New To Rate - TNTR)?
+Your Role in the Process
+What do I need to do as a team member?
+What do I need to do as a manager?
+Can I use Claude or AI tools to help me?
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

@@ -1,0 +1,138 @@
+Interim and Acting Roles
+Interim
+As part of the career development structure within the Engineering division, interim and acting
+role opportunities occasionally arise. For more information on how interim and acting roles fit
+into Engineering career development, please reference the Engineering career development
+handbook page. For information on the interim and acting processes, please continue reading
+below.
+Beginning Interim Period
+As highlighted in the Definition section, all interim roles (regardless of the number of applicants)
+should go through the Greenhouse application and interview process. The interview process
+steps will be determined by the hiring manager and next level leader. This will contain several
+steps of the standard GitLab hiring process. The process for team members interested in
+applying for an interim role is as follows:
+Team Member: Apply for the interim position in Greenhouse.
+Once a team member successfully completes the interview process and is selected for the interim
+period, the following steps should be taken to ensure the team member is set up for success in their
+interim role.
+CES: Issue a Job Change Letter to finalize the beginning of the interim period. The Letter
+should include: interim job title, start date, and end date (if known). Job Change letters
+are important as this is the process by which Total Rewards is notified of change from
+Greenhouse.
+People Operations: Update the team member’s job and business titles in Workday to
+reflect that they have started an interim role e.g. Senior Manager, Engineering
+(Interim). This update serves as the SSOT for tracking interim start and end dates, in
+addition to providing transparency pertaining to who is currently executing in an interim
+role. Job code and job level will remain the same, as interim periods have no impact on
+compensation i.e. do not update any other fields when initiating the Change Job
+Process.
+Current Manager: In the instance that there are direct reports that need to be moved to
+an Interim Manager this change needs to be initiated by the Current Manager or where
+necessary the People Business Partner for the respective group in Workday by following
+the Change Manager Process. The philosophy here is that if a team member has
+successfully gone through the interview process and has demonstrated they are ready/
+able for an interim period in a manager role, they have the required level of EQ and
+discretion to have direct reports in Workday. It is, of course, expected that should the
+interim period not end in promotion, the team member continue to treat confidential
+information confidentially.
+1. 
+1. 
+2. 
+3.
+
+Ending Interim Period
+When the interim period comes to a close, one of two outcomes can occur:
+The team member successfully completes the interim period aligned with the success
+criteria and moves into the interim role permanently.
+As a general guideline, the interim period should last no less than 30 days, and no more
+than 4 months .
+The People Business Partner should submit the promotion request through Workday
+using the Change Job job aid including the promotion document to make the change
+official. In Workday, the reason for the change should be Promotion - Promotion. The
+accomplishments leading up to the interim and during the interim can be used for the
+promotion document. The manager is responsible for creating the promotion document
+and recommending a compensation increase. Note: Promotion documents are only
+required if the team member’s move results in a promotion. For lateral moves, we do not
+require promotion documents.
+The team member does not complete the interim period successfully or decides that the
+manager track is not something they want to pursue, and moves back to their role prior
+to the interim period.
+A feedback session between the team member and hiring manager should take place,
+so it is clear to the team member why the interim period was not successful.
+The People Business Partner at the request of the Manager should submit a Workday
+Change Job Process and Approval Flow in Workday to revert the team member’s job title
+once the interim period comes to an end.
+Not successfully completing the interim period does not mean the team member can not
+move into a similar role in the future
+Regardless of the outcome, when the interim period ends, the manager should review the 
+Criteria For Eligibility for the Interim Bonus and submit an interim bonus request for the team
+member. Please ensure that the full bonus calculation is laid out in a comment of the bonus
+submission.
+Updating Interim Movements in Workday
+If you receive a Job Change letter to an interim role, process the change by:
+Saving the letter to Documents > Contracts & Changes Document Category in Workday
+Review for compensation change
+Access Level
+* Interim roles - Access changed (if required)
+Update Job title (if required)
+Update Manager (if required)
+Note: There are no changes that are made in Workday for acting roles. To track acting positions,
+managers should complete this form.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4. 
+5.
+
+Acting
+A person “acting” in the role is someone who occupies a role temporarily and will move back to
+their original role. “Acting” in a role may be to experiment with the role to determine if it fits an
+individual’s career development path goals, or may be filling in for a vacant role while we hire
+someone to fill the role permanently. While interim is only applicable to the Engineering division,
+acting is used across GitLab.
+Interviews are not required for Acting roles as they generally do not end in promotion, nor are direct
+reports in Workday generally moved to Acting managers. The process for selecting someone for an
+acting position is:
+Upcoming Acting roles will be discussed during staff meetings.
+Leadership can gather interest from their team members for the upcoming acting roles.
+The hiring manager will determine the most suitable team member for the acting role.
+Please make sure that the department head is in the loop and supportive of the acting period
+and candidate selected before moving forward.
+When the acting period ends, the manager should review the Criteria For Eligibility for the Interim
+Bonus and submit an interim bonus request for the team member.
+Acting Roles and Internal Mobility
+In the event that a team member is working in an acting capacity in a role that then becomes an
+officially open position, the team member in the informal acting capacity may be considered for
+the open role along with other candidates. If the team member demonstrates interest in making
+the acting position permanent, the following process should be followed:
+Team member expresses interest to their manager in pursuing the position on a
+permanent basis.
+Team member reaches out to the Hiring Manager to receive feedback on their
+performance in the role thus far in the acting capacity.
+Team member is welcome to apply for the position in Greenhouse aligned with our
+standard hiring practices.
+Note: If the Hiring Manager and acting team member mutually agree to move forward
+with consideration for the role, the position is at the same or lower job level as their
+current role, the position is within the same division, and the position is not a people
+management position, a formal interview process may not be required. If the Hiring
+Manager prefers to not include an interview process, they must connect with their
+aligned People Business Partner (PBP) to ensure they are supportive. This interview
+exception possibility exists due to the unique experience team members in acting
+positions have to demonstrate their ability to be successful in the position over time.
+After the team member officially moves into the open role, a backfill position will be
+created.
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+4.

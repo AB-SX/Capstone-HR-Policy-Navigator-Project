@@ -1,0 +1,80 @@
+Module 3: Technical deep dive
+Explain best practices for customer onboarding.
+Examine GitLab reference architectures. They come up constantly with self-managed
+customers who are behind on
+upgrades, hitting performance issues or scaling their deployment.
+Demonstrate a thorough understanding of GitLab agile project management.
+Complete a role-play exercise.
+Certification: GitLab Certified Project Management Associate.
+Module 4: CSE best practices
+Build a thorough understanding of DevSecOps adoption and GitLab security. Security is
+the main differentiator for
+Ultimate customers and the foundation of the GitLab Duo conversation.
+Identify how CSE engagements are requested and tracked.
+Differentiate the rules of engagement between the CSE and the rest of the account team
+(AE, SA, CSM, RM and others).
+Use the customer success platform for health monitoring and engagement tracking.
+Complete a role-play exercise.
+Certification: GitLab Certified Security Specialist.
+Complete this module before your first health assessment cycle.
+Module 5: CSE onboarding conclusion
+Explain the CSE escalation process.
+Identify the recommended CSE meeting workflow.
+Discuss your customer readiness with your manager.
+Complete the Revenue Academy prework and the role-based learning path.
+GitLab University also offers training and certification for the
+GitLab Duo Agent Platform. Given how central it is to adoption
+conversations, it is worth completing during your first months.
+Live skills sessions
+As part of Revenue Academy, CSEs attend four role-based live virtual sessions. Each is 90 minutes
+and they run on a
+rolling monthly rotation. Session 0 is shared by all Customer Experience new hires.
+Session What it covers
+Session 0: One CX For all CX new hires (CSM, CSA, CSE, RM, PS Engagement Manager, PS Technical
+Architect, PS Project Manager). How all Customer Experience roles connect across
+the customer journey; the Success Tiers, from Self-Guided through Signature;
+Professional Services and Education Services; win stories that show what strong CX
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Session What it covers
+collaboration looks like; how to work with Professional Services, Customer Success
+and Renewals as one team. Format: about 60 minutes of pre-watch, then a 30-
+minute live AMA.
+Session 1: Scaled
+engagement and
+webinar delivery
+Format: live demo and practice delivery. What scaled engagement means at GitLab,
+how the three CSE motions compare with CSM coverage, the webinar calendar, the
+anatomy of a CSE-led webinar, and a live five-minute practice delivery with group
+feedback.
+Session 2:
+Operating
+rhythm, tools and
+health
+Format: live demo and hands-on walkthrough. A typical CSE week, the engagement
+request process and its SLAs, health monitoring and engagement tracking, the
+Assigned motion and how CSEs coordinate with the Renewals Manager, and hands-
+on practice logging an engagement.
+Session 3:
+Customer
+onboarding and
+adoption
+Format: scenario-based workshop. The Onboarding (First Order) motion and its
+first-year check-ins, adoption health monitoring, when to escalate and when to
+handle it yourself, and scenario practice with a new customer profile.
+Milestones and roadmap

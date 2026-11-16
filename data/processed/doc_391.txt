@@ -1,0 +1,36 @@
+When we design with cognitive diversity in mind, these practices benefit all team members — not
+only neurodivergent individuals. Neuroinclusion is part of how we work effectively as a global
+remote company.
+Page Owner: Naomi Johnson, Senior Diversity Business Partner
+Last Updated: December 2025
+This page follows GitLab’s accessibility standards with clear headings, plain language, and logical
+structure.
+NeuroInclusion in Practice
+Learn about GitLab’s NeuroInclusion in Practice programme — supporting every way of thinking
+through inclusive design, communication, and leadership.
+Support, Accommodations & Resources
+How to access support, request accommodations, and find resources for neuroinclusive work at
+GitLab.
+Understanding Neurodivergence
+Foundational concepts, shared language, and how different ways of thinking contribute to teams
+at GitLab.
+Last modified October 30, 2026: Delete Values page and all it's dependent references (2666725a)
+View page source
+ 
+ .
+
+Source: https://handbook.gitlab.com/handbook/company/culture/inclusion/dib-speaker-series/
+155. Speaker Series
+Speaker Series
+This page provides the videos and resources of past DIB Speaker Series events and an active list
+of upcoming DIB Speaker Series talks
+Diversity, Inclusion & Belonging Speaker Series
+This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclusion and Belonging
+Team, the DIB Advisory Board or Team Member Resource Groups organise on topics of DIB. If
+you have an idea for a speaker please reach out to a DIB Team Member or submit a DIB Speaker
+Engagement Issue Template.
+Last modified August 22, 2025: Update file dib-speaker-series.md remove obsolete content
+(4b7c8c0c)
+View page source
+ 
+ .

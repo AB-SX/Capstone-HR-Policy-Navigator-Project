@@ -1,0 +1,63 @@
+You have discussed which on-call roster you will be working towards (CMOC or 
+Customer Emergencies) with your manager (does not apply to Associate)
+On-call, Onboarding Buddy and Technical Assessment Interview Rotations
+You have begun shadowing for addition to the on-call roster for Customer Emergencies
+or CMOC (does not apply to Associate)
+You are ready to be nominated as an Onboarding buddy for new team members
+You are working towards completion of the Technical Assessment Interview module
+You have scheduled in The 90-Day Checkin discussion where several of your onboarding
+checklist items are reviewed
+You are achieving (or working closely towards) your First 6 months achievable progress
+Last modified November 5, 2026: Support Handbookathon: Fix broken handbook links on
+Support team pages (c3e6af4b)
+View page source
+ 
+ .
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://handbook.gitlab.com/handbook/support/training/external_training_recommendations/
+143. External Training Recommendations
+External Training Recommendations
+Recommended courses, learning paths and certifications from external training partners for
+Support Engineers
+This page recommends specific courses, learning paths and certifications from GitLab’s external
+training partners that are relevant to Support Engineers. The recommendation is to first complete
+the internal Support Training modules and specialised domain tracks, then use the resources
+below to supplement that knowledge or move into intermediate and advanced levels within a
+specific area.
+Recommendations are split into two broad categories:
+General technical skills: Linux, networking, containers, Kubernetes, Git internals,
+databases and observability
+GitLab-specific skills: Ruby on Rails, Go (Gitaly and GitLab Runner), PostgreSQL, CI/CD
+concepts and Helm chart deployments
+Each section notes the platform, the access method (request or free) and a suggested priority for
+Support Engineers. Costs for external training may be covered through the Growth and
+Development Fund. If you’re interested in pursuing any paid resources, discuss it with your
+manager in your next 1:1.
+Quick reference: access methods by platform
+Platform Access method Notes
+LevelUp Free (internal) GitLab’s own learning platform
+Hone Individual team members require
+request/approval
+Live classes; leadership and soft skills
+focus
+O’Reilly Learning Engineering: request; Non-
+Engineering: expense
+Books, videos, interactive sandboxes, live
+events
+Google Cloud Skills
+Boost
+Requires request Labs, courses and certification paths on
+GCP
+Codecademy Free tier available Interactive code-based learning; Ruby, Go,
+SQL, Python, Bash
+Part 1: General technical skills
+These are foundational skills that every Support Engineer benefits from, regardless of which
+GitLab product areas they focus on.
+1. 
+2.

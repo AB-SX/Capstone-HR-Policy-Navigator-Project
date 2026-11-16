@@ -1,0 +1,101 @@
+Easter Sunday (late March to early April)
+Easter Monday (late March to early April)
+Whit Monday (May or June)
+Ascension Day (May)
+Labour Day (first Monday in September)
+NOTE: For AMER holidays and coverage requirements, see AMER Holiday Coverage Targets.
+If you are planning to take time off during peak holidays
+If you plan to be out for more than three days, follow the guidance regarding
+absences of three or more business days.
+Otherwise:
+Please do your best to resolve any assigned tickets you have in your queue.
+Communicate with your customers to let them know the days you’ll be away, and
+to ask whether they will need help during your absence. Many of our customers
+might be on the same holiday schedule and will be fine with resuming work on
+a ticket when you both return.
+For those tickets that will not require action over the holiday, there is no
+special action to be taken.
+If you are working on a holiday
+Continue to prioritize FRT first, and then management of your own tickets.
+Please pay extra attention to NRT on tickets with an assignee who is currently out-of-
+office.
+General Tips
+In addition to the company-wide tips in
+Communicating Your Time Off,
+take a look at these tips to increase your ability to disconnect from work,
+truly make the most of your time off, and make it easier to return to work:
+Unsubscribe from any MRs that will likely resolve while you’re away, and then
+you won’t have to deal with all the emails from them when you return.
+Set up some email filters to move emails into buckets that you can address
+one-at-a-time when you return.
+Disconnect yourself from Slack and Gmail in any of these ways:
+NOTE: Time Off by Deel is supposed to turn off Slack notifications on your phone and
+set DND mode. But just in case, you may want to do one of these:
+log out from Slack and Gmail on your phone, or
+remove Slack and Gmail from your phone, or
+pause the Slack and Gmail apps on your phone
+manually configure Slack and Gmail to send no notifications on your phone
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+1. 
+2. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7.
+
+Re-connect after time off
+Please consider adding an item in the Support Week in Review after you get back to let the rest of
+the
+team know what you’ve been up to!
+Catching up after a scheduled time off
+Trying to catch-up after a scheduled time off - especially if it’s a week long, or more - can be a bit
+overwhelming.
+So here is a list of resources to check that should get you up to date with almost everything
+that happened while you were away:
+Support Week in Review (SWIR)
+Slack channels:
+#company-fyi
+#company-fyi-private
+#whats-happening-at-gitlab
+Consider setting up a few coffee chats with teammates to simply reconnect with them. You can
+also ask your teammates who haven’t taken PTO while you were out, during coffee chats or
+pairing sessions, to mention a thing or two that you might have missed.
+If you unassigned some of your tickets before going on PTO, take the time to go through them
+and check their status. It’s good practice to reassign them to yourself if these are either still
+missing a DRI, or if it appears that you’re still the best equipped person to drive it to a solution.
+Managers Time Off
+Before PTO is taken
+The manager will conduct a thorough review of all ongoing tasks, responsibilities, and projects.
+List Key Responsibilities: The manager will prepare a comprehensive list of all tasks that
+require attention during their absence.
+Determine Priority: The manager will assess which tasks are time-sensitive and which
+can be delayed. They will prioritize duties based on urgency, impact, and team
+dependency.
+Select a Delegate: The manager will choose a single team member to be responsible for
+all of the tasks, or another manager if any of the tasks are confidential.
+Task Delegation
+Once tasks have been identified and the team member has been selected, the following steps
+should be taken to ensure a seamless transition:
+Documenting the Process: The manager will create an issue to outline
+Key contacts for each task.
+Any ongoing projects or deadlines.
+• 
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+• 
+•
