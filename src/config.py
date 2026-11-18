@@ -44,8 +44,8 @@ PINECONE_INDEX_NAME = "hr-policy-navigator"
 # -------------------------------------------------
 # Retrieval Settings
 # -------------------------------------------------
-CHUNK_SIZE = 512
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 150
+CHUNK_OVERLAP = 20
 TOP_K = 5
 RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 
