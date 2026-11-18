@@ -1,0 +1,27 @@
+# Python
+.pytest_cache/
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.DS_Store
+**/.DS_Store
+
+# Database
+*.db
+
+# Logs
+logs/
+*.log
