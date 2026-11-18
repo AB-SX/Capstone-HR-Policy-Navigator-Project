@@ -11,20 +11,21 @@ load_dotenv()
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 PROCESSED_DATA_DIR = PROJECT_ROOT / "data" / "processed"
-EVAL_DATA_PATH = PROJECT_ROOT / "data" / "evaestions.json"
 
 # -------------------------------------------------
 # LLM API Settings (Qwen/Qwen3-8B)
 # -------------------------------------------------
 QWEN_API_KEY = os.getenv("QWEN_API_KEY")
-QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "h1")
+QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "https://103.42.50.41:1034/v1")
 MODEL_NAME = "Qwen/Qwen3-8B"
 
 # ---------------------------------------------------------------------------
 # Model Parameters
 # ---------------------------------------------------------------------------
-TEMPERATURE = 0.1
+TEMPERATURE = 0.2
 MAX_TOKENS = 512
+TOP_P = 0.8
+ENABLE_THINKING = False
 
 # ---------------------------------------------------------------------------
 # Embedding API Settings (bge-small-en-v1.5)
@@ -47,9 +48,15 @@ PINECONE_INDEX_NAME = "hr-policy-navigator"
 CHUNK_SIZE = 150
 CHUNK_OVERLAP = 20
 TOP_K = 5
-RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+
 
 # -------------------------------------------------
 # App Settings
 # -------------------------------------------------
 RATE_LIMIT_PER_MINUTE = 10
+
+
+# -------------------------------------------------
+# Evaluation Data Path
+# -------------------------------------------------
+EVAL_DATA_PATH = PROJECT_ROOT / "data" / "evaluation" / "gitlab_eval_questions.json"

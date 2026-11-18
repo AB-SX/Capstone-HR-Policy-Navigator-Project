@@ -1,0 +1,53 @@
+[
+  {
+    "method": "Dense (Embedding)",
+    "total_queries": 80,
+    "recall": {
+      "recall@1": 0.85,
+      "recall@3": 0.9375,
+      "recall@5": 0.9875,
+      "recall@10": 1.0
+    },
+    "mrr": 0.903,
+    "hits": {
+      "hits@1": 68,
+      "hits@3": 75,
+      "hits@5": 79,
+      "hits@10": 80
+    }
+  },
+  {
+    "method": "BM25 (Keyword)",
+    "total_queries": 80,
+    "recall": {
+      "recall@1": 0.8125,
+      "recall@3": 0.975,
+      "recall@5": 0.9875,
+      "recall@10": 1.0
+    },
+    "mrr": 0.8922,
+    "hits": {
+      "hits@1": 65,
+      "hits@3": 78,
+      "hits@5": 79,
+      "hits@10": 80
+    }
+  },
+  {
+    "method": "Hybrid (RRF)",
+    "total_queries": 80,
+    "recall": {
+      "recall@1": 0.875,
+      "recall@3": 0.9875,
+      "recall@5": 0.9875,
+      "recall@10": 1.0
+    },
+    "mrr": 0.9262,
+    "hits": {
+      "hits@1": 70,
+      "hits@3": 79,
+      "hits@5": 79,
+      "hits@10": 80
+    }
+  }
+]
