@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -33,6 +34,12 @@ EMBEDDING_BASE_URL = os.getenv("EMBEDDING_BASE_URL", "https://103.42.50.41:1035/
 EMBEDDING_MODEL = "bge-small-en-v1.5"
 EMBEDDING_DIMENSIONS = 384
 EMBEDDING_MAX_BATCH_SIZE = 16
+
+# ---------------------------------------------------------------------------
+# Pinecone Vector DB Settings
+# ---------------------------------------------------------------------------
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_INDEX_NAME = "hr-policy-navigator"
 
 # -------------------------------------------------
 # Retrieval Settings
