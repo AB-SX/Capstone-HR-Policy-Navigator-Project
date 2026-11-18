@@ -1,5 +1,5 @@
-# Track B — Week 1: Prompt Engineering Baseline on Qwen/Qwen3-8B
-# Python 3.10+ required
+# Track B 
+# Python 3.12+ required (developed on 3.12.16)
 # Install:  pip install -r requirements.txt
 
 # --- LLM API client (OpenAI-compatible vLLM endpoint) ---
