@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 1,
+    "query": "What is the total home office stipend for a newly hired team member, and how is it expensed?",
+    "topic": "Expenses & Equipment",
+    "gold_answer": "New hires receive a $1,500 USD (or local currency equivalent) stipend to set up their home office during their first year. Items must be purchased out-of-pocket and expensed in Navan under 'Work From Home - New Hire Stipend'.",
+    "source_reference": "Snapshot pp. 55, 65",
+    "gold_pages": [
+      55,
+      65
+    ],
+    "gold_doc_ids": [
+      "doc_019",
+      "doc_022"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 2,
+    "query": "Can existing team members get an office refresh every year?",
+    "topic": "Expenses & Equipment",
+    "gold_answer": "Yes, existing team members receive an annual refresh stipend of $500 USD (or local currency equivalent) to purchase upgrades. This resets January 1 to December 31 and applies only to team members employed the entire previous calendar year. It excludes laptops.",
+    "source_reference": "Snapshot pp. 55-56",
+    "gold_pages": [
+      55,
+      56
+    ],
+    "gold_doc_ids": [
+      "doc_019"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 3,
+    "query": "Are treadmills or walking pads reimbursable under the home office stipend?",
+    "topic": "Expenses & Equipment",
+    "gold_answer": "No. Non-reimbursable items include treadmills, walking pads, smart TVs, phones, watches, smart speakers, tablets, bookshelves, and Wi-Fi mesh routers.",
+    "source_reference": "Snapshot p. 55",
+    "gold_pages": [
+      55
+    ],
+    "gold_doc_ids": [
+      "doc_019"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 4,
+    "query": "What is the daily meal reimbursement limit for a team member traveling on company business?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "Meals while traveling on company business are reimbursable up to $120 USD (or local currency equivalent) per day. Tips up to 20% must fit within this limit.",
+    "source_reference": "Snapshot pp. 49-50",
+    "gold_pages": [
+      49,
+      50
+    ],
+    "gold_doc_ids": [
+      "doc_017"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 5,
+    "query": "What is the per-person limit for team events and meals while traveling?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "The limit is $80 USD per person per meal. The most senior team member present should pay and expense the total bill if separate receipts aren't practical.",
+    "source_reference": "Snapshot p. 50",
+    "gold_pages": [
+      50
+    ],
+    "gold_doc_ids": [
+      "doc_017"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 6,
+    "query": "When is business class airfare permitted for international travel?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "Business class is permitted for frequent travelers (3+ international trips per quarter) on flights exceeding 8 hours of continuous flight time, when traveling to meet customers, speak, or represent GitLab at a conference.",
+    "source_reference": "Snapshot p. 46",
+    "gold_pages": [
+      46
+    ],
+    "gold_doc_ids": [
+      "doc_016"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 7,
+    "query": "What is the maximum monthly reimbursement threshold in Navan before AP approval is required?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "The maximum monthly reimbursement limit is $10,000 USD (or local currency equivalent). E-Group members have a maximum of $20,000 USD.",
+    "source_reference": "Snapshot p. 43",
+    "gold_pages": [
+      43
+    ],
+    "gold_doc_ids": [
+      "doc_015"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 8,
+    "query": "Can I expense my personal VPN subscription?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "No. Effective July 15, 2026, GitLab no longer reimburses personal VPN subscriptions. Team members must use NordLayer, GitLab's corporate VPN solution.",
+    "source_reference": "Snapshot pp. 62-63",
+    "gold_pages": [
+      62,
+      63
+    ],
+    "gold_doc_ids": [
+      "doc_021"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 9,
+    "query": "What is the monthly allowance limit for co-working space rental?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "Co-working space is reimbursable up to $700 USD per month for dedicated workspace rental within commutable distance of your primary residence. Pre-approval is required if booking more than 5 days a month.",
+    "source_reference": "Snapshot pp. 53-54",
+    "gold_pages": [
+      53,
+      54
+    ],
+    "gold_doc_ids": [
+      "doc_018"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 10,
+    "query": "Can I expense both home internet and a monthly co-working space simultaneously?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "No. If a team member expenses a co-working space for a full month, home internet cannot be expensed.",
+    "source_reference": "Snapshot pp. 54, 58",
+    "gold_pages": [
+      54,
+      58
+    ],
+    "gold_doc_ids": [
+      "doc_018",
+      "doc_020"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 11,
+    "query": "What is the monthly reimbursement cap for home internet and mobile phone service?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "Both home internet and vital mobile phone service are capped at up to $100 USD each per month. Hardware/setup costs are excluded.",
+    "source_reference": "Snapshot pp. 58, 60",
+    "gold_pages": [
+      58,
+      60
+    ],
+    "gold_doc_ids": [
+      "doc_020"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 12,
+    "query": "What is the gift policy limit when a manager sends flowers or gifts for significant life events?",
+    "topic": "Travel & Expenses",
+    "gold_answer": "People Managers can expense qualified gifts or flowers up to $125 USD (including shipping) per transaction. Cash and gift cards are strictly prohibited.",
+    "source_reference": "Snapshot p. 57",
+    "gold_pages": [
+      57
+    ],
+    "gold_doc_ids": [
+      "doc_019"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 13,
+    "query": "What is Compass?",
+    "topic": "People Ops & Systems",
+    "gold_answer": "Compass is GitLab's centralized IT, People, and business-service support platform, utilizing Serval, an AI-native ITSM platform.",
+    "source_reference": "Snapshot p. 73",
+    "gold_pages": [
+      73
+    ],
+    "gold_doc_ids": [
+      "doc_025"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 14,
+    "query": "What are the SLAs for Compass queries to People Operations?",
+    "topic": "People Ops & Systems",
+    "gold_answer": "Initial case acknowledgement is within 24 hours. Tier 01 resolves in <= 24 hours; Tier 02 resolves in <= 72 hours; Tier 03 hands off in <= 24 hours.",
+    "source_reference": "Snapshot pp. 73-74",
+    "gold_pages": [
+      73,
+      74
+    ],
+    "gold_doc_ids": [
+      "doc_025"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 15,
+    "query": "What is the turn-around time for employment verification?",
+    "topic": "People Ops & Systems",
+    "gold_answer": "The People Operations team fulfills employment verifications and letters of employment within 24 hours.",
+    "source_reference": "Snapshot p. 12",
+    "gold_pages": [
+      12
+    ],
+    "gold_doc_ids": [
+      "doc_004"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 16,
+    "query": "How do team members report an inaccurate LinkedIn profile claiming to work at GitLab?",
+    "topic": "People Ops & Systems",
+    "gold_answer": "Verify the person in Slack. If unconfirmed, open a Compass case. People Ops checks Workday and TA. If unaffiliated, TA creates a 'Do Not Hire' profile and People Ops reports the account to LinkedIn.",
+    "source_reference": "Snapshot pp. 13-14",
+    "gold_pages": [
+      13,
+      14
+    ],
+    "gold_doc_ids": [
+      "doc_005"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 17,
+    "query": "What anonymous reporting hotlines are available?",
+    "topic": "Compliance",
+    "gold_answer": "Team members can report anonymously via Ethico for Code of Conduct violations or Lighthouse Services for workplace conduct/harassment.",
+    "source_reference": "Snapshot pp. 8-9",
+    "gold_pages": [
+      8,
+      9
+    ],
+    "gold_doc_ids": [
+      "doc_003"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 18,
+    "query": "What constitutes Job Abandonment?",
+    "topic": "People Policies",
+    "gold_answer": "Unexcused absence for three consecutive workdays without an entry on the availability calendar and failure to contact one's supervisor constitutes job abandonment.",
+    "source_reference": "Snapshot p. 25",
+    "gold_pages": [
+      25
+    ],
+    "gold_doc_ids": [
+      "doc_009"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 19,
+    "query": "What are the classification levels for harassment disciplinary action?",
+    "topic": "People Policies",
+    "gold_answer": "Level 1: First-time occurrence. Level 2: Recurring socially inappropriate behavior. Level 3: Major infraction or retaliation. Level 4: Serious cases/criminal offenses.",
+    "source_reference": "Snapshot p. 82",
+    "gold_pages": [
+      82
+    ],
+    "gold_doc_ids": [
+      "doc_028"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 20,
+    "query": "What are the rules regarding romantic or family relationships at work?",
+    "topic": "People Policies",
+    "gold_answer": "Permitted only if candidates/team members do not supervise each other, do not occupy the same line of authority regarding hiring/wages, and do not have access to sensitive personnel files of the relative.",
+    "source_reference": "Snapshot pp. 21-22",
+    "gold_pages": [
+      21,
+      22
+    ],
+    "gold_doc_ids": [
+      "doc_007",
+      "doc_008"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 21,
+    "query": "What is the maximum consecutive duration an employee can take under Flexible Paid Time Off?",
+    "topic": "Time Off",
+    "gold_answer": "Team members can take up to 25 consecutive calendar days for vacation under the Flexible PTO policy.",
+    "source_reference": "Snapshot p. 403",
+    "gold_pages": [
+      403
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 22,
+    "query": "Who is the third-party administrator for leaves of absence in the US and Canada?",
+    "topic": "Leave of Absence",
+    "gold_answer": "Effective February 2, 2026, Tilt serves as the TPA for leaves in the US and Canada. In Canada, Tilt administers parental leaves only.",
+    "source_reference": "Snapshot pp. 403-404",
+    "gold_pages": [
+      403,
+      404
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 23,
+    "query": "What are the emergency benefits under the Chubb Business Travel Accident Policy?",
+    "topic": "Travel Safety",
+    "gold_answer": "Accidental Death: 5x annual salary up to $500k; Out of Country medical: up to $250k; Emergency medical: up to $10k; Security evacuation: max $100k; Baggage delay/loss: up to $2,500.",
+    "source_reference": "Snapshot pp. 404-405",
+    "gold_pages": [
+      404,
+      405
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 24,
+    "query": "What is the annual limit of the Growth and Development Fund?",
+    "topic": "Learning & Development",
+    "gold_answer": "GitLab provides up to $10,000 USD per calendar year for professional career development, subject to tenure, performance, and budget.",
+    "source_reference": "Snapshot p. 403",
+    "gold_pages": [
+      403
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 25,
+    "query": "How much does GitLab cover under the Travel Health Reimbursement (HRA)?",
+    "topic": "Benefits (US)",
+    "gold_answer": "Pre-tax account covers up to $2,100 for eligible travel expenses, and a post-tax account covers up to $900 for expenses exceeding the pre-tax limit (administered by Navia).",
+    "source_reference": "Snapshot p. 955",
+    "gold_pages": [
+      955
+    ],
+    "gold_doc_ids": [
+      "doc_318"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 26,
+    "query": "How long can a terminating US employee continue medical coverage under COBRA?",
+    "topic": "Benefits (US)",
+    "gold_answer": "Eligible employees can continue medical, dental, and vision coverage through COBRA for up to 18 months, administered by WEX (Discovery Benefits).",
+    "source_reference": "Snapshot p. 957",
+    "gold_pages": [
+      957
+    ],
+    "gold_doc_ids": [
+      "doc_319"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 27,
+    "query": "What are the plan monthly rates for ARAG Legal Insurance?",
+    "topic": "Benefits (US)",
+    "gold_answer": "UltimateAdvisor plan is $18.25/month; UltimateAdvisor Plus plan is $20.90/month.",
+    "source_reference": "Snapshot p. 955",
+    "gold_pages": [
+      955
+    ],
+    "gold_doc_ids": [
+      "doc_318"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 28,
+    "query": "What is the maximum monthly pre-tax commuter benefit limit for parking and transit?",
+    "topic": "Benefits (US)",
+    "gold_answer": "Up to $340/month for parking and up to $340/month for transit, administered through WEX.",
+    "source_reference": "Snapshot p. 956",
+    "gold_pages": [
+      956
+    ],
+    "gold_doc_ids": [
+      "doc_318"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 29,
+    "query": "What are the two primary tiers of paid sick leave in GitLab Canada Corp?",
+    "topic": "Benefits (Canada)",
+    "gold_answer": "10 days of annual sick leave at regular entitlement. For extended sick leave (5+ days), GitLab supplements pay up to 100% of regular salary for up to 25 working days.",
+    "source_reference": "Snapshot p. 640",
+    "gold_pages": [
+      640
+    ],
+    "gold_doc_ids": [
+      "doc_214"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 30,
+    "query": "What are the purchase limits under Ireland's Bike to Work scheme?",
+    "topic": "Benefits (Ireland)",
+    "gold_answer": "Regular bicycle: up to 1,250 EUR; Electric bike: up to 1,500 EUR; Cargo bike: up to 3,000 EUR. Available once every 4 years.",
+    "source_reference": "Snapshot p. 655",
+    "gold_pages": [
+      655
+    ],
+    "gold_doc_ids": [
+      "doc_219"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 31,
+    "query": "Who is the group insurance carrier for GitLab Korea Limited?",
+    "topic": "Benefits (Korea)",
+    "gold_answer": "Meritz provides group medical and risk insurance, with GitLab covering 100% of premiums for team members and eligible dependents.",
+    "source_reference": "Snapshot p. 657",
+    "gold_pages": [
+      657
+    ],
+    "gold_doc_ids": [
+      "doc_219"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 32,
+    "query": "What types of leave does Tilt administer for GitLab team members in Canada?",
+    "topic": "Leave (Canada)",
+    "gold_answer": "In Canada, Tilt administers parental leaves only. Absence Management handles medical and caregiving leaves.",
+    "source_reference": "Snapshot p. 404",
+    "gold_pages": [
+      404
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 33,
+    "query": "What are the provincial statutory sick leave requirements for Ontario and Quebec?",
+    "topic": "Leave (Canada)",
+    "gold_answer": "Ontario provides 3 days of job-protected unpaid sick leave. Quebec provides 2 days of paid absence per calendar year.",
+    "source_reference": "Snapshot p. 640",
+    "gold_pages": [
+      640
+    ],
+    "gold_doc_ids": [
+      "doc_214"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 34,
+    "query": "What are the contact channels to reach Tilt for US and Canada leave support?",
+    "topic": "Leave Administration",
+    "gold_answer": "Email LeaveSupport@ourtilt.com, use the contact form, or text (970) 449-0178.",
+    "source_reference": "Snapshot p. 404",
+    "gold_pages": [
+      404
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 35,
+    "query": "How many days of paid leave are provided in Ireland for domestic violence?",
+    "topic": "Leave (Ireland)",
+    "gold_answer": "Team members receive 5 paid days per year for domestic violence support services.",
+    "source_reference": "Snapshot p. 655",
+    "gold_pages": [
+      655
+    ],
+    "gold_doc_ids": [
+      "doc_219"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 36,
+    "query": "When is a medical certificate required for illness or sick leave in Ireland?",
+    "topic": "Leave (Ireland)",
+    "gold_answer": "A medical certificate is required for any absence of 3 successive calendar days or more.",
+    "source_reference": "Snapshot p. 655",
+    "gold_pages": [
+      655
+    ],
+    "gold_doc_ids": [
+      "doc_219"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 37,
+    "query": "Can work-related recurring expenses like home internet be expensed while on a leave of absence?",
+    "topic": "Leave & Expenses",
+    "gold_answer": "No. All work-related expenses are not reimbursable while on leave of any kind.",
+    "source_reference": "Snapshot p. 43",
+    "gold_pages": [
+      43
+    ],
+    "gold_doc_ids": [
+      "doc_015"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 38,
+    "query": "What is GitLab's policy on parental leave eligibility?",
+    "topic": "Parental Leave",
+    "gold_answer": "GitLab provides paid Parental Leave for any team member, regardless of gender, who becomes a parent through childbirth or adoption.",
+    "source_reference": "Snapshot p. 96",
+    "gold_pages": [
+      96
+    ],
+    "gold_doc_ids": [
+      "doc_032"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 39,
+    "query": "Does the U.S. Fair Labor Standards Act mandate paid time off for vacations or sick leave?",
+    "topic": "Compliance (US)",
+    "gold_answer": "No. The FLSA does not require employers to provide payment for time not worked, such as vacations or sick leave.",
+    "source_reference": "Snapshot p. 956",
+    "gold_pages": [
+      956
+    ],
+    "gold_doc_ids": [
+      "doc_318"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 40,
+    "query": "How are team member accounts handled if placed on leave during an internal investigation?",
+    "topic": "Compliance",
+    "gold_answer": "TMR coordinates with Legal and IT to disable account access, configures an Out of Office message, and issues a 'Team Member Suspension Letter' via DocuSign to their personal email.",
+    "source_reference": "Snapshot pp. 153-154",
+    "gold_pages": [
+      153,
+      154
+    ],
+    "gold_doc_ids": [
+      "doc_051",
+      "doc_052"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 41,
+    "query": "What is a Directly Responsible Individual (DRI)?",
+    "topic": "Management Principles",
+    "gold_answer": "A DRI is the person ultimately accountable for the success or failure of a specific project, initiative, or activity, holding final decision-making power while consulting stakeholders.",
+    "source_reference": "Snapshot p. 256",
+    "gold_pages": [
+      256
+    ],
+    "gold_doc_ids": [
+      "doc_086"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 42,
+    "query": "How does GitLab define 'Key Talent' during talent assessments?",
+    "topic": "Talent Assessment",
+    "gold_answer": "Key Talent represents ~10% of the workforce who surpass performance expectations, demonstrate outsized business impact, and possess high growth potential. A SPOF is not automatically Key Talent.",
+    "source_reference": "Snapshot pp. 346-347",
+    "gold_pages": [
+      346,
+      347
+    ],
+    "gold_doc_ids": [
+      "doc_116"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 43,
+    "query": "What are the three pillars of GitLab's Talent Brand vision?",
+    "topic": "Talent Brand",
+    "gold_answer": "1. Candidate Education to Support Conversion; 2. Evolved Brand Messaging ('Co-Create the Future'); 3. Elevated Candidate Journey.",
+    "source_reference": "Snapshot p. 348",
+    "gold_pages": [
+      348
+    ],
+    "gold_doc_ids": [
+      "doc_116"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 44,
+    "query": "What are the main responsibilities of a Support Training Module Maintainer?",
+    "topic": "Learning & Development",
+    "gold_answer": "Maintainers review merge requests modifying training module content, perform bi-annual sanity checks, and make lifecycle decisions (refresh, restructure, or deprecate).",
+    "source_reference": "Snapshot pp. 1085-1086",
+    "gold_pages": [
+      1085,
+      1086
+    ],
+    "gold_doc_ids": [
+      "doc_378",
+      "doc_379"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 45,
+    "query": "What is the recruitment process for a Customer Support Engineer candidate?",
+    "topic": "Hiring",
+    "gold_answer": "1. Online application; 2. Written asynchronous take-home assessment; 3. 40-minute screening call; 4. 90-minute live Technical Interview with break-fix scenarios.",
+    "source_reference": "Snapshot pp. 580-582",
+    "gold_pages": [
+      580,
+      581,
+      582
+    ],
+    "gold_doc_ids": [
+      "doc_194",
+      "doc_195",
+      "doc_196"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 46,
+    "query": "How long does a candidate have to submit the Customer Support take-home assessment?",
+    "topic": "Hiring",
+    "gold_answer": "Candidates have 6 calendar days to complete and submit the take-home assessment.",
+    "source_reference": "Snapshot p. 581",
+    "gold_pages": [
+      581
+    ],
+    "gold_doc_ids": [
+      "doc_194"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 47,
+    "query": "What tool is used by the Candidate Experience Specialist (CES) team to schedule interviews?",
+    "topic": "Hiring",
+    "gold_answer": "ModernLoop is used to schedule interviews, integrated with Google Workspace, Greenhouse, Zoom, and Slack.",
+    "source_reference": "Snapshot p. 70",
+    "gold_pages": [
+      70
+    ],
+    "gold_doc_ids": [
+      "doc_024"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 48,
+    "query": "Within what timeframe should an interviewer decline an interview invitation if unable to attend?",
+    "topic": "Hiring",
+    "gold_answer": "Interviewers must decline within 24-48 hours of receiving the calendar invite by clicking 'No' and supplying a reason.",
+    "source_reference": "Snapshot p. 70",
+    "gold_pages": [
+      70
+    ],
+    "gold_doc_ids": [
+      "doc_024"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 49,
+    "query": "How far back does GitLab conduct employment background checks?",
+    "topic": "Hiring",
+    "gold_answer": "Background verification covers the last 5 years of employment history and/or the 3 most recent employers, administered by Sterling/First Advantage.",
+    "source_reference": "Snapshot pp. 129-130",
+    "gold_pages": [
+      129,
+      130
+    ],
+    "gold_doc_ids": [
+      "doc_043",
+      "doc_044"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 50,
+    "query": "What is the typical probationary period duration in Australia?",
+    "topic": "Employment Standards",
+    "gold_answer": "6 months, with a 1-week notice period during probation.",
+    "source_reference": "Snapshot p. 132",
+    "gold_pages": [
+      132
+    ],
+    "gold_doc_ids": [
+      "doc_044"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 51,
+    "query": "Do USA team members have a statutory probationary period under GitLab contracts?",
+    "topic": "Employment Standards",
+    "gold_answer": "No, team members in USA - Inc and USA - Federal LLC do not have probationary periods.",
+    "source_reference": "Snapshot p. 137",
+    "gold_pages": [
+      137
+    ],
+    "gold_doc_ids": [
+      "doc_046"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 52,
+    "query": "How does GitLab handle outside employment, side projects, and open source work?",
+    "topic": "Compliance",
+    "gold_answer": "Outside activities must not conflict with work or compete with GitLab. Prior written approval must be obtained from the direct manager, Team Member Relations, and Director/E-group leader.",
+    "source_reference": "Snapshot pp. 137-139",
+    "gold_pages": [
+      137,
+      138,
+      139
+    ],
+    "gold_doc_ids": [
+      "doc_046",
+      "doc_047"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 53,
+    "query": "What is the recommended cash compensation increase for an internal promotion?",
+    "topic": "Promotions",
+    "gold_answer": "The Total Rewards team recommends an increase between 5% and 10%. Anything over 10% requires special business justification.",
+    "source_reference": "Snapshot p. 106",
+    "gold_pages": [
+      106
+    ],
+    "gold_doc_ids": [
+      "doc_036"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 54,
+    "query": "How long should an interim management period typically last?",
+    "topic": "Promotions",
+    "gold_answer": "An interim period should last no less than 30 days and no more than 4 months.",
+    "source_reference": "Snapshot pp. 109-110",
+    "gold_pages": [
+      109,
+      110
+    ],
+    "gold_doc_ids": [
+      "doc_037"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 55,
+    "query": "When does an Organization Change Checklist get opened?",
+    "topic": "Promotions & Transfers",
+    "gold_answer": "Opened when a team member migrates from Manager to Individual Contributor (Mgr+ to IC) or migrates teams (change in both manager and cost center).",
+    "source_reference": "Snapshot p. 120",
+    "gold_pages": [
+      120
+    ],
+    "gold_doc_ids": [
+      "doc_040"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 56,
+    "query": "At what time on a departing team member's last working day is offboarding deprovisioning initiated?",
+    "topic": "Offboarding",
+    "gold_answer": "Offboarding cases in Compass are opened automatically between 4:00 PM and 5:00 PM of the departing team member's local time zone in Slack.",
+    "source_reference": "Snapshot p. 101",
+    "gold_pages": [
+      101
+    ],
+    "gold_doc_ids": [
+      "doc_034"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 57,
+    "query": "What is the SLA for system owners to deprovision access during offboarding?",
+    "topic": "Offboarding",
+    "gold_answer": "Tasks must be completed within 5 working days. Critical/time-sensitive tools (e.g., Slack, SOX systems) must be revoked within the first 24 hours.",
+    "source_reference": "Snapshot pp. 101, 103",
+    "gold_pages": [
+      101,
+      103
+    ],
+    "gold_doc_ids": [
+      "doc_034",
+      "doc_035",
+      "doc_052"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 58,
+    "query": "What is the property return threshold for GitLab equipment upon departure?",
+    "topic": "Offboarding",
+    "gold_answer": "Any GitLab property valued above $1,000 USD must be returned upon offboarding. For laptops, contact gitlab-laptop-recovery@gitlab.com.",
+    "source_reference": "Snapshot pp. 145, 157",
+    "gold_pages": [
+      145,
+      157
+    ],
+    "gold_doc_ids": [
+      "doc_049",
+      "doc_053"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 59,
+    "query": "Who is eligible to join the #gitlab-alumni Slack channel?",
+    "topic": "Offboarding",
+    "gold_answer": "All voluntary exits in good standing are eligible. Involuntary exits are not eligible unless specifically approved by Team Member Relations.",
+    "source_reference": "Snapshot pp. 154-155",
+    "gold_pages": [
+      154,
+      155
+    ],
+    "gold_doc_ids": [
+      "doc_052"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 60,
+    "query": "What are the anniversary gift milestones recognized by GitLab?",
+    "topic": "Culture & Celebrations",
+    "gold_answer": "Milestones recognized with anniversary gifts are the 1st, 3rd, 5th, and 10th year anniversaries.",
+    "source_reference": "Snapshot p. 125",
+    "gold_pages": [
+      125
+    ],
+    "gold_doc_ids": [
+      "doc_042"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 61,
+    "query": "What is the minimum tenure required before a team member is eligible for a long-term relocation?",
+    "topic": "Relocation",
+    "gold_answer": "A team member must have satisfied a minimum of one year of continuous tenure at GitLab to be eligible to apply for long-term relocation.",
+    "source_reference": "Snapshot p. 164",
+    "gold_pages": [
+      164
+    ],
+    "gold_doc_ids": [
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 62,
+    "query": "What is the maximum number of days a team member can work outside their primary residence without triggering a long-term relocation?",
+    "topic": "Relocation",
+    "gold_answer": "Up to 183 days per calendar year. Exceeding this triggers permanent establishment/tax liabilities.",
+    "source_reference": "Snapshot p. 160",
+    "gold_pages": [
+      160
+    ],
+    "gold_doc_ids": [
+      "doc_054"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 63,
+    "query": "To which country does GitLab provide immigration visa sponsorship for employee relocations?",
+    "topic": "Relocation",
+    "gold_answer": "GitLab only provides immigration sponsorship for relocations to the Netherlands. For other countries, team members must have independent work rights.",
+    "source_reference": "Snapshot pp. 163-164",
+    "gold_pages": [
+      163,
+      164
+    ],
+    "gold_doc_ids": [
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 64,
+    "query": "What happens to compensation when relocating to a region with a different location factor?",
+    "topic": "Relocation",
+    "gold_answer": "Salary is adjusted up or down to align with the new location factor, maintaining the team member's existing compa-ratio within the new location's range.",
+    "source_reference": "Snapshot pp. 163, 166",
+    "gold_pages": [
+      163,
+      166
+    ],
+    "gold_doc_ids": [
+      "doc_055",
+      "doc_056"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 65,
+    "query": "Can a team member travel to or work from Cuba, Iran, or Syria on a GitLab laptop?",
+    "topic": "Relocation & Compliance",
+    "gold_answer": "No. Team members cannot take company-owned devices to or work from US-embargoed countries under any circumstances.",
+    "source_reference": "Snapshot pp. 162-163",
+    "gold_pages": [
+      162,
+      163
+    ],
+    "gold_doc_ids": [
+      "doc_054",
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 66,
+    "query": "How many days before a planned international relocation must a team member submit their Compass request?",
+    "topic": "Relocation",
+    "gold_answer": "Team members must submit their request no later than 3 months prior to their ideal international relocation date (or 30 days prior for domestic moves).",
+    "source_reference": "Snapshot p. 165",
+    "gold_pages": [
+      165
+    ],
+    "gold_doc_ids": [
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 67,
+    "query": "What effective dates are required for an international relocation?",
+    "topic": "Relocation",
+    "gold_answer": "Effective dates must fall on the 1st or 16th of the month to avoid tax and absence accrual complications.",
+    "source_reference": "Snapshot p. 166",
+    "gold_pages": [
+      166
+    ],
+    "gold_doc_ids": [
+      "doc_056"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 68,
+    "query": "Is E-Group approval required for any relocation?",
+    "topic": "Relocation",
+    "gold_answer": "Yes, if the relocation results in a location factor increase of 0.20 or greater, VP and E-Group approval is required before manager approval.",
+    "source_reference": "Snapshot pp. 166-167",
+    "gold_pages": [
+      166,
+      167
+    ],
+    "gold_doc_ids": [
+      "doc_056"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 69,
+    "query": "Does GitLab cover relocation costs for the team member's family members?",
+    "topic": "Relocation",
+    "gold_answer": "No. Even for the Netherlands, GitLab does not cover relocation costs for the team member's family members.",
+    "source_reference": "Snapshot p. 164",
+    "gold_pages": [
+      164
+    ],
+    "gold_doc_ids": [
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 70,
+    "query": "Can a team member relocate to a country where GitLab does not have an established entity?",
+    "topic": "Relocation",
+    "gold_answer": "No. GitLab only allows relocations to countries where an entity is formally established, open for hiring, and carries no hiring restrictions.",
+    "source_reference": "Snapshot p. 163",
+    "gold_pages": [
+      163
+    ],
+    "gold_doc_ids": [
+      "doc_055"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 71,
+    "query": "What is the statutory probationary period and notice period for team members in GitLab India?",
+    "topic": "Employment Standards (India)",
+    "gold_answer": "GitLab India has a probationary period of 6 months. The notice period during probation is 1 week, and after probation is 1 month.",
+    "source_reference": "Snapshot p. 134",
+    "gold_pages": [
+      134
+    ],
+    "gold_doc_ids": [
+      "doc_045"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 72,
+    "query": "What Provident Fund (PF) options must a team member choose when relocating to India?",
+    "topic": "Relocation (India)",
+    "gold_answer": "Team members must select between an uncapped percentage-based contribution (12% of basic salary per month) or a capped amount of 1,800 INR per month.",
+    "source_reference": "Snapshot p. 171",
+    "gold_pages": [
+      171
+    ],
+    "gold_doc_ids": [
+      "doc_057"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 73,
+    "query": "How does a team member enroll in the National Pension System (NPS) when relocating to India?",
+    "topic": "Relocation (India)",
+    "gold_answer": "Team members who want to enroll in the NPS must submit their Permanent Retirement Account Number (PRAN) via the designated enrollment form.",
+    "source_reference": "Snapshot p. 171",
+    "gold_pages": [
+      171
+    ],
+    "gold_doc_ids": [
+      "doc_057"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 74,
+    "query": "What workspace location is configured in Workday for team members relocating to India?",
+    "topic": "Workday (India)",
+    "gold_answer": "The workspace configured in Workday under the 'Change Location' business process is Karnataka.",
+    "source_reference": "Snapshot p. 171",
+    "gold_pages": [
+      171
+    ],
+    "gold_doc_ids": [
+      "doc_057"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 75,
+    "query": "How is IT equipment handled when a team member relocates to or from India?",
+    "topic": "IT (India)",
+    "gold_answer": "IT Ops arranges local laptop procurement in India and confirms refresh eligibility. The existing laptop must be disposed of at the originating entity prior to relocation.",
+    "source_reference": "Snapshot pp. 171-172",
+    "gold_pages": [
+      171,
+      172
+    ],
+    "gold_doc_ids": [
+      "doc_057",
+      "doc_058"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 76,
+    "query": "What specific workplace conduct policies exist for GitLab India Private Limited?",
+    "topic": "Compliance (India)",
+    "gold_answer": "GitLab India maintains the Policy Against Sexual Harassment (POSH Policy) and the Equal Opportunity Policy (EOP Policy).",
+    "source_reference": "Snapshot pp. 34, 85",
+    "gold_pages": [
+      34,
+      85
+    ],
+    "gold_doc_ids": [
+      "doc_012",
+      "doc_029"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 77,
+    "query": "Where can team members find the exact process for managing sexual harassment complaints under GitLab India?",
+    "topic": "Compliance (India)",
+    "gold_answer": "The procedures and formal processes for managing complaints of sexual harassment are set out in the GitLab India Private Limited Policy Against Sexual Harassment.",
+    "source_reference": "Snapshot pp. 34, 85",
+    "gold_pages": [
+      34,
+      85
+    ],
+    "gold_doc_ids": [
+      "doc_012",
+      "doc_029"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 78,
+    "query": "Which official body in India does GitLab cite as responsible for declaring natural disasters?",
+    "topic": "Incident Response (India)",
+    "gold_answer": "The Office of Disaster Management in India is responsible for declaring and directing emergency and relief efforts around natural disasters.",
+    "source_reference": "Snapshot p. 75",
+    "gold_pages": [
+      75
+    ],
+    "gold_doc_ids": [
+      "doc_025"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 79,
+    "query": "Can an Indian employee working under GitLab India use a personal VPN subscription like ExpressVPN?",
+    "topic": "IT & Security (India)",
+    "gold_answer": "No. Across all GitLab entities, personal VPN reimbursement was discontinued on July 15, 2026. All team members must use NordLayer.",
+    "source_reference": "Snapshot pp. 62-63",
+    "gold_pages": [
+      62,
+      63
+    ],
+    "gold_doc_ids": [
+      "doc_021"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  },
+  {
+    "id": 80,
+    "query": "What is the maximum consecutive duration an employee in India can take under Flexible Paid Time Off?",
+    "topic": "Time Off (India)",
+    "gold_answer": "Team members globally, including in India, can take up to 25 consecutive calendar days for vacation under the Flexible Paid Time Off policy.",
+    "source_reference": "Snapshot p. 403",
+    "gold_pages": [
+      403
+    ],
+    "gold_doc_ids": [
+      "doc_135"
+    ],
+    "difficulty": null,
+    "type": null,
+    "origin": "v1"
+  }
+]

@@ -1,0 +1,60 @@
+{
+ "system": "m1",
+ "tag": "v2",
+ "n": 98,
+ "accuracy_judge_pct": 53.1,
+ "accuracy_judge_incl_partial_pct": 85.7,
+ "accuracy_deterministic_pct": 60.2,
+ "judge_vs_deterministic_agreement_pct": 66.3,
+ "task_completion_rate_pct": 100.0,
+ "avg_tool_calls": 0.99,
+ "avg_llm_calls": 2.08,
+ "latency_p50_s": 6.12,
+ "latency_p95_s": 11.31,
+ "avg_prompt_tokens": 3403,
+ "avg_completion_tokens": 165,
+ "gold_retrieved_pct": 88.0,
+ "answers_with_citation_pct": 85.7,
+ "answers_with_ungrounded_numbers_pct": 6.1,
+ "invalid_citation_pct": 0.0,
+ "json_repairs_total": 0,
+ "failure_taxonomy": {
+  "reasoning_error": 28,
+  "retrieval_miss": 10,
+  "over_refusal": 3,
+  "hallucination": 3,
+  "under_refusal": 2
+ },
+ "accuracy_by_difficulty": {
+  "medium": {
+   "n": 32,
+   "acc_pct": 50.0
+  },
+  "easy": {
+   "n": 54,
+   "acc_pct": 59.3
+  },
+  "hard": {
+   "n": 12,
+   "acc_pct": 33.3
+  }
+ },
+ "accuracy_by_type": {
+  "numeric": {
+   "n": 51,
+   "acc_pct": 56.9
+  },
+  "conditional": {
+   "n": 18,
+   "acc_pct": 38.9
+  },
+  "fact": {
+   "n": 23,
+   "acc_pct": 52.2
+  },
+  "out_of_scope": {
+   "n": 6,
+   "acc_pct": 66.7
+  }
+ }
+}
