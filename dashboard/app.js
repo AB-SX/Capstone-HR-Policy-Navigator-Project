@@ -215,7 +215,98 @@
       rowsDef.map(([l, f]) => `<tr><td>${l}</td>${ms.map(([, x]) => `<td class="num">${f(x)}</td>`).join("")}</tr>`).join("") + "</tbody>";
   }
 
+
+  // ---------------- pipeline (Week 1 baseline -> retrieval -> agents)
+  function pipeline() {
+    const P = D.pipeline || {}; const W = P.week1 || []; const ids = new Set(P.overlap_ids || []);
+    if (!W.length) { $("#plNote").textContent = "Week 1 results not found in this build."; return; }
+    const SN = { baseline_direct: "Direct (zero-shot)", few_shot_structured: "Few-shot structured", chain_of_thought: "Chain-of-thought", decomposition: "Decomposition" };
+    const strats = Object.keys(SN).filter((k) => W.some((r) => r.strategy === k));
+    const w1 = Object.fromEntries(strats.map((k) => { const R = W.filter((r) => r.strategy === k);
+      return [k, { n: R.length, orig: pct(R.filter((r) => r.orig_correct).length, R.length), det: pct(R.filter((r) => r.det_correct).length, R.length),
+        f1: mean(R.map((r) => r.token_f1)), by: Object.fromEntries(R.map((r) => [r.id, r])) }]; }));
+    const agentRuns = [...D.runs].sort((a, b) => a.system.localeCompare(b.system) || a.run - b.run).map((r) => {
+      const R = r.rows.filter((x) => ids.has(+x.id));
+      return { r, n: R.length, det: pct(R.filter((x) => x.det_correct).length, R.length), judge: pct(R.filter((x) => x.judge === "correct").length, R.length),
+        gold: pct(R.filter((x) => x.gold_retrieved).length, R.length), by: Object.fromEntries(R.map((x) => [+x.id, x])) }; });
+    const best = (a, k) => a.reduce((m, x) => (x[k] > m[k] ? x : m), a[0]);
+    const w1arr = strats.map((k) => ({ k, ...w1[k] }));
+    const bOrig = best(w1arr, "orig"), bDet = best(w1arr, "det");
+    const latest = (sys) => agentRuns.filter((a) => a.r.system === sys).sort((a, b) => b.r.run - a.r.run)[0];
+    const m1 = latest("m1"), m2 = latest("m2");
+    const RV = P.retrieval, RP = P.retrieval_prod;
+    const prodVar = RP?.variant || "c3", prodRr = RP?.reranker || "minilm-l6";
+    const retRows = (RV?.results || []);
+    const prodRow = retRows.find((r) => r.method === `hybrid+${prodRr}` && r.variant === prodVar);
+    const bm25Row = retRows.find((r) => r.method === "bm25" && r.variant === prodVar);
+
+    $("#plNote").innerHTML = `<b>How to read this.</b> Week 1 was run on the original ${ids.size}-question set, before any agent code. Those ${ids.size} questions are ids 1–${Math.max(...ids)} of the frozen eval_v2 set with identical gold answers, so every comparison on this tab is restricted to them.
+      Week 1 has no LLM judge, so the like-for-like metric is the deterministic rule (token F1 ≥ 0.5, or recall ≥ 0.55 with every gold number present). Week 1 answers are re-scored here with the agents' scorer, which drops stopwords, so they come out lower than the notebook's own numbers. Both are shown. Retrieval recall is measured on its own, as the brief requires.`;
+
+    const stage = (k, t, v, sub) => `<div class="stage"><div class="k">${k}</div><div class="t">${t}</div><div class="v">${v}</div><div class="s">${sub}</div></div>`;
+    $("#plStages").innerHTML =
+      stage("Week 1 · baseline", "Prompting only", fmt1(bDet.det) + "%", `Best strategy on the shared scorer (${SN[bDet.k]}). ${fmt1(bOrig.orig)}% on the notebook's scorer (${SN[bOrig.k]}).`) +
+      stage("Week 2 · RAG", "Hybrid + reranker", prodRow ? fmt1(100 * prodRow["doc_R@5"]) + "%" : "n/a", prodRow ? `Gold document in the top 5 (${prodVar}, ${prodRr}). Recall@1 ${fmt1(100 * prodRow["doc_R@1"])}% vs ${fmt1(100 * bm25Row["doc_R@1"])}% for BM25 alone.` : "") +
+      stage("Week 3 · M1", "Single agent + tools", fmt1(m1.det) + "%", `Run ${m1.r.run}, shared scorer. LLM judge: ${fmt1(m1.judge)}%.`) +
+      stage("Week 3 · M2", "Planner → executor → critic", fmt1(m2.det) + "%", `Run ${m2.r.run}, shared scorer. LLM judge: ${fmt1(m2.judge)}%.`);
+
+    $("#plAccHint").textContent = `${ids.size} shared questions · Qwen3-8B throughout`;
+    const labels = [...strats.map((k) => "W1 · " + SN[k]), ...agentRuns.map((a) => `${a.r.system.toUpperCase()} · run ${a.r.run}`)];
+    chart("chPipe", { type: "bar", data: { labels, datasets: [
+      { label: "Deterministic rule (shared scorer)", data: [...strats.map((k) => w1[k].det), ...agentRuns.map((a) => a.det)], backgroundColor: "#0f6e64", borderRadius: 4 },
+      { label: "Week 1 notebook scorer", data: [...strats.map((k) => w1[k].orig), ...agentRuns.map(() => null)], backgroundColor: "#9cc7c0", borderRadius: 4 },
+      { label: "LLM judge", data: [...strats.map(() => null), ...agentRuns.map((a) => a.judge)], backgroundColor: "#3b5ba5", borderRadius: 4 }] },
+      options: { maintainAspectRatio: false, scales: { y: { min: 0, max: 100, grid, ticks: { callback: (v) => v + "%" } }, x: { grid: { display: false } } },
+        plugins: { legend: { position: "bottom", labels: { boxWidth: 10 } }, tooltip: { callbacks: { label: (c) => c.raw == null ? null : `${c.dataset.label}: ${fmt1(c.raw)}%` } } } } });
+
+    $("#w1tbl").innerHTML = `<thead><tr><th>Strategy</th><th class="num">Notebook scorer</th><th class="num">Shared scorer</th><th class="num">Mean token F1</th></tr></thead><tbody>` +
+      w1arr.map((x) => `<tr><td>${SN[x.k]}</td><td class="num">${fmt1(x.orig)}%</td><td class="num">${fmt1(x.det)}%</td><td class="num">${x.f1.toFixed(3)}</td></tr>`).join("") + "</tbody>";
+    $("#w1note").textContent = `${W.length} real calls (${strats.length} strategies × ${ids.size} questions), committed ${P.week1_committed ? new Date(P.week1_committed).toLocaleDateString() : "n/a"}. Source: src/prompts/track_b_week1_prompt_results.csv.`;
+
+    if (retRows.length) {
+      const methods = ["bm25", "dense-pinecone", "hybrid-rrf", "hybrid+bge-base", "hybrid+minilm-l6"].filter((m) => retRows.some((r) => r.method === m && r.variant === prodVar));
+      const MN = { "bm25": "BM25", "dense-pinecone": "Dense", "hybrid-rrf": "Hybrid (RRF)", "hybrid+bge-base": "Hybrid + bge-base", "hybrid+minilm-l6": "Hybrid + MiniLM" };
+      const get = (m, k) => 100 * (retRows.find((r) => r.method === m && r.variant === prodVar)?.[k] ?? 0);
+      $("#retHint").textContent = `Chunk variant ${prodVar} · ${RV.eval_set?.split(" ")[0] || ""}`;
+      chart("chRet", { type: "bar", data: { labels: methods.map((m) => MN[m] || m), datasets: [
+        { label: "Recall@1", data: methods.map((m) => get(m, "doc_R@1")), backgroundColor: "#b9d7d2", borderRadius: 3 },
+        { label: "Recall@3", data: methods.map((m) => get(m, "doc_R@3")), backgroundColor: "#5fa59a", borderRadius: 3 },
+        { label: "Recall@5", data: methods.map((m) => get(m, "doc_R@5")), backgroundColor: "#0f6e64", borderRadius: 3 }] },
+        options: { maintainAspectRatio: false, scales: { y: { min: 50, max: 100, grid, ticks: { callback: (v) => v + "%" } }, x: { grid: { display: false } } },
+          plugins: { legend: { position: "bottom", labels: { boxWidth: 10 } }, tooltip: { callbacks: { label: (c) => `${c.dataset.label}: ${fmt1(c.raw)}%` } } } } });
+      const lat = RV.rerank_latency_ms_p50_p95 || {};
+      $("#retNote").textContent = `Inside the agent runs the gold document was retrieved for ${fmt1(m1.gold)}% (M1 run ${m1.r.run}) and ${fmt1(m2.gold)}% (M2 run ${m2.r.run}) of questions, below the offline ${prodRow ? fmt1(100 * prodRow["doc_R@5"]) : "?"}%, because the agents write their own search queries. Reranker latency p50: MiniLM ${lat["minilm-l6"]?.[0] ?? "?"} ms, bge-base ${lat["bge-base"]?.[0] ?? "?"} ms${RP ? `; production p50 ${RP.latency_p50_ms} ms, ${RP.degraded_queries} degraded queries` : ""}.`;
+      const allM = [...new Set(retRows.map((r) => r.method))], vars = [...new Set(retRows.map((r) => r.variant))];
+      $("#rettbl").innerHTML = `<thead><tr><th>Method</th>${vars.map((v) => `<th class="num">${v} R@5</th><th class="num">${v} MRR</th>`).join("")}</tr></thead><tbody>` +
+        allM.map((m) => `<tr${m === "hybrid+" + prodRr ? ' style="font-weight:600"' : ""}><td>${esc(m)}${m === "hybrid+" + prodRr ? " · production" : ""}</td>${vars.map((v) => { const r = retRows.find((x) => x.method === m && x.variant === v);
+          return r ? `<td class="num">${fmt1(100 * r["doc_R@5"])}%</td><td class="num">${r.doc_MRR.toFixed(3)}</td>` : `<td class="num">–</td><td class="num">–</td>`; }).join("")}</tr>`).join("") + "</tbody>";
+    }
+
+    const q = Object.fromEntries((m2 || m1).r.rows.map((x) => [+x.id, x]));
+    const okW1 = (id) => strats.some((k) => w1[k].by[id]?.det_correct);
+    const okAg = (id) => [m1, m2].some((a) => a.by[id]?.det_correct);
+    const dot = (v) => `<span class="dot ${v ? "ok" : "no"}" title="${v ? "correct" : "not correct"}"></span>`;
+    const draw = () => {
+      const f = $("#plFilter").value;
+      const list = [...ids].sort((a, b) => a - b).filter((id) => !f || (f === "fixed" ? !okW1(id) && okAg(id) : f === "regress" ? okW1(id) && ![m1, m2].some((a) => a.by[id]?.det_correct) : !okW1(id) && !okAg(id)));
+      $("#plShown").textContent = `${list.length} of ${ids.size}`;
+      $("#pqtbl").innerHTML = `<thead><tr><th>Q</th><th>Question</th><th>Difficulty</th>${strats.map((k) => `<th class="c">${SN[k].split(" ")[0]}</th>`).join("")}<th class="c">M1 r${m1.r.run}</th><th class="c">M2 r${m2.r.run}</th></tr></thead><tbody>` +
+        list.map((id) => `<tr data-id="${id}" tabindex="0"><td class="num">${id}</td><td class="q">${esc(q[id]?.query || w1[strats[0]].by[id]?.prediction)}</td><td>${esc(q[id]?.difficulty || "")}</td>${strats.map((k) => `<td class="c">${dot(w1[k].by[id]?.det_correct)}</td>`).join("")}<td class="c">${dot(m1.by[id]?.det_correct)}</td><td class="c">${dot(m2.by[id]?.det_correct)}</td></tr>`).join("") + "</tbody>";
+      document.querySelectorAll("#pqtbl tbody tr").forEach((tr) => { const go = () => openQ(+tr.dataset.id); tr.addEventListener("click", go); tr.addEventListener("keydown", (e) => e.key === "Enter" && go()); });
+    };
+    const openQ = (id) => {
+      const g = q[id]; const v = (b) => b ? `<span class="pill p-ok">correct</span>` : `<span class="pill p-bad">not correct</span>`;
+      $("#dTitle").textContent = `Q${id} · Week 1 → agents`;
+      $("#dBody").innerHTML = `<div class="sec"><h3>Question</h3><div class="box">${esc(g?.query)}</div></div><div class="sec"><h3>Gold answer</h3><div class="box">${esc(g?.gold_answer)}</div></div>` +
+        strats.map((k) => { const r = w1[k].by[id]; return `<div class="sec"><h3>Week 1 · ${SN[k]}</h3>${v(r?.det_correct)} <span class="pill p-mute">F1 ${r?.token_f1 ?? "–"}</span><div class="box" style="margin-top:8px">${esc(r?.prediction)}</div></div>`; }).join("") +
+        [m1, m2].map((a) => { const r = a.by[id]; return `<div class="sec"><h3>${esc(a.r.label)}</h3>${v(r?.det_correct)} ${judgePill(r?.judge)} ${failPill(r?.failure)}<div class="box" style="margin-top:8px">${esc(r?.answer)}</div></div>`; }).join("");
+      drawer.hidden = false; bg.hidden = false; drawer.setAttribute("aria-hidden", "false"); $("#dClose").focus();
+    };
+    $("#plFilter").addEventListener("input", draw); draw();
+  }
+
   function select(id) { run = D.runs.find((r) => r.run_id === id) || order[0]; if (!run) return; overview(run.rows); renderTable(); }
   if (order.length) { select(order[0].run_id); compare(); }
   spansView();
+  pipeline();
 })();

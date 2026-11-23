@@ -30,15 +30,55 @@
   </header>
 
   <nav class="tabs" role="tablist">
-    <button role="tab" class="tab active" data-view="overview" aria-selected="true">Overview</button>
+    <button role="tab" class="tab active" data-view="pipeline" aria-selected="true">Pipeline</button>
+    <button role="tab" class="tab" data-view="overview" aria-selected="false">Overview</button>
     <button role="tab" class="tab" data-view="executions" aria-selected="false">Executions</button>
     <button role="tab" class="tab" data-view="spans" aria-selected="false">Span traces <span class="count" id="spanCount">0</span></button>
     <button role="tab" class="tab" data-view="compare" aria-selected="false">Compare runs</button>
   </nav>
 
   <main class="main">
+    <!-- PIPELINE -->
+    <section class="view active" id="view-pipeline">
+      <div class="note" id="plNote"></div>
+      <div class="stages" id="plStages"></div>
+      <div class="card">
+        <div class="card-h"><h2>End-to-end accuracy, Week 1 to agents</h2><span class="hint" id="plAccHint"></span></div>
+        <div class="chart tall"><canvas id="chPipe"></canvas></div>
+      </div>
+      <div class="grid2">
+        <div class="card">
+          <div class="card-h"><h2>Week 1 prompt strategies</h2><span class="hint">No retrieval, Qwen3-8B</span></div>
+          <div class="table-wrap"><table class="tbl" id="w1tbl"></table></div>
+          <p class="hint pad" id="w1note"></p>
+        </div>
+        <div class="card">
+          <div class="card-h"><h2>Retrieval recall, measured separately</h2><span class="hint" id="retHint"></span></div>
+          <div class="chart"><canvas id="chRet"></canvas></div>
+          <p class="hint pad" id="retNote"></p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-h"><h2>Retrieval experiments</h2><span class="hint">Document recall@5 and MRR by method and chunking variant</span></div>
+        <div class="table-wrap"><table class="tbl" id="rettbl"></table></div>
+      </div>
+      <div class="card">
+        <div class="card-h"><h2>Per-question view</h2><span class="hint">Same 80 questions, same scorer. Click a row for each system's answer.</span></div>
+        <div class="filters">
+          <select id="plFilter" aria-label="Question filter">
+            <option value="">All 80 questions</option>
+            <option value="fixed">Wrong in every Week 1 strategy, right with an agent</option>
+            <option value="regress">Right in a Week 1 strategy, wrong in both agents</option>
+            <option value="never">Wrong everywhere</option>
+          </select>
+          <span class="shown" id="plShown"></span>
+        </div>
+        <div class="table-wrap"><table class="tbl" id="pqtbl"></table></div>
+      </div>
+    </section>
+
     <!-- OVERVIEW -->
-    <section class="view active" id="view-overview">
+    <section class="view" id="view-overview">
       <div class="kpis" id="kpis"></div>
       <div class="grid2">
         <div class="card">

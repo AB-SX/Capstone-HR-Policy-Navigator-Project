@@ -3,6 +3,10 @@
 Sources (all produced by real runs against the course Qwen3-8B endpoint):
   * data/evaluation/results/archive/*_rows.jsonl   per-question execution records from run_eval
   * data/evaluation/traces/*.jsonl                 span-level traces from scripts.trace_capture
+  * src/prompts/track_b_week1_prompt_results.csv    Week 1 prompt-only baseline (4 strategies x 80 questions),
+                                                    re-scored with the same deterministic rule as the agents
+  * data/evaluation/retrieval_v2_results.json       offline retrieval benchmark (recall@k / MRR, chunk variants)
+  * data/evaluation/retrieval_prod_results.json     production retrieval configuration check
 
     python -m scripts.build_trace_dashboard
     python -m http.server -d dashboard 8000       # open http://localhost:8000
@@ -89,15 +93,42 @@ def load_traces():
     return out
 
 
+WEEK1 = ROOT / "src" / "prompts" / "track_b_week1_prompt_results.csv"
+RET_V2 = config.EVAL_DIR / "retrieval_v2_results.json"
+RET_PROD = config.EVAL_DIR / "retrieval_prod_results.json"
+
+
+def load_pipeline():
+    """Week 1 baseline -> retrieval -> agents. Week 1 used the original 80 questions, which are ids 1-80 of eval_v2
+    with identical gold answers, so the like-for-like comparison is restricted to those 80."""
+    import csv
+    from src.evaluation.metrics import deterministic
+    out = {"week1": [], "retrieval": None, "retrieval_prod": None, "overlap_ids": []}
+    if WEEK1.exists():
+        for r in csv.DictReader(open(WEEK1, encoding="utf-8")):
+            d = deterministic(r["prediction"], r["gold_answer"])
+            out["week1"].append({"id": int(r["id"]), "strategy": r["strategy"], "prediction": r["prediction"],
+                                 "orig_correct": r["is_correct"] == "1", "orig_f1": float(r["token_f1"] or 0),
+                                 "det_correct": d["det_correct"], "token_f1": d["token_f1"]})
+        out["week1_committed"] = _git_date(WEEK1)
+    out["overlap_ids"] = sorted({r["id"] for r in out["week1"]})
+    if RET_V2.exists():
+        out["retrieval"] = json.loads(RET_V2.read_text())
+    if RET_PROD.exists():
+        out["retrieval_prod"] = json.loads(RET_PROD.read_text())
+    return out
+
+
 def main():
     data = {"model": config.MODEL_NAME, "endpoint": "course vLLM (OpenAI-compatible)", "built": None,
-            "runs": load_runs(), "traces": load_traces()}
+            "runs": load_runs(), "traces": load_traces(), "pipeline": load_pipeline()}
     import datetime as dt
     data["built"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text("window.TRACE_DATA = " + json.dumps(data, ensure_ascii=False, default=str) + ";\n", encoding="utf-8")
     n = sum(len(r["rows"]) for r in data["runs"])
-    print(f"wrote {OUT.relative_to(ROOT)}: {len(data['runs'])} runs, {n} executions, {len(data['traces'])} span traces")
+    print(f"wrote {OUT.relative_to(ROOT)}: {len(data['runs'])} runs, {n} executions, {len(data['traces'])} span traces, "
+          f"{len(data['pipeline']['week1'])} week-1 rows")
 
 
 if __name__ == "__main__":
