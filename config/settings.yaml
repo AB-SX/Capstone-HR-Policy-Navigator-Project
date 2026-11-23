@@ -1,0 +1,50 @@
+# HR Policy Navigator: tunables (no secrets here; secrets live in .env)
+# Any value can be overridden with an env var: retrieval.top_out -> HRNAV_RETRIEVAL__TOP_OUT=3
+
+llm:
+  max_model_len: 8192          # vLLM limit for Qwen3-8B: prompt + output per call
+  temperature: 0.1
+  max_tokens: 700              # guide: 512 default, 1024 max per call
+  enable_thinking: false       # Qwen3 <think> blocks waste tokens and break JSON
+  json_mode: json_schema       # smoke test 22 Nov: json_schema + guided_json + native tool calls all PASS
+  json_retries: 2              # repair attempts when the model returns invalid JSON
+  timeout_s: 120
+  max_concurrency: 1           # guide: ONE active request per group key (2nd gets 429)
+  max_retries: 5               # 429/503 retried with backoff (guide: 2, 4, 8 s ...)
+
+embedding:
+  provider: local              # local = sentence-transformers BAAI/bge-small-en-v1.5 (course has no embeddings endpoint)
+  model: bge-small-en-v1.5
+  dim: 384
+  batch: 64
+  query_instruction: "Represent this sentence for searching relevant passages: "
+  use_query_instruction: false # lab 22 Nov: no-instruction slightly better on C3 (R@1 .738 vs .713) - within noise
+
+retrieval:
+  variant: c3                  # lab 22 Nov: hybrid+MiniLM on C3 best (R@1 .800, R@5 .950, MRR .871)
+  namespace: v2-c3             # Pinecone release namespace
+  backend: pinecone            # pinecone | faiss
+  pinecone_timeout_s: 3.0
+  top_k_each: 50
+  rrf_k: 60
+  rerank_in: 30
+  top_out: 5
+  context_tokens: 2500
+  reranker: minilm-l6          # lab 22 Nov: beats bge-base on C3 and 7.5x faster on CPU (p50 1.7 s vs 12.5 s)
+  min_rerank_score: 0.25       # lab 22 Nov s10: keeps 95% of in-scope questions, refuses 83% (10/12) of off-topic probes
+
+rerankers:
+  bge-base: BAAI/bge-reranker-base
+  minilm-l6: cross-encoder/ms-marco-MiniLM-L6-v2
+
+agent:
+  max_steps: 6                 # executor tool calls per question (infinite-loop guard)
+  max_critic_rounds: 1         # critic may send work back once
+  history_turns: 6             # messages kept verbatim; older ones summarised
+  prompt_token_budget: 6500    # leaves room for the answer inside 8192
+
+api:
+  rate_limit_per_minute: 10
+  cache_ttl_s: 86400
+  daily_llm_call_cap: 3000
+  thread_ttl_hours: 24

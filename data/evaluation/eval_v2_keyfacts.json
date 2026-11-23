@@ -1,0 +1,387 @@
+{
+ "version": "keyfacts-v1",
+ "source_eval_sha256": "78dedd91a9743cbb0c4aa23070701bd4c87091dfac81901b07461920ee1d5629",
+ "note": "Key facts per in-scope question, derived from each gold answer. The grader checks only these facts. Drafted with AI assistance from the gold answers; review before relying on them.",
+ "facts": {
+  "1": [
+   "The new-hire stipend is 1,500 USD (or local currency equivalent)",
+   "It is for setting up a home office in the first year",
+   "Items are bought with own funds and claimed/expensed in Navan"
+  ],
+  "2": [
+   "Yes: existing team members get a yearly refresh of 500 USD",
+   "It applies only to team members employed the entire previous calendar year",
+   "It excludes laptops"
+  ],
+  "3": [
+   "No, treadmills and walking pads are not reimbursable"
+  ],
+  "4": [
+   "Travel meals are reimbursable up to 120 USD per day",
+   "Tips (up to 20%) must fit within that limit"
+  ],
+  "5": [
+   "The team meal limit is 80 USD per person per meal",
+   "The most senior team member present pays and expenses the bill when separate receipts aren't practical"
+  ],
+  "6": [
+   "Business class requires flights over 8 hours of continuous flight time",
+   "It is for frequent travellers making 3 or more international trips per quarter",
+   "Or when travelling to meet customers, speak or represent GitLab at a conference"
+  ],
+  "7": [
+   "The maximum monthly reimbursement is 10,000 USD",
+   "E-Group members have a maximum of 20,000 USD"
+  ],
+  "8": [
+   "No, personal VPN subscriptions are no longer reimbursed (since 15 July 2026)",
+   "Team members must use NordLayer, the corporate VPN"
+  ],
+  "9": [
+   "Co-working space is reimbursable up to 700 USD per month",
+   "Pre-approval is required (when booking more than 5 days a month)"
+  ],
+  "10": [
+   "No, home internet cannot be expensed in a month when a co-working space is expensed for the full month"
+  ],
+  "11": [
+   "Home internet is capped at 100 USD per month",
+   "Mobile phone service is capped at 100 USD per month",
+   "Hardware and setup costs are excluded"
+  ],
+  "12": [
+   "Managers can expense gifts or flowers up to 125 USD per transaction including shipping",
+   "Cash and gift cards are not allowed"
+  ],
+  "13": [
+   "Compass is GitLab's central IT, People and business-service support platform",
+   "It uses Serval, an AI-native ITSM platform"
+  ],
+  "14": [
+   "Initial acknowledgement is within 24 hours",
+   "Tier 01 resolves within 24 hours",
+   "Tier 02 resolves within 72 hours",
+   "Tier 03 hands off within 24 hours"
+  ],
+  "15": [
+   "Employment verifications and letters of employment are fulfilled within 24 hours"
+  ],
+  "16": [
+   "First verify the person in Slack",
+   "If unconfirmed, open a Compass case (People Ops checks Workday and Talent Acquisition)",
+   "If unaffiliated, a 'Do Not Hire' profile is created and the account is reported to LinkedIn"
+  ],
+  "17": [
+   "Ethico for Code of Conduct violations",
+   "Lighthouse Services for workplace conduct or harassment"
+  ],
+  "18": [
+   "Absent for three consecutive workdays",
+   "No entry on the availability calendar",
+   "No contact with the supervisor"
+  ],
+  "19": [
+   "Level 1: first-time occurrence",
+   "Level 2: recurring socially inappropriate behaviour",
+   "Level 3: major infraction or retaliation",
+   "Level 4: serious cases or criminal offences"
+  ],
+  "20": [
+   "Relatives must not supervise each other",
+   "They must not be in the same line of authority over hiring or wages",
+   "Neither may access the other's sensitive personnel files"
+  ],
+  "21": [
+   "Up to 25 consecutive calendar days"
+  ],
+  "22": [
+   "Tilt is the leave administrator (TPA) for the US and Canada",
+   "In Canada, Tilt administers parental leave only"
+  ],
+  "23": [
+   "Accidental death: 5 times annual salary up to 500,000 USD",
+   "Out-of-country medical: up to 250,000 USD",
+   "Emergency medical: up to 10,000 USD",
+   "Security evacuation: up to 100,000 USD; baggage delay or loss: up to 2,500 USD"
+  ],
+  "24": [
+   "Up to 10,000 USD per calendar year for professional development",
+   "Subject to tenure, performance and budget"
+  ],
+  "25": [
+   "Pre-tax account covers up to 2,100",
+   "Post-tax account covers up to 900 above the pre-tax limit",
+   "Administered by Navia"
+  ],
+  "26": [
+   "COBRA continuation for up to 18 months",
+   "Covers medical, dental and vision",
+   "Administered by WEX (Discovery Benefits)"
+  ],
+  "27": [
+   "UltimateAdvisor costs 18.25 per month",
+   "UltimateAdvisor Plus costs 20.90 per month"
+  ],
+  "28": [
+   "Up to 340 per month for parking",
+   "Up to 340 per month for transit",
+   "Administered through WEX"
+  ],
+  "29": [
+   "10 days of annual sick leave",
+   "For extended sick leave (5+ days) GitLab tops pay up to 100% of salary for up to 25 working days"
+  ],
+  "30": [
+   "Regular bicycle up to 1,250 EUR",
+   "Electric bike up to 1,500 EUR",
+   "Cargo bike up to 3,000 EUR",
+   "Available once every 4 years"
+  ],
+  "31": [
+   "Meritz provides group medical and risk insurance",
+   "GitLab pays 100% of premiums for team members and eligible dependants"
+  ],
+  "32": [
+   "Tilt administers parental leave only in Canada",
+   "Absence Management handles medical and caregiving leave"
+  ],
+  "33": [
+   "Ontario: 3 days of job-protected unpaid sick leave",
+   "Quebec: 2 days of paid absence per calendar year"
+  ],
+  "34": [
+   "Email LeaveSupport@ourtilt.com",
+   "Use the contact form",
+   "Text (970) 449-0178"
+  ],
+  "35": [
+   "5 paid days per year for domestic violence support"
+  ],
+  "36": [
+   "A medical certificate is needed for absences of 3 successive calendar days or more"
+  ],
+  "37": [
+   "No, work-related expenses are not reimbursable while on any kind of leave"
+  ],
+  "38": [
+   "Paid parental leave for any team member regardless of gender",
+   "Covers becoming a parent through childbirth or adoption"
+  ],
+  "39": [
+   "No, the FLSA does not require payment for time not worked such as vacation or sick leave"
+  ],
+  "40": [
+   "Team Member Relations coordinates with Legal and IT to disable account access",
+   "An out-of-office message is configured",
+   "A suspension letter is sent via DocuSign to the personal email"
+  ],
+  "41": [
+   "A DRI is the person ultimately accountable for a project, initiative or activity",
+   "The DRI holds final decision-making power while consulting stakeholders"
+  ],
+  "42": [
+   "Key Talent is about 10% of the workforce",
+   "They exceed performance expectations, show outsized impact and have high growth potential",
+   "A single point of failure (SPOF) is not automatically Key Talent"
+  ],
+  "43": [
+   "Candidate education to support conversion",
+   "Evolved brand messaging ('Co-Create the Future')",
+   "Elevated candidate journey"
+  ],
+  "44": [
+   "Maintainers review merge requests that change training module content",
+   "They perform bi-annual sanity checks",
+   "They make lifecycle decisions: refresh, restructure or deprecate"
+  ],
+  "45": [
+   "Online application",
+   "Written asynchronous take-home assessment",
+   "40-minute screening call",
+   "90-minute live technical interview with break-fix scenarios"
+  ],
+  "46": [
+   "6 calendar days to complete the take-home assessment"
+  ],
+  "47": [
+   "ModernLoop is used to schedule interviews",
+   "It integrates with Google Workspace, Greenhouse, Zoom and Slack"
+  ],
+  "48": [
+   "Decline within 24-48 hours of receiving the invite",
+   "Click 'No' and give a reason"
+  ],
+  "49": [
+   "Covers the last 5 years of employment and/or the 3 most recent employers",
+   "Administered by Sterling/First Advantage"
+  ],
+  "50": [
+   "The probation period in Australia is 6 months",
+   "Notice during probation is 1 week"
+  ],
+  "51": [
+   "No, USA - Inc and USA - Federal LLC team members have no probationary period"
+  ],
+  "52": [
+   "Outside activities must not conflict with work or compete with GitLab",
+   "Prior written approval is needed from the direct manager, Team Member Relations and the Director/E-group leader"
+  ],
+  "53": [
+   "The recommended promotion increase is 5% to 10%",
+   "Over 10% needs special business justification"
+  ],
+  "54": [
+   "At least 30 days",
+   "No more than 4 months"
+  ],
+  "55": [
+   "When a team member moves from manager to individual contributor",
+   "When a team member changes teams (both manager and cost center change)"
+  ],
+  "56": [
+   "Between 4:00 PM and 5:00 PM",
+   "In the departing team member's local time zone"
+  ],
+  "57": [
+   "Offboarding tasks must be completed within 5 working days",
+   "Critical or time-sensitive tools must be revoked within 24 hours"
+  ],
+  "58": [
+   "Property valued above 1,000 USD must be returned",
+   "For laptops contact gitlab-laptop-recovery@gitlab.com"
+  ],
+  "59": [
+   "All voluntary exits in good standing are eligible",
+   "Involuntary exits are not eligible unless Team Member Relations approves"
+  ],
+  "60": [
+   "1st, 3rd, 5th and 10th year anniversaries"
+  ],
+  "61": [
+   "At least one year of continuous tenure"
+  ],
+  "62": [
+   "Up to 183 days per calendar year",
+   "Exceeding it creates permanent establishment or tax liabilities"
+  ],
+  "63": [
+   "Sponsorship is provided only for relocation to the Netherlands",
+   "For other countries the team member needs independent work rights"
+  ],
+  "64": [
+   "Salary is adjusted up or down to the new location factor",
+   "The existing compa-ratio is kept within the new location's range"
+  ],
+  "65": [
+   "No, devices cannot be taken to and work cannot be done from US-embargoed countries"
+  ],
+  "66": [
+   "International: at least 3 months before the ideal relocation date",
+   "Domestic: at least 30 days before"
+  ],
+  "67": [
+   "The effective date must be the 1st or 16th of the month"
+  ],
+  "68": [
+   "Yes, an increase of 0.20 or more needs VP and E-Group approval",
+   "That approval comes before manager approval"
+  ],
+  "69": [
+   "No, GitLab does not cover relocation costs for family members, even for the Netherlands"
+  ],
+  "70": [
+   "No, only countries where GitLab has an established entity open for hiring without restrictions"
+  ],
+  "71": [
+   "Probation in GitLab India is 6 months",
+   "Notice during probation is 1 week",
+   "Notice after probation is 1 month"
+  ],
+  "72": [
+   "12% of basic salary per month, uncapped",
+   "Or a capped 1,800 INR per month"
+  ],
+  "73": [
+   "Submit the PRAN (Permanent Retirement Account Number)",
+   "Via the designated enrollment form"
+  ],
+  "74": [
+   "Karnataka"
+  ],
+  "75": [
+   "IT Ops arranges local laptop procurement in India and confirms refresh eligibility",
+   "The existing laptop is disposed of at the originating entity before relocation"
+  ],
+  "76": [
+   "Policy Against Sexual Harassment (POSH)",
+   "Equal Opportunity Policy (EOP)"
+  ],
+  "77": [
+   "They are set out in the GitLab India Private Limited Policy Against Sexual Harassment"
+  ],
+  "78": [
+   "The Office of Disaster Management in India"
+  ],
+  "79": [
+   "No, personal VPN reimbursement was discontinued on 15 July 2026 across all entities",
+   "Team members must use NordLayer"
+  ],
+  "80": [
+   "Up to 25 consecutive calendar days, including in India"
+  ],
+  "81": [
+   "The maximum is 9,900 USD",
+   "1,500 USD stipend plus 12 × 700 USD (8,400 USD) co-working",
+   "Home internet cannot be expensed in months with a full-month co-working space"
+  ],
+  "82": [
+   "Up to 480 USD for the trip (120 USD × 4 days)",
+   "Team meals are limited to 80 USD per person per meal",
+   "Tips up to 20% must stay within the limits"
+  ],
+  "83": [
+   "2,400 USD per year",
+   "100 USD/month home internet plus 100 USD/month phone service"
+  ],
+  "84": [
+   "No 500 USD refresh in 2026, because the team member was not employed the entire previous calendar year",
+   "The maximum for 2026 is 10,000 USD from the Growth and Development Fund"
+  ],
+  "85": [
+   "No",
+   "Long-term relocation needs at least one year of tenure",
+   "An international move must start at least 3 months before the relocation date"
+  ],
+  "86": [
+   "The 0.25 increase is at least 0.20, so VP and then E-Group approval are needed before manager approval",
+   "The effective date must be the 1st or 16th of the month"
+  ],
+  "87": [
+   "It is above the 5%-10% guideline",
+   "Over 10% needs additional business justification to Total Rewards and the executive approver"
+  ],
+  "88": [
+   "8,160 USD per year",
+   "340 USD/month parking plus 340 USD/month transit (680 × 12)",
+   "Through WEX"
+  ],
+  "89": [
+   "No, not without special permission",
+   "Five weeks is more than 25 consecutive calendar days",
+   "Permission is needed from the manager, People Business Partner and Absence Management"
+  ],
+  "90": [
+   "The monitor does not need to be returned: only property above 1,000 USD must be returned",
+   "Laptops follow the Laptop Buyback Policy"
+  ],
+  "91": [
+   "About two months earlier",
+   "International moves need 3 months' notice; domestic moves need 30 days"
+  ],
+  "92": [
+   "Up to 480 USD in total (80 USD × 6)",
+   "Tips up to 20% are included in the limit",
+   "The most senior team member pays if separate bills aren't practical"
+  ]
+ }
+}

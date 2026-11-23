@@ -1,36 +1,36 @@
-# Track B 
-# Python 3.12+ required (developed on 3.12.16)
+# HR Policy Navigator (Track B). Python 3.12.
 # Install:  pip install -r requirements.txt
 
-# --- LLM API client (OpenAI-compatible vLLM endpoint) ---
+# --- LLM + embeddings clients (OpenAI-compatible vLLM endpoints) ---
 openai==1.109.1
-httpx==0.28.1            # custom client used to bypass SSL verification
-
-# --- HTTP / connectivity checks (/v1/models probe) ---
-requests==2.32.5
-urllib3==2.5.0           # InsecureRequestWarning suppression
-
-# --- Data handling & metrics ---
-pandas==2.3.2
-numpy==2.2.6
-
-# --- Progress bars ---
-tqdm==4.67.1
-
-# --- Notebook execution inside the container (papermill/nbconvert-free run) ---
-# Needed because the notebook uses IPython `display()` and is executed as .ipynb
-ipython==8.37.0
-ipykernel==6.30.1
-jupyter-core==5.8.1
-nbformat==5.10.4
-nbclient==0.10.2
-
-# Pinecone & utilities
-pinecone==7.0.0
-python-dotenv==1.1.0
 httpx==0.28.1
-rank-bm25==0.2.2
+pydantic>=2.7,<3
+python-dotenv==1.1.0
+pyyaml>=6.0
 
-# Streamlit UI
+# --- Retrieval ---
+numpy==2.2.6
+pandas==2.3.2
+rank-bm25==0.2.2
+pinecone==7.0.0
+pyreadline3; sys_platform == "win32"   # pinecone imports readline, which Windows Python lacks
+faiss-cpu>=1.8
+sentence-transformers>=3.0      # cross-encoder rerankers (pulls in torch, CPU is fine)
+
+# --- Agents + tracing ---
+langgraph>=1.0,<2
+langgraph-checkpoint-sqlite>=2.0
+langsmith>=0.3
+
+# --- API + UI ---
+fastapi>=0.115
+uvicorn[standard]>=0.30
 streamlit==1.41.0
 
+# --- Notebooks, tests, utilities ---
+tqdm==4.67.1
+matplotlib>=3.8
+ipykernel==6.30.1
+nbformat==5.10.4
+pytest>=8
+requests==2.32.5

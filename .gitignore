@@ -25,3 +25,13 @@ venv.bak/
 # Logs
 logs/
 *.log
+# HR Policy Navigator runtime / scratch
+data/lab/
+runtime/
+.cache/
+*.npz
+
+# Kept local only (not pushed): working notes, review packs and presentation material
+docs/notebook_guides/
+docs/presentations/
+docs/reviews/

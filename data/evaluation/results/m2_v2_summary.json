@@ -1,0 +1,59 @@
+{
+ "system": "m2",
+ "tag": "v2",
+ "n": 98,
+ "accuracy_judge_pct": 72.4,
+ "accuracy_judge_incl_partial_pct": 82.7,
+ "accuracy_deterministic_pct": 49.0,
+ "judge_vs_deterministic_agreement_pct": 72.4,
+ "task_completion_rate_pct": 100.0,
+ "avg_tool_calls": 1.5,
+ "avg_llm_calls": 4.1,
+ "latency_p50_s": 8.27,
+ "latency_p95_s": 19.62,
+ "avg_prompt_tokens": 3603,
+ "avg_completion_tokens": 270,
+ "gold_retrieved_pct": 87.0,
+ "answers_with_citation_pct": 86.7,
+ "answers_with_ungrounded_numbers_pct": 2.0,
+ "invalid_citation_pct": 0.0,
+ "json_repairs_total": 0,
+ "failure_taxonomy": {
+  "reasoning_error": 16,
+  "retrieval_miss": 6,
+  "over_refusal": 2,
+  "skipped_search": 3
+ },
+ "accuracy_by_difficulty": {
+  "medium": {
+   "n": 32,
+   "acc_pct": 71.9
+  },
+  "easy": {
+   "n": 54,
+   "acc_pct": 75.9
+  },
+  "hard": {
+   "n": 12,
+   "acc_pct": 58.3
+  }
+ },
+ "accuracy_by_type": {
+  "numeric": {
+   "n": 51,
+   "acc_pct": 64.7
+  },
+  "conditional": {
+   "n": 18,
+   "acc_pct": 77.8
+  },
+  "fact": {
+   "n": 23,
+   "acc_pct": 78.3
+  },
+  "out_of_scope": {
+   "n": 6,
+   "acc_pct": 100.0
+  }
+ }
+}
