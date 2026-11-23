@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HR Policy Navigator · Trace Dashboard</title>
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600&display=swap" rel="stylesheet">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div class="shell">
+  <header class="top">
+    <div class="brand">
+      <span class="mark" aria-hidden="true"></span>
+      <div>
+        <h1>HR Policy Navigator</h1>
+        <p class="sub">Trace dashboard · real executions</p>
+      </div>
+    </div>
+    <div class="controls">
+      <label class="field">
+        <span>Run</span>
+        <select id="runSel" aria-label="Select run"></select>
+      </label>
+      <span class="badge" id="modelBadge"></span>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" class="tab active" data-view="overview" aria-selected="true">Overview</button>
+    <button role="tab" class="tab" data-view="executions" aria-selected="false">Executions</button>
+    <button role="tab" class="tab" data-view="spans" aria-selected="false">Span traces <span class="count" id="spanCount">0</span></button>
+    <button role="tab" class="tab" data-view="compare" aria-selected="false">Compare runs</button>
+  </nav>
+
+  <main class="main">
+    <!-- OVERVIEW -->
+    <section class="view active" id="view-overview">
+      <div class="kpis" id="kpis"></div>
+      <div class="grid2">
+        <div class="card">
+          <div class="card-h"><h2>Failure taxonomy</h2><span class="hint">Brief V buckets, zeros shown</span></div>
+          <div class="chart"><canvas id="chFail"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-h"><h2>Latency per execution</h2><span class="hint">Seconds, end to end</span></div>
+          <div class="chart"><canvas id="chLat"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-h"><h2>Accuracy by difficulty</h2><span class="hint">Judge verdict</span></div>
+          <div class="chart"><canvas id="chDiff"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-h"><h2>Tokens vs latency</h2><span class="hint">One dot per execution</span></div>
+          <div class="chart"><canvas id="chTok"></canvas></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-h"><h2>Tool usage</h2><span class="hint">Calls across all executions</span></div>
+        <div class="toolbars" id="toolBars"></div>
+      </div>
+      <p class="foot" id="foot"></p>
+    </section>
+
+    <!-- EXECUTIONS -->
+    <section class="view" id="view-executions">
+      <div class="filters">
+        <input id="q" type="search" placeholder="Search questions" aria-label="Search questions">
+        <select id="fJudge" aria-label="Judge filter"><option value="">All verdicts</option><option>correct</option><option>partially_correct</option><option>incorrect</option></select>
+        <select id="fFail" aria-label="Failure filter"><option value="">All failures</option></select>
+        <select id="fDiff" aria-label="Difficulty filter"><option value="">All difficulty</option><option>easy</option><option>medium</option><option>hard</option></select>
+        <span class="shown" id="shown"></span>
+      </div>
+      <div class="table-wrap">
+        <table class="tbl" id="tbl">
+          <thead><tr>
+            <th data-k="id">Q</th><th data-k="query">Question</th><th data-k="judge">Verdict</th>
+            <th data-k="failure">Failure</th><th data-k="status">Status</th><th data-k="tool_calls" class="num">Tools</th>
+            <th data-k="llm_calls" class="num">LLM calls</th><th data-k="tokens" class="num">Tokens</th>
+            <th data-k="latency_s" class="num">Latency</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SPANS -->
+    <section class="view" id="view-spans">
+      <div id="spanEmpty" class="empty card">
+        <h2>No span traces captured yet</h2>
+        <p>The executions tab shows every saved real run. Step-by-step span traces (each graph node, model call and tool call, with timing) come from a fresh capture against your Qwen3-8B endpoint:</p>
+        <pre>python -m scripts.trace_capture --system m2 --limit 20
+python -m scripts.build_trace_dashboard</pre>
+        <p>Run these where the course endpoint is reachable, then reload this page.</p>
+      </div>
+      <div id="spanWrap" class="spanwrap" hidden>
+        <aside class="tracelist" id="traceList"></aside>
+        <div class="card waterfall-card">
+          <div class="card-h"><h2 id="wfTitle">Trace</h2><span class="hint" id="wfMeta"></span></div>
+          <div id="waterfall" class="waterfall"></div>
+          <div id="spanDetail" class="spandetail"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPARE -->
+    <section class="view" id="view-compare">
+      <div class="card">
+        <div class="card-h"><h2>All runs side by side</h2><span class="hint">Same 98 frozen questions</span></div>
+        <div class="table-wrap"><table class="tbl" id="cmp"></table></div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<!-- DRAWER -->
+<div class="drawer-bg" id="drawerBg" hidden></div>
+<aside class="drawer" id="drawer" aria-hidden="true" hidden>
+  <div class="drawer-h">
+    <h2 id="dTitle">Execution</h2>
+    <button class="x" id="dClose" aria-label="Close">×</button>
+  </div>
+  <div class="drawer-b" id="dBody"></div>
+</aside>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
