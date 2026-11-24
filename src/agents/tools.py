@@ -130,7 +130,7 @@ def calculate(args: CalcArgs, ctx: dict) -> dict:
 
 def draft_hr_ticket(args: TicketArgs, ctx: dict) -> dict:
     """Consequential action boundary: this only DRAFTS. Submission requires the user to confirm (HITL)."""
-    ticket = {"ticket_id": "DRAFT-" + uuid.uuid4().hex[:8].upper(), "status": "draft_awaiting_user_confirmation",
+    ticket = {"ticket_id": "HR-" + uuid.uuid4().hex[:8].upper(), "status": "draft_awaiting_user_confirmation",
               "category": args.category, "summary": args.summary, "details": args.details,
               "created": time.strftime("%Y-%m-%d %H:%M:%S")}
     ctx["pending_ticket"] = ticket

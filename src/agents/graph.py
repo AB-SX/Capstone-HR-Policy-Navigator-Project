@@ -290,6 +290,15 @@ def confirm_ticket(state: NavState) -> NavState:
                           "message": "Please review this draft HR ticket. Confirm to submit it, or cancel."})
     confirmed = bool(decision.get("confirm")) if isinstance(decision, dict) else str(decision).lower().startswith(("y", "c"))
     if confirmed:
+        edits = decision.get("edits") if isinstance(decision, dict) else None
+        if edits:                                       # the employee corrected the draft before submitting
+            from src.app.tickets import clean_fields
+            try:
+                draft = {**draft, **clean_fields(edits.get("category", draft.get("category")),
+                                                 edits.get("summary", draft.get("summary")),
+                                                 edits.get("details", draft.get("details")))}
+            except ValueError:
+                pass                                    # keep the original draft if the edit is unusable
         submitted = {**draft, "status": "submitted", "submitted": time.strftime("%Y-%m-%d %H:%M:%S")}
         with open(config.RUNTIME_DIR / "tickets.jsonl", "a", encoding="utf-8") as f:   # stand-in for the HR system
             f.write(json.dumps(submitted) + "\n")
@@ -371,6 +380,9 @@ def _to_result(question, state, usage, t0, interrupted=None) -> AgentResult:
         res.status, res.pending_ticket = "ticket_pending", info["ticket"]
         res.answer = (f"{info['message']}\n\n**{info['ticket']['ticket_id']}** · {info['ticket']['category']}\n"
                       f"{info['ticket']['summary']}\n{info['ticket']['details']}")
+        warn = pii.warning_for(state.get("pii", []))      # the pause skips finalize, so warn here too
+        if warn:
+            res.answer = warn + "\n\n" + res.answer
     return res
 
 
@@ -388,11 +400,11 @@ def run_m2(question: str, thread_id: str | None = None) -> AgentResult:
     return _to_result(question, state, usage, t0, state.get("__interrupt__"))
 
 
-def resume_m2(thread_id: str, confirm: bool) -> AgentResult:
-    """Resume a conversation paused at the human-confirmation step."""
+def resume_m2(thread_id: str, confirm: bool, edits: dict | None = None) -> AgentResult:
+    """Resume a conversation paused at the human-confirmation step (optionally with the employee's edits)."""
     from langgraph.types import Command
     t0 = time.perf_counter()
     cfg = {"configurable": {"thread_id": thread_id}, "recursion_limit": 25}
     with track_usage() as usage:
-        state = get_graph().invoke(Command(resume={"confirm": confirm}), cfg)
+        state = get_graph().invoke(Command(resume={"confirm": confirm, "edits": edits or {}}), cfg)
     return _to_result("(confirmation)", state, usage, t0, state.get("__interrupt__"))

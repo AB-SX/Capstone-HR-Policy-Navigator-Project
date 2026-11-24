@@ -80,3 +80,12 @@ def test_final_scrub_keeps_contacts_quoted_from_passages():
     src = "Text (970) 449-0178 for leave support."
     out = final_scrub("Text (970) 449-0178, or call me on +91 98765 43210", src)
     assert "(970) 449-0178" in out and "98765 43210" not in out
+
+
+def test_planted_passages_are_withheld_and_handbook_is_not():
+    import glob
+    from src.guards import injection
+    from scripts.rai_tests import PLANTED
+    assert all(injection.sanitize_passage(t) == injection.QUARANTINED for t, _ in PLANTED.values())
+    for f in glob.glob(str(config.PROCESSED_DATA_DIR / "*.txt"))[:502]:
+        assert not injection.detect(open(f, encoding="utf-8", errors="ignore").read()), f

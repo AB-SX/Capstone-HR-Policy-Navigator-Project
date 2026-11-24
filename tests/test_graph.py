@@ -47,3 +47,18 @@ def test_memory_persists_across_turns(g):
     graph.run_m2("And for laptops?", thread_id="mem")
     st = graph.get_graph().get_state({"configurable": {"thread_id": "mem"}}).values
     assert len(st["history"]) == 4
+
+
+def test_pii_warning_shown_when_graph_pauses_for_a_ticket(g):
+    r = graph.run_m2("Please raise a ticket for my parental leave, call me on +91 98765 43210", thread_id="pii1")
+    assert r.status == "ticket_pending" and "personal" in r.answer.lower() and "98765" not in r.answer
+
+
+def test_employee_edits_draft_before_submitting(g, tmp_path):
+    import json
+    r = graph.run_m2("Please raise a ticket for my parental leave", thread_id="ed1")
+    assert r.status == "ticket_pending"
+    done = graph.resume_m2("ed1", True, {"category": "benefits", "summary": "Edited summary text", "details": "New details"})
+    assert done.status == "ticket_submitted"
+    rec = json.loads((tmp_path / "tickets.jsonl").read_text().splitlines()[-1])
+    assert rec["summary"] == "Edited summary text" and rec["category"] == "benefits"

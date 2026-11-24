@@ -44,7 +44,11 @@ The 12 vs 11 split is close to even, so the overall accuracies are statistically
 
 About twice the model calls and 60% more median latency for the same overall accuracy, better hard-question accuracy and safer refusals. For an HR assistant where a wrong number or an answered off-topic question is worse than a slower reply, M2 is the better default; M1 stays useful as a fast baseline.
 
-## Fixes this points to
+## Known issues (M2 frozen as evaluated, 23 Nov)
+
+Not fixed before submission; listed as future work.
+
+### Fixes this points to
 
 - Router: say explicitly that benefit plans (including legal insurance) and country schemes are policy questions, and that "how do I submit a request" is a policy question, not a ticket.
 - Critic: ask for more evidence only when a key part of the question has no supporting passage; cap extra passages so a second search can't push the original ones out.
