@@ -404,6 +404,48 @@ def console(role: str, views: dict, flag: str):
     views[ss[key]][1]()
 
 
+def lean_bars(labels: list, values: list, unit: str, horizontal: bool = False, color: str = "#1f1f1f",
+              height: int = 220, label_title: str = ""):
+    """Thin bars, light grid, no chart chrome. Bar thickness is fixed, so one day or one category never fills the
+    whole chart width."""
+    import altair as alt
+    import pandas as pd
+    d = pd.DataFrame({"label": labels, "value": values})
+    cat = alt.X if not horizontal else alt.Y
+    num = alt.Y if not horizontal else alt.X
+    enc = {("x" if not horizontal else "y"): cat("label:N", sort=None if not horizontal else "-x", title=label_title or None,
+                                                axis=alt.Axis(labelAngle=0, labelColor="#6b6b6b", ticks=False,
+                                                              domainColor="#e5e5e5", labelLimit=180)),
+           ("y" if not horizontal else "x"): num("value:Q", title=None,
+                                                axis=alt.Axis(tickMinStep=1, format="d", labelColor="#8e8e8e",
+                                                              gridColor="#f0f0f0", domain=False, ticks=False)),
+           "tooltip": [alt.Tooltip("label:N", title=label_title or " "), alt.Tooltip("value:Q", title=unit)]}
+    chart = (alt.Chart(d).mark_bar(color=color, size=12 if horizontal else 14,
+                                   cornerRadiusEnd=3).encode(**enc)
+             .properties(height=height).configure_view(stroke=None).configure(background="transparent"))
+    st.altair_chart(chart, use_container_width=True)
+
+
+def daily_counts(days_series, n_days: int = 14):
+    """Questions per day for the last n_days, including days with none, labelled like '24 Nov'."""
+    import pandas as pd
+    end = pd.Timestamp(time.strftime("%Y-%m-%d"))
+    idx = pd.date_range(end - pd.Timedelta(days=n_days - 1), end, freq="D")
+    counts = pd.to_datetime(days_series, errors="coerce").dt.normalize().value_counts()
+    return [x.strftime("%d %b").lstrip("0") for x in idx], [int(counts.get(x, 0)) for x in idx]
+
+
+def weekly_counts(dates, n_weeks: int = 8):
+    """Requests per week (Monday start) for the last n_weeks, including empty weeks, labelled like 'w/c 23 Nov'."""
+    import pandas as pd
+    today = pd.Timestamp(time.strftime("%Y-%m-%d"))
+    start = today - pd.Timedelta(days=today.weekday())
+    weeks = [start - pd.Timedelta(weeks=i) for i in range(n_weeks - 1, -1, -1)]
+    d = pd.to_datetime(dates, errors="coerce").dropna().dt.normalize()
+    counts = (d - pd.to_timedelta(d.dt.weekday, unit="D")).value_counts()
+    return ["w/c " + w.strftime("%d %b").lstrip("0") for w in weeks], [int(counts.get(w, 0)) for w in weeks]
+
+
 def usage_view():
     import pandas as pd
     from src.app import tickets as tk
@@ -432,12 +474,13 @@ def usage_view():
         return
     left, right = st.columns(2)
     with left:
-        st.markdown('<div class="sec">Questions per day</div>', unsafe_allow_html=True)
-        st.bar_chart(answered.groupby("day").size().rename("questions"), color="#1f1f1f", height=240)
+        st.markdown('<div class="sec">Questions per day · last 14 days</div>', unsafe_allow_html=True)
+        lean_bars(*daily_counts(answered["day"]), unit="Questions", height=230)
     with right:
         st.markdown('<div class="sec">Outcome</div>', unsafe_allow_html=True)
-        st.bar_chart(df["status"].map(lambda x: OUTCOMES.get(x, x)).value_counts().rename("questions"), color="#8e8e8e",
-                     height=240, horizontal=True)
+        oc = df["status"].map(lambda x: OUTCOMES.get(x, x)).value_counts()
+        lean_bars(list(oc.index), [int(v) for v in oc.values], unit="Questions", horizontal=True, color="#8e8e8e",
+                  height=min(260, 40 + 30 * len(oc)))
     st.markdown('<div class="sec">Thumbs-down comments</div>', unsafe_allow_html=True)
     neg = fdf[(fdf["rating"] == 0) & (fdf["comment"].fillna("") != "")] if len(fdf) else fdf
     if len(neg):
@@ -480,10 +523,16 @@ def requests_view(reviewer_default: str = ""):
         import pandas as pd
         d = pd.DataFrame(rows)
         d["Topic"] = d["category"].map(lambda x: CATEGORY_LABELS.get(x, x))
-        d["week"] = pd.to_datetime(d["submitted"].fillna(d.get("created")), errors="coerce").dt.strftime("%G-W%V")
         a, b = st.columns(2)
-        a.bar_chart(d["Topic"].value_counts().rename("requests"), color="#1f1f1f", height=220, horizontal=True)
-        b.bar_chart(d.groupby("week").size().rename("requests"), color="#8e8e8e", height=220)
+        tc = d["Topic"].value_counts()
+        with a:
+            st.caption("By topic")
+            lean_bars(list(tc.index), [int(v) for v in tc.values], unit="Requests", horizontal=True,
+                      height=min(260, 40 + 30 * len(tc)))
+        with b:
+            st.caption("By week · last 8 weeks")
+            lean_bars(*weekly_counts(d["submitted"].fillna(d.get("created", ""))), unit="Requests", color="#8e8e8e",
+                      height=200)
 
     st.markdown('<div class="sec">Open a request</div>', unsafe_allow_html=True)
     ref = st.selectbox("Request", [t["ticket_id"] for t in keep], label_visibility="collapsed",
