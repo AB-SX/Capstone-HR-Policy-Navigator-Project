@@ -35,3 +35,7 @@ runtime/
 docs/notebook_guides/
 docs/presentations/
 docs/reviews/
+
+# Server access keys (never commit)
+*.pem
+*.ppk

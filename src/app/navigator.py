@@ -36,15 +36,39 @@ DEFAULT_SYSTEM = os.getenv("HRNAV_SYSTEM", "m2") if os.getenv("HRNAV_SYSTEM", "m
 LS_KEY = "hrnav_chats_v1"
 MAX_CHATS, MAX_MSGS = 20, 40
 
+# Start-screen categories. Picking one shows its guide questions; the employee can use one or type anything else.
+# Guide questions are taken from the evaluation set, so each is known to be answered by the handbook.
 TOPICS = {
-    "Leave and time off": ["How many consecutive days of vacation can I take?",
-                           "Who administers parental leave in the US and Canada?"],
-    "Expenses and equipment": ["What is the home office stipend for new hires, and how do I claim it?",
-                               "Can I expense a co-working space?"],
-    "Benefits and pay": ["How much is provided for professional development each year?",
-                         "How long can I continue medical coverage under COBRA?"],
-    "Moving and working abroad": ["How long can I work outside my primary residence?",
-                                  "How far in advance must I request an international relocation?"],
+    "Leave and time off": ("Vacation, sick leave, parental leave", [
+        "How many consecutive days of vacation can I take?",
+        "Who administers parental leave in the US and Canada?",
+        "How do I contact the leave administrator for support?",
+        "What are the tiers of paid sick leave in Canada?"]),
+    "Expenses and equipment": ("Home office, internet, co-working, claims", [
+        "What is the home office stipend for new hires, and how do I claim it?",
+        "What is the monthly limit for a co-working space?",
+        "What is the monthly cap for home internet and mobile phone?",
+        "Can I expense a personal VPN subscription?"]),
+    "Travel": ("Meals, flights, travel insurance", [
+        "What is the daily meal limit when I travel for work?",
+        "When is business class allowed for international travel?",
+        "What is the per-person limit for team meals while travelling?",
+        "What emergency benefits does the business travel accident policy give?"]),
+    "Benefits and pay": ("Learning budget, insurance, promotions", [
+        "How much is provided for professional development each year?",
+        "How long can I continue medical coverage under COBRA?",
+        "What is the monthly pre-tax commuter benefit limit?",
+        "What pay increase is recommended for an internal promotion?"]),
+    "Moving and working abroad": ("Relocation, working from another country", [
+        "How long can I work outside my primary residence?",
+        "How far in advance must I request an international relocation?",
+        "How long must I have worked here before a long-term relocation?",
+        "What happens to my pay if I relocate to a different region?"]),
+    "Workplace policies": ("Conduct, reporting concerns, outside work", [
+        "How can I report a concern anonymously?",
+        "What are the rules on relationships at work?",
+        "Can I do side projects or outside work?",
+        "What counts as job abandonment?"]),
 }
 FRIENDLY = {
     "rate_limited": "You're asking quickly. Please wait a few seconds and try again.",
@@ -63,7 +87,8 @@ FOOTNOTE = "HR Policy Navigator can make mistakes. Check the cited handbook page
 BOT_AVATAR = MARK
 # One icon family (Material Symbols, Rounded, as shipped with Streamlit), one meaning each. No sparkles or robots.
 TOPIC_ICONS = {"Leave and time off": ":material/event_available:", "Expenses and equipment": ":material/receipt_long:",
-               "Benefits and pay": ":material/health_and_safety:", "Moving and working abroad": ":material/flight:"}
+               "Travel": ":material/flight:", "Benefits and pay": ":material/health_and_safety:",
+               "Moving and working abroad": ":material/public:", "Workplace policies": ":material/policy:"}
 
 # Chat-app look: plain white canvas, grey sidebar, user turns as right-hand bubbles, assistant turns as plain text,
 # rounded message box with a one-line footnote. Selectors are Streamlit 1.41 test ids / st-key-<key> classes.
@@ -96,7 +121,7 @@ h1,h2,h3{font-weight:600!important;letter-spacing:-.01em}
 
 /* empty state */
 .hello{text-align:center;font-size:1.9rem;font-weight:600;margin:14vh 0 .4rem;letter-spacing:-.02em}
-@media (max-width:640px){.hello{margin-top:1.5rem;font-size:1.45rem}.hello-sub{display:none}
+@media (max-width:640px){.st-key-backtopics{margin-top:.5rem!important}.hello{margin-top:1.5rem;font-size:1.45rem}.hello-sub{display:none}
   [data-testid="stMainBlockContainer"]{padding-top:2.5rem;padding-bottom:5rem}.st-key-suggest .stButton button p{font-size:.84rem}.st-key-suggest .stButton button{min-height:auto}}
 .hello-sub{text-align:center;color:#6b6b6b;font-size:.95rem;margin-bottom:1.6rem}
 .st-key-suggest .stButton button{text-align:left;justify-content:flex-start;align-items:flex-start;min-height:4.6rem;
@@ -109,6 +134,17 @@ h1,h2,h3{font-weight:600!important;letter-spacing:-.01em}
 .gate-head{display:flex;align-items:center;gap:.6rem;font-size:1.2rem;font-weight:600;margin-bottom:.3rem}
 .gate-head img{width:30px;height:30px;border-radius:8px}
 .gate-sub{color:#6b6b6b;font-size:.9rem;margin-bottom:.8rem}
+
+.topic-head{font-size:1.5rem;font-weight:600;letter-spacing:-.01em;margin:.2rem 0 .2rem}
+.topic-sub{color:#6b6b6b;font-size:.92rem;margin-bottom:.9rem}
+.st-key-backtopics{margin-top:10vh}
+.st-key-backtopics button{border:none;background:transparent;box-shadow:none;padding:.2rem .4rem;color:#6b6b6b;
+  min-height:auto}
+.st-key-backtopics button:hover{background:#f3f3f3;color:#1f1f1f}
+.st-key-guide .stButton button{text-align:left;justify-content:flex-start;border:1px solid #e5e5e5;border-radius:.9rem;
+  background:#fff;padding:.6rem .9rem;color:#2f2f2f;box-shadow:none}
+.st-key-guide .stButton button:hover{background:#f7f7f7;border-color:#d9d9d9}
+.st-key-guide .stButton button span[data-testid="stIconMaterial"]{color:#9a9a9a}
 
 /* messages */
 [data-testid="stChatMessage"]{background:transparent!important;padding:.4rem 0;gap:.75rem}
@@ -597,6 +633,7 @@ def open_chat(c: dict):
     svc.forget(ss.thread)
     svc.forget(c["id"])
     ss.thread = c["id"]
+    ss.topic = None
     ss.messages = [({"role": "user", "content": m["content"]} if m["role"] == "user" else
                     {"role": "assistant", "answer": m.get("content", ""), "status": m.get("status"),
                      "sources": m.get("sources") or [], "history_view": True, "resolved": True})
@@ -608,6 +645,7 @@ def new_chat():
     ss = st.session_state
     service().forget(ss.thread)
     ss.messages, ss.thread = [], uuid.uuid4().hex[:16]
+    ss.topic = None
 
 
 def sidebar():
@@ -680,15 +718,34 @@ def sidebar():
 
 
 def empty_state():
-    st.markdown('<div class="hello">How can I help with HR today?</div>'
-                '<div class="hello-sub">Ask about leave, benefits, expenses, equipment, travel or relocation. '
-                'Every answer links to the handbook page it came from.</div>', unsafe_allow_html=True)
-    with st.container(key="suggest"):
-        cols = st.columns(2)
-        for i, (topic, qs) in enumerate(TOPICS.items()):
-            if cols[i % 2].button(f"**{topic}**  \n{qs[0]}", key=f"t{i}", icon=TOPIC_ICONS.get(topic),
-                                  use_container_width=True):
-                st.session_state.pending_question = qs[0]
+    """Greeting with category cards. A category opens its guide questions; nothing is asked until the employee
+    picks a question or types their own."""
+    ss = st.session_state
+    topic = ss.get("topic")
+    if not topic:
+        st.markdown('<div class="hello">How can I help with HR today?</div>'
+                    '<div class="hello-sub">Pick a topic for ideas, or just type your question below. '
+                    'Every answer links to the handbook page it came from.</div>', unsafe_allow_html=True)
+        with st.container(key="suggest"):
+            cols = st.columns(2)
+            for i, (name, (desc, _)) in enumerate(TOPICS.items()):
+                if cols[i % 2].button(f"**{name}**  \n{desc}", key=f"t{i}", icon=TOPIC_ICONS.get(name),
+                                      use_container_width=True):
+                    ss.topic = name
+                    st.rerun()
+        return
+    desc, qs = TOPICS[topic]
+    with st.container(key="backtopics"):
+        if st.button("All topics", icon=":material/arrow_back:", key="back"):
+            ss.topic = None
+            st.rerun()
+    st.markdown(f'<div class="topic-head">{html.escape(topic)}</div>'
+                '<div class="topic-sub">Some questions people ask. '
+                'Pick one, or type your own question below.</div>', unsafe_allow_html=True)
+    with st.container(key="guide"):
+        for j, q in enumerate(qs):
+            if st.button(q, key=f"g{j}", icon=":material/subdirectory_arrow_right:", use_container_width=True):
+                ss.pending_question = q
                 st.rerun()
 
 
@@ -723,7 +780,9 @@ def chat_page():
             else:
                 render_answer(m, i)
 
-    question = st.chat_input("Message HR Policy Navigator") or ss.pop("pending_question", None)
+    placeholder = (f"Ask about {ss.topic[0].lower() + ss.topic[1:]}…" if ss.get("topic") and not ss.messages
+                   else "Message HR Policy Navigator")
+    question = st.chat_input(placeholder) or ss.pop("pending_question", None)
     if question:
         history = [{"role": m["role"], "content": m["content"] if m["role"] == "user" else m.get("answer", "")}
                    for m in ss.messages][-6:]
