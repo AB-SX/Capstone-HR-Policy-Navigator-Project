@@ -71,6 +71,9 @@ class Service:
         self.turn_lock = threading.Lock()          # the endpoint serves one request at a time anyway
         self.day, self.day_calls = time.strftime("%Y-%m-%d"), 0
         self.log_path = config.RUNTIME_DIR / "app_log.jsonl"
+        self.feedback_path = config.RUNTIME_DIR / "feedback.jsonl"
+        self.ttl_s = float(config.setting("api.thread_ttl_hours", 24)) * 3600
+        self._last_purge = 0.0
 
     # ------------------------------------------------------------------ helpers
     def _cap_left(self) -> int:
@@ -97,8 +100,11 @@ class Service:
         out = []
         for c in result.citations:
             text = (lookup.get(c["chunk_id"]) or {}).get("text", "")
-            out.append({"tag": c["tag"], "doc_id": c["doc_id"], "pages": c["pages"],
-                        "excerpt": (text[:320] + "…") if len(text) > 320 else text})
+            head, _, body = text.partition(": ")
+            title = head.strip() if body and 0 < len(head) <= 80 else ""      # C3 chunks are "heading: body"
+            body = body if title else text
+            out.append({"tag": c["tag"], "doc_id": c["doc_id"], "pages": c["pages"], "title": title,
+                        "excerpt": (body[:320] + "…") if len(body) > 320 else body})
         return out
 
     def _pack(self, r, system, thread_id) -> dict:
@@ -126,8 +132,74 @@ class Service:
     def _busy(self, msg="The assistant is busy with another question. Please try again in a minute."):
         return {"answer": msg, "status": "busy", "sources": [], "usage": {}, "cached": False}
 
+    # ------------------------------------------------------------------ conversation state (server side)
+    @staticmethod
+    def _saver():
+        from src.agents.graph import get_graph
+        return get_graph().checkpointer
+
+    def forget(self, thread_id: str):
+        """Delete a conversation's server-side state now ("New conversation" / "Clear chats")."""
+        try:
+            fn = getattr(self._saver(), "delete_thread", None)
+            if fn and thread_id:
+                fn(thread_id)
+        except Exception:
+            pass
+
+    def purge_expired(self, force: bool = False) -> int:
+        """Delete M2 conversation state idle for longer than api.thread_ttl_hours (default 24 h). Runs hourly."""
+        now = time.time()
+        if not force and now - self._last_purge < 3600:
+            return 0
+        self._last_purge = now
+        try:
+            from datetime import datetime
+            last: dict[str, float] = {}
+            for t in self._saver().list(None):
+                tid = t.config["configurable"]["thread_id"]
+                ts = datetime.fromisoformat(str(t.checkpoint["ts"]).replace("Z", "+00:00")).timestamp()
+                last[tid] = max(ts, last.get(tid, 0.0))
+            old = [tid for tid, ts in last.items() if now - ts > self.ttl_s]
+            for tid in old:
+                self.forget(tid)
+            return len(old)
+        except Exception:
+            return 0
+
+    def seed(self, thread_id: str, messages: list[dict]):
+        """Reopening a chat saved in the browser: give M2 the last turns again so follow-ups keep context."""
+        hist = [{"role": m["role"], "content": (m.get("content") or "")[:1500]} for m in messages
+                if m.get("role") in ("user", "assistant") and m.get("content")][-12:]
+        if not hist:
+            return
+        try:
+            from src.agents.graph import get_graph
+            get_graph().update_state({"configurable": {"thread_id": thread_id}}, {"history": hist}, as_node="finalize")
+        except Exception:
+            pass
+
+    # ------------------------------------------------------------------ feedback and usage
+    def feedback(self, rating: int, comment: str, meta: dict):
+        """Thumbs up/down. No question or answer text is stored; an optional comment is PII-redacted."""
+        from src.guards.pii import redact
+        rec = {"ts": time.strftime("%Y-%m-%dT%H:%M:%S"), "rating": int(rating),
+               "comment": redact((comment or "").strip()[:500])[0],
+               **{k: meta.get(k) for k in ("system", "status", "route", "cached", "latency_s", "n_sources")}}
+        with open(self.feedback_path, "a", encoding="utf-8") as f:
+            f.write(json.dumps(rec) + "\n")
+
+    def usage_rows(self):
+        def read(p):
+            try:
+                return [json.loads(x) for x in open(p, encoding="utf-8") if x.strip()]
+            except OSError:
+                return []
+        return read(self.log_path), read(self.feedback_path)
+
     # ------------------------------------------------------------------ public
     def ask(self, question: str, system: str, thread_id: str, history: list | None, client: str) -> dict:
+        self.purge_expired()
         question = (question or "").strip()[:2000]
         if not question:
             return {"answer": "Please type a question.", "status": "empty", "sources": [], "usage": {}}
@@ -168,12 +240,12 @@ class Service:
         self._log(out, system)
         return out
 
-    def confirm(self, thread_id: str, yes: bool, client: str) -> dict:
+    def confirm(self, thread_id: str, yes: bool, client: str, edits: dict | None = None) -> dict:
         if not self.turn_lock.acquire(timeout=float(config.setting("api.queue_wait_s", 90))):
             return self._busy()
         try:
             from src.agents.graph import resume_m2
-            r = resume_m2(thread_id, yes)
+            r = resume_m2(thread_id, yes, edits)
         finally:
             self.turn_lock.release()
         out = self._pack(r, "m2", thread_id)

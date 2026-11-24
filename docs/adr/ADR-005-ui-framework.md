@@ -26,6 +26,26 @@
 3. Chat history is kept in the Streamlit session (this browser tab); **New conversation** clears it. M2 also checkpoints each conversation server-side for 24 h (ADR-006).
 4. Citations render as tags (C1, C2…) with a **Sources** panel listing document, page and an excerpt. A "Show how it answered" toggle shows route, tools, plan, critic verdict, model calls and time.
 
+## Employee MVP (24 Nov)
+
+What employees see, and what was removed from the team/demo view:
+
+| Removed for employees | Replaced by |
+|---|---|
+| M1/M2 switch | M2 for everyone (`HRNAV_SYSTEM`); the switch stays behind `HRNAV_DEV_MODE=1` |
+| "How it answered" (route, plan, critic, model calls, cache) | Nothing; developer mode only |
+| Internal IDs (`doc_019`, `C3`, `DRAFT-…`) | Numbered citations 1, 2 … with "GitLab team handbook, page 55 · section"; ticket reference `HR-…` |
+| Raw status messages | Plain messages for busy, rate limit, daily limit and errors |
+| Streamlit developer menu | Minimal toolbar |
+
+Added: quick-start questions by topic; thumbs up/down with an optional comment; a request card with Submit to HR / Cancel; chat history saved **only in the browser** (localStorage via `streamlit-js-eval`) with "Clear chats on this device"; an about-and-privacy note; a code-protected admin page at `?admin=1` with two sections: Usage (questions per day, outcomes, median time, cache share, thumbs-up rate, thumbs-down comments) and HR requests (the same review workflow as `?hr=1`). All pages share a chat-app look: grey sidebar, centred greeting with topic cards, right-hand user bubbles, one icon family and an "HR" monogram.
+
+Data kept on the server: the current conversation's PII-redacted state for follow-ups (deleted on New conversation or Clear, or after 24 h idle), a usage log without question text, and feedback without chat text.
+
+HR request workflow: every confirmed request lands in an append-only log; HR reviewers use a code-protected page at `?hr=1` to list requests, filter by status and move each one through Submitted → In progress → Resolved / Closed with a note; employees check status by reference under "Check a request". Full history is kept for audit (`src/app/tickets.py`).
+
+Not in the MVP: single sign-on, streaming answers, other languages, a real HR ticketing integration.
+
 ## Alternatives considered
 
 | Option | Pros | Cons | Verdict |

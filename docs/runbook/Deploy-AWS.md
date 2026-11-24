@@ -74,11 +74,13 @@ On the server:
 ```bash
 cd ~/hrnav
 sed -i 's/\r$//' .env                    # Windows line endings break env values
-sed -i '/^HRNAV_ACCESS_CODE=/d;/^SITE_ADDRESS=/d;/^COURSE_CA_CERT=/d' .env
+sed -i '/^HRNAV_ACCESS_CODE=/d;/^HRNAV_ADMIN_CODE=/d;/^HRNAV_HR_CODE=/d;/^HRNAV_DEV_MODE=/d;/^SITE_ADDRESS=/d;/^COURSE_CA_CERT=/d' .env
 echo 'COURSE_CA_CERT=certs/vm04-ca.crt' >> .env
 cat >> .env <<'EOF'
 SITE_ADDRESS=13-54-12-34.sslip.io
 HRNAV_ACCESS_CODE=<pick a code to share with reviewers>
+HRNAV_ADMIN_CODE=<a different code for the admin page at /?admin=1 (usage + HR requests)>
+HRNAV_HR_CODE=<a code for HR reviewers at /?hr=1>
 LANGSMITH_PROJECT_PROD=hrnav-prod
 EOF
 chmod 600 .env

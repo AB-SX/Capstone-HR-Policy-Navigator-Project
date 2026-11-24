@@ -1,4 +1,5 @@
 """Serving layer: rate limit, cache (incl. M2 memory on a cache hit), daily cap, ticket confirm."""
+import json
 import sqlite3
 
 import pytest
@@ -63,3 +64,22 @@ def test_ticket_confirm_through_service(s, tmp_path):
     assert r["status"] == "ticket_pending" and r["pending_ticket"]
     done = s.confirm("tk1", True, "ip1")
     assert done["status"] == "ticket_submitted"
+
+
+def test_feedback_stores_no_chat_text_and_redacts_comment(s):
+    a = s.ask("What is the home office stipend for new hires?", "m1", "f1", [], "ip1")
+    s.feedback(0, "wrong amount, call me on +91 98765 43210", {**a, "n_sources": 1})
+    rec = json.loads(s.feedback_path.read_text(encoding="utf-8").splitlines()[-1])
+    assert rec["rating"] == 0 and "98765" not in rec["comment"] and "stipend" not in json.dumps(rec)
+    logs, fb = s.usage_rows()
+    assert logs and fb and "question" not in logs[-1]
+
+
+def test_forget_and_seed_conversation_state(s):
+    s.ask("What is the home office stipend for new hires?", "m2", "keep1", None, "ip1")
+    assert svc.Service._m2_has_history("keep1")
+    s.forget("keep1")
+    assert not svc.Service._m2_has_history("keep1")
+    s.seed("restored", [{"role": "user", "content": "stipend?"}, {"role": "assistant", "content": "1,500 USD"}])
+    assert svc.Service._m2_has_history("restored")
+    assert s.purge_expired(force=True) == 0          # nothing older than 24 h
